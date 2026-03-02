@@ -170,6 +170,11 @@
                         "map": "ciship_sub_1",
                         "x": 16,
                         "y": 16
+                    },
+                    {
+                        "map": "ciship_main",
+                        "x": 704,
+                        "y": 200
                     }
                 ]
             },
@@ -194,6 +199,11 @@
                         "map": "ciship_sub_2_vert",
                         "x": 16,
                         "y": 16
+                    },
+                    {
+                        "map": "ciship_sub_1",
+                        "x": 2000,
+                        "y": 392
                     }
                 ]
             }

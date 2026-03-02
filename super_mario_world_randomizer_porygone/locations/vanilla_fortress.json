@@ -127,6 +127,54 @@
                         "y": 280
                     }
                 ]
+            },
+            {
+                "name": "Vanilla Fortress - Spikes room",
+                "sections": [
+                    {
+                        "name": "Spikes room",
+                        "access_rules": [
+                            ""
+                        ],
+                        "visibility_rules": [
+                            "room_checks"
+                        ],
+                        "chest_unopened_img": "images/checks/pipe_disabled.png",
+                        "chest_opened_img": "images/checks/pipe.png",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vdf_main",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Vanilla Fortress - Thwomp room",
+                "sections": [
+                    {
+                        "name": "Thwomp room",
+                        "access_rules": [
+                            ""
+                        ],
+                        "visibility_rules": [
+                            "room_checks"
+                        ],
+                        "chest_unopened_img": "images/checks/pipe_disabled.png",
+                        "chest_opened_img": "images/checks/pipe.png",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vdf_sub_1",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
             }
         ]
     }

@@ -222,6 +222,102 @@
                         "y": 776
                     }
                 ]
+            },
+            {
+                "name": "Donut Plains 4 - Main room",
+                "sections": [
+                    {
+                        "name": "Main room",
+                        "access_rules": [
+                            ""
+                        ],
+                        "visibility_rules": [
+                            "room_checks"
+                        ],
+                        "chest_unopened_img": "images/checks/pipe_disabled.png",
+                        "chest_opened_img": "images/checks/pipe.png",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dp4_main",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Donut Plains 4 - Pipes room",
+                "sections": [
+                    {
+                        "name": "Pipes room",
+                        "access_rules": [
+                            ""
+                        ],
+                        "visibility_rules": [
+                            "room_checks"
+                        ],
+                        "chest_unopened_img": "images/checks/pipe_disabled.png",
+                        "chest_opened_img": "images/checks/pipe.png",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dp4_sub_1",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Donut Plains 4 - Dragon coin room",
+                "sections": [
+                    {
+                        "name": "Dragon coin room",
+                        "access_rules": [
+                            ""
+                        ],
+                        "visibility_rules": [
+                            "room_checks"
+                        ],
+                        "chest_unopened_img": "images/checks/pipe_disabled.png",
+                        "chest_opened_img": "images/checks/pipe.png",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dp4_sub_2",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Donut Plains 4 - Midway Point",
+                "sections": [
+                    {
+                        "name": "Midway Point",
+                        "access_rules": [
+                            ""
+                        ],
+                        "visibility_rules": [
+                            "midway_point_checks"
+                        ],
+                        "chest_unopened_img": "images/checks/midway_disabled.png",
+                        "chest_opened_img": "images/checks/midway.png",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dp4_main",
+                        "x": 408,
+                        "y": 776
+                    }
+                ]
             }
         ]
     }

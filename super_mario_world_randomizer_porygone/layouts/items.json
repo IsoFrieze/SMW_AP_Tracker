@@ -36,15 +36,17 @@
                         "yoshi_eggs",
                         "bosses_required",
                         "yoshi_eggs_required",
-                        "show_all_levels"
+                        "show_all_levels",
+                        "tab_switch"
                     ],
                     [
                         "dragon_coin_checks",
                         "moon_checks",
                         "hidden_1up_checks",
                         "bonus_block_checks",
-                        "blocksanity",
-                        "tab_switch"
+                        "midway_point_checks",
+                        "room_checks",
+                        "blocksanity"
                     ]
                 ]
             }

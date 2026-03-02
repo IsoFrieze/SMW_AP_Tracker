@@ -258,6 +258,12 @@
         "img": "images/levels/dp/dpsh/sub_3.png"
     },
     {
+        "name": "dpsh_sub_4",
+        "location_size": 20,
+        "location_border_thickness": 4,
+        "img": "images/levels/dp/dpsh/sub_4.png"
+    },
+    {
         "name": "dpz_main",
         "location_size": 20,
         "location_border_thickness": 4,

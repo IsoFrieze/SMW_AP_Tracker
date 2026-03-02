@@ -55,6 +55,102 @@
                         "y": 120
                     }
                 ]
+            },
+            {
+                "name": "#4 Ludwig's Castle - Orange wall room",
+                "sections": [
+                    {
+                        "name": "Orange wall room",
+                        "access_rules": [
+                            ""
+                        ],
+                        "visibility_rules": [
+                            "room_checks"
+                        ],
+                        "chest_unopened_img": "images/checks/pipe_disabled.png",
+                        "chest_opened_img": "images/checks/pipe.png",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "tbc_main",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "#4 Ludwig's Castle - Falling ceiling room",
+                "sections": [
+                    {
+                        "name": "Falling ceiling room",
+                        "access_rules": [
+                            ""
+                        ],
+                        "visibility_rules": [
+                            "room_checks"
+                        ],
+                        "chest_unopened_img": "images/checks/pipe_disabled.png",
+                        "chest_opened_img": "images/checks/pipe.png",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "tbc_sub_1",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "#4 Ludwig's Castle - Net room",
+                "sections": [
+                    {
+                        "name": "Net room",
+                        "access_rules": [
+                            ""
+                        ],
+                        "visibility_rules": [
+                            "room_checks"
+                        ],
+                        "chest_unopened_img": "images/checks/pipe_disabled.png",
+                        "chest_opened_img": "images/checks/pipe.png",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "tbc_sub_2_vert",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "#4 Ludwig's Castle - Bonus room",
+                "sections": [
+                    {
+                        "name": "Bonus room",
+                        "access_rules": [
+                            ""
+                        ],
+                        "visibility_rules": [
+                            "room_checks"
+                        ],
+                        "chest_unopened_img": "images/checks/pipe_disabled.png",
+                        "chest_opened_img": "images/checks/pipe.png",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "tbc_zbonus",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
             }
         ]
     }

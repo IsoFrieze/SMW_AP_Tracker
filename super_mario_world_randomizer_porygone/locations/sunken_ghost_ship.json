@@ -124,6 +124,78 @@
                         "y": 136
                     }
                 ]
+            },
+            {
+                "name": "Sunken Ghost Ship - Ship entrance",
+                "sections": [
+                    {
+                        "name": "Ship entrance",
+                        "access_rules": [
+                            ""
+                        ],
+                        "visibility_rules": [
+                            "room_checks"
+                        ],
+                        "chest_unopened_img": "images/checks/pipe_disabled.png",
+                        "chest_opened_img": "images/checks/pipe.png",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ciship_main",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Sunken Ghost Ship - Reappearing ghosts",
+                "sections": [
+                    {
+                        "name": "Reappearing ghosts",
+                        "access_rules": [
+                            ""
+                        ],
+                        "visibility_rules": [
+                            "room_checks"
+                        ],
+                        "chest_unopened_img": "images/checks/pipe_disabled.png",
+                        "chest_opened_img": "images/checks/pipe.png",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ciship_sub_1",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Sunken Ghost Ship - Falling room",
+                "sections": [
+                    {
+                        "name": "Falling room",
+                        "access_rules": [
+                            ""
+                        ],
+                        "visibility_rules": [
+                            "room_checks"
+                        ],
+                        "chest_unopened_img": "images/checks/pipe_disabled.png",
+                        "chest_opened_img": "images/checks/pipe.png",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ciship_sub_2_vert",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
             }
         ]
     }

@@ -988,6 +988,78 @@
                         "y": 696
                     }
                 ]
+            },
+            {
+                "name": "Mondo - Main room",
+                "sections": [
+                    {
+                        "name": "Main room",
+                        "access_rules": [
+                            ""
+                        ],
+                        "visibility_rules": [
+                            "room_checks"
+                        ],
+                        "chest_unopened_img": "images/checks/pipe_disabled.png",
+                        "chest_opened_img": "images/checks/pipe.png",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "sw6_main",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Mondo - Slide room",
+                "sections": [
+                    {
+                        "name": "Slide room",
+                        "access_rules": [
+                            ""
+                        ],
+                        "visibility_rules": [
+                            "room_checks"
+                        ],
+                        "chest_unopened_img": "images/checks/pipe_disabled.png",
+                        "chest_opened_img": "images/checks/pipe.png",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "sw6_sub_1",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Mondo - Goal room",
+                "sections": [
+                    {
+                        "name": "Goal room",
+                        "access_rules": [
+                            ""
+                        ],
+                        "visibility_rules": [
+                            "room_checks"
+                        ],
+                        "chest_unopened_img": "images/checks/pipe_disabled.png",
+                        "chest_opened_img": "images/checks/pipe.png",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "sw6_sub_2",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
             }
         ]
     }

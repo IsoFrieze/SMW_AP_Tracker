@@ -944,6 +944,78 @@
                         "y": 1192
                     }
                 ]
+            },
+            {
+                "name": "Cookie Mountain - Main room",
+                "sections": [
+                    {
+                        "name": "Main room",
+                        "access_rules": [
+                            ""
+                        ],
+                        "visibility_rules": [
+                            "room_checks"
+                        ],
+                        "chest_unopened_img": "images/checks/pipe_disabled.png",
+                        "chest_opened_img": "images/checks/pipe.png",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "tb4_main",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Cookie Mountain - River room",
+                "sections": [
+                    {
+                        "name": "River room",
+                        "access_rules": [
+                            ""
+                        ],
+                        "visibility_rules": [
+                            "room_checks"
+                        ],
+                        "chest_unopened_img": "images/checks/pipe_disabled.png",
+                        "chest_opened_img": "images/checks/pipe.png",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "tb4_sub_1",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Cookie Mountain - Midway Point",
+                "sections": [
+                    {
+                        "name": "Midway Point",
+                        "access_rules": [
+                            ""
+                        ],
+                        "visibility_rules": [
+                            "midway_point_checks"
+                        ],
+                        "chest_unopened_img": "images/checks/midway_disabled.png",
+                        "chest_opened_img": "images/checks/midway.png",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "tb4_main",
+                        "x": 440,
+                        "y": 712
+                    }
+                ]
             }
         ]
     }

@@ -97,7 +97,7 @@
                     {
                         "map": "tb1_main",
                         "x": 1240,
-                        "y": 728
+                        "y": 744
                     }
                 ]
             },
@@ -222,26 +222,50 @@
                 ]
             },
             {
-                "name": "Butter Bridge 1 - Blocksanity - Bonus Block #1",
+                "name": "Butter Bridge 1 - Main room",
                 "sections": [
                     {
-                        "name": "Bonus Block #1",
+                        "name": "Main room",
                         "access_rules": [
                             ""
                         ],
                         "visibility_rules": [
-                            "blocksanity"
+                            "room_checks"
                         ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
+                        "chest_unopened_img": "images/checks/pipe_disabled.png",
+                        "chest_opened_img": "images/checks/pipe.png",
                         "item_count": 1
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "tb1_main",
-                        "x": 1240,
-                        "y": 744
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Butter Bridge 1 - Goal room",
+                "sections": [
+                    {
+                        "name": "Goal room",
+                        "access_rules": [
+                            ""
+                        ],
+                        "visibility_rules": [
+                            "room_checks"
+                        ],
+                        "chest_unopened_img": "images/checks/pipe_disabled.png",
+                        "chest_opened_img": "images/checks/pipe.png",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "tb1_sub_1",
+                        "x": 16,
+                        "y": 16
                     }
                 ]
             }

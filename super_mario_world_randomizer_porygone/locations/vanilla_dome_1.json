@@ -349,6 +349,78 @@
                         "y": 1208
                     }
                 ]
+            },
+            {
+                "name": "Vanilla Dome 1 - Main room",
+                "sections": [
+                    {
+                        "name": "Main room",
+                        "access_rules": [
+                            ""
+                        ],
+                        "visibility_rules": [
+                            "room_checks"
+                        ],
+                        "chest_unopened_img": "images/checks/pipe_disabled.png",
+                        "chest_opened_img": "images/checks/pipe.png",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vd1_main",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Vanilla Dome 1 - Sinking rock room",
+                "sections": [
+                    {
+                        "name": "Sinking rock room",
+                        "access_rules": [
+                            ""
+                        ],
+                        "visibility_rules": [
+                            "room_checks"
+                        ],
+                        "chest_unopened_img": "images/checks/pipe_disabled.png",
+                        "chest_opened_img": "images/checks/pipe.png",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vd1_sub_1",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Vanilla Dome 1 - Midway Point",
+                "sections": [
+                    {
+                        "name": "Midway Point",
+                        "access_rules": [
+                            ""
+                        ],
+                        "visibility_rules": [
+                            "midway_point_checks"
+                        ],
+                        "chest_unopened_img": "images/checks/midway_disabled.png",
+                        "chest_opened_img": "images/checks/midway.png",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vd1_main",
+                        "x": 1752,
+                        "y": 696
+                    }
+                ]
             }
         ]
     }

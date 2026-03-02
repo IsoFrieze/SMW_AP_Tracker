@@ -153,6 +153,102 @@
                         "y": 760
                     }
                 ]
+            },
+            {
+                "name": "#3 Lemmy's Castle - Main room",
+                "sections": [
+                    {
+                        "name": "Main room",
+                        "access_rules": [
+                            ""
+                        ],
+                        "visibility_rules": [
+                            "room_checks"
+                        ],
+                        "chest_unopened_img": "images/checks/pipe_disabled.png",
+                        "chest_opened_img": "images/checks/pipe.png",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vdc_main",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "#3 Lemmy's Castle - Midway point room",
+                "sections": [
+                    {
+                        "name": "Midway point room",
+                        "access_rules": [
+                            ""
+                        ],
+                        "visibility_rules": [
+                            "room_checks"
+                        ],
+                        "chest_unopened_img": "images/checks/pipe_disabled.png",
+                        "chest_opened_img": "images/checks/pipe.png",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vdc_sub_1",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "#3 Lemmy's Castle - Lava room",
+                "sections": [
+                    {
+                        "name": "Lava room",
+                        "access_rules": [
+                            ""
+                        ],
+                        "visibility_rules": [
+                            "room_checks"
+                        ],
+                        "chest_unopened_img": "images/checks/pipe_disabled.png",
+                        "chest_opened_img": "images/checks/pipe.png",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vdc_sub_2",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "#3 Lemmy's Castle - Midway Point",
+                "sections": [
+                    {
+                        "name": "Midway Point",
+                        "access_rules": [
+                            ""
+                        ],
+                        "visibility_rules": [
+                            "midway_point_checks"
+                        ],
+                        "chest_unopened_img": "images/checks/midway_disabled.png",
+                        "chest_opened_img": "images/checks/midway.png",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vdc_sub_1",
+                        "x": 136,
+                        "y": 376
+                    }
+                ]
             }
         ]
     }

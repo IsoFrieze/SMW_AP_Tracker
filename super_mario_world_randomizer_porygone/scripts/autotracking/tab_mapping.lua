@@ -63,6 +63,7 @@ TAB_MAPPING = {
 	[0x0F2] = "Donut Plains/Donut Secret House/Puzzle room",
 	[0x0F0] = "Donut Plains/Donut Secret House/Goal room",
 	[0x0F1] = "Donut Plains/Donut Secret House/Directional coin room", -- E4 is Boss
+	[0x0E4] = "Donut Plains/Donut Secret House/Boss room",
 
 	[0x008] = "Donut Plains/Green Switch Palace/Bonus room",
 	[0x0C9] = "Donut Plains/Green Switch Palace/Button room",

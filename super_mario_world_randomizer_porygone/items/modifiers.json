@@ -65,6 +65,20 @@
         "codes": "blocksanity"
     },
     {
+        "name": "Midway Point Checks",
+        "type": "toggle",
+        "img": "images/items/midway.png",
+        "disabled_img": "images/items/midway.png",
+        "codes": "midway_point_checks"
+    },
+    {
+        "name": "Room Checks",
+        "type": "toggle",
+        "img": "images/items/pipe.png",
+        "disabled_img": "images/items/pipe.png",
+        "codes": "room_checks"
+    },
+    {
         "name": "Auto Tab Switching",
         "type": "toggle",
         "img": "images/items/message.png",

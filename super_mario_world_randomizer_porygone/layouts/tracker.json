@@ -591,6 +591,15 @@
                                                                     "dpsh_sub_3"
                                                                 ]
                                                             }
+                                                        },
+                                                        {
+                                                            "title": "Boss room",
+                                                            "content": {
+                                                                "type": "map",
+                                                                "maps": [
+                                                                    "dpsh_sub_4"
+                                                                ]
+                                                            }
                                                         }
                                                     ]
                                                 }

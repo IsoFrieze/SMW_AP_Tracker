@@ -31,6 +31,54 @@
                         "y": 368
                     }
                 ]
+            },
+            {
+                "name": "Red Switch Palace - Bonus room",
+                "sections": [
+                    {
+                        "name": "Bonus room",
+                        "access_rules": [
+                            ""
+                        ],
+                        "visibility_rules": [
+                            "room_checks"
+                        ],
+                        "chest_unopened_img": "images/checks/pipe_disabled.png",
+                        "chest_opened_img": "images/checks/pipe.png",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vdz_main",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Red Switch Palace - Button room",
+                "sections": [
+                    {
+                        "name": "Button room",
+                        "access_rules": [
+                            ""
+                        ],
+                        "visibility_rules": [
+                            "room_checks"
+                        ],
+                        "chest_unopened_img": "images/checks/pipe_disabled.png",
+                        "chest_opened_img": "images/checks/pipe.png",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vdz_sub_1",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
             }
         ]
     }

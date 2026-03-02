@@ -125,7 +125,7 @@
                     {
                         "map": "ci3_main",
                         "x": 472,
-                        "y": 1176
+                        "y": 1192
                     }
                 ]
             },
@@ -226,30 +226,6 @@
                 ]
             },
             {
-                "name": "Chocolate Island 3 - Blocksanity - Bonus Block #1",
-                "sections": [
-                    {
-                        "name": "Bonus Block #1",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "ci3_main",
-                        "x": 472,
-                        "y": 1192
-                    }
-                ]
-            },
-            {
                 "name": "Chocolate Island 3 - Blocksanity - Vine Block #1",
                 "sections": [
                     {
@@ -345,6 +321,78 @@
                         "map": "ci3_main",
                         "x": 1704,
                         "y": 1192
+                    }
+                ]
+            },
+            {
+                "name": "Chocolate Island 3 - Main room",
+                "sections": [
+                    {
+                        "name": "Main room",
+                        "access_rules": [
+                            ""
+                        ],
+                        "visibility_rules": [
+                            "room_checks"
+                        ],
+                        "chest_unopened_img": "images/checks/pipe_disabled.png",
+                        "chest_opened_img": "images/checks/pipe.png",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ci3_main",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Chocolate Island 3 - Coin room",
+                "sections": [
+                    {
+                        "name": "Coin room",
+                        "access_rules": [
+                            ""
+                        ],
+                        "visibility_rules": [
+                            "room_checks"
+                        ],
+                        "chest_unopened_img": "images/checks/pipe_disabled.png",
+                        "chest_opened_img": "images/checks/pipe.png",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ci3_sub",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Chocolate Island 3 - Midway Point",
+                "sections": [
+                    {
+                        "name": "Midway Point",
+                        "access_rules": [
+                            ""
+                        ],
+                        "visibility_rules": [
+                            "midway_point_checks"
+                        ],
+                        "chest_unopened_img": "images/checks/midway_disabled.png",
+                        "chest_opened_img": "images/checks/midway.png",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ci3_main",
+                        "x": 504,
+                        "y": 696
                     }
                 ]
             }

@@ -80,6 +80,30 @@
                         "y": 56
                     }
                 ]
+            },
+            {
+                "name": "Star Road 3 - Main room",
+                "sections": [
+                    {
+                        "name": "Main room",
+                        "access_rules": [
+                            ""
+                        ],
+                        "visibility_rules": [
+                            "room_checks"
+                        ],
+                        "chest_unopened_img": "images/checks/pipe_disabled.png",
+                        "chest_opened_img": "images/checks/pipe.png",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "sr3_main",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
             }
         ]
     }

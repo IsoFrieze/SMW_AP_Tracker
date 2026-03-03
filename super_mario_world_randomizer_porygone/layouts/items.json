@@ -11,17 +11,21 @@
                 "rows": [
                     [
                         "progressive_powerup",
-                        "yoshi",
+                        "progressive_yoshi",
                         "star",
                         "p_balloon",
-                        "p_switch"
+                        "p_switch",
+                        "midway",
+                        "itembox"
                     ],
                     [
                         "carry",
                         "climb",
-                        "run",
-                        "swim",
-                        "spin_jump"
+                        "progressive_run",
+                        "progressive_swim",
+                        "spin_jump",
+                        "extra_defense",
+                        "timer"
                     ],
                     [
                         "ysp",

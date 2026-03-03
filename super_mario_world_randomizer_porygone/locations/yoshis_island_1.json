@@ -233,7 +233,7 @@
                     {
                         "name": "Dragon coin room",
                         "access_rules": [
-                            ""
+                            "powerup_1, spin_jump"
                         ],
                         "visibility_rules": [
                             "room_checks"
@@ -262,7 +262,7 @@
                     {
                         "name": "Midway Point",
                         "access_rules": [
-                            ""
+                            "midway"
                         ],
                         "visibility_rules": [
                             "midway_point_checks"

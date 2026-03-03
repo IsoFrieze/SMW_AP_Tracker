@@ -414,7 +414,8 @@
                     {
                         "name": "Midway Point",
                         "access_rules": [
-                            ""
+                            "midway, run, star",
+                            "midway, run, [powerup_1]"
                         ],
                         "visibility_rules": [
                             "midway_point_checks"

@@ -141,6 +141,9 @@ function onItem(index, item_id, item_name, player_number)
             else
                 obj.Active = true
             end
+        elseif v[2] == "progressiveskip" then
+            obj.Active = true
+            obj.CurrentStage = v[3]
         elseif v[2] == "consumable" then
             obj.AcquiredCount = obj.AcquiredCount + obj.Increment
         end

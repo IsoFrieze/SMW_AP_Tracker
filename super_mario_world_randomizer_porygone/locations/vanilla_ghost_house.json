@@ -286,7 +286,7 @@
                     {
                         "name": "Goal room",
                         "access_rules": [
-                            ""
+                            "p_switch"
                         ],
                         "visibility_rules": [
                             "room_checks"

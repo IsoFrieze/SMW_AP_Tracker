@@ -349,7 +349,8 @@
                     {
                         "name": "Porcupuffer room",
                         "access_rules": [
-                            ""
+                            "p_switch",
+                            "yoshi"
                         ],
                         "visibility_rules": [
                             "room_checks"
@@ -383,7 +384,7 @@
                     {
                         "name": "Midway Point",
                         "access_rules": [
-                            ""
+                            "midway"
                         ],
                         "visibility_rules": [
                             "midway_point_checks"

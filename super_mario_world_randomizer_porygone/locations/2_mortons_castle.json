@@ -394,7 +394,7 @@
                     {
                         "name": "Bonus room",
                         "access_rules": [
-                            ""
+                            "run, powerup_3"
                         ],
                         "visibility_rules": [
                             "room_checks"

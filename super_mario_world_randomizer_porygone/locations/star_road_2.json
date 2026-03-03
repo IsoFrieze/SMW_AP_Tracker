@@ -110,7 +110,7 @@
                     {
                         "name": "Goal room",
                         "access_rules": [
-                            ""
+                            "swim"
                         ],
                         "visibility_rules": [
                             "room_checks"

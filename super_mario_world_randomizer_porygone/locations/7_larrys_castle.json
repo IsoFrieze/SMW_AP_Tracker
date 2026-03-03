@@ -237,7 +237,7 @@
                     {
                         "name": "Midway Point",
                         "access_rules": [
-                            ""
+                            "midway"
                         ],
                         "visibility_rules": [
                             "midway_point_checks"

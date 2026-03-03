@@ -305,7 +305,7 @@
                     {
                         "name": "Directional coin room",
                         "access_rules": [
-                            ""
+                            "p_switch"
                         ],
                         "visibility_rules": [
                             "room_checks"
@@ -334,7 +334,7 @@
                     {
                         "name": "Secret goal room",
                         "access_rules": [
-                            ""
+                            "climb"
                         ],
                         "visibility_rules": [
                             "room_checks"
@@ -363,7 +363,7 @@
                     {
                         "name": "Normal goal room",
                         "access_rules": [
-                            ""
+                            "run, powerup_3"
                         ],
                         "visibility_rules": [
                             "room_checks"

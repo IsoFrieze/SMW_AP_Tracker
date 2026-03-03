@@ -485,7 +485,8 @@
                     {
                         "name": "Ice cave room",
                         "access_rules": [
-                            ""
+                            "swim, climb",
+                            "swim, yoshi"
                         ],
                         "visibility_rules": [
                             "room_checks"
@@ -514,7 +515,8 @@
                     {
                         "name": "Midway Point",
                         "access_rules": [
-                            ""
+                            "midway, swim, climb",
+                            "midway, swim, yoshi"
                         ],
                         "visibility_rules": [
                             "midway_point_checks"

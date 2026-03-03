@@ -64,10 +64,21 @@
         "codes": "p_switch"
     },
     {
-        "name": "Run",
-        "type": "toggle",
-        "img": "images/items/run.png",
-        "codes": "run"
+        "name": "Progressive Run",
+        "type": "progressive",
+        "codes": "progressive_run",
+        "stages": [
+            {
+                "img": "images/items/run.png",
+                "codes": "run",
+                "inherit_codes": true
+            },
+            {
+                "img": "images/items/wallrun.png",
+                "codes": "run_2",
+                "inherit_codes": true
+            }
+        ]
     },
     {
         "name": "Spin Jump",
@@ -76,22 +87,45 @@
         "codes": "spin_jump"
     },
     {
-        "name": "Super Star",
-        "type": "toggle",
+        "name": "Progressive Super Star",
+        "type": "consumable",
         "img": "images/items/star.png",
-        "codes": "star"
+        "codes": "star",
+        "overlay_font_size": 14
     },
     {
-        "name": "Swim",
-        "type": "toggle",
-        "img": "images/items/swim.png",
-        "codes": "swim"
+        "name": "Progressive Swim",
+        "type": "progressive",
+        "codes": "progressive_swim",
+        "stages": [
+            {
+                "img": "images/items/swim.png",
+                "codes": "swim",
+                "inherit_codes": true
+            },
+            {
+                "img": "images/items/fast_swim.png",
+                "codes": "swim_2",
+                "inherit_codes": true
+            }
+        ]
     },
     {
-        "name": "Yoshi",
-        "type": "toggle",
-        "img": "images/items/yoshi.png",
-        "codes": "yoshi"
+        "name": "Progressive Yoshi",
+        "type": "progressive",
+        "codes": "progressive_yoshi",
+        "stages": [
+            {
+                "img": "images/items/yoshi.png",
+                "codes": "yoshi",
+                "inherit_codes": true
+            },
+            {
+                "img": "images/items/yoshi_tongue.png",
+                "codes": "yoshi_2",
+                "inherit_codes": true
+            }
+        ]
     },
     {
         "name": "Yellow Switch Palace",
@@ -130,5 +164,29 @@
         "type": "toggle",
         "img": "images/items/special_world.png",
         "codes": "special"
+    },
+    {
+        "name": "Midway Points",
+        "type": "toggle",
+        "img": "images/items/midway.png",
+        "codes": "midway"
+    },
+    {
+        "name": "Extra Defense",
+        "type": "toggle",
+        "img": "images/items/extradefense.png",
+        "codes": "extra_defense"
+    },
+    {
+        "name": "Slower Timer",
+        "type": "consumable",
+        "img": "images/items/timer.png",
+        "codes": "timer"
+    },
+    {
+        "name": "Item Box",
+        "type": "toggle",
+        "img": "images/items/itembox.png",
+        "codes": "itembox"
     }
 ]

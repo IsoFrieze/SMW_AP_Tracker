@@ -38,7 +38,7 @@
                     {
                         "name": "Dragon coin room",
                         "access_rules": [
-                            ""
+                            "powerup_1, spin_jump"
                         ],
                         "visibility_rules": [
                             "room_checks"
@@ -50,7 +50,7 @@
                     {
                         "name": "Midway Point",
                         "access_rules": [
-                            ""
+                            "midway"
                         ],
                         "visibility_rules": [
                             "midway_point_checks"
@@ -190,7 +190,7 @@
                     {
                         "name": "Midway Point",
                         "access_rules": [
-                            ""
+                            "midway"
                         ],
                         "visibility_rules": [
                             "midway_point_checks"
@@ -468,7 +468,7 @@
                     {
                         "name": "Midway Point",
                         "access_rules": [
-                            ""
+                            "midway"
                         ],
                         "visibility_rules": [
                             "midway_point_checks"
@@ -505,7 +505,8 @@
                     {
                         "name": "Yellow Switch Palace Block #1",
                         "access_rules": [
-                            "ysp"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -517,7 +518,8 @@
                     {
                         "name": "Yellow Switch Palace Block #2",
                         "access_rules": [
-                            "ysp"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -529,9 +531,8 @@
                     {
                         "name": "Yellow Switch Palace Block #3",
                         "access_rules": [
-                            "ysp, carry",
-                            "ysp, yoshi",
-                            "ysp, run, powerup_3"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -543,9 +544,8 @@
                     {
                         "name": "Yellow Switch Palace Block #4",
                         "access_rules": [
-                            "ysp, carry",
-                            "ysp, yoshi",
-                            "ysp, run, powerup_3"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -557,9 +557,8 @@
                     {
                         "name": "Yellow Switch Palace Block #5",
                         "access_rules": [
-                            "ysp, carry",
-                            "ysp, yoshi",
-                            "ysp, run, powerup_3"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -571,9 +570,8 @@
                     {
                         "name": "Yellow Switch Palace Block #6",
                         "access_rules": [
-                            "ysp, carry",
-                            "ysp, yoshi",
-                            "ysp, run, powerup_3"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -585,9 +583,8 @@
                     {
                         "name": "Yellow Switch Palace Block #7",
                         "access_rules": [
-                            "ysp, carry",
-                            "ysp, yoshi",
-                            "ysp, run, powerup_3"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -599,9 +596,8 @@
                     {
                         "name": "Yellow Switch Palace Block #8",
                         "access_rules": [
-                            "ysp, carry",
-                            "ysp, yoshi",
-                            "ysp, run, powerup_3"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -613,9 +609,8 @@
                     {
                         "name": "Yellow Switch Palace Block #9",
                         "access_rules": [
-                            "ysp, carry",
-                            "ysp, yoshi",
-                            "ysp, run, powerup_3"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -627,9 +622,8 @@
                     {
                         "name": "Yellow Switch Palace Block #10",
                         "access_rules": [
-                            "ysp, carry",
-                            "ysp, yoshi",
-                            "ysp, run, powerup_3"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -641,9 +635,8 @@
                     {
                         "name": "Yellow Switch Palace Block #11",
                         "access_rules": [
-                            "ysp, carry",
-                            "ysp, yoshi",
-                            "ysp, run, powerup_3"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -655,9 +648,7 @@
                     {
                         "name": "Yellow Switch Palace Block #12",
                         "access_rules": [
-                            "ysp, carry",
-                            "ysp, yoshi",
-                            "ysp, run, powerup_3"
+                            "ysp"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -669,9 +660,7 @@
                     {
                         "name": "Yellow Switch Palace Block #13",
                         "access_rules": [
-                            "ysp, carry",
-                            "ysp, yoshi",
-                            "ysp, run, powerup_3"
+                            "ysp"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -684,8 +673,7 @@
                         "name": "Yellow Switch Palace Block #14",
                         "access_rules": [
                             "ysp, carry",
-                            "ysp, yoshi",
-                            "ysp, run, powerup_3"
+                            "ysp, yoshi"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -698,8 +686,7 @@
                         "name": "Yellow Switch Palace Block #15",
                         "access_rules": [
                             "ysp, carry",
-                            "ysp, yoshi",
-                            "ysp, run, powerup_3"
+                            "ysp, yoshi"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -712,8 +699,7 @@
                         "name": "Yellow Switch Palace Block #16",
                         "access_rules": [
                             "ysp, carry",
-                            "ysp, yoshi",
-                            "ysp, run, powerup_3"
+                            "ysp, yoshi"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -726,8 +712,7 @@
                         "name": "Yellow Switch Palace Block #17",
                         "access_rules": [
                             "ysp, carry",
-                            "ysp, yoshi",
-                            "ysp, run, powerup_3"
+                            "ysp, yoshi"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -740,8 +725,7 @@
                         "name": "Yellow Switch Palace Block #18",
                         "access_rules": [
                             "ysp, carry",
-                            "ysp, yoshi",
-                            "ysp, run, powerup_3"
+                            "ysp, yoshi"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -754,8 +738,7 @@
                         "name": "Yellow Switch Palace Block #19",
                         "access_rules": [
                             "ysp, carry",
-                            "ysp, yoshi",
-                            "ysp, run, powerup_3"
+                            "ysp, yoshi"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -768,8 +751,7 @@
                         "name": "Yellow Switch Palace Block #20",
                         "access_rules": [
                             "ysp, carry",
-                            "ysp, yoshi",
-                            "ysp, run, powerup_3"
+                            "ysp, yoshi"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -781,9 +763,8 @@
                     {
                         "name": "Yellow Switch Palace Block #21",
                         "access_rules": [
-                            "ysp, carry",
-                            "ysp, yoshi",
-                            "ysp, run, powerup_3"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -795,9 +776,8 @@
                     {
                         "name": "Yellow Switch Palace Block #22",
                         "access_rules": [
-                            "ysp, carry",
-                            "ysp, yoshi",
-                            "ysp, run, powerup_3"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -809,9 +789,8 @@
                     {
                         "name": "Yellow Switch Palace Block #23",
                         "access_rules": [
-                            "ysp, carry",
-                            "ysp, yoshi",
-                            "ysp, run, powerup_3"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -823,9 +802,8 @@
                     {
                         "name": "Yellow Switch Palace Block #24",
                         "access_rules": [
-                            "ysp, carry",
-                            "ysp, yoshi",
-                            "ysp, run, powerup_3"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -837,9 +815,8 @@
                     {
                         "name": "Yellow Switch Palace Block #25",
                         "access_rules": [
-                            "ysp, carry",
-                            "ysp, yoshi",
-                            "ysp, run, powerup_3"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -851,9 +828,8 @@
                     {
                         "name": "Yellow Switch Palace Block #26",
                         "access_rules": [
-                            "ysp, carry",
-                            "ysp, yoshi",
-                            "ysp, run, powerup_3"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -865,9 +841,8 @@
                     {
                         "name": "Yellow Switch Palace Block #27",
                         "access_rules": [
-                            "ysp, carry",
-                            "ysp, yoshi",
-                            "ysp, run, powerup_3"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -879,9 +854,8 @@
                     {
                         "name": "Yellow Switch Palace Block #28",
                         "access_rules": [
-                            "ysp, carry",
-                            "ysp, yoshi",
-                            "ysp, run, powerup_3"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -893,9 +867,8 @@
                     {
                         "name": "Yellow Switch Palace Block #29",
                         "access_rules": [
-                            "ysp, carry",
-                            "ysp, yoshi",
-                            "ysp, run, powerup_3"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -931,7 +904,8 @@
                     {
                         "name": "Yellow Switch Palace Block #30",
                         "access_rules": [
-                            "ysp"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -943,7 +917,8 @@
                     {
                         "name": "Yellow Switch Palace Block #31",
                         "access_rules": [
-                            "ysp"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -955,7 +930,8 @@
                     {
                         "name": "Yellow Switch Palace Block #32",
                         "access_rules": [
-                            "ysp"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -967,7 +943,8 @@
                     {
                         "name": "Yellow Switch Palace Block #33",
                         "access_rules": [
-                            "ysp"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -979,7 +956,8 @@
                     {
                         "name": "Yellow Switch Palace Block #34",
                         "access_rules": [
-                            "ysp"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -991,7 +969,8 @@
                     {
                         "name": "Yellow Switch Palace Block #35",
                         "access_rules": [
-                            "ysp"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -1003,7 +982,8 @@
                     {
                         "name": "Yellow Switch Palace Block #36",
                         "access_rules": [
-                            "ysp"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -1015,7 +995,8 @@
                     {
                         "name": "Yellow Switch Palace Block #37",
                         "access_rules": [
-                            "ysp"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -1027,7 +1008,8 @@
                     {
                         "name": "Yellow Switch Palace Block #38",
                         "access_rules": [
-                            "ysp"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -1039,7 +1021,8 @@
                     {
                         "name": "Yellow Switch Palace Block #39",
                         "access_rules": [
-                            "ysp"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -1051,7 +1034,8 @@
                     {
                         "name": "Yellow Switch Palace Block #40",
                         "access_rules": [
-                            "ysp"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -1063,7 +1047,8 @@
                     {
                         "name": "Yellow Switch Palace Block #41",
                         "access_rules": [
-                            "ysp"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -1075,7 +1060,8 @@
                     {
                         "name": "Yellow Switch Palace Block #42",
                         "access_rules": [
-                            "ysp"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -1087,7 +1073,8 @@
                     {
                         "name": "Yellow Switch Palace Block #43",
                         "access_rules": [
-                            "ysp"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -1099,7 +1086,8 @@
                     {
                         "name": "Yellow Switch Palace Block #44",
                         "access_rules": [
-                            "ysp"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -1111,7 +1099,8 @@
                     {
                         "name": "Yellow Switch Palace Block #45",
                         "access_rules": [
-                            "ysp"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -1123,7 +1112,8 @@
                     {
                         "name": "Yellow Switch Palace Block #46",
                         "access_rules": [
-                            "ysp"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -1135,7 +1125,8 @@
                     {
                         "name": "Yellow Switch Palace Block #47",
                         "access_rules": [
-                            "ysp"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -1147,7 +1138,8 @@
                     {
                         "name": "Yellow Switch Palace Block #48",
                         "access_rules": [
-                            "ysp"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -1159,7 +1151,8 @@
                     {
                         "name": "Yellow Switch Palace Block #49",
                         "access_rules": [
-                            "ysp"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -1171,7 +1164,8 @@
                     {
                         "name": "Yellow Switch Palace Block #50",
                         "access_rules": [
-                            "ysp"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -1183,7 +1177,8 @@
                     {
                         "name": "Yellow Switch Palace Block #51",
                         "access_rules": [
-                            "ysp"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -1219,7 +1214,8 @@
                     {
                         "name": "Yellow Switch Palace Block #52",
                         "access_rules": [
-                            "ysp"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -1231,7 +1227,8 @@
                     {
                         "name": "Yellow Switch Palace Block #53",
                         "access_rules": [
-                            "ysp"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -1243,7 +1240,8 @@
                     {
                         "name": "Yellow Switch Palace Block #54",
                         "access_rules": [
-                            "ysp"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -1255,7 +1253,8 @@
                     {
                         "name": "Yellow Switch Palace Block #55",
                         "access_rules": [
-                            "ysp"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -1267,7 +1266,8 @@
                     {
                         "name": "Yellow Switch Palace Block #56",
                         "access_rules": [
-                            "ysp"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -1303,7 +1303,8 @@
                     {
                         "name": "Yellow Switch Palace Block #59",
                         "access_rules": [
-                            "ysp"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -1315,7 +1316,8 @@
                     {
                         "name": "Yellow Switch Palace Block #60",
                         "access_rules": [
-                            "ysp"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -1327,7 +1329,8 @@
                     {
                         "name": "Yellow Switch Palace Block #61",
                         "access_rules": [
-                            "ysp"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -1339,7 +1342,8 @@
                     {
                         "name": "Yellow Switch Palace Block #62",
                         "access_rules": [
-                            "ysp"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -1351,7 +1355,8 @@
                     {
                         "name": "Yellow Switch Palace Block #63",
                         "access_rules": [
-                            "ysp"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -1363,7 +1368,8 @@
                     {
                         "name": "Yellow Switch Palace Block #64",
                         "access_rules": [
-                            "ysp"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -1375,7 +1381,8 @@
                     {
                         "name": "Yellow Switch Palace Block #65",
                         "access_rules": [
-                            "ysp"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -1387,7 +1394,8 @@
                     {
                         "name": "Yellow Switch Palace Block #66",
                         "access_rules": [
-                            "ysp"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -1399,7 +1407,8 @@
                     {
                         "name": "Yellow Switch Palace Block #67",
                         "access_rules": [
-                            "ysp"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -1411,7 +1420,8 @@
                     {
                         "name": "Yellow Switch Palace Block #68",
                         "access_rules": [
-                            "ysp"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -1423,7 +1433,8 @@
                     {
                         "name": "Yellow Switch Palace Block #69",
                         "access_rules": [
-                            "ysp"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -1447,7 +1458,8 @@
                     {
                         "name": "Yellow Switch Palace Block #71",
                         "access_rules": [
-                            "ysp"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -1459,7 +1471,8 @@
                     {
                         "name": "Yellow Switch Palace Block #72",
                         "access_rules": [
-                            "ysp"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -1471,7 +1484,8 @@
                     {
                         "name": "Yellow Switch Palace Block #73",
                         "access_rules": [
-                            "ysp"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -1483,7 +1497,8 @@
                     {
                         "name": "Yellow Switch Palace Block #74",
                         "access_rules": [
-                            "ysp"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -1495,7 +1510,8 @@
                     {
                         "name": "Yellow Switch Palace Block #75",
                         "access_rules": [
-                            "ysp"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -1507,7 +1523,8 @@
                     {
                         "name": "Yellow Switch Palace Block #76",
                         "access_rules": [
-                            "ysp"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -1519,7 +1536,8 @@
                     {
                         "name": "Yellow Switch Palace Block #77",
                         "access_rules": [
-                            "ysp"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -1531,7 +1549,8 @@
                     {
                         "name": "Yellow Switch Palace Block #78",
                         "access_rules": [
-                            "ysp"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -1543,7 +1562,8 @@
                     {
                         "name": "Yellow Switch Palace Block #79",
                         "access_rules": [
-                            "ysp"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -1555,7 +1575,8 @@
                     {
                         "name": "Yellow Switch Palace Block #80",
                         "access_rules": [
-                            "ysp"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -1567,7 +1588,8 @@
                     {
                         "name": "Yellow Switch Palace Block #81",
                         "access_rules": [
-                            "ysp"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -1579,7 +1601,8 @@
                     {
                         "name": "Yellow Switch Palace Block #82",
                         "access_rules": [
-                            "ysp"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -1591,7 +1614,8 @@
                     {
                         "name": "Yellow Switch Palace Block #83",
                         "access_rules": [
-                            "ysp"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -1603,7 +1627,8 @@
                     {
                         "name": "Yellow Switch Palace Block #84",
                         "access_rules": [
-                            "ysp"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -1615,7 +1640,8 @@
                     {
                         "name": "Yellow Switch Palace Block #85",
                         "access_rules": [
-                            "ysp"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -1627,7 +1653,8 @@
                     {
                         "name": "Yellow Switch Palace Block #86",
                         "access_rules": [
-                            "ysp"
+                            "ysp, yoshi_2, special",
+                            "ysp, yoshi_2, $LevelVisited|304"
                         ],
                         "visibility_rules": [
                             "blocksanity"
@@ -1823,7 +1850,7 @@
                     {
                         "name": "Smashers room",
                         "access_rules": [
-                            ""
+                            "climb"
                         ],
                         "visibility_rules": [
                             "room_checks"
@@ -1835,7 +1862,7 @@
                     {
                         "name": "Midway Point",
                         "access_rules": [
-                            ""
+                            "midway, climb"
                         ],
                         "visibility_rules": [
                             "midway_point_checks"
@@ -2046,7 +2073,7 @@
                     {
                         "name": "Bonus room",
                         "access_rules": [
-                            ""
+                            "ysp"
                         ],
                         "visibility_rules": [
                             "room_checks"
@@ -2058,7 +2085,7 @@
                     {
                         "name": "Midway Point",
                         "access_rules": [
-                            ""
+                            "midway"
                         ],
                         "visibility_rules": [
                             "midway_point_checks"
@@ -2656,7 +2683,7 @@
                     {
                         "name": "Midway Point",
                         "access_rules": [
-                            ""
+                            "midway"
                         ],
                         "visibility_rules": [
                             "midway_point_checks"
@@ -2821,7 +2848,7 @@
                     {
                         "name": "Midway Point",
                         "access_rules": [
-                            ""
+                            "midway"
                         ],
                         "visibility_rules": [
                             "midway_point_checks"
@@ -2974,7 +3001,7 @@
                     {
                         "name": "P-Balloon room",
                         "access_rules": [
-                            ""
+                            "swim"
                         ],
                         "visibility_rules": [
                             "room_checks"
@@ -3335,7 +3362,7 @@
                     {
                         "name": "Directional coin room",
                         "access_rules": [
-                            ""
+                            "p_switch"
                         ],
                         "visibility_rules": [
                             "room_checks"
@@ -3347,7 +3374,7 @@
                     {
                         "name": "Secret goal room",
                         "access_rules": [
-                            ""
+                            "climb"
                         ],
                         "visibility_rules": [
                             "room_checks"
@@ -3359,7 +3386,7 @@
                     {
                         "name": "Normal goal room",
                         "access_rules": [
-                            ""
+                            "run, powerup_3"
                         ],
                         "visibility_rules": [
                             "room_checks"
@@ -3512,7 +3539,7 @@
                     {
                         "name": "Goal room",
                         "access_rules": [
-                            ""
+                            "p_switch"
                         ],
                         "visibility_rules": [
                             "room_checks"
@@ -3524,7 +3551,7 @@
                     {
                         "name": "Directional coin room",
                         "access_rules": [
-                            ""
+                            "p_switch"
                         ],
                         "visibility_rules": [
                             "room_checks"
@@ -3536,7 +3563,8 @@
                     {
                         "name": "Boss room",
                         "access_rules": [
-                            ""
+                            "p_switch, carry, climb",
+                            "p_switch, run, powerup_3"
                         ],
                         "visibility_rules": [
                             "room_checks"
@@ -3674,7 +3702,7 @@
                     {
                         "name": "Bonus room",
                         "access_rules": [
-                            ""
+                            "run, powerup_3"
                         ],
                         "visibility_rules": [
                             "room_checks"
@@ -3941,7 +3969,8 @@
                     {
                         "name": "Midway Point",
                         "access_rules": [
-                            ""
+                            "midway, run, star",
+                            "midway, run, [powerup_1]"
                         ],
                         "visibility_rules": [
                             "midway_point_checks"
@@ -4148,7 +4177,8 @@
                     {
                         "name": "Ice cave room",
                         "access_rules": [
-                            ""
+                            "swim, climb",
+                            "swim, yoshi"
                         ],
                         "visibility_rules": [
                             "room_checks"
@@ -4160,7 +4190,8 @@
                     {
                         "name": "Midway Point",
                         "access_rules": [
-                            ""
+                            "midway, swim, climb",
+                            "midway, swim, yoshi"
                         ],
                         "visibility_rules": [
                             "midway_point_checks"
@@ -4418,7 +4449,7 @@
                     {
                         "name": "Bonus room",
                         "access_rules": [
-                            ""
+                            "run, powerup_3"
                         ],
                         "visibility_rules": [
                             "room_checks"
@@ -4430,7 +4461,7 @@
                     {
                         "name": "Midway Point",
                         "access_rules": [
-                            ""
+                            "midway"
                         ],
                         "visibility_rules": [
                             "midway_point_checks"
@@ -4733,7 +4764,7 @@
                     {
                         "name": "Midway Point",
                         "access_rules": [
-                            ""
+                            "midway"
                         ],
                         "visibility_rules": [
                             "midway_point_checks"
@@ -4963,7 +4994,7 @@
                     {
                         "name": "Secret goal room",
                         "access_rules": [
-                            ""
+                            "climb, carry, bsp"
                         ],
                         "visibility_rules": [
                             "room_checks"
@@ -4975,7 +5006,7 @@
                     {
                         "name": "Normal goal room",
                         "access_rules": [
-                            ""
+                            "climb"
                         ],
                         "visibility_rules": [
                             "room_checks"
@@ -5160,7 +5191,7 @@
                     {
                         "name": "Midway Point",
                         "access_rules": [
-                            ""
+                            "midway"
                         ],
                         "visibility_rules": [
                             "midway_point_checks"
@@ -5372,7 +5403,7 @@
                     {
                         "name": "Goal room",
                         "access_rules": [
-                            ""
+                            "[swim]"
                         ],
                         "visibility_rules": [
                             "room_checks"
@@ -5384,7 +5415,7 @@
                     {
                         "name": "Midway Point",
                         "access_rules": [
-                            ""
+                            "midway, [swim]"
                         ],
                         "visibility_rules": [
                             "midway_point_checks"
@@ -5487,7 +5518,7 @@
                     {
                         "name": "Goal room",
                         "access_rules": [
-                            ""
+                            "p_switch"
                         ],
                         "visibility_rules": [
                             "room_checks"
@@ -5627,7 +5658,7 @@
                     {
                         "name": "Thwomp room",
                         "access_rules": [
-                            ""
+                            "swim"
                         ],
                         "visibility_rules": [
                             "room_checks"
@@ -5729,7 +5760,7 @@
                     {
                         "name": "Midway point room",
                         "access_rules": [
-                            ""
+                            "p_switch"
                         ],
                         "visibility_rules": [
                             "room_checks"
@@ -5753,7 +5784,7 @@
                     {
                         "name": "Midway Point",
                         "access_rules": [
-                            ""
+                            "p_switch, midway"
                         ],
                         "visibility_rules": [
                             "midway_point_checks"
@@ -6074,7 +6105,7 @@
                     {
                         "name": "Midway Point",
                         "access_rules": [
-                            ""
+                            "midway"
                         ],
                         "visibility_rules": [
                             "midway_point_checks"
@@ -6193,7 +6224,7 @@
                     {
                         "name": "Yoshi wings room",
                         "access_rules": [
-                            ""
+                            "yoshi"
                         ],
                         "visibility_rules": [
                             "room_checks"
@@ -6217,7 +6248,7 @@
                     {
                         "name": "Midway Point",
                         "access_rules": [
-                            ""
+                            "midway"
                         ],
                         "visibility_rules": [
                             "midway_point_checks"
@@ -6358,7 +6389,7 @@
                     {
                         "name": "Midway Point",
                         "access_rules": [
-                            ""
+                            "midway"
                         ],
                         "visibility_rules": [
                             "midway_point_checks"
@@ -6861,7 +6892,7 @@
                     {
                         "name": "Goal room",
                         "access_rules": [
-                            ""
+                            "swim"
                         ],
                         "visibility_rules": [
                             "room_checks"
@@ -7043,7 +7074,7 @@
                     {
                         "name": "Midway Point",
                         "access_rules": [
-                            ""
+                            "midway"
                         ],
                         "visibility_rules": [
                             "midway_point_checks"
@@ -7349,7 +7380,7 @@
                     {
                         "name": "Midway Point",
                         "access_rules": [
-                            ""
+                            "midway"
                         ],
                         "visibility_rules": [
                             "midway_point_checks"
@@ -7842,7 +7873,7 @@
                     {
                         "name": "Keyhole room",
                         "access_rules": [
-                            ""
+                            "run"
                         ],
                         "visibility_rules": [
                             "room_checks"
@@ -7866,7 +7897,7 @@
                     {
                         "name": "Midway Point",
                         "access_rules": [
-                            ""
+                            "midway"
                         ],
                         "visibility_rules": [
                             "midway_point_checks"
@@ -8116,7 +8147,7 @@
                     {
                         "name": "Normal goal room",
                         "access_rules": [
-                            ""
+                            "p_switch"
                         ],
                         "visibility_rules": [
                             "room_checks"
@@ -8128,7 +8159,7 @@
                     {
                         "name": "Secret goal room",
                         "access_rules": [
-                            ""
+                            "p_switch"
                         ],
                         "visibility_rules": [
                             "room_checks"
@@ -8679,7 +8710,8 @@
                     {
                         "name": "Porcupuffer room",
                         "access_rules": [
-                            ""
+                            "p_switch",
+                            "yoshi"
                         ],
                         "visibility_rules": [
                             "room_checks"
@@ -8691,7 +8723,7 @@
                     {
                         "name": "Midway Point",
                         "access_rules": [
-                            ""
+                            "midway"
                         ],
                         "visibility_rules": [
                             "midway_point_checks"
@@ -9195,7 +9227,7 @@
                     {
                         "name": "Midway Point",
                         "access_rules": [
-                            ""
+                            "midway"
                         ],
                         "visibility_rules": [
                             "midway_point_checks"
@@ -9371,7 +9403,7 @@
                     {
                         "name": "Vertical bonus room",
                         "access_rules": [
-                            ""
+                            "p_switch"
                         ],
                         "visibility_rules": [
                             "room_checks"
@@ -9486,7 +9518,7 @@
                     {
                         "name": "Bonus room",
                         "access_rules": [
-                            ""
+                            "p_switch"
                         ],
                         "visibility_rules": [
                             "room_checks"
@@ -9498,7 +9530,7 @@
                     {
                         "name": "Midway Point",
                         "access_rules": [
-                            ""
+                            "midway"
                         ],
                         "visibility_rules": [
                             "midway_point_checks"
@@ -9752,7 +9784,7 @@
                     {
                         "name": "Goal room",
                         "access_rules": [
-                            ""
+                            "[run]"
                         ],
                         "visibility_rules": [
                             "room_checks"
@@ -9764,7 +9796,7 @@
                     {
                         "name": "Midway Point",
                         "access_rules": [
-                            ""
+                            "midway"
                         ],
                         "visibility_rules": [
                             "midway_point_checks"
@@ -9854,7 +9886,7 @@
                     {
                         "name": "Midway Point",
                         "access_rules": [
-                            ""
+                            "midway"
                         ],
                         "visibility_rules": [
                             "midway_point_checks"
@@ -9980,7 +10012,7 @@
                     {
                         "name": "Midway Point",
                         "access_rules": [
-                            ""
+                            "midway"
                         ],
                         "visibility_rules": [
                             "midway_point_checks"
@@ -10082,7 +10114,7 @@
                     {
                         "name": "Reappearing ghosts",
                         "access_rules": [
-                            ""
+                            "swim"
                         ],
                         "visibility_rules": [
                             "room_checks"
@@ -10094,7 +10126,7 @@
                     {
                         "name": "Falling room",
                         "access_rules": [
-                            ""
+                            "swim"
                         ],
                         "visibility_rules": [
                             "room_checks"
@@ -10197,7 +10229,7 @@
                     {
                         "name": "Bonus room",
                         "access_rules": [
-                            ""
+                            "climb"
                         ],
                         "visibility_rules": [
                             "room_checks"
@@ -10209,7 +10241,7 @@
                     {
                         "name": "Midway Point",
                         "access_rules": [
-                            ""
+                            "midway"
                         ],
                         "visibility_rules": [
                             "midway_point_checks"
@@ -10430,21 +10462,9 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Yoshi wings room",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "room_checks"
-                        ],
-                        "chest_unopened_img": "images/checks/pipe_disabled.png",
-                        "chest_opened_img": "images/checks/pipe.png",
-                        "item_count": 1
-                    },
-                    {
                         "name": "Midway Point",
                         "access_rules": [
-                            ""
+                            "midway"
                         ],
                         "visibility_rules": [
                             "midway_point_checks"
@@ -10583,7 +10603,7 @@
                     {
                         "name": "Midway Point",
                         "access_rules": [
-                            ""
+                            "midway"
                         ],
                         "visibility_rules": [
                             "midway_point_checks"
@@ -10699,7 +10719,7 @@
                     {
                         "name": "Midway Point",
                         "access_rules": [
-                            ""
+                            "midway, climb"
                         ],
                         "visibility_rules": [
                             "midway_point_checks"
@@ -10852,7 +10872,7 @@
                     {
                         "name": "Directional coin room",
                         "access_rules": [
-                            ""
+                            "p_switch"
                         ],
                         "visibility_rules": [
                             "room_checks"
@@ -10864,7 +10884,7 @@
                     {
                         "name": "Goal room",
                         "access_rules": [
-                            ""
+                            "p_switch"
                         ],
                         "visibility_rules": [
                             "room_checks"
@@ -11057,7 +11077,7 @@
                     {
                         "name": "Midway Point",
                         "access_rules": [
-                            ""
+                            "midway"
                         ],
                         "visibility_rules": [
                             "midway_point_checks"
@@ -11184,7 +11204,7 @@
                     {
                         "name": "Goal room",
                         "access_rules": [
-                            ""
+                            "spin_jump, powerup_1"
                         ],
                         "visibility_rules": [
                             "room_checks"
@@ -11263,7 +11283,7 @@
                     {
                         "name": "Goal room",
                         "access_rules": [
-                            ""
+                            "swim"
                         ],
                         "visibility_rules": [
                             "room_checks"
@@ -12153,7 +12173,7 @@
                     {
                         "name": "Goal room",
                         "access_rules": [
-                            ""
+                            "climb"
                         ],
                         "visibility_rules": [
                             "room_checks"
@@ -12708,7 +12728,7 @@
                     {
                         "name": "Yoshi wings room",
                         "access_rules": [
-                            ""
+                            "yoshi"
                         ],
                         "visibility_rules": [
                             "room_checks"
@@ -12960,7 +12980,7 @@
                     {
                         "name": "Slide room",
                         "access_rules": [
-                            ""
+                            "[swim]"
                         ],
                         "visibility_rules": [
                             "room_checks"
@@ -12972,7 +12992,7 @@
                     {
                         "name": "Goal room",
                         "access_rules": [
-                            ""
+                            "[swim]"
                         ],
                         "visibility_rules": [
                             "room_checks"

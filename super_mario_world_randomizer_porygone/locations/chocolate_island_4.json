@@ -237,7 +237,7 @@
                     {
                         "name": "Vertical bonus room",
                         "access_rules": [
-                            ""
+                            "p_switch"
                         ],
                         "visibility_rules": [
                             "room_checks"

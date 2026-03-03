@@ -155,7 +155,7 @@
                     {
                         "name": "Reappearing ghosts",
                         "access_rules": [
-                            ""
+                            "swim"
                         ],
                         "visibility_rules": [
                             "room_checks"
@@ -184,7 +184,7 @@
                     {
                         "name": "Falling room",
                         "access_rules": [
-                            ""
+                            "swim"
                         ],
                         "visibility_rules": [
                             "room_checks"

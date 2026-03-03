@@ -131,7 +131,7 @@
                     {
                         "name": "Goal room",
                         "access_rules": [
-                            ""
+                            "spin_jump, powerup_1"
                         ],
                         "visibility_rules": [
                             "room_checks"

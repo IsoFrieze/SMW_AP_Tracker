@@ -1,21 +1,28 @@
 ITEM_MAPPING = {
     [0xBC0002] = {"yoshi_eggs", "consumable"},
-    [0xBC0003] = {"run", "toggle"},
+    [0xBC0003] = {"run", "progressiveskip", 2},
     [0xBC0004] = {"carry", "toggle"},
-    [0xBC0005] = {"swim", "toggle"},
+    [0xBC0005] = {"swim", "progressiveskip", 2},
     [0xBC0006] = {"spin_jump", "toggle"},
     [0xBC0007] = {"climb", "toggle"},
-    [0xBC0008] = {"yoshi", "toggle"},
+    [0xBC0008] = {"yoshi", "progressiveskip", 2},
     [0xBC0009] = {"p_switch", "toggle"},
     [0xBC000A] = {"progressive_powerup", "progressive"},
     [0xBC000B] = {"p_balloon", "toggle"},
-    [0xBC000D] = {"star", "toggle"},
+    [0xBC000D] = {"star", "consumable"},
     [0xBC000E] = {"ysp", "toggle"},
     [0xBC000F] = {"gsp", "toggle"},
     [0xBC0010] = {"rsp", "toggle"},
     [0xBC0011] = {"bsp", "toggle"},
     [0xBC0012] = {"boss_tokens", "consumable"},
     [0xBC001B] = {"special", "toggle"},
+    [0xBC0021] = {"midway", "toggle"},
+    [0xBC0020] = {"extra_defense", "toggle"},
+    [0xBC0022] = {"timer", "consumable"},
+    [0xBC0023] = {"itembox", "toggle"},
+    [0xBC0024] = {"progressive_yoshi", "progressive"},
+    [0xBC0025] = {"progressive_run", "progressive"},
+    [0xBC0026] = {"progressive_swim", "progressive"}
 }
 
 SETTINGS_MAPPING = {
@@ -29,4 +36,7 @@ SETTINGS_MAPPING = {
     [0xBC0F07] = {"blocksanity", "toggle"},
     [0xBC0F08] = {"tab_switch", "toggle"},
     [0xBC0F09] = {"show_all_levels", "toggle"},
+    -- unsure of these IDs:
+    [0xBC0F0A] = {"midway_point_checks", "toggle"},
+    [0xBC0F0B] = {"room_checks", "toggle"},
 }

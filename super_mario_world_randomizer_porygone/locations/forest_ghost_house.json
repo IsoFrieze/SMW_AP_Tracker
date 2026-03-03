@@ -314,7 +314,7 @@
                     {
                         "name": "Normal goal room",
                         "access_rules": [
-                            ""
+                            "p_switch"
                         ],
                         "visibility_rules": [
                             "room_checks"
@@ -343,7 +343,7 @@
                     {
                         "name": "Secret goal room",
                         "access_rules": [
-                            ""
+                            "p_switch"
                         ],
                         "visibility_rules": [
                             "room_checks"

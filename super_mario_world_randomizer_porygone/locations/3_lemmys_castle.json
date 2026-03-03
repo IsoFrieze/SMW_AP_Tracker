@@ -184,7 +184,7 @@
                     {
                         "name": "Midway point room",
                         "access_rules": [
-                            ""
+                            "p_switch"
                         ],
                         "visibility_rules": [
                             "room_checks"
@@ -247,7 +247,7 @@
                     {
                         "name": "Midway Point",
                         "access_rules": [
-                            ""
+                            "p_switch, midway"
                         ],
                         "visibility_rules": [
                             "midway_point_checks"

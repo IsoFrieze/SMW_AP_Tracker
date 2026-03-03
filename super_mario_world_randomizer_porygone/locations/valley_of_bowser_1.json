@@ -386,7 +386,7 @@
                     {
                         "name": "Bonus room",
                         "access_rules": [
-                            ""
+                            "climb"
                         ],
                         "visibility_rules": [
                             "room_checks"
@@ -415,7 +415,7 @@
                     {
                         "name": "Midway Point",
                         "access_rules": [
-                            ""
+                            "midway"
                         ],
                         "visibility_rules": [
                             "midway_point_checks"

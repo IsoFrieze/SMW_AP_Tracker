@@ -285,7 +285,7 @@
                     {
                         "name": "Yoshi wings room",
                         "access_rules": [
-                            ""
+                            "yoshi"
                         ],
                         "visibility_rules": [
                             "room_checks"
@@ -343,7 +343,7 @@
                     {
                         "name": "Midway Point",
                         "access_rules": [
-                            ""
+                            "midway"
                         ],
                         "visibility_rules": [
                             "midway_point_checks"

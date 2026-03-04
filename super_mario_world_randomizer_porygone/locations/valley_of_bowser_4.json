@@ -9,22 +9,12 @@
         ],
         "children": [
             {
+                "name": "Valley of Bowser 4 - Goal",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            ""
-                        ],
-                        "name": "Normal Exit",
-                        "access_rules": [
-                            "climb",
-                            "[climb], yoshi"
-                        ],
-                        "chest_unopened_img": "images/checks/goal_sphere_disabled.png",
-                        "chest_opened_img": "images/checks/goal_sphere.png",
-                        "item_count": 1
+                        "ref": "Map/Valley of Bowser 4/Normal Exit"
                     }
                 ],
-                "name": "Valley of Bowser 4 - Goal",
                 "map_locations": [
                     {
                         "map": "vob4_main",
@@ -34,21 +24,12 @@
                 ]
             },
             {
+                "name": "Valley of Bowser 4 - Keyhole",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            ""
-                        ],
-                        "name": "Secret Exit",
-                        "access_rules": [
-                            "climb, carry, yoshi"
-                        ],
-                        "chest_unopened_img": "images/checks/goal_sphere_disabled.png",
-                        "chest_opened_img": "images/checks/goal_sphere.png",
-                        "item_count": 1
+                        "ref": "Map/Valley of Bowser 4/Secret Exit"
                     }
                 ],
-                "name": "Valley of Bowser 4 - Keyhole",
                 "map_locations": [
                     {
                         "map": "vob4_main",
@@ -61,16 +42,7 @@
                 "name": "Valley of Bowser 4 - Blocksanity - Yellow Switch Palace Block #1",
                 "sections": [
                     {
-                        "name": "Yellow Switch Palace Block #1",
-                        "access_rules": [
-                            "ysp"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Valley of Bowser 4/Yellow Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -85,16 +57,7 @@
                 "name": "Valley of Bowser 4 - Blocksanity - Powerup Block #1",
                 "sections": [
                     {
-                        "name": "Powerup Block #1",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Valley of Bowser 4/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -109,16 +72,7 @@
                 "name": "Valley of Bowser 4 - Blocksanity - Vine Block #1",
                 "sections": [
                     {
-                        "name": "Vine Block #1",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Valley of Bowser 4/Vine Block #1"
                     }
                 ],
                 "map_locations": [
@@ -133,17 +87,7 @@
                 "name": "Valley of Bowser 4 - Blocksanity - Yoshi Block #1",
                 "sections": [
                     {
-                        "name": "Yoshi Block #1",
-                        "access_rules": [
-                            "climb",
-                            "[climb], yoshi"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Valley of Bowser 4/Yoshi Block #1"
                     }
                 ],
                 "map_locations": [
@@ -158,17 +102,7 @@
                 "name": "Valley of Bowser 4 - Blocksanity - 1-Up Mushroom Block #1",
                 "sections": [
                     {
-                        "name": "1-Up Mushroom Block #1",
-                        "access_rules": [
-                            "powerup_1, spin_jump, climb",
-                            "powerup_1, spin_jump, [climb], yoshi"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Valley of Bowser 4/1-Up Mushroom Block #1"
                     }
                 ],
                 "map_locations": [
@@ -183,17 +117,7 @@
                 "name": "Valley of Bowser 4 - Blocksanity - Powerup Block #2",
                 "sections": [
                     {
-                        "name": "Powerup Block #2",
-                        "access_rules": [
-                            "[ysp], climb",
-                            "[ysp], yoshi, [climb]"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Valley of Bowser 4/Powerup Block #2"
                     }
                 ],
                 "map_locations": [
@@ -208,16 +132,7 @@
                 "name": "Valley of Bowser 4 - Main room",
                 "sections": [
                     {
-                        "name": "Main room",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "room_checks"
-                        ],
-                        "chest_unopened_img": "images/checks/pipe_disabled.png",
-                        "chest_opened_img": "images/checks/pipe.png",
-                        "item_count": 1
+                        "ref": "Map/Valley of Bowser 4/Main room"
                     }
                 ],
                 "map_locations": [
@@ -237,16 +152,7 @@
                 "name": "Valley of Bowser 4 - Ice cave room",
                 "sections": [
                     {
-                        "name": "Ice cave room",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "room_checks"
-                        ],
-                        "chest_unopened_img": "images/checks/pipe_disabled.png",
-                        "chest_opened_img": "images/checks/pipe.png",
-                        "item_count": 1
+                        "ref": "Map/Valley of Bowser 4/Ice cave room"
                     }
                 ],
                 "map_locations": [
@@ -266,16 +172,7 @@
                 "name": "Valley of Bowser 4 - Midway Point",
                 "sections": [
                     {
-                        "name": "Midway Point",
-                        "access_rules": [
-                            "midway, climb"
-                        ],
-                        "visibility_rules": [
-                            "midway_point_checks"
-                        ],
-                        "chest_unopened_img": "images/checks/midway_disabled.png",
-                        "chest_opened_img": "images/checks/midway.png",
-                        "item_count": 1
+                        "ref": "Map/Valley of Bowser 4/Midway Point"
                     }
                 ],
                 "map_locations": [

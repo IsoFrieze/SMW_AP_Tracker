@@ -9,23 +9,12 @@
         ],
         "children": [
             {
+                "name": "Star Road 5 - Goal",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            ""
-                        ],
-                        "name": "Normal Exit",
-                        "access_rules": [
-                            "p_switch",
-                            "[p_switch], yoshi, carry, [special]",
-                            "[p_switch], run, powerup_3"
-                        ],
-                        "chest_unopened_img": "images/checks/goal_sphere_disabled.png",
-                        "chest_opened_img": "images/checks/goal_sphere.png",
-                        "item_count": 1
+                        "ref": "Map/Star Road 5/Normal Exit"
                     }
                 ],
-                "name": "Star Road 5 - Goal",
                 "map_locations": [
                     {
                         "map": "sr5_main",
@@ -35,23 +24,12 @@
                 ]
             },
             {
+                "name": "Star Road 5 - Keyhole",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            ""
-                        ],
-                        "name": "Secret Exit",
-                        "access_rules": [
-                            "carry, climb, p_switch, ysp, gsp, rsp, bsp",
-                            "carry, [climb], [p_switch], [ysp], [gsp], [rsp], [bsp], yoshi, [special]",
-                            "carry, [climb], [p_switch], [ysp], [gsp], [rsp], [bsp], run, powerup_3"
-                        ],
-                        "chest_unopened_img": "images/checks/goal_sphere_disabled.png",
-                        "chest_opened_img": "images/checks/goal_sphere.png",
-                        "item_count": 1
+                        "ref": "Map/Star Road 5/Secret Exit"
                     }
                 ],
-                "name": "Star Road 5 - Keyhole",
                 "map_locations": [
                     {
                         "map": "sr5_main",
@@ -64,16 +42,7 @@
                 "name": "Star Road 5 - Blocksanity - Directional Coin Block #1",
                 "sections": [
                     {
-                        "name": "Directional Coin Block #1",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Star Road 5/Directional Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -88,17 +57,7 @@
                 "name": "Star Road 5 - Blocksanity - 1-Up Mushroom Block #1",
                 "sections": [
                     {
-                        "name": "1-Up Mushroom Block #1",
-                        "access_rules": [
-                            "p_switch",
-                            "[p_switch], [special], yoshi, carry"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Star Road 5/1-Up Mushroom Block #1"
                     }
                 ],
                 "map_locations": [
@@ -113,17 +72,7 @@
                 "name": "Star Road 5 - Blocksanity - Vine Block #1",
                 "sections": [
                     {
-                        "name": "Vine Block #1",
-                        "access_rules": [
-                            "p_switch",
-                            "[p_switch], [special], yoshi, carry"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Star Road 5/Vine Block #1"
                     }
                 ],
                 "map_locations": [
@@ -138,17 +87,7 @@
                 "name": "Star Road 5 - Blocksanity - Yellow Switch Palace Block #1",
                 "sections": [
                     {
-                        "name": "Yellow Switch Palace Block #1",
-                        "access_rules": [
-                            "ysp, p_switch, climb, carry",
-                            "ysp, [special], yoshi, carry"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Star Road 5/Yellow Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -163,16 +102,7 @@
                 "name": "Star Road 5 - Blocksanity - Yellow Switch Palace Block #2",
                 "sections": [
                     {
-                        "name": "Yellow Switch Palace Block #2",
-                        "access_rules": [
-                            "ysp, [special], yoshi, carry"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Star Road 5/Yellow Switch Palace Block #2"
                     }
                 ],
                 "map_locations": [
@@ -187,16 +117,7 @@
                 "name": "Star Road 5 - Blocksanity - Yellow Switch Palace Block #3",
                 "sections": [
                     {
-                        "name": "Yellow Switch Palace Block #3",
-                        "access_rules": [
-                            "ysp, [special], yoshi, carry"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Star Road 5/Yellow Switch Palace Block #3"
                     }
                 ],
                 "map_locations": [
@@ -211,16 +132,7 @@
                 "name": "Star Road 5 - Blocksanity - Yellow Switch Palace Block #4",
                 "sections": [
                     {
-                        "name": "Yellow Switch Palace Block #4",
-                        "access_rules": [
-                            "ysp, [special], yoshi, carry"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Star Road 5/Yellow Switch Palace Block #4"
                     }
                 ],
                 "map_locations": [
@@ -235,16 +147,7 @@
                 "name": "Star Road 5 - Blocksanity - Yellow Switch Palace Block #5",
                 "sections": [
                     {
-                        "name": "Yellow Switch Palace Block #5",
-                        "access_rules": [
-                            "ysp, [special], yoshi, carry"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Star Road 5/Yellow Switch Palace Block #5"
                     }
                 ],
                 "map_locations": [
@@ -259,16 +162,7 @@
                 "name": "Star Road 5 - Blocksanity - Yellow Switch Palace Block #6",
                 "sections": [
                     {
-                        "name": "Yellow Switch Palace Block #6",
-                        "access_rules": [
-                            "ysp, [special], yoshi, carry"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Star Road 5/Yellow Switch Palace Block #6"
                     }
                 ],
                 "map_locations": [
@@ -283,16 +177,7 @@
                 "name": "Star Road 5 - Blocksanity - Yellow Switch Palace Block #7",
                 "sections": [
                     {
-                        "name": "Yellow Switch Palace Block #7",
-                        "access_rules": [
-                            "ysp, [special], yoshi, carry"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Star Road 5/Yellow Switch Palace Block #7"
                     }
                 ],
                 "map_locations": [
@@ -307,16 +192,7 @@
                 "name": "Star Road 5 - Blocksanity - Yellow Switch Palace Block #8",
                 "sections": [
                     {
-                        "name": "Yellow Switch Palace Block #8",
-                        "access_rules": [
-                            "ysp, [special], yoshi, carry"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Star Road 5/Yellow Switch Palace Block #8"
                     }
                 ],
                 "map_locations": [
@@ -331,16 +207,7 @@
                 "name": "Star Road 5 - Blocksanity - Yellow Switch Palace Block #9",
                 "sections": [
                     {
-                        "name": "Yellow Switch Palace Block #9",
-                        "access_rules": [
-                            "ysp, [special], yoshi, carry"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Star Road 5/Yellow Switch Palace Block #9"
                     }
                 ],
                 "map_locations": [
@@ -355,16 +222,7 @@
                 "name": "Star Road 5 - Blocksanity - Yellow Switch Palace Block #10",
                 "sections": [
                     {
-                        "name": "Yellow Switch Palace Block #10",
-                        "access_rules": [
-                            "ysp, [special], yoshi, carry"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Star Road 5/Yellow Switch Palace Block #10"
                     }
                 ],
                 "map_locations": [
@@ -379,16 +237,7 @@
                 "name": "Star Road 5 - Blocksanity - Yellow Switch Palace Block #11",
                 "sections": [
                     {
-                        "name": "Yellow Switch Palace Block #11",
-                        "access_rules": [
-                            "ysp, [special], yoshi, carry"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Star Road 5/Yellow Switch Palace Block #11"
                     }
                 ],
                 "map_locations": [
@@ -403,16 +252,7 @@
                 "name": "Star Road 5 - Blocksanity - Yellow Switch Palace Block #12",
                 "sections": [
                     {
-                        "name": "Yellow Switch Palace Block #12",
-                        "access_rules": [
-                            "ysp, [special], yoshi, carry"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Star Road 5/Yellow Switch Palace Block #12"
                     }
                 ],
                 "map_locations": [
@@ -427,16 +267,7 @@
                 "name": "Star Road 5 - Blocksanity - Yellow Switch Palace Block #13",
                 "sections": [
                     {
-                        "name": "Yellow Switch Palace Block #13",
-                        "access_rules": [
-                            "ysp, [special], yoshi, carry"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Star Road 5/Yellow Switch Palace Block #13"
                     }
                 ],
                 "map_locations": [
@@ -451,16 +282,7 @@
                 "name": "Star Road 5 - Blocksanity - Yellow Switch Palace Block #14",
                 "sections": [
                     {
-                        "name": "Yellow Switch Palace Block #14",
-                        "access_rules": [
-                            "ysp, [special], yoshi, carry"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Star Road 5/Yellow Switch Palace Block #14"
                     }
                 ],
                 "map_locations": [
@@ -475,16 +297,7 @@
                 "name": "Star Road 5 - Blocksanity - Yellow Switch Palace Block #15",
                 "sections": [
                     {
-                        "name": "Yellow Switch Palace Block #15",
-                        "access_rules": [
-                            "ysp, [special], yoshi, carry"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Star Road 5/Yellow Switch Palace Block #15"
                     }
                 ],
                 "map_locations": [
@@ -499,16 +312,7 @@
                 "name": "Star Road 5 - Blocksanity - Yellow Switch Palace Block #16",
                 "sections": [
                     {
-                        "name": "Yellow Switch Palace Block #16",
-                        "access_rules": [
-                            "ysp, [special], yoshi, carry"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Star Road 5/Yellow Switch Palace Block #16"
                     }
                 ],
                 "map_locations": [
@@ -523,16 +327,7 @@
                 "name": "Star Road 5 - Blocksanity - Yellow Switch Palace Block #17",
                 "sections": [
                     {
-                        "name": "Yellow Switch Palace Block #17",
-                        "access_rules": [
-                            "ysp, [special], yoshi, carry"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Star Road 5/Yellow Switch Palace Block #17"
                     }
                 ],
                 "map_locations": [
@@ -547,16 +342,7 @@
                 "name": "Star Road 5 - Blocksanity - Yellow Switch Palace Block #18",
                 "sections": [
                     {
-                        "name": "Yellow Switch Palace Block #18",
-                        "access_rules": [
-                            "ysp, [special], yoshi, carry"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Star Road 5/Yellow Switch Palace Block #18"
                     }
                 ],
                 "map_locations": [
@@ -571,17 +357,7 @@
                 "name": "Star Road 5 - Blocksanity - Yellow Switch Palace Block #19",
                 "sections": [
                     {
-                        "name": "Yellow Switch Palace Block #19",
-                        "access_rules": [
-                            "ysp, gsp, [special], yoshi, carry",
-                            "ysp, gsp, p_switch, climb, carry, powerup_3"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Star Road 5/Yellow Switch Palace Block #19"
                     }
                 ],
                 "map_locations": [
@@ -596,17 +372,7 @@
                 "name": "Star Road 5 - Blocksanity - Yellow Switch Palace Block #20",
                 "sections": [
                     {
-                        "name": "Yellow Switch Palace Block #20",
-                        "access_rules": [
-                            "ysp, gsp, [special], yoshi, carry",
-                            "ysp, gsp, p_switch, climb, carry, powerup_3"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Star Road 5/Yellow Switch Palace Block #20"
                     }
                 ],
                 "map_locations": [
@@ -621,16 +387,7 @@
                 "name": "Star Road 5 - Blocksanity - Green Switch Palace Block #1",
                 "sections": [
                     {
-                        "name": "Green Switch Palace Block #1",
-                        "access_rules": [
-                            "gsp, [special], yoshi, carry"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Star Road 5/Green Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -645,16 +402,7 @@
                 "name": "Star Road 5 - Blocksanity - Green Switch Palace Block #2",
                 "sections": [
                     {
-                        "name": "Green Switch Palace Block #2",
-                        "access_rules": [
-                            "gsp, [special], yoshi, carry"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Star Road 5/Green Switch Palace Block #2"
                     }
                 ],
                 "map_locations": [
@@ -669,16 +417,7 @@
                 "name": "Star Road 5 - Blocksanity - Green Switch Palace Block #3",
                 "sections": [
                     {
-                        "name": "Green Switch Palace Block #3",
-                        "access_rules": [
-                            "gsp, [special], yoshi, carry"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Star Road 5/Green Switch Palace Block #3"
                     }
                 ],
                 "map_locations": [
@@ -693,16 +432,7 @@
                 "name": "Star Road 5 - Blocksanity - Green Switch Palace Block #4",
                 "sections": [
                     {
-                        "name": "Green Switch Palace Block #4",
-                        "access_rules": [
-                            "gsp, [special], yoshi, carry"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Star Road 5/Green Switch Palace Block #4"
                     }
                 ],
                 "map_locations": [
@@ -717,16 +447,7 @@
                 "name": "Star Road 5 - Blocksanity - Green Switch Palace Block #5",
                 "sections": [
                     {
-                        "name": "Green Switch Palace Block #5",
-                        "access_rules": [
-                            "gsp, [special], yoshi, carry"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Star Road 5/Green Switch Palace Block #5"
                     }
                 ],
                 "map_locations": [
@@ -741,16 +462,7 @@
                 "name": "Star Road 5 - Blocksanity - Green Switch Palace Block #6",
                 "sections": [
                     {
-                        "name": "Green Switch Palace Block #6",
-                        "access_rules": [
-                            "gsp, [special], yoshi, carry"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Star Road 5/Green Switch Palace Block #6"
                     }
                 ],
                 "map_locations": [
@@ -765,16 +477,7 @@
                 "name": "Star Road 5 - Blocksanity - Green Switch Palace Block #7",
                 "sections": [
                     {
-                        "name": "Green Switch Palace Block #7",
-                        "access_rules": [
-                            "gsp, [special], yoshi, carry"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Star Road 5/Green Switch Palace Block #7"
                     }
                 ],
                 "map_locations": [
@@ -789,16 +492,7 @@
                 "name": "Star Road 5 - Blocksanity - Green Switch Palace Block #8",
                 "sections": [
                     {
-                        "name": "Green Switch Palace Block #8",
-                        "access_rules": [
-                            "gsp, [special], yoshi, carry"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Star Road 5/Green Switch Palace Block #8"
                     }
                 ],
                 "map_locations": [
@@ -813,16 +507,7 @@
                 "name": "Star Road 5 - Blocksanity - Green Switch Palace Block #9",
                 "sections": [
                     {
-                        "name": "Green Switch Palace Block #9",
-                        "access_rules": [
-                            "gsp, [special], yoshi, carry"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Star Road 5/Green Switch Palace Block #9"
                     }
                 ],
                 "map_locations": [
@@ -837,16 +522,7 @@
                 "name": "Star Road 5 - Blocksanity - Green Switch Palace Block #10",
                 "sections": [
                     {
-                        "name": "Green Switch Palace Block #10",
-                        "access_rules": [
-                            "gsp, [special], yoshi, carry"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Star Road 5/Green Switch Palace Block #10"
                     }
                 ],
                 "map_locations": [
@@ -861,16 +537,7 @@
                 "name": "Star Road 5 - Blocksanity - Green Switch Palace Block #11",
                 "sections": [
                     {
-                        "name": "Green Switch Palace Block #11",
-                        "access_rules": [
-                            "gsp, [special], yoshi, carry"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Star Road 5/Green Switch Palace Block #11"
                     }
                 ],
                 "map_locations": [
@@ -885,16 +552,7 @@
                 "name": "Star Road 5 - Blocksanity - Green Switch Palace Block #12",
                 "sections": [
                     {
-                        "name": "Green Switch Palace Block #12",
-                        "access_rules": [
-                            "gsp, [special], yoshi, carry"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Star Road 5/Green Switch Palace Block #12"
                     }
                 ],
                 "map_locations": [
@@ -909,16 +567,7 @@
                 "name": "Star Road 5 - Blocksanity - Green Switch Palace Block #13",
                 "sections": [
                     {
-                        "name": "Green Switch Palace Block #13",
-                        "access_rules": [
-                            "gsp, [special], yoshi, carry"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Star Road 5/Green Switch Palace Block #13"
                     }
                 ],
                 "map_locations": [
@@ -933,16 +582,7 @@
                 "name": "Star Road 5 - Blocksanity - Green Switch Palace Block #14",
                 "sections": [
                     {
-                        "name": "Green Switch Palace Block #14",
-                        "access_rules": [
-                            "gsp, [special], yoshi, carry"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Star Road 5/Green Switch Palace Block #14"
                     }
                 ],
                 "map_locations": [
@@ -957,16 +597,7 @@
                 "name": "Star Road 5 - Blocksanity - Green Switch Palace Block #15",
                 "sections": [
                     {
-                        "name": "Green Switch Palace Block #15",
-                        "access_rules": [
-                            "gsp, [special], yoshi, carry"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Star Road 5/Green Switch Palace Block #15"
                     }
                 ],
                 "map_locations": [
@@ -981,16 +612,7 @@
                 "name": "Star Road 5 - Blocksanity - Green Switch Palace Block #16",
                 "sections": [
                     {
-                        "name": "Green Switch Palace Block #16",
-                        "access_rules": [
-                            "gsp, [special], yoshi, carry"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Star Road 5/Green Switch Palace Block #16"
                     }
                 ],
                 "map_locations": [
@@ -1005,16 +627,7 @@
                 "name": "Star Road 5 - Blocksanity - Green Switch Palace Block #17",
                 "sections": [
                     {
-                        "name": "Green Switch Palace Block #17",
-                        "access_rules": [
-                            "gsp, [special], yoshi, carry"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Star Road 5/Green Switch Palace Block #17"
                     }
                 ],
                 "map_locations": [
@@ -1029,16 +642,7 @@
                 "name": "Star Road 5 - Blocksanity - Green Switch Palace Block #18",
                 "sections": [
                     {
-                        "name": "Green Switch Palace Block #18",
-                        "access_rules": [
-                            "gsp, [special], yoshi, carry"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Star Road 5/Green Switch Palace Block #18"
                     }
                 ],
                 "map_locations": [
@@ -1053,16 +657,7 @@
                 "name": "Star Road 5 - Blocksanity - Green Switch Palace Block #19",
                 "sections": [
                     {
-                        "name": "Green Switch Palace Block #19",
-                        "access_rules": [
-                            "gsp, [special], yoshi, carry"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Star Road 5/Green Switch Palace Block #19"
                     }
                 ],
                 "map_locations": [
@@ -1077,16 +672,7 @@
                 "name": "Star Road 5 - Blocksanity - Green Switch Palace Block #20",
                 "sections": [
                     {
-                        "name": "Green Switch Palace Block #20",
-                        "access_rules": [
-                            "gsp, [special], yoshi, carry"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Star Road 5/Green Switch Palace Block #20"
                     }
                 ],
                 "map_locations": [
@@ -1101,16 +687,7 @@
                 "name": "Star Road 5 - Main room",
                 "sections": [
                     {
-                        "name": "Main room",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "room_checks"
-                        ],
-                        "chest_unopened_img": "images/checks/pipe_disabled.png",
-                        "chest_opened_img": "images/checks/pipe.png",
-                        "item_count": 1
+                        "ref": "Map/Star Road 5/Main room"
                     }
                 ],
                 "map_locations": [

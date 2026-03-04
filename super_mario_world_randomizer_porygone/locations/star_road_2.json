@@ -9,21 +9,12 @@
         ],
         "children": [
             {
+                "name": "Star Road 2 - Goal",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            ""
-                        ],
-                        "name": "Normal Exit",
-                        "access_rules": [
-                            "swim"
-                        ],
-                        "chest_unopened_img": "images/checks/goal_sphere_disabled.png",
-                        "chest_opened_img": "images/checks/goal_sphere.png",
-                        "item_count": 1
+                        "ref": "Map/Star Road 2/Normal Exit"
                     }
                 ],
-                "name": "Star Road 2 - Goal",
                 "map_locations": [
                     {
                         "map": "sr2_sub",
@@ -33,21 +24,12 @@
                 ]
             },
             {
+                "name": "Star Road 2 - Keyhole",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            ""
-                        ],
-                        "name": "Secret Exit",
-                        "access_rules": [
-                            "swim, carry"
-                        ],
-                        "chest_unopened_img": "images/checks/goal_sphere_disabled.png",
-                        "chest_opened_img": "images/checks/goal_sphere.png",
-                        "item_count": 1
+                        "ref": "Map/Star Road 2/Secret Exit"
                     }
                 ],
-                "name": "Star Road 2 - Keyhole",
                 "map_locations": [
                     {
                         "map": "sr2_main",
@@ -60,16 +42,7 @@
                 "name": "Star Road 2 - Blocksanity - Star Block #1",
                 "sections": [
                     {
-                        "name": "Star Block #1",
-                        "access_rules": [
-                            "swim"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Star Road 2/Star Block #1"
                     }
                 ],
                 "map_locations": [
@@ -84,16 +57,7 @@
                 "name": "Star Road 2 - Main room",
                 "sections": [
                     {
-                        "name": "Main room",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "room_checks"
-                        ],
-                        "chest_unopened_img": "images/checks/pipe_disabled.png",
-                        "chest_opened_img": "images/checks/pipe.png",
-                        "item_count": 1
+                        "ref": "Map/Star Road 2/Main room"
                     }
                 ],
                 "map_locations": [
@@ -108,16 +72,7 @@
                 "name": "Star Road 2 - Goal room",
                 "sections": [
                     {
-                        "name": "Goal room",
-                        "access_rules": [
-                            "swim"
-                        ],
-                        "visibility_rules": [
-                            "room_checks"
-                        ],
-                        "chest_unopened_img": "images/checks/pipe_disabled.png",
-                        "chest_opened_img": "images/checks/pipe.png",
-                        "item_count": 1
+                        "ref": "Map/Star Road 2/Goal room"
                     }
                 ],
                 "map_locations": [

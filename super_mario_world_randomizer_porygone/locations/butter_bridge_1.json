@@ -9,21 +9,12 @@
         ],
         "children": [
             {
+                "name": "Butter Bridge 1 - Goal",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            ""
-                        ],
-                        "name": "Normal Exit",
-                        "access_rules": [
-                            ""
-                        ],
-                        "chest_unopened_img": "images/checks/goal_sphere_disabled.png",
-                        "chest_opened_img": "images/checks/goal_sphere.png",
-                        "item_count": 1
+                        "ref": "Map/Butter Bridge 1/Normal Exit"
                     }
                 ],
-                "name": "Butter Bridge 1 - Goal",
                 "map_locations": [
                     {
                         "map": "tb1_sub_1",
@@ -33,22 +24,12 @@
                 ]
             },
             {
+                "name": "Butter Bridge 1 - Dragon Coins",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            "dragon_coin_checks"
-                        ],
-                        "name": "Dragon Coins",
-                        "access_rules": [
-                            ""
-                        ],
-                        "chest_unopened_img": "images/checks/dragon_coin_disabled.png",
-                        "chest_opened_img": "images/checks/dragon_coin.png",
-                        "clear_as_group": true,
-                        "item_count": 1
+                        "ref": "Map/Butter Bridge 1/Dragon Coins"
                     }
                 ],
-                "name": "Butter Bridge 1 - Dragon Coin",
                 "map_locations": [
                     {
                         "map": "tb1_main",
@@ -78,21 +59,12 @@
                 ]
             },
             {
+                "name": "Butter Bridge 1 - Prize from bonus block",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            "bonus_block_checks"
-                        ],
-                        "name": "1-Up from Bonus Block",
-                        "access_rules": [
-                            ""
-                        ],
-                        "chest_unopened_img": "images/checks/bonus_disabled.png",
-                        "chest_opened_img": "images/checks/bonus.png",
-                        "item_count": 1
+                        "ref": "Map/Butter Bridge 1/1-Up from Bonus Block"
                     }
                 ],
-                "name": "Butter Bridge 1 - Prize from bonus block",
                 "map_locations": [
                     {
                         "map": "tb1_main",
@@ -105,16 +77,7 @@
                 "name": "Butter Bridge 1 - Blocksanity - Powerup Block #1",
                 "sections": [
                     {
-                        "name": "Powerup Block #1",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Butter Bridge 1/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -129,16 +92,7 @@
                 "name": "Butter Bridge 1 - Blocksanity - Multi Coin Block #1",
                 "sections": [
                     {
-                        "name": "Multi Coin Block #1",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Butter Bridge 1/Multi Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -153,16 +107,7 @@
                 "name": "Butter Bridge 1 - Blocksanity - Multi Coin Block #2",
                 "sections": [
                     {
-                        "name": "Multi Coin Block #2",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Butter Bridge 1/Multi Coin Block #2"
                     }
                 ],
                 "map_locations": [
@@ -177,16 +122,7 @@
                 "name": "Butter Bridge 1 - Blocksanity - Multi Coin Block #3",
                 "sections": [
                     {
-                        "name": "Multi Coin Block #3",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Butter Bridge 1/Multi Coin Block #3"
                     }
                 ],
                 "map_locations": [
@@ -201,16 +137,7 @@
                 "name": "Butter Bridge 1 - Blocksanity - 1-Up Mushroom Block #1",
                 "sections": [
                     {
-                        "name": "1-Up Mushroom Block #1",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Butter Bridge 1/1-Up Mushroom Block #1"
                     }
                 ],
                 "map_locations": [
@@ -225,16 +152,7 @@
                 "name": "Butter Bridge 1 - Main room",
                 "sections": [
                     {
-                        "name": "Main room",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "room_checks"
-                        ],
-                        "chest_unopened_img": "images/checks/pipe_disabled.png",
-                        "chest_opened_img": "images/checks/pipe.png",
-                        "item_count": 1
+                        "ref": "Map/Butter Bridge 1/Main room"
                     }
                 ],
                 "map_locations": [
@@ -249,16 +167,7 @@
                 "name": "Butter Bridge 1 - Goal room",
                 "sections": [
                     {
-                        "name": "Goal room",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "room_checks"
-                        ],
-                        "chest_unopened_img": "images/checks/pipe_disabled.png",
-                        "chest_opened_img": "images/checks/pipe.png",
-                        "item_count": 1
+                        "ref": "Map/Butter Bridge 1/Goal room"
                     }
                 ],
                 "map_locations": [

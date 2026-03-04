@@ -9,21 +9,12 @@
         ],
         "children": [
             {
+                "name": "Blue Switch Palace - Palace Button",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            ""
-                        ],
-                        "name": "Normal Exit",
-                        "access_rules": [
-                            ""
-                        ],
-                        "chest_unopened_img": "images/checks/goal_sphere_disabled.png",
-                        "chest_opened_img": "images/checks/goal_sphere.png",
-                        "item_count": 1
+                        "ref": "Map/Blue Switch Palace/Normal Exit"
                     }
                 ],
-                "name": "Blue Switch Palace - Palace Button",
                 "map_locations": [
                     {
                         "map": "foiz_sub_1",
@@ -36,16 +27,7 @@
                 "name": "Blue Switch Palace - Bonus room",
                 "sections": [
                     {
-                        "name": "Bonus room",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "room_checks"
-                        ],
-                        "chest_unopened_img": "images/checks/pipe_disabled.png",
-                        "chest_opened_img": "images/checks/pipe.png",
-                        "item_count": 1
+                        "ref": "Map/Blue Switch Palace/Bonus room"
                     }
                 ],
                 "map_locations": [
@@ -60,16 +42,7 @@
                 "name": "Blue Switch Palace - Button room",
                 "sections": [
                     {
-                        "name": "Button room",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "room_checks"
-                        ],
-                        "chest_unopened_img": "images/checks/pipe_disabled.png",
-                        "chest_opened_img": "images/checks/pipe.png",
-                        "item_count": 1
+                        "ref": "Map/Blue Switch Palace/Button room"
                     }
                 ],
                 "map_locations": [

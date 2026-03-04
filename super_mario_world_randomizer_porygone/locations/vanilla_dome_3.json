@@ -9,21 +9,12 @@
         ],
         "children": [
             {
+                "name": "Vanilla Dome 3 - Goal",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            ""
-                        ],
-                        "name": "Normal Exit",
-                        "access_rules": [
-                            ""
-                        ],
-                        "chest_unopened_img": "images/checks/goal_sphere_disabled.png",
-                        "chest_opened_img": "images/checks/goal_sphere.png",
-                        "item_count": 1
+                        "ref": "Map/Vanilla Dome 3/Normal Exit"
                     }
                 ],
-                "name": "Vanilla Dome 3 - Goal",
                 "map_locations": [
                     {
                         "map": "vd3_main",
@@ -33,22 +24,12 @@
                 ]
             },
             {
+                "name": "Vanilla Dome 3 - Dragon Coins",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            "dragon_coin_checks"
-                        ],
-                        "name": "Dragon Coins",
-                        "access_rules": [
-                            ""
-                        ],
-                        "chest_unopened_img": "images/checks/dragon_coin_disabled.png",
-                        "chest_opened_img": "images/checks/dragon_coin.png",
-                        "clear_as_group": true,
-                        "item_count": 1
+                        "ref": "Map/Vanilla Dome 3/Dragon Coins"
                     }
                 ],
-                "name": "Vanilla Dome 3 - Dragon Coin",
                 "map_locations": [
                     {
                         "map": "vd3_main",
@@ -83,22 +64,12 @@
                 ]
             },
             {
+                "name": "Vanilla Dome 3 - 3-Up Moon",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            "moon_checks"
-                        ],
-                        "name": "3-Up Moon",
-                        "access_rules": [
-                            "[powerup_3], [run], yoshi, carry, special",
-                            "powerup_3, run"
-                        ],
-                        "chest_unopened_img": "images/checks/moon_disabled.png",
-                        "chest_opened_img": "images/checks/moon.png",
-                        "item_count": 1
+                        "ref": "Map/Vanilla Dome 3/3-Up Moon"
                     }
                 ],
-                "name": "Vanilla Dome 3 - 3-Up Moon",
                 "map_locations": [
                     {
                         "map": "vd3_main",
@@ -111,16 +82,7 @@
                 "name": "Vanilla Dome 3 - Blocksanity - Coin Block #1",
                 "sections": [
                     {
-                        "name": "Coin Block #1",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Vanilla Dome 3/Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -135,16 +97,7 @@
                 "name": "Vanilla Dome 3 - Blocksanity - Flying Question Block #1",
                 "sections": [
                     {
-                        "name": "Flying Question Block #1",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Vanilla Dome 3/Flying Question Block #1"
                     }
                 ],
                 "map_locations": [
@@ -159,16 +112,7 @@
                 "name": "Vanilla Dome 3 - Blocksanity - Flying Question Block #2",
                 "sections": [
                     {
-                        "name": "Flying Question Block #2",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Vanilla Dome 3/Flying Question Block #2"
                     }
                 ],
                 "map_locations": [
@@ -183,16 +127,7 @@
                 "name": "Vanilla Dome 3 - Blocksanity - Powerup Block #1",
                 "sections": [
                     {
-                        "name": "Powerup Block #1",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Vanilla Dome 3/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -207,16 +142,7 @@
                 "name": "Vanilla Dome 3 - Blocksanity - Flying Question Block #3",
                 "sections": [
                     {
-                        "name": "Flying Question Block #3",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Vanilla Dome 3/Flying Question Block #3"
                     }
                 ],
                 "map_locations": [
@@ -231,16 +157,7 @@
                 "name": "Vanilla Dome 3 - Blocksanity - Invisible Coin Block #1",
                 "sections": [
                     {
-                        "name": "Invisible Coin Block #1",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Vanilla Dome 3/Invisible Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -255,16 +172,7 @@
                 "name": "Vanilla Dome 3 - Blocksanity - Powerup Block #2",
                 "sections": [
                     {
-                        "name": "Powerup Block #2",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Vanilla Dome 3/Powerup Block #2"
                     }
                 ],
                 "map_locations": [
@@ -279,16 +187,7 @@
                 "name": "Vanilla Dome 3 - Blocksanity - Multi Coin Block #1",
                 "sections": [
                     {
-                        "name": "Multi Coin Block #1",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Vanilla Dome 3/Multi Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -303,16 +202,7 @@
                 "name": "Vanilla Dome 3 - Blocksanity - Powerup Block #3",
                 "sections": [
                     {
-                        "name": "Powerup Block #3",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Vanilla Dome 3/Powerup Block #3"
                     }
                 ],
                 "map_locations": [
@@ -327,17 +217,7 @@
                 "name": "Vanilla Dome 3 - Blocksanity - Yoshi Block #1",
                 "sections": [
                     {
-                        "name": "Yoshi Block #1",
-                        "access_rules": [
-                            "carry",
-                            "yoshi"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Vanilla Dome 3/Yoshi Block #1"
                     }
                 ],
                 "map_locations": [
@@ -352,16 +232,7 @@
                 "name": "Vanilla Dome 3 - Blocksanity - Powerup Block #4",
                 "sections": [
                     {
-                        "name": "Powerup Block #4",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Vanilla Dome 3/Powerup Block #4"
                     }
                 ],
                 "map_locations": [
@@ -376,17 +247,7 @@
                 "name": "Vanilla Dome 3 - Blocksanity - P-Switch Coin Block #1",
                 "sections": [
                     {
-                        "name": "P-Switch Coin Block #1",
-                        "access_rules": [
-                            "run, powerup_3, p_switch",
-                            "[run], [powerup_3], yoshi, carry, special, p_switch"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Vanilla Dome 3/P-Switch Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -401,17 +262,7 @@
                 "name": "Vanilla Dome 3 - Blocksanity - P-Switch Coin Block #2",
                 "sections": [
                     {
-                        "name": "P-Switch Coin Block #2",
-                        "access_rules": [
-                            "run, powerup_3, p_switch",
-                            "[run], [powerup_3], yoshi, carry, special, p_switch"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Vanilla Dome 3/P-Switch Coin Block #2"
                     }
                 ],
                 "map_locations": [
@@ -426,17 +277,7 @@
                 "name": "Vanilla Dome 3 - Blocksanity - P-Switch Coin Block #3",
                 "sections": [
                     {
-                        "name": "P-Switch Coin Block #3",
-                        "access_rules": [
-                            "run, powerup_3, p_switch",
-                            "[run], [powerup_3], yoshi, carry, special, p_switch"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Vanilla Dome 3/P-Switch Coin Block #3"
                     }
                 ],
                 "map_locations": [
@@ -451,17 +292,7 @@
                 "name": "Vanilla Dome 3 - Blocksanity - P-Switch Coin Block #4",
                 "sections": [
                     {
-                        "name": "P-Switch Coin Block #4",
-                        "access_rules": [
-                            "run, powerup_3, p_switch",
-                            "[run], [powerup_3], yoshi, carry, special, p_switch"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Vanilla Dome 3/P-Switch Coin Block #4"
                     }
                 ],
                 "map_locations": [
@@ -476,17 +307,7 @@
                 "name": "Vanilla Dome 3 - Blocksanity - P-Switch Coin Block #5",
                 "sections": [
                     {
-                        "name": "P-Switch Coin Block #5",
-                        "access_rules": [
-                            "run, powerup_3, p_switch",
-                            "[run], [powerup_3], yoshi, carry, special, p_switch"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Vanilla Dome 3/P-Switch Coin Block #5"
                     }
                 ],
                 "map_locations": [
@@ -501,17 +322,7 @@
                 "name": "Vanilla Dome 3 - Blocksanity - P-Switch Coin Block #6",
                 "sections": [
                     {
-                        "name": "P-Switch Coin Block #6",
-                        "access_rules": [
-                            "run, powerup_3, p_switch",
-                            "[run], [powerup_3], yoshi, carry, special, p_switch"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Vanilla Dome 3/P-Switch Coin Block #6"
                     }
                 ],
                 "map_locations": [
@@ -526,16 +337,7 @@
                 "name": "Vanilla Dome 3 - Main room",
                 "sections": [
                     {
-                        "name": "Main room",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "room_checks"
-                        ],
-                        "chest_unopened_img": "images/checks/pipe_disabled.png",
-                        "chest_opened_img": "images/checks/pipe.png",
-                        "item_count": 1
+                        "ref": "Map/Vanilla Dome 3/Main room"
                     }
                 ],
                 "map_locations": [
@@ -565,16 +367,7 @@
                 "name": "Vanilla Dome 3 - Ice cave room",
                 "sections": [
                     {
-                        "name": "Ice cave room",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "room_checks"
-                        ],
-                        "chest_unopened_img": "images/checks/pipe_disabled.png",
-                        "chest_opened_img": "images/checks/pipe.png",
-                        "item_count": 1
+                        "ref": "Map/Vanilla Dome 3/Ice cave room"
                     }
                 ],
                 "map_locations": [
@@ -594,16 +387,7 @@
                 "name": "Vanilla Dome 3 - Bonus room",
                 "sections": [
                     {
-                        "name": "Bonus room",
-                        "access_rules": [
-                            "run, powerup_3"
-                        ],
-                        "visibility_rules": [
-                            "room_checks"
-                        ],
-                        "chest_unopened_img": "images/checks/pipe_disabled.png",
-                        "chest_opened_img": "images/checks/pipe.png",
-                        "item_count": 1
+                        "ref": "Map/Vanilla Dome 3/Bonus room"
                     }
                 ],
                 "map_locations": [
@@ -623,16 +407,7 @@
                 "name": "Vanilla Dome 3 - Midway Point",
                 "sections": [
                     {
-                        "name": "Midway Point",
-                        "access_rules": [
-                            "midway"
-                        ],
-                        "visibility_rules": [
-                            "midway_point_checks"
-                        ],
-                        "chest_unopened_img": "images/checks/midway_disabled.png",
-                        "chest_opened_img": "images/checks/midway.png",
-                        "item_count": 1
+                        "ref": "Map/Vanilla Dome 3/Midway Point"
                     }
                 ],
                 "map_locations": [

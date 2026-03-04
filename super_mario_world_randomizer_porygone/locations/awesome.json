@@ -9,22 +9,12 @@
         ],
         "children": [
             {
+                "name": "Awesome - Goal",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            ""
-                        ],
-                        "name": "Normal Exit",
-                        "access_rules": [
-                            "[powerup_2]",
-                            "star"
-                        ],
-                        "chest_unopened_img": "images/checks/goal_sphere_disabled.png",
-                        "chest_opened_img": "images/checks/goal_sphere.png",
-                        "item_count": 1
+                        "ref": "Map/Awesome/Normal Exit"
                     }
                 ],
-                "name": "Awesome - Goal",
                 "map_locations": [
                     {
                         "map": "sw4_main",
@@ -34,23 +24,12 @@
                 ]
             },
             {
+                "name": "Awesome - Dragon Coins",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            "dragon_coin_checks"
-                        ],
-                        "name": "Dragon Coins",
-                        "access_rules": [
-                            "[powerup_2]",
-                            "star"
-                        ],
-                        "chest_unopened_img": "images/checks/dragon_coin_disabled.png",
-                        "chest_opened_img": "images/checks/dragon_coin.png",
-                        "clear_as_group": true,
-                        "item_count": 1
+                        "ref": "Map/Awesome/Dragon Coins"
                     }
                 ],
-                "name": "Awesome - Dragon Coin",
                 "map_locations": [
                     {
                         "map": "sw4_main",
@@ -83,16 +62,7 @@
                 "name": "Awesome - Blocksanity - Powerup Block #1",
                 "sections": [
                     {
-                        "name": "Powerup Block #1",
-                        "access_rules": [
-                            "[powerup_2]"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Awesome/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -107,17 +77,7 @@
                 "name": "Awesome - Blocksanity - Star Block #1",
                 "sections": [
                     {
-                        "name": "Star Block #1",
-                        "access_rules": [
-                            "[powerup_2], carry",
-                            "[powerup_2], p_switch"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Awesome/Star Block #1"
                     }
                 ],
                 "map_locations": [
@@ -132,16 +92,7 @@
                 "name": "Awesome - Main room",
                 "sections": [
                     {
-                        "name": "Main room",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "room_checks"
-                        ],
-                        "chest_unopened_img": "images/checks/pipe_disabled.png",
-                        "chest_opened_img": "images/checks/pipe.png",
-                        "item_count": 1
+                        "ref": "Map/Awesome/Main room"
                     }
                 ],
                 "map_locations": [

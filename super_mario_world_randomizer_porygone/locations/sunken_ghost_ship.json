@@ -9,21 +9,12 @@
         ],
         "children": [
             {
+                "name": "Sunken Ghost Ship - Goal",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            ""
-                        ],
-                        "name": "Normal Exit",
-                        "access_rules": [
-                            "swim"
-                        ],
-                        "chest_unopened_img": "images/checks/goal_sphere_disabled.png",
-                        "chest_opened_img": "images/checks/goal_sphere.png",
-                        "item_count": 1
+                        "ref": "Map/Sunken Ghost Ship/Normal Exit"
                     }
                 ],
-                "name": "Sunken Ghost Ship - Goal",
                 "map_locations": [
                     {
                         "map": "ciship_sub_2_vert",
@@ -33,22 +24,12 @@
                 ]
             },
             {
+                "name": "Sunken Ghost Ship - Dragon Coins",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            "dragon_coin_checks"
-                        ],
-                        "name": "Dragon Coins",
-                        "access_rules": [
-                            "swim, star, powerup_3"
-                        ],
-                        "chest_unopened_img": "images/checks/dragon_coin_disabled.png",
-                        "chest_opened_img": "images/checks/dragon_coin.png",
-                        "clear_as_group": true,
-                        "item_count": 1
+                        "ref": "Map/Sunken Ghost Ship/Dragon Coins"
                     }
                 ],
-                "name": "Sunken Ghost Ship - Dragon Coin",
                 "map_locations": [
                     {
                         "map": "ciship_sub_2_vert",
@@ -81,16 +62,7 @@
                 "name": "Sunken Ghost Ship - Blocksanity - Powerup Block #1",
                 "sections": [
                     {
-                        "name": "Powerup Block #1",
-                        "access_rules": [
-                            "[swim]"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Sunken Ghost Ship/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -105,16 +77,7 @@
                 "name": "Sunken Ghost Ship - Blocksanity - Star Block #1",
                 "sections": [
                     {
-                        "name": "Star Block #1",
-                        "access_rules": [
-                            "swim"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Sunken Ghost Ship/Star Block #1"
                     }
                 ],
                 "map_locations": [
@@ -129,16 +92,7 @@
                 "name": "Sunken Ghost Ship - Ship entrance",
                 "sections": [
                     {
-                        "name": "Ship entrance",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "room_checks"
-                        ],
-                        "chest_unopened_img": "images/checks/pipe_disabled.png",
-                        "chest_opened_img": "images/checks/pipe.png",
-                        "item_count": 1
+                        "ref": "Map/Sunken Ghost Ship/Ship entrance"
                     }
                 ],
                 "map_locations": [
@@ -153,16 +107,7 @@
                 "name": "Sunken Ghost Ship - Reappearing ghosts",
                 "sections": [
                     {
-                        "name": "Reappearing ghosts",
-                        "access_rules": [
-                            "swim"
-                        ],
-                        "visibility_rules": [
-                            "room_checks"
-                        ],
-                        "chest_unopened_img": "images/checks/pipe_disabled.png",
-                        "chest_opened_img": "images/checks/pipe.png",
-                        "item_count": 1
+                        "ref": "Map/Sunken Ghost Ship/Reappearing ghosts"
                     }
                 ],
                 "map_locations": [
@@ -182,16 +127,7 @@
                 "name": "Sunken Ghost Ship - Falling room",
                 "sections": [
                     {
-                        "name": "Falling room",
-                        "access_rules": [
-                            "swim"
-                        ],
-                        "visibility_rules": [
-                            "room_checks"
-                        ],
-                        "chest_unopened_img": "images/checks/pipe_disabled.png",
-                        "chest_opened_img": "images/checks/pipe.png",
-                        "item_count": 1
+                        "ref": "Map/Sunken Ghost Ship/Falling room"
                     }
                 ],
                 "map_locations": [

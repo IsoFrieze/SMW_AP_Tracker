@@ -9,21 +9,12 @@
         ],
         "children": [
             {
+                "name": "Forest of Illusion 1 - Goal",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            ""
-                        ],
-                        "name": "Normal Exit",
-                        "access_rules": [
-                            ""
-                        ],
-                        "chest_unopened_img": "images/checks/goal_sphere_disabled.png",
-                        "chest_opened_img": "images/checks/goal_sphere.png",
-                        "item_count": 1
+                        "ref": "Map/Forest of Illusion 1/Normal Exit"
                     }
                 ],
-                "name": "Forest of Illusion 1 - Goal",
                 "map_locations": [
                     {
                         "map": "foi1_main",
@@ -33,22 +24,12 @@
                 ]
             },
             {
+                "name": "Forest of Illusion 1 - Keyhole",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            ""
-                        ],
-                        "name": "Secret Exit",
-                        "access_rules": [
-                            "carry, p_balloon",
-                            "carry, yoshi, [p_balloon]"
-                        ],
-                        "chest_unopened_img": "images/checks/goal_sphere_disabled.png",
-                        "chest_opened_img": "images/checks/goal_sphere.png",
-                        "item_count": 1
+                        "ref": "Map/Forest of Illusion 1/Secret Exit"
                     }
                 ],
-                "name": "Forest of Illusion 1 - Keyhole",
                 "map_locations": [
                     {
                         "map": "foi1_main",
@@ -61,16 +42,7 @@
                 "name": "Forest of Illusion 1 - Blocksanity - Powerup Block #1",
                 "sections": [
                     {
-                        "name": "Powerup Block #1",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Forest of Illusion 1/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -85,16 +57,7 @@
                 "name": "Forest of Illusion 1 - Blocksanity - Yoshi Block #1",
                 "sections": [
                     {
-                        "name": "Yoshi Block #1",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Forest of Illusion 1/Yoshi Block #1"
                     }
                 ],
                 "map_locations": [
@@ -109,16 +72,7 @@
                 "name": "Forest of Illusion 1 - Blocksanity - Powerup Block #2",
                 "sections": [
                     {
-                        "name": "Powerup Block #2",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Forest of Illusion 1/Powerup Block #2"
                     }
                 ],
                 "map_locations": [
@@ -133,17 +87,7 @@
                 "name": "Forest of Illusion 1 - Blocksanity - Key Block #1",
                 "sections": [
                     {
-                        "name": "Key Block #1",
-                        "access_rules": [
-                            "p_balloon",
-                            "[p_balloon], yoshi"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Forest of Illusion 1/Key Block #1"
                     }
                 ],
                 "map_locations": [
@@ -158,16 +102,7 @@
                 "name": "Forest of Illusion 1 - Blocksanity - 1-Up Mushroom Block #1",
                 "sections": [
                     {
-                        "name": "1-Up Mushroom Block #1",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Forest of Illusion 1/1-Up Mushroom Block #1"
                     }
                 ],
                 "map_locations": [
@@ -182,16 +117,7 @@
                 "name": "Forest of Illusion 1 - Main room",
                 "sections": [
                     {
-                        "name": "Main room",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "room_checks"
-                        ],
-                        "chest_unopened_img": "images/checks/pipe_disabled.png",
-                        "chest_opened_img": "images/checks/pipe.png",
-                        "item_count": 1
+                        "ref": "Map/Forest of Illusion 1/Main room"
                     }
                 ],
                 "map_locations": [
@@ -206,16 +132,7 @@
                 "name": "Forest of Illusion 1 - Midway Point",
                 "sections": [
                     {
-                        "name": "Midway Point",
-                        "access_rules": [
-                            "midway"
-                        ],
-                        "visibility_rules": [
-                            "midway_point_checks"
-                        ],
-                        "chest_unopened_img": "images/checks/midway_disabled.png",
-                        "chest_opened_img": "images/checks/midway.png",
-                        "item_count": 1
+                        "ref": "Map/Forest of Illusion 1/Midway Point"
                     }
                 ],
                 "map_locations": [

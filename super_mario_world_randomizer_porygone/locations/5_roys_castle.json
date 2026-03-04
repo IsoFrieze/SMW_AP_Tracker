@@ -9,21 +9,12 @@
         ],
         "children": [
             {
+                "name": "#5 Roy's Castle - Goal",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            ""
-                        ],
-                        "name": "Normal Exit",
-                        "access_rules": [
-                            ""
-                        ],
-                        "chest_unopened_img": "images/checks/goal_sphere_disabled.png",
-                        "chest_opened_img": "images/checks/goal_sphere.png",
-                        "item_count": 1
+                        "ref": "Map/#5 Roy's Castle/Goal"
                     }
                 ],
-                "name": "#5 Roy's Castle - Goal",
                 "map_locations": [
                     {
                         "map": "foic_main",
@@ -33,22 +24,12 @@
                 ]
             },
             {
+                "name": "#5 Roy's Castle - Dragon Coins",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            "dragon_coin_checks"
-                        ],
-                        "name": "Dragon Coins",
-                        "access_rules": [
-                            ""
-                        ],
-                        "chest_unopened_img": "images/checks/dragon_coin_disabled.png",
-                        "chest_opened_img": "images/checks/dragon_coin.png",
-                        "clear_as_group": true,
-                        "item_count": 1
+                        "ref": "Map/#5 Roy's Castle/Dragon Coins"
                     }
                 ],
-                "name": "#5 Roy's Castle - Dragon Coin",
                 "map_locations": [
                     {
                         "map": "foic_main",
@@ -81,16 +62,7 @@
                 "name": "#5 Roy's Castle - Blocksanity - Green Switch Palace Block #1",
                 "sections": [
                     {
-                        "name": "Green Switch Palace Block #1",
-                        "access_rules": [
-                            "gsp"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/#5 Roy's Castle/Green Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -105,16 +77,7 @@
                 "name": "#5 Roy's Castle - Main room",
                 "sections": [
                     {
-                        "name": "Main room",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "room_checks"
-                        ],
-                        "chest_unopened_img": "images/checks/pipe_disabled.png",
-                        "chest_opened_img": "images/checks/pipe.png",
-                        "item_count": 1
+                        "ref": "Map/#5 Roy's Castle/Main room"
                     }
                 ],
                 "map_locations": [

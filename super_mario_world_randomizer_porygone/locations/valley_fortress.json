@@ -9,21 +9,12 @@
         ],
         "children": [
             {
+                "name": "Valley Fortress - Boss battle",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            ""
-                        ],
-                        "name": "Normal Exit",
-                        "access_rules": [
-                            "powerup_1"
-                        ],
-                        "chest_unopened_img": "images/checks/goal_sphere_disabled.png",
-                        "chest_opened_img": "images/checks/goal_sphere.png",
-                        "item_count": 1
+                        "ref": "Map/Valley Fortress/Normal Exit"
                     }
                 ],
-                "name": "Valley Fortress - Boss battle",
                 "map_locations": [
                     {
                         "map": "vobf_main",
@@ -36,16 +27,7 @@
                 "name": "Valley Fortress - Blocksanity - Green Switch Palace Block #1",
                 "sections": [
                     {
-                        "name": "Green Switch Palace Block #1",
-                        "access_rules": [
-                            "gsp"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Valley Fortress/Green Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -60,16 +42,7 @@
                 "name": "Valley Fortress - Blocksanity - Yellow Switch Palace Block #1",
                 "sections": [
                     {
-                        "name": "Yellow Switch Palace Block #1",
-                        "access_rules": [
-                            "ysp"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Valley Fortress/Yellow Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -84,16 +57,7 @@
                 "name": "Valley Fortress - Main room",
                 "sections": [
                     {
-                        "name": "Main room",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "room_checks"
-                        ],
-                        "chest_unopened_img": "images/checks/pipe_disabled.png",
-                        "chest_opened_img": "images/checks/pipe.png",
-                        "item_count": 1
+                        "ref": "Map/Valley Fortress/Main room"
                     }
                 ],
                 "map_locations": [

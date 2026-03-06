@@ -12,6 +12,7 @@
                 "name": "Awesome - Goal",
                 "sections": [
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Awesome/Normal Exit"
                     }
                 ],
@@ -27,6 +28,7 @@
                 "name": "Awesome - Dragon Coins",
                 "sections": [
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Awesome/Dragon Coins"
                     }
                 ],
@@ -62,6 +64,7 @@
                 "name": "Awesome - Blocksanity - Powerup Block #1",
                 "sections": [
                     {
+                        "name": "Powerup Block #1",
                         "ref": "Map/Awesome/Powerup Block #1"
                     }
                 ],
@@ -77,6 +80,7 @@
                 "name": "Awesome - Blocksanity - Star Block #1",
                 "sections": [
                     {
+                        "name": "Star Block #1",
                         "ref": "Map/Awesome/Star Block #1"
                     }
                 ],
@@ -92,18 +96,23 @@
                 "name": "Awesome - Main room",
                 "sections": [
                     {
+                        "name": "Main room",
                         "ref": "Map/Awesome/Main room"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Awesome/Normal Exit"
                     },
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Awesome/Dragon Coins"
                     },
                     {
+                        "name": "Powerup Block #1",
                         "ref": "Map/Awesome/Powerup Block #1"
                     },
                     {
+                        "name": "Star Block #1",
                         "ref": "Map/Awesome/Star Block #1"
                     }
                 ],

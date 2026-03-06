@@ -12,6 +12,7 @@
                 "name": "Forest of Illusion 1 - Goal",
                 "sections": [
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Forest of Illusion 1/Normal Exit"
                     }
                 ],
@@ -27,6 +28,7 @@
                 "name": "Forest of Illusion 1 - Keyhole",
                 "sections": [
                     {
+                        "name": "Secret Exit",
                         "ref": "Map/Forest of Illusion 1/Secret Exit"
                     }
                 ],
@@ -42,6 +44,7 @@
                 "name": "Forest of Illusion 1 - Blocksanity - Powerup Block #1",
                 "sections": [
                     {
+                        "name": "Powerup Block #1",
                         "ref": "Map/Forest of Illusion 1/Powerup Block #1"
                     }
                 ],
@@ -57,6 +60,7 @@
                 "name": "Forest of Illusion 1 - Blocksanity - Yoshi Block #1",
                 "sections": [
                     {
+                        "name": "Yoshi Block #1",
                         "ref": "Map/Forest of Illusion 1/Yoshi Block #1"
                     }
                 ],
@@ -72,6 +76,7 @@
                 "name": "Forest of Illusion 1 - Blocksanity - Powerup Block #2",
                 "sections": [
                     {
+                        "name": "Powerup Block #2",
                         "ref": "Map/Forest of Illusion 1/Powerup Block #2"
                     }
                 ],
@@ -87,6 +92,7 @@
                 "name": "Forest of Illusion 1 - Blocksanity - Key Block #1",
                 "sections": [
                     {
+                        "name": "Key Block #1",
                         "ref": "Map/Forest of Illusion 1/Key Block #1"
                     }
                 ],
@@ -102,6 +108,7 @@
                 "name": "Forest of Illusion 1 - Blocksanity - 1-Up Mushroom Block #1",
                 "sections": [
                     {
+                        "name": "1-Up Mushroom Block #1",
                         "ref": "Map/Forest of Illusion 1/1-Up Mushroom Block #1"
                     }
                 ],
@@ -117,6 +124,7 @@
                 "name": "Forest of Illusion 1 - Midway Point",
                 "sections": [
                     {
+                        "name": "Midway Point",
                         "ref": "Map/Forest of Illusion 1/Midway Point"
                     }
                 ],
@@ -132,30 +140,39 @@
                 "name": "Forest of Illusion 1 - Main room",
                 "sections": [
                     {
+                        "name": "Main room",
                         "ref": "Map/Forest of Illusion 1/Main room"
                     },
                     {
+                        "name": "Midway Point",
                         "ref": "Map/Forest of Illusion 1/Midway Point"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Forest of Illusion 1/Normal Exit"
                     },
                     {
+                        "name": "Secret Exit",
                         "ref": "Map/Forest of Illusion 1/Secret Exit"
                     },
                     {
+                        "name": "Powerup Block #1",
                         "ref": "Map/Forest of Illusion 1/Powerup Block #1"
                     },
                     {
+                        "name": "Yoshi Block #1",
                         "ref": "Map/Forest of Illusion 1/Yoshi Block #1"
                     },
                     {
+                        "name": "1-Up Mushroom Block #1",
                         "ref": "Map/Forest of Illusion 1/1-Up Mushroom Block #1"
                     },
                     {
+                        "name": "Powerup Block #2",
                         "ref": "Map/Forest of Illusion 1/Powerup Block #2"
                     },
                     {
+                        "name": "Key Block #1",
                         "ref": "Map/Forest of Illusion 1/Key Block #1"
                     }
                 ],

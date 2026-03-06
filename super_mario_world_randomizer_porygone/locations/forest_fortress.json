@@ -12,6 +12,7 @@
                 "name": "Forest Fortress - Boss battle",
                 "sections": [
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Forest Fortress/Normal Exit"
                     }
                 ],
@@ -32,6 +33,7 @@
                 "name": "Forest Fortress - Blocksanity - Yellow Switch Palace Block #1",
                 "sections": [
                     {
+                        "name": "Yellow Switch Palace Block #1",
                         "ref": "Map/Forest Fortress/Yellow Switch Palace Block #1"
                     }
                 ],
@@ -47,6 +49,7 @@
                 "name": "Forest Fortress - Blocksanity - Powerup Block #1",
                 "sections": [
                     {
+                        "name": "Powerup Block #1",
                         "ref": "Map/Forest Fortress/Powerup Block #1"
                     }
                 ],
@@ -62,6 +65,7 @@
                 "name": "Forest Fortress - Blocksanity - 1-Up Mushroom Block #1",
                 "sections": [
                     {
+                        "name": "1-Up Mushroom Block #1",
                         "ref": "Map/Forest Fortress/1-Up Mushroom Block #1"
                     }
                 ],
@@ -77,6 +81,7 @@
                 "name": "Forest Fortress - Blocksanity - 1-Up Mushroom Block #2",
                 "sections": [
                     {
+                        "name": "1-Up Mushroom Block #2",
                         "ref": "Map/Forest Fortress/1-Up Mushroom Block #2"
                     }
                 ],
@@ -92,6 +97,7 @@
                 "name": "Forest Fortress - Blocksanity - 1-Up Mushroom Block #3",
                 "sections": [
                     {
+                        "name": "1-Up Mushroom Block #3",
                         "ref": "Map/Forest Fortress/1-Up Mushroom Block #3"
                     }
                 ],
@@ -107,6 +113,7 @@
                 "name": "Forest Fortress - Blocksanity - 1-Up Mushroom Block #4",
                 "sections": [
                     {
+                        "name": "1-Up Mushroom Block #4",
                         "ref": "Map/Forest Fortress/1-Up Mushroom Block #4"
                     }
                 ],
@@ -122,6 +129,7 @@
                 "name": "Forest Fortress - Blocksanity - 1-Up Mushroom Block #5",
                 "sections": [
                     {
+                        "name": "1-Up Mushroom Block #5",
                         "ref": "Map/Forest Fortress/1-Up Mushroom Block #5"
                     }
                 ],
@@ -137,6 +145,7 @@
                 "name": "Forest Fortress - Blocksanity - 1-Up Mushroom Block #6",
                 "sections": [
                     {
+                        "name": "1-Up Mushroom Block #6",
                         "ref": "Map/Forest Fortress/1-Up Mushroom Block #6"
                     }
                 ],
@@ -152,6 +161,7 @@
                 "name": "Forest Fortress - Blocksanity - 1-Up Mushroom Block #7",
                 "sections": [
                     {
+                        "name": "1-Up Mushroom Block #7",
                         "ref": "Map/Forest Fortress/1-Up Mushroom Block #7"
                     }
                 ],
@@ -167,6 +177,7 @@
                 "name": "Forest Fortress - Blocksanity - 1-Up Mushroom Block #8",
                 "sections": [
                     {
+                        "name": "1-Up Mushroom Block #8",
                         "ref": "Map/Forest Fortress/1-Up Mushroom Block #8"
                     }
                 ],
@@ -182,6 +193,7 @@
                 "name": "Forest Fortress - Blocksanity - 1-Up Mushroom Block #9",
                 "sections": [
                     {
+                        "name": "1-Up Mushroom Block #9",
                         "ref": "Map/Forest Fortress/1-Up Mushroom Block #9"
                     }
                 ],
@@ -197,6 +209,7 @@
                 "name": "Forest Fortress - Smashers room",
                 "sections": [
                     {
+                        "name": "Smashers room",
                         "ref": "Map/Forest Fortress/Smashers room"
                     }
                 ],
@@ -212,42 +225,55 @@
                 "name": "Forest Fortress - Lava pool room",
                 "sections": [
                     {
+                        "name": "Lava pool room",
                         "ref": "Map/Forest Fortress/Lava pool room"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Forest Fortress/Normal Exit"
                     },
                     {
+                        "name": "Yellow Switch Palace Block #1",
                         "ref": "Map/Forest Fortress/Yellow Switch Palace Block #1"
                     },
                     {
+                        "name": "Powerup Block #1",
                         "ref": "Map/Forest Fortress/Powerup Block #1"
                     },
                     {
+                        "name": "1-Up Mushroom Block #1",
                         "ref": "Map/Forest Fortress/1-Up Mushroom Block #1"
                     },
                     {
+                        "name": "1-Up Mushroom Block #2",
                         "ref": "Map/Forest Fortress/1-Up Mushroom Block #2"
                     },
                     {
+                        "name": "1-Up Mushroom Block #3",
                         "ref": "Map/Forest Fortress/1-Up Mushroom Block #3"
                     },
                     {
+                        "name": "1-Up Mushroom Block #4",
                         "ref": "Map/Forest Fortress/1-Up Mushroom Block #4"
                     },
                     {
+                        "name": "1-Up Mushroom Block #5",
                         "ref": "Map/Forest Fortress/1-Up Mushroom Block #5"
                     },
                     {
+                        "name": "1-Up Mushroom Block #6",
                         "ref": "Map/Forest Fortress/1-Up Mushroom Block #6"
                     },
                     {
+                        "name": "1-Up Mushroom Block #7",
                         "ref": "Map/Forest Fortress/1-Up Mushroom Block #7"
                     },
                     {
+                        "name": "1-Up Mushroom Block #8",
                         "ref": "Map/Forest Fortress/1-Up Mushroom Block #8"
                     },
                     {
+                        "name": "1-Up Mushroom Block #9",
                         "ref": "Map/Forest Fortress/1-Up Mushroom Block #9"
                     }
                 ],
@@ -263,42 +289,55 @@
                 "name": "Forest Fortress - Door to Lava pool room",
                 "sections": [
                     {
+                        "name": "Lava pool room",
                         "ref": "Map/Forest Fortress/Lava pool room"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Forest Fortress/Normal Exit"
                     },
                     {
+                        "name": "Yellow Switch Palace Block #1",
                         "ref": "Map/Forest Fortress/Yellow Switch Palace Block #1"
                     },
                     {
+                        "name": "Powerup Block #1",
                         "ref": "Map/Forest Fortress/Powerup Block #1"
                     },
                     {
+                        "name": "1-Up Mushroom Block #1",
                         "ref": "Map/Forest Fortress/1-Up Mushroom Block #1"
                     },
                     {
+                        "name": "1-Up Mushroom Block #2",
                         "ref": "Map/Forest Fortress/1-Up Mushroom Block #2"
                     },
                     {
+                        "name": "1-Up Mushroom Block #3",
                         "ref": "Map/Forest Fortress/1-Up Mushroom Block #3"
                     },
                     {
+                        "name": "1-Up Mushroom Block #4",
                         "ref": "Map/Forest Fortress/1-Up Mushroom Block #4"
                     },
                     {
+                        "name": "1-Up Mushroom Block #5",
                         "ref": "Map/Forest Fortress/1-Up Mushroom Block #5"
                     },
                     {
+                        "name": "1-Up Mushroom Block #6",
                         "ref": "Map/Forest Fortress/1-Up Mushroom Block #6"
                     },
                     {
+                        "name": "1-Up Mushroom Block #7",
                         "ref": "Map/Forest Fortress/1-Up Mushroom Block #7"
                     },
                     {
+                        "name": "1-Up Mushroom Block #8",
                         "ref": "Map/Forest Fortress/1-Up Mushroom Block #8"
                     },
                     {
+                        "name": "1-Up Mushroom Block #9",
                         "ref": "Map/Forest Fortress/1-Up Mushroom Block #9"
                     }
                 ],

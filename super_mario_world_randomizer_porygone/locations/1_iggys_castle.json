@@ -12,6 +12,7 @@
                 "name": "#1 Iggy's Castle - Boss battle",
                 "sections": [
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/#1 Iggy's Castle/Normal Exit"
                     }
                 ],
@@ -27,6 +28,7 @@
                 "name": "#1 Iggy's Castle - Blocksanity - Coin Block #1",
                 "sections": [
                     {
+                        "name": "Coin Block #1",
                         "ref": "Map/#1 Iggy's Castle/Coin Block #1"
                     }
                 ],
@@ -42,6 +44,7 @@
                 "name": "#1 Iggy's Castle - Blocksanity - Coin Block #2",
                 "sections": [
                     {
+                        "name": "Coin Block #2",
                         "ref": "Map/#1 Iggy's Castle/Coin Block #2"
                     }
                 ],
@@ -57,6 +60,7 @@
                 "name": "#1 Iggy's Castle - Blocksanity - Powerup Block #1",
                 "sections": [
                     {
+                        "name": "Powerup Block #1",
                         "ref": "Map/#1 Iggy's Castle/Powerup Block #1"
                     }
                 ],
@@ -72,6 +76,7 @@
                 "name": "#1 Iggy's Castle - Blocksanity - Coin Block #3",
                 "sections": [
                     {
+                        "name": "Coin Block #3",
                         "ref": "Map/#1 Iggy's Castle/Coin Block #3"
                     }
                 ],
@@ -87,6 +92,7 @@
                 "name": "#1 Iggy's Castle - Blocksanity - Coin Block #4",
                 "sections": [
                     {
+                        "name": "Coin Block #4",
                         "ref": "Map/#1 Iggy's Castle/Coin Block #4"
                     }
                 ],
@@ -102,6 +108,7 @@
                 "name": "#1 Iggy's Castle - Blocksanity - Flying Question Block #1",
                 "sections": [
                     {
+                        "name": "Flying Question Block #1",
                         "ref": "Map/#1 Iggy's Castle/Flying Question Block #1"
                     }
                 ],
@@ -117,6 +124,7 @@
                 "name": "#1 Iggy's Castle - Midway Point",
                 "sections": [
                     {
+                        "name": "Midway Point",
                         "ref": "Map/#1 Iggy's Castle/Midway Point"
                     }
                 ],
@@ -132,24 +140,31 @@
                 "name": "#1 Iggy's Castle - Net room",
                 "sections": [
                     {
+                        "name": "Net room",
                         "ref": "Map/#1 Iggy's Castle/Net room"
                     },
                     {
+                        "name": "Midway Point",
                         "ref": "Map/#1 Iggy's Castle/Midway Point"
                     },
                     {
+                        "name": "Coin Block #1",
                         "ref": "Map/#1 Iggy's Castle/Coin Block #1"
                     },
                     {
+                        "name": "Coin Block #2",
                         "ref": "Map/#1 Iggy's Castle/Coin Block #2"
                     },
                     {
+                        "name": "Powerup Block #1",
                         "ref": "Map/#1 Iggy's Castle/Powerup Block #1"
                     },
                     {
+                        "name": "Coin Block #3",
                         "ref": "Map/#1 Iggy's Castle/Coin Block #3"
                     },
                     {
+                        "name": "Coin Block #4",
                         "ref": "Map/#1 Iggy's Castle/Coin Block #4"
                     }
                 ],
@@ -165,12 +180,15 @@
                 "name": "#1 Iggy's Castle - Smashers room",
                 "sections": [
                     {
+                        "name": "Smashers room",
                         "ref": "Map/#1 Iggy's Castle/Smashers room"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/#1 Iggy's Castle/Normal Exit"
                     },
                     {
+                        "name": "Flying Question Block #1",
                         "ref": "Map/#1 Iggy's Castle/Flying Question Block #1"
                     }
                 ],
@@ -186,12 +204,15 @@
                 "name": "#1 Iggy's Castle - Door to Smashers room",
                 "sections": [
                     {
+                        "name": "Smashers room",
                         "ref": "Map/#1 Iggy's Castle/Smashers room"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/#1 Iggy's Castle/Normal Exit"
                     },
                     {
+                        "name": "Flying Question Block #1",
                         "ref": "Map/#1 Iggy's Castle/Flying Question Block #1"
                     }
                 ],

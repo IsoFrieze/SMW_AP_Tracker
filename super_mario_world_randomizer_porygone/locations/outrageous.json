@@ -12,6 +12,7 @@
                 "name": "Outrageous - Goal",
                 "sections": [
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Outrageous/Normal Exit"
                     }
                 ],
@@ -27,6 +28,7 @@
                 "name": "Outrageous - Dragon Coins",
                 "sections": [
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Outrageous/Dragon Coins"
                     }
                 ],
@@ -62,6 +64,7 @@
                 "name": "Outrageous - Blocksanity - Powerup Block #1",
                 "sections": [
                     {
+                        "name": "Powerup Block #1",
                         "ref": "Map/Outrageous/Powerup Block #1"
                     }
                 ],
@@ -77,6 +80,7 @@
                 "name": "Outrageous - Blocksanity - Yoshi Block #1",
                 "sections": [
                     {
+                        "name": "Yoshi Block #1",
                         "ref": "Map/Outrageous/Yoshi Block #1"
                     }
                 ],
@@ -92,6 +96,7 @@
                 "name": "Outrageous - Blocksanity - Coin Block #1",
                 "sections": [
                     {
+                        "name": "Coin Block #1",
                         "ref": "Map/Outrageous/Coin Block #1"
                     }
                 ],
@@ -107,6 +112,7 @@
                 "name": "Outrageous - Blocksanity - Powerup Block #2",
                 "sections": [
                     {
+                        "name": "Powerup Block #2",
                         "ref": "Map/Outrageous/Powerup Block #2"
                     }
                 ],
@@ -122,6 +128,7 @@
                 "name": "Outrageous - Blocksanity - Coin Block #2",
                 "sections": [
                     {
+                        "name": "Coin Block #2",
                         "ref": "Map/Outrageous/Coin Block #2"
                     }
                 ],
@@ -137,27 +144,35 @@
                 "name": "Outrageous - Main room",
                 "sections": [
                     {
+                        "name": "Main room",
                         "ref": "Map/Outrageous/Main room"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Outrageous/Normal Exit"
                     },
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Outrageous/Dragon Coins"
                     },
                     {
+                        "name": "Powerup Block #1",
                         "ref": "Map/Outrageous/Powerup Block #1"
                     },
                     {
+                        "name": "Yoshi Block #1",
                         "ref": "Map/Outrageous/Yoshi Block #1"
                     },
                     {
+                        "name": "Coin Block #1",
                         "ref": "Map/Outrageous/Coin Block #1"
                     },
                     {
+                        "name": "Powerup Block #2",
                         "ref": "Map/Outrageous/Powerup Block #2"
                     },
                     {
+                        "name": "Coin Block #2",
                         "ref": "Map/Outrageous/Coin Block #2"
                     }
                 ],

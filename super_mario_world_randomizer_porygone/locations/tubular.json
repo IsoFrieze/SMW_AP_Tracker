@@ -12,6 +12,7 @@
                 "name": "Tubular - Goal",
                 "sections": [
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Tubular/Normal Exit"
                     }
                 ],
@@ -27,6 +28,7 @@
                 "name": "Tubular - Dragon Coins",
                 "sections": [
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Tubular/Dragon Coins"
                     }
                 ],
@@ -67,6 +69,7 @@
                 "name": "Tubular - Blocksanity - Powerup Block #1",
                 "sections": [
                     {
+                        "name": "Powerup Block #1",
                         "ref": "Map/Tubular/Powerup Block #1"
                     }
                 ],
@@ -82,6 +85,7 @@
                 "name": "Tubular - Blocksanity - Coin Block #1",
                 "sections": [
                     {
+                        "name": "Coin Block #1",
                         "ref": "Map/Tubular/Coin Block #1"
                     }
                 ],
@@ -97,6 +101,7 @@
                 "name": "Tubular - Blocksanity - Coin Block #2",
                 "sections": [
                     {
+                        "name": "Coin Block #2",
                         "ref": "Map/Tubular/Coin Block #2"
                     }
                 ],
@@ -112,6 +117,7 @@
                 "name": "Tubular - Blocksanity - Powerup Block #2",
                 "sections": [
                     {
+                        "name": "Powerup Block #2",
                         "ref": "Map/Tubular/Powerup Block #2"
                     }
                 ],
@@ -127,6 +133,7 @@
                 "name": "Tubular - Blocksanity - Coin Block #3",
                 "sections": [
                     {
+                        "name": "Coin Block #3",
                         "ref": "Map/Tubular/Coin Block #3"
                     }
                 ],
@@ -142,6 +149,7 @@
                 "name": "Tubular - Blocksanity - Coin Block #4",
                 "sections": [
                     {
+                        "name": "Coin Block #4",
                         "ref": "Map/Tubular/Coin Block #4"
                     }
                 ],
@@ -157,6 +165,7 @@
                 "name": "Tubular - Blocksanity - Powerup Block #3",
                 "sections": [
                     {
+                        "name": "Powerup Block #3",
                         "ref": "Map/Tubular/Powerup Block #3"
                     }
                 ],
@@ -172,6 +181,7 @@
                 "name": "Tubular - Blocksanity - Multi Coin Block #1",
                 "sections": [
                     {
+                        "name": "Multi Coin Block #1",
                         "ref": "Map/Tubular/Multi Coin Block #1"
                     }
                 ],
@@ -187,6 +197,7 @@
                 "name": "Tubular - Blocksanity - Coin Block #5",
                 "sections": [
                     {
+                        "name": "Coin Block #5",
                         "ref": "Map/Tubular/Coin Block #5"
                     }
                 ],
@@ -202,6 +213,7 @@
                 "name": "Tubular - Blocksanity - Coin Block #6",
                 "sections": [
                     {
+                        "name": "Coin Block #6",
                         "ref": "Map/Tubular/Coin Block #6"
                     }
                 ],
@@ -217,42 +229,55 @@
                 "name": "Tubular - Main room",
                 "sections": [
                     {
+                        "name": "Main room",
                         "ref": "Map/Tubular/Main room"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Tubular/Normal Exit"
                     },
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Tubular/Dragon Coins"
                     },
                     {
+                        "name": "Powerup Block #1",
                         "ref": "Map/Tubular/Powerup Block #1"
                     },
                     {
+                        "name": "Coin Block #1",
                         "ref": "Map/Tubular/Coin Block #1"
                     },
                     {
+                        "name": "Coin Block #2",
                         "ref": "Map/Tubular/Coin Block #2"
                     },
                     {
+                        "name": "Powerup Block #2",
                         "ref": "Map/Tubular/Powerup Block #2"
                     },
                     {
+                        "name": "Coin Block #3",
                         "ref": "Map/Tubular/Coin Block #3"
                     },
                     {
+                        "name": "Coin Block #4",
                         "ref": "Map/Tubular/Coin Block #4"
                     },
                     {
+                        "name": "Powerup Block #3",
                         "ref": "Map/Tubular/Powerup Block #3"
                     },
                     {
+                        "name": "Multi Coin Block #1",
                         "ref": "Map/Tubular/Multi Coin Block #1"
                     },
                     {
+                        "name": "Coin Block #5",
                         "ref": "Map/Tubular/Coin Block #5"
                     },
                     {
+                        "name": "Coin Block #6",
                         "ref": "Map/Tubular/Coin Block #6"
                     }
                 ],

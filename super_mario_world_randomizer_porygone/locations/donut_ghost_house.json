@@ -12,6 +12,7 @@
                 "name": "Donut Ghost House - Goal",
                 "sections": [
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Donut Ghost House/Normal Exit"
                     }
                 ],
@@ -27,6 +28,7 @@
                 "name": "Donut Ghost House - Secret goal",
                 "sections": [
                     {
+                        "name": "Secret Exit",
                         "ref": "Map/Donut Ghost House/Secret Exit"
                     }
                 ],
@@ -42,6 +44,7 @@
                 "name": "Donut Ghost House - Blocksanity - Vine|P-Switch Block #1",
                 "sections": [
                     {
+                        "name": "Vine|P-Switch Block #1",
                         "ref": "Map/Donut Ghost House/Vine|P-Switch Block #1"
                     }
                 ],
@@ -62,6 +65,7 @@
                 "name": "Donut Ghost House - Blocksanity - Directional Coin Block #1",
                 "sections": [
                     {
+                        "name": "Directional Coin Block #1",
                         "ref": "Map/Donut Ghost House/Directional Coin Block #1"
                     }
                 ],
@@ -77,6 +81,7 @@
                 "name": "Donut Ghost House - Blocksanity - 1-Up Mushroom Block #1",
                 "sections": [
                     {
+                        "name": "1-Up Mushroom Block #1",
                         "ref": "Map/Donut Ghost House/1-Up Mushroom Block #1"
                     }
                 ],
@@ -92,6 +97,7 @@
                 "name": "Donut Ghost House - Blocksanity - 1-Up Mushroom Block #2",
                 "sections": [
                     {
+                        "name": "1-Up Mushroom Block #2",
                         "ref": "Map/Donut Ghost House/1-Up Mushroom Block #2"
                     }
                 ],
@@ -107,6 +113,7 @@
                 "name": "Donut Ghost House - Blocksanity - 1-Up Mushroom Block #3",
                 "sections": [
                     {
+                        "name": "1-Up Mushroom Block #3",
                         "ref": "Map/Donut Ghost House/1-Up Mushroom Block #3"
                     }
                 ],
@@ -122,6 +129,7 @@
                 "name": "Donut Ghost House - Blocksanity - 1-Up Mushroom Block #4",
                 "sections": [
                     {
+                        "name": "1-Up Mushroom Block #4",
                         "ref": "Map/Donut Ghost House/1-Up Mushroom Block #4"
                     }
                 ],
@@ -137,18 +145,23 @@
                 "name": "Donut Ghost House - Ghost ceiling room",
                 "sections": [
                     {
+                        "name": "Ghost ceiling room",
                         "ref": "Map/Donut Ghost House/Ghost ceiling room"
                     },
                     {
+                        "name": "1-Up Mushroom Block #1",
                         "ref": "Map/Donut Ghost House/1-Up Mushroom Block #1"
                     },
                     {
+                        "name": "1-Up Mushroom Block #2",
                         "ref": "Map/Donut Ghost House/1-Up Mushroom Block #2"
                     },
                     {
+                        "name": "1-Up Mushroom Block #3",
                         "ref": "Map/Donut Ghost House/1-Up Mushroom Block #3"
                     },
                     {
+                        "name": "1-Up Mushroom Block #4",
                         "ref": "Map/Donut Ghost House/1-Up Mushroom Block #4"
                     }
                 ],
@@ -164,9 +177,11 @@
                 "name": "Donut Ghost House - Stairs room #1",
                 "sections": [
                     {
+                        "name": "Stairs room #1",
                         "ref": "Map/Donut Ghost House/Stairs room #1"
                     },
                     {
+                        "name": "Vine|P-Switch Block #1",
                         "ref": "Map/Donut Ghost House/Vine|P-Switch Block #1"
                     }
                 ],
@@ -182,9 +197,11 @@
                 "name": "Donut Ghost House - Stairs room #2",
                 "sections": [
                     {
+                        "name": "Stairs room #2",
                         "ref": "Map/Donut Ghost House/Stairs room #2"
                     },
                     {
+                        "name": "Vine|P-Switch Block #1",
                         "ref": "Map/Donut Ghost House/Vine|P-Switch Block #1"
                     }
                 ],
@@ -200,9 +217,11 @@
                 "name": "Donut Ghost House - Directional coin room",
                 "sections": [
                     {
+                        "name": "Directional coin room",
                         "ref": "Map/Donut Ghost House/Directional coin room"
                     },
                     {
+                        "name": "Directional Coin Block #1",
                         "ref": "Map/Donut Ghost House/Directional Coin Block #1"
                     }
                 ],
@@ -218,9 +237,11 @@
                 "name": "Donut Ghost House - Secret goal room",
                 "sections": [
                     {
+                        "name": "Secret goal room",
                         "ref": "Map/Donut Ghost House/Secret goal room"
                     },
                     {
+                        "name": "Secret Exit",
                         "ref": "Map/Donut Ghost House/Secret Exit"
                     }
                 ],
@@ -236,9 +257,11 @@
                 "name": "Donut Ghost House - Normal goal room",
                 "sections": [
                     {
+                        "name": "Normal goal room",
                         "ref": "Map/Donut Ghost House/Normal goal room"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Donut Ghost House/Normal Exit"
                     }
                 ],
@@ -254,24 +277,31 @@
                 "name": "Donut Ghost House - Door to Stairs room #1",
                 "sections": [
                     {
+                        "name": "Stairs room #1",
                         "ref": "Map/Donut Ghost House/Stairs room #1"
                     },
                     {
+                        "name": "Stairs room #2",
                         "ref": "Map/Donut Ghost House/Stairs room #2"
                     },
                     {
+                        "name": "Directional coin room",
                         "ref": "Map/Donut Ghost House/Directional coin room"
                     },
                     {
+                        "name": "Secret goal room",
                         "ref": "Map/Donut Ghost House/Secret goal room"
                     },
                     {
+                        "name": "Secret Exit",
                         "ref": "Map/Donut Ghost House/Secret Exit"
                     },
                     {
+                        "name": "Vine|P-Switch Block #1",
                         "ref": "Map/Donut Ghost House/Vine|P-Switch Block #1"
                     },
                     {
+                        "name": "Directional Coin Block #1",
                         "ref": "Map/Donut Ghost House/Directional Coin Block #1"
                     }
                 ],
@@ -297,18 +327,23 @@
                 "name": "Donut Ghost House - Door to Stairs room #2",
                 "sections": [
                     {
+                        "name": "Stairs room #2",
                         "ref": "Map/Donut Ghost House/Stairs room #2"
                     },
                     {
+                        "name": "Secret Exit",
                         "ref": "Map/Donut Ghost House/Secret Exit"
                     },
                     {
+                        "name": "Directional coin room",
                         "ref": "Map/Donut Ghost House/Directional coin room"
                     },
                     {
+                        "name": "Vine|P-Switch Block #1",
                         "ref": "Map/Donut Ghost House/Vine|P-Switch Block #1"
                     },
                     {
+                        "name": "Directional Coin Block #1",
                         "ref": "Map/Donut Ghost House/Directional Coin Block #1"
                     }
                 ],
@@ -324,9 +359,11 @@
                 "name": "Donut Ghost House - Door to Directional coin room",
                 "sections": [
                     {
+                        "name": "Directional coin room",
                         "ref": "Map/Donut Ghost House/Directional coin room"
                     },
                     {
+                        "name": "Directional Coin Block #1",
                         "ref": "Map/Donut Ghost House/Directional Coin Block #1"
                     }
                 ],
@@ -342,9 +379,11 @@
                 "name": "Donut Ghost House - Door to Secret goal room",
                 "sections": [
                     {
+                        "name": "Secret goal room",
                         "ref": "Map/Donut Ghost House/Secret goal room"
                     },
                     {
+                        "name": "Secret Exit",
                         "ref": "Map/Donut Ghost House/Secret Exit"
                     }
                 ],
@@ -360,9 +399,11 @@
                 "name": "Donut Ghost House - Door to Normal goal room",
                 "sections": [
                     {
+                        "name": "Normal goal room",
                         "ref": "Map/Donut Ghost House/Normal goal room"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Donut Ghost House/Normal Exit"
                     }
                 ],

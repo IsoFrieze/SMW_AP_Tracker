@@ -12,6 +12,7 @@
                 "name": "Chocolate Island 4 - Goal",
                 "sections": [
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Chocolate Island 4/Normal Exit"
                     }
                 ],
@@ -27,6 +28,7 @@
                 "name": "Chocolate Island 4 - Dragon Coins",
                 "sections": [
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Chocolate Island 4/Dragon Coins"
                     }
                 ],
@@ -62,6 +64,7 @@
                 "name": "Chocolate Island 4 - Blocksanity - Yellow Switch Palace Block #1",
                 "sections": [
                     {
+                        "name": "Yellow Switch Palace Block #1",
                         "ref": "Map/Chocolate Island 4/Yellow Switch Palace Block #1"
                     }
                 ],
@@ -77,6 +80,7 @@
                 "name": "Chocolate Island 4 - Blocksanity - Blue P-Switch Block #1",
                 "sections": [
                     {
+                        "name": "Blue P-Switch Block #1",
                         "ref": "Map/Chocolate Island 4/Blue P-Switch Block #1"
                     }
                 ],
@@ -92,6 +96,7 @@
                 "name": "Chocolate Island 4 - Blocksanity - Powerup Block #1",
                 "sections": [
                     {
+                        "name": "Powerup Block #1",
                         "ref": "Map/Chocolate Island 4/Powerup Block #1"
                     }
                 ],
@@ -107,21 +112,27 @@
                 "name": "Chocolate Island 4 - Main room",
                 "sections": [
                     {
+                        "name": "Main room",
                         "ref": "Map/Chocolate Island 4/Main room"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Chocolate Island 4/Normal Exit"
                     },
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Chocolate Island 4/Dragon Coins"
                     },
                     {
+                        "name": "Yellow Switch Palace Block #1",
                         "ref": "Map/Chocolate Island 4/Yellow Switch Palace Block #1"
                     },
                     {
+                        "name": "Blue P-Switch Block #1",
                         "ref": "Map/Chocolate Island 4/Blue P-Switch Block #1"
                     },
                     {
+                        "name": "Powerup Block #1",
                         "ref": "Map/Chocolate Island 4/Powerup Block #1"
                     }
                 ],
@@ -137,9 +148,11 @@
                 "name": "Chocolate Island 4 - Vertical bonus room",
                 "sections": [
                     {
+                        "name": "Vertical bonus room",
                         "ref": "Map/Chocolate Island 4/Vertical bonus room"
                     },
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Chocolate Island 4/Dragon Coins"
                     }
                 ],
@@ -155,9 +168,11 @@
                 "name": "Chocolate Island 4 - Pipe to Vertical bonus room",
                 "sections": [
                     {
+                        "name": "Vertical bonus room",
                         "ref": "Map/Chocolate Island 4/Vertical bonus room"
                     },
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Chocolate Island 4/Dragon Coins"
                     }
                 ],
@@ -173,21 +188,27 @@
                 "name": "Chocolate Island 4 - Pipe to Main room",
                 "sections": [
                     {
+                        "name": "Main room",
                         "ref": "Map/Chocolate Island 4/Main room"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Chocolate Island 4/Normal Exit"
                     },
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Chocolate Island 4/Dragon Coins"
                     },
                     {
+                        "name": "Yellow Switch Palace Block #1",
                         "ref": "Map/Chocolate Island 4/Yellow Switch Palace Block #1"
                     },
                     {
+                        "name": "Blue P-Switch Block #1",
                         "ref": "Map/Chocolate Island 4/Blue P-Switch Block #1"
                     },
                     {
+                        "name": "Powerup Block #1",
                         "ref": "Map/Chocolate Island 4/Powerup Block #1"
                     }
                 ],

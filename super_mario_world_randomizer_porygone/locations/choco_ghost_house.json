@@ -12,6 +12,7 @@
                 "name": "Choco Ghost House - Goal",
                 "sections": [
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Choco Ghost House/Normal Exit"
                     }
                 ],
@@ -27,6 +28,7 @@
                 "name": "Choco Ghost House - Blocksanity - Powerup Block #1",
                 "sections": [
                     {
+                        "name": "Powerup Block #1",
                         "ref": "Map/Choco Ghost House/Powerup Block #1"
                     }
                 ],
@@ -42,6 +44,7 @@
                 "name": "Choco Ghost House - Blocksanity - Powerup Block #2",
                 "sections": [
                     {
+                        "name": "Powerup Block #2",
                         "ref": "Map/Choco Ghost House/Powerup Block #2"
                     }
                 ],
@@ -57,6 +60,7 @@
                 "name": "Choco Ghost House - Blocksanity - 1-Up Mushroom Block #1",
                 "sections": [
                     {
+                        "name": "1-Up Mushroom Block #1",
                         "ref": "Map/Choco Ghost House/1-Up Mushroom Block #1"
                     }
                 ],
@@ -72,9 +76,11 @@
                 "name": "Choco Ghost House - Fishing boo room",
                 "sections": [
                     {
+                        "name": "Fishing boo room",
                         "ref": "Map/Choco Ghost House/Fishing boo room"
                     },
                     {
+                        "name": "Powerup Block #1",
                         "ref": "Map/Choco Ghost House/Powerup Block #1"
                     }
                 ],
@@ -90,12 +96,15 @@
                 "name": "Choco Ghost House - Boo stream room",
                 "sections": [
                     {
+                        "name": "Boo stream room",
                         "ref": "Map/Choco Ghost House/Boo stream room"
                     },
                     {
+                        "name": "Powerup Block #2",
                         "ref": "Map/Choco Ghost House/Powerup Block #2"
                     },
                     {
+                        "name": "1-Up Mushroom Block #1",
                         "ref": "Map/Choco Ghost House/1-Up Mushroom Block #1"
                     }
                 ],
@@ -111,9 +120,11 @@
                 "name": "Choco Ghost House - Goal room",
                 "sections": [
                     {
+                        "name": "Goal room",
                         "ref": "Map/Choco Ghost House/Goal room"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Choco Ghost House/Normal Exit"
                     }
                 ],
@@ -129,18 +140,23 @@
                 "name": "Choco Ghost House - Door to Boo stream room",
                 "sections": [
                     {
+                        "name": "Boo stream room",
                         "ref": "Map/Choco Ghost House/Boo stream room"
                     },
                     {
+                        "name": "Goal room",
                         "ref": "Map/Choco Ghost House/Goal room"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Choco Ghost House/Normal Exit"
                     },
                     {
+                        "name": "Powerup Block #2",
                         "ref": "Map/Choco Ghost House/Powerup Block #2"
                     },
                     {
+                        "name": "1-Up Mushroom Block #1",
                         "ref": "Map/Choco Ghost House/1-Up Mushroom Block #1"
                     }
                 ],
@@ -156,9 +172,11 @@
                 "name": "Choco Ghost House - Door to Goal room",
                 "sections": [
                     {
+                        "name": "Goal room",
                         "ref": "Map/Choco Ghost House/Goal room"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Choco Ghost House/Normal Exit"
                     }
                 ],

@@ -12,6 +12,7 @@
                 "name": "Star Road 5 - Goal",
                 "sections": [
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Star Road 5/Normal Exit"
                     }
                 ],
@@ -27,6 +28,7 @@
                 "name": "Star Road 5 - Keyhole",
                 "sections": [
                     {
+                        "name": "Secret Exit",
                         "ref": "Map/Star Road 5/Secret Exit"
                     }
                 ],
@@ -42,6 +44,7 @@
                 "name": "Star Road 5 - Blocksanity - Directional Coin Block #1",
                 "sections": [
                     {
+                        "name": "Directional Coin Block #1",
                         "ref": "Map/Star Road 5/Directional Coin Block #1"
                     }
                 ],
@@ -57,6 +60,7 @@
                 "name": "Star Road 5 - Blocksanity - 1-Up Mushroom Block #1",
                 "sections": [
                     {
+                        "name": "1-Up Mushroom Block #1",
                         "ref": "Map/Star Road 5/1-Up Mushroom Block #1"
                     }
                 ],
@@ -72,6 +76,7 @@
                 "name": "Star Road 5 - Blocksanity - Vine Block #1",
                 "sections": [
                     {
+                        "name": "Vine Block #1",
                         "ref": "Map/Star Road 5/Vine Block #1"
                     }
                 ],
@@ -87,6 +92,7 @@
                 "name": "Star Road 5 - Blocksanity - Yellow Switch Palace Block #1",
                 "sections": [
                     {
+                        "name": "Yellow Switch Palace Block #1",
                         "ref": "Map/Star Road 5/Yellow Switch Palace Block #1"
                     }
                 ],
@@ -102,6 +108,7 @@
                 "name": "Star Road 5 - Blocksanity - Yellow Switch Palace Block #2",
                 "sections": [
                     {
+                        "name": "Yellow Switch Palace Block #2",
                         "ref": "Map/Star Road 5/Yellow Switch Palace Block #2"
                     }
                 ],
@@ -117,6 +124,7 @@
                 "name": "Star Road 5 - Blocksanity - Yellow Switch Palace Block #3",
                 "sections": [
                     {
+                        "name": "Yellow Switch Palace Block #3",
                         "ref": "Map/Star Road 5/Yellow Switch Palace Block #3"
                     }
                 ],
@@ -132,6 +140,7 @@
                 "name": "Star Road 5 - Blocksanity - Yellow Switch Palace Block #4",
                 "sections": [
                     {
+                        "name": "Yellow Switch Palace Block #4",
                         "ref": "Map/Star Road 5/Yellow Switch Palace Block #4"
                     }
                 ],
@@ -147,6 +156,7 @@
                 "name": "Star Road 5 - Blocksanity - Yellow Switch Palace Block #5",
                 "sections": [
                     {
+                        "name": "Yellow Switch Palace Block #5",
                         "ref": "Map/Star Road 5/Yellow Switch Palace Block #5"
                     }
                 ],
@@ -162,6 +172,7 @@
                 "name": "Star Road 5 - Blocksanity - Yellow Switch Palace Block #6",
                 "sections": [
                     {
+                        "name": "Yellow Switch Palace Block #6",
                         "ref": "Map/Star Road 5/Yellow Switch Palace Block #6"
                     }
                 ],
@@ -177,6 +188,7 @@
                 "name": "Star Road 5 - Blocksanity - Yellow Switch Palace Block #7",
                 "sections": [
                     {
+                        "name": "Yellow Switch Palace Block #7",
                         "ref": "Map/Star Road 5/Yellow Switch Palace Block #7"
                     }
                 ],
@@ -192,6 +204,7 @@
                 "name": "Star Road 5 - Blocksanity - Yellow Switch Palace Block #8",
                 "sections": [
                     {
+                        "name": "Yellow Switch Palace Block #8",
                         "ref": "Map/Star Road 5/Yellow Switch Palace Block #8"
                     }
                 ],
@@ -207,6 +220,7 @@
                 "name": "Star Road 5 - Blocksanity - Yellow Switch Palace Block #9",
                 "sections": [
                     {
+                        "name": "Yellow Switch Palace Block #9",
                         "ref": "Map/Star Road 5/Yellow Switch Palace Block #9"
                     }
                 ],
@@ -222,6 +236,7 @@
                 "name": "Star Road 5 - Blocksanity - Yellow Switch Palace Block #10",
                 "sections": [
                     {
+                        "name": "Yellow Switch Palace Block #10",
                         "ref": "Map/Star Road 5/Yellow Switch Palace Block #10"
                     }
                 ],
@@ -237,6 +252,7 @@
                 "name": "Star Road 5 - Blocksanity - Yellow Switch Palace Block #11",
                 "sections": [
                     {
+                        "name": "Yellow Switch Palace Block #11",
                         "ref": "Map/Star Road 5/Yellow Switch Palace Block #11"
                     }
                 ],
@@ -252,6 +268,7 @@
                 "name": "Star Road 5 - Blocksanity - Yellow Switch Palace Block #12",
                 "sections": [
                     {
+                        "name": "Yellow Switch Palace Block #12",
                         "ref": "Map/Star Road 5/Yellow Switch Palace Block #12"
                     }
                 ],
@@ -267,6 +284,7 @@
                 "name": "Star Road 5 - Blocksanity - Yellow Switch Palace Block #13",
                 "sections": [
                     {
+                        "name": "Yellow Switch Palace Block #13",
                         "ref": "Map/Star Road 5/Yellow Switch Palace Block #13"
                     }
                 ],
@@ -282,6 +300,7 @@
                 "name": "Star Road 5 - Blocksanity - Yellow Switch Palace Block #14",
                 "sections": [
                     {
+                        "name": "Yellow Switch Palace Block #14",
                         "ref": "Map/Star Road 5/Yellow Switch Palace Block #14"
                     }
                 ],
@@ -297,6 +316,7 @@
                 "name": "Star Road 5 - Blocksanity - Yellow Switch Palace Block #15",
                 "sections": [
                     {
+                        "name": "Yellow Switch Palace Block #15",
                         "ref": "Map/Star Road 5/Yellow Switch Palace Block #15"
                     }
                 ],
@@ -312,6 +332,7 @@
                 "name": "Star Road 5 - Blocksanity - Yellow Switch Palace Block #16",
                 "sections": [
                     {
+                        "name": "Yellow Switch Palace Block #16",
                         "ref": "Map/Star Road 5/Yellow Switch Palace Block #16"
                     }
                 ],
@@ -327,6 +348,7 @@
                 "name": "Star Road 5 - Blocksanity - Yellow Switch Palace Block #17",
                 "sections": [
                     {
+                        "name": "Yellow Switch Palace Block #17",
                         "ref": "Map/Star Road 5/Yellow Switch Palace Block #17"
                     }
                 ],
@@ -342,6 +364,7 @@
                 "name": "Star Road 5 - Blocksanity - Yellow Switch Palace Block #18",
                 "sections": [
                     {
+                        "name": "Yellow Switch Palace Block #18",
                         "ref": "Map/Star Road 5/Yellow Switch Palace Block #18"
                     }
                 ],
@@ -357,6 +380,7 @@
                 "name": "Star Road 5 - Blocksanity - Yellow Switch Palace Block #19",
                 "sections": [
                     {
+                        "name": "Yellow Switch Palace Block #19",
                         "ref": "Map/Star Road 5/Yellow Switch Palace Block #19"
                     }
                 ],
@@ -372,6 +396,7 @@
                 "name": "Star Road 5 - Blocksanity - Yellow Switch Palace Block #20",
                 "sections": [
                     {
+                        "name": "Yellow Switch Palace Block #20",
                         "ref": "Map/Star Road 5/Yellow Switch Palace Block #20"
                     }
                 ],
@@ -387,6 +412,7 @@
                 "name": "Star Road 5 - Blocksanity - Green Switch Palace Block #1",
                 "sections": [
                     {
+                        "name": "Green Switch Palace Block #1",
                         "ref": "Map/Star Road 5/Green Switch Palace Block #1"
                     }
                 ],
@@ -402,6 +428,7 @@
                 "name": "Star Road 5 - Blocksanity - Green Switch Palace Block #2",
                 "sections": [
                     {
+                        "name": "Green Switch Palace Block #2",
                         "ref": "Map/Star Road 5/Green Switch Palace Block #2"
                     }
                 ],
@@ -417,6 +444,7 @@
                 "name": "Star Road 5 - Blocksanity - Green Switch Palace Block #3",
                 "sections": [
                     {
+                        "name": "Green Switch Palace Block #3",
                         "ref": "Map/Star Road 5/Green Switch Palace Block #3"
                     }
                 ],
@@ -432,6 +460,7 @@
                 "name": "Star Road 5 - Blocksanity - Green Switch Palace Block #4",
                 "sections": [
                     {
+                        "name": "Green Switch Palace Block #4",
                         "ref": "Map/Star Road 5/Green Switch Palace Block #4"
                     }
                 ],
@@ -447,6 +476,7 @@
                 "name": "Star Road 5 - Blocksanity - Green Switch Palace Block #5",
                 "sections": [
                     {
+                        "name": "Green Switch Palace Block #5",
                         "ref": "Map/Star Road 5/Green Switch Palace Block #5"
                     }
                 ],
@@ -462,6 +492,7 @@
                 "name": "Star Road 5 - Blocksanity - Green Switch Palace Block #6",
                 "sections": [
                     {
+                        "name": "Green Switch Palace Block #6",
                         "ref": "Map/Star Road 5/Green Switch Palace Block #6"
                     }
                 ],
@@ -477,6 +508,7 @@
                 "name": "Star Road 5 - Blocksanity - Green Switch Palace Block #7",
                 "sections": [
                     {
+                        "name": "Green Switch Palace Block #7",
                         "ref": "Map/Star Road 5/Green Switch Palace Block #7"
                     }
                 ],
@@ -492,6 +524,7 @@
                 "name": "Star Road 5 - Blocksanity - Green Switch Palace Block #8",
                 "sections": [
                     {
+                        "name": "Green Switch Palace Block #8",
                         "ref": "Map/Star Road 5/Green Switch Palace Block #8"
                     }
                 ],
@@ -507,6 +540,7 @@
                 "name": "Star Road 5 - Blocksanity - Green Switch Palace Block #9",
                 "sections": [
                     {
+                        "name": "Green Switch Palace Block #9",
                         "ref": "Map/Star Road 5/Green Switch Palace Block #9"
                     }
                 ],
@@ -522,6 +556,7 @@
                 "name": "Star Road 5 - Blocksanity - Green Switch Palace Block #10",
                 "sections": [
                     {
+                        "name": "Green Switch Palace Block #10",
                         "ref": "Map/Star Road 5/Green Switch Palace Block #10"
                     }
                 ],
@@ -537,6 +572,7 @@
                 "name": "Star Road 5 - Blocksanity - Green Switch Palace Block #11",
                 "sections": [
                     {
+                        "name": "Green Switch Palace Block #11",
                         "ref": "Map/Star Road 5/Green Switch Palace Block #11"
                     }
                 ],
@@ -552,6 +588,7 @@
                 "name": "Star Road 5 - Blocksanity - Green Switch Palace Block #12",
                 "sections": [
                     {
+                        "name": "Green Switch Palace Block #12",
                         "ref": "Map/Star Road 5/Green Switch Palace Block #12"
                     }
                 ],
@@ -567,6 +604,7 @@
                 "name": "Star Road 5 - Blocksanity - Green Switch Palace Block #13",
                 "sections": [
                     {
+                        "name": "Green Switch Palace Block #13",
                         "ref": "Map/Star Road 5/Green Switch Palace Block #13"
                     }
                 ],
@@ -582,6 +620,7 @@
                 "name": "Star Road 5 - Blocksanity - Green Switch Palace Block #14",
                 "sections": [
                     {
+                        "name": "Green Switch Palace Block #14",
                         "ref": "Map/Star Road 5/Green Switch Palace Block #14"
                     }
                 ],
@@ -597,6 +636,7 @@
                 "name": "Star Road 5 - Blocksanity - Green Switch Palace Block #15",
                 "sections": [
                     {
+                        "name": "Green Switch Palace Block #15",
                         "ref": "Map/Star Road 5/Green Switch Palace Block #15"
                     }
                 ],
@@ -612,6 +652,7 @@
                 "name": "Star Road 5 - Blocksanity - Green Switch Palace Block #16",
                 "sections": [
                     {
+                        "name": "Green Switch Palace Block #16",
                         "ref": "Map/Star Road 5/Green Switch Palace Block #16"
                     }
                 ],
@@ -627,6 +668,7 @@
                 "name": "Star Road 5 - Blocksanity - Green Switch Palace Block #17",
                 "sections": [
                     {
+                        "name": "Green Switch Palace Block #17",
                         "ref": "Map/Star Road 5/Green Switch Palace Block #17"
                     }
                 ],
@@ -642,6 +684,7 @@
                 "name": "Star Road 5 - Blocksanity - Green Switch Palace Block #18",
                 "sections": [
                     {
+                        "name": "Green Switch Palace Block #18",
                         "ref": "Map/Star Road 5/Green Switch Palace Block #18"
                     }
                 ],
@@ -657,6 +700,7 @@
                 "name": "Star Road 5 - Blocksanity - Green Switch Palace Block #19",
                 "sections": [
                     {
+                        "name": "Green Switch Palace Block #19",
                         "ref": "Map/Star Road 5/Green Switch Palace Block #19"
                     }
                 ],
@@ -672,6 +716,7 @@
                 "name": "Star Road 5 - Blocksanity - Green Switch Palace Block #20",
                 "sections": [
                     {
+                        "name": "Green Switch Palace Block #20",
                         "ref": "Map/Star Road 5/Green Switch Palace Block #20"
                     }
                 ],
@@ -687,141 +732,187 @@
                 "name": "Star Road 5 - Main room",
                 "sections": [
                     {
+                        "name": "Main room",
                         "ref": "Map/Star Road 5/Main room"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Star Road 5/Normal Exit"
                     },
                     {
+                        "name": "Secret Exit",
                         "ref": "Map/Star Road 5/Secret Exit"
                     },
                     {
+                        "name": "Directional Coin Block #1",
                         "ref": "Map/Star Road 5/Directional Coin Block #1"
                     },
                     {
+                        "name": "1-Up Mushroom Block #1",
                         "ref": "Map/Star Road 5/1-Up Mushroom Block #1"
                     },
                     {
+                        "name": "Vine Block #1",
                         "ref": "Map/Star Road 5/Vine Block #1"
                     },
                     {
+                        "name": "Yellow Switch Palace Block #1",
                         "ref": "Map/Star Road 5/Yellow Switch Palace Block #1"
                     },
                     {
+                        "name": "Yellow Switch Palace Block #2",
                         "ref": "Map/Star Road 5/Yellow Switch Palace Block #2"
                     },
                     {
+                        "name": "Yellow Switch Palace Block #3",
                         "ref": "Map/Star Road 5/Yellow Switch Palace Block #3"
                     },
                     {
+                        "name": "Yellow Switch Palace Block #4",
                         "ref": "Map/Star Road 5/Yellow Switch Palace Block #4"
                     },
                     {
+                        "name": "Yellow Switch Palace Block #5",
                         "ref": "Map/Star Road 5/Yellow Switch Palace Block #5"
                     },
                     {
+                        "name": "Yellow Switch Palace Block #6",
                         "ref": "Map/Star Road 5/Yellow Switch Palace Block #6"
                     },
                     {
+                        "name": "Yellow Switch Palace Block #7",
                         "ref": "Map/Star Road 5/Yellow Switch Palace Block #7"
                     },
                     {
+                        "name": "Yellow Switch Palace Block #8",
                         "ref": "Map/Star Road 5/Yellow Switch Palace Block #8"
                     },
                     {
+                        "name": "Yellow Switch Palace Block #9",
                         "ref": "Map/Star Road 5/Yellow Switch Palace Block #9"
                     },
                     {
+                        "name": "Yellow Switch Palace Block #10",
                         "ref": "Map/Star Road 5/Yellow Switch Palace Block #10"
                     },
                     {
+                        "name": "Yellow Switch Palace Block #11",
                         "ref": "Map/Star Road 5/Yellow Switch Palace Block #11"
                     },
                     {
+                        "name": "Yellow Switch Palace Block #12",
                         "ref": "Map/Star Road 5/Yellow Switch Palace Block #12"
                     },
                     {
+                        "name": "Yellow Switch Palace Block #13",
                         "ref": "Map/Star Road 5/Yellow Switch Palace Block #13"
                     },
                     {
+                        "name": "Yellow Switch Palace Block #14",
                         "ref": "Map/Star Road 5/Yellow Switch Palace Block #14"
                     },
                     {
+                        "name": "Yellow Switch Palace Block #15",
                         "ref": "Map/Star Road 5/Yellow Switch Palace Block #15"
                     },
                     {
+                        "name": "Yellow Switch Palace Block #16",
                         "ref": "Map/Star Road 5/Yellow Switch Palace Block #16"
                     },
                     {
+                        "name": "Yellow Switch Palace Block #17",
                         "ref": "Map/Star Road 5/Yellow Switch Palace Block #17"
                     },
                     {
+                        "name": "Yellow Switch Palace Block #18",
                         "ref": "Map/Star Road 5/Yellow Switch Palace Block #18"
                     },
                     {
+                        "name": "Yellow Switch Palace Block #19",
                         "ref": "Map/Star Road 5/Yellow Switch Palace Block #19"
                     },
                     {
+                        "name": "Yellow Switch Palace Block #20",
                         "ref": "Map/Star Road 5/Yellow Switch Palace Block #20"
                     },
                     {
+                        "name": "Green Switch Palace Block #1",
                         "ref": "Map/Star Road 5/Green Switch Palace Block #1"
                     },
                     {
+                        "name": "Green Switch Palace Block #2",
                         "ref": "Map/Star Road 5/Green Switch Palace Block #2"
                     },
                     {
+                        "name": "Green Switch Palace Block #3",
                         "ref": "Map/Star Road 5/Green Switch Palace Block #3"
                     },
                     {
+                        "name": "Green Switch Palace Block #4",
                         "ref": "Map/Star Road 5/Green Switch Palace Block #4"
                     },
                     {
+                        "name": "Green Switch Palace Block #5",
                         "ref": "Map/Star Road 5/Green Switch Palace Block #5"
                     },
                     {
+                        "name": "Green Switch Palace Block #6",
                         "ref": "Map/Star Road 5/Green Switch Palace Block #6"
                     },
                     {
+                        "name": "Green Switch Palace Block #7",
                         "ref": "Map/Star Road 5/Green Switch Palace Block #7"
                     },
                     {
+                        "name": "Green Switch Palace Block #8",
                         "ref": "Map/Star Road 5/Green Switch Palace Block #8"
                     },
                     {
+                        "name": "Green Switch Palace Block #9",
                         "ref": "Map/Star Road 5/Green Switch Palace Block #9"
                     },
                     {
+                        "name": "Green Switch Palace Block #10",
                         "ref": "Map/Star Road 5/Green Switch Palace Block #10"
                     },
                     {
+                        "name": "Green Switch Palace Block #11",
                         "ref": "Map/Star Road 5/Green Switch Palace Block #11"
                     },
                     {
+                        "name": "Green Switch Palace Block #12",
                         "ref": "Map/Star Road 5/Green Switch Palace Block #12"
                     },
                     {
+                        "name": "Green Switch Palace Block #13",
                         "ref": "Map/Star Road 5/Green Switch Palace Block #13"
                     },
                     {
+                        "name": "Green Switch Palace Block #14",
                         "ref": "Map/Star Road 5/Green Switch Palace Block #14"
                     },
                     {
+                        "name": "Green Switch Palace Block #15",
                         "ref": "Map/Star Road 5/Green Switch Palace Block #15"
                     },
                     {
+                        "name": "Green Switch Palace Block #16",
                         "ref": "Map/Star Road 5/Green Switch Palace Block #16"
                     },
                     {
+                        "name": "Green Switch Palace Block #17",
                         "ref": "Map/Star Road 5/Green Switch Palace Block #17"
                     },
                     {
+                        "name": "Green Switch Palace Block #18",
                         "ref": "Map/Star Road 5/Green Switch Palace Block #18"
                     },
                     {
+                        "name": "Green Switch Palace Block #19",
                         "ref": "Map/Star Road 5/Green Switch Palace Block #19"
                     },
                     {
+                        "name": "Green Switch Palace Block #20",
                         "ref": "Map/Star Road 5/Green Switch Palace Block #20"
                     }
                 ],

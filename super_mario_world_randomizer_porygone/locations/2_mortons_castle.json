@@ -12,6 +12,7 @@
                 "name": "#2 Morton's Castle - Boss battle",
                 "sections": [
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/#2 Morton's Castle/Normal Exit"
                     }
                 ],
@@ -27,6 +28,7 @@
                 "name": "#2 Morton's Castle - Hidden 1-Up",
                 "sections": [
                     {
+                        "name": "Hidden 1-Up",
                         "ref": "Map/#2 Morton's Castle/Hidden 1-Up"
                     }
                 ],
@@ -42,6 +44,7 @@
                 "name": "#2 Morton's Castle - Blocksanity - Yellow Switch Palace Block #1",
                 "sections": [
                     {
+                        "name": "Yellow Switch Palace Block #1",
                         "ref": "Map/#2 Morton's Castle/Yellow Switch Palace Block #1"
                     }
                 ],
@@ -57,6 +60,7 @@
                 "name": "#2 Morton's Castle - Blocksanity - Coin Block #1",
                 "sections": [
                     {
+                        "name": "Coin Block #1",
                         "ref": "Map/#2 Morton's Castle/Coin Block #1"
                     }
                 ],
@@ -72,6 +76,7 @@
                 "name": "#2 Morton's Castle - Blocksanity - Powerup Block #1",
                 "sections": [
                     {
+                        "name": "Powerup Block #1",
                         "ref": "Map/#2 Morton's Castle/Powerup Block #1"
                     }
                 ],
@@ -87,6 +92,7 @@
                 "name": "#2 Morton's Castle - Blocksanity - Coin Block #2",
                 "sections": [
                     {
+                        "name": "Coin Block #2",
                         "ref": "Map/#2 Morton's Castle/Coin Block #2"
                     }
                 ],
@@ -102,6 +108,7 @@
                 "name": "#2 Morton's Castle - Blocksanity - Vine Block #1",
                 "sections": [
                     {
+                        "name": "Vine Block #1",
                         "ref": "Map/#2 Morton's Castle/Vine Block #1"
                     }
                 ],
@@ -117,6 +124,7 @@
                 "name": "#2 Morton's Castle - Blocksanity - Invisible 1-Up Mushroom Block #1",
                 "sections": [
                     {
+                        "name": "Invisible 1-Up Mushroom Block #1",
                         "ref": "Map/#2 Morton's Castle/Invisible 1-Up Mushroom Block #1"
                     }
                 ],
@@ -132,6 +140,7 @@
                 "name": "#2 Morton's Castle - Blocksanity - Coin Block #3",
                 "sections": [
                     {
+                        "name": "Coin Block #3",
                         "ref": "Map/#2 Morton's Castle/Coin Block #3"
                     }
                 ],
@@ -147,6 +156,7 @@
                 "name": "#2 Morton's Castle - Blocksanity - Coin Block #4",
                 "sections": [
                     {
+                        "name": "Coin Block #4",
                         "ref": "Map/#2 Morton's Castle/Coin Block #4"
                     }
                 ],
@@ -162,6 +172,7 @@
                 "name": "#2 Morton's Castle - Blocksanity - Coin Block #5",
                 "sections": [
                     {
+                        "name": "Coin Block #5",
                         "ref": "Map/#2 Morton's Castle/Coin Block #5"
                     }
                 ],
@@ -177,6 +188,7 @@
                 "name": "#2 Morton's Castle - Blocksanity - Green Switch Palace Block #1",
                 "sections": [
                     {
+                        "name": "Green Switch Palace Block #1",
                         "ref": "Map/#2 Morton's Castle/Green Switch Palace Block #1"
                     }
                 ],
@@ -192,9 +204,11 @@
                 "name": "#2 Morton's Castle - Stairs room",
                 "sections": [
                     {
+                        "name": "Stairs room",
                         "ref": "Map/#2 Morton's Castle/Stairs room"
                     },
                     {
+                        "name": "Yellow Switch Palace Block #1",
                         "ref": "Map/#2 Morton's Castle/Yellow Switch Palace Block #1"
                     }
                 ],
@@ -210,6 +224,7 @@
                 "name": "#2 Morton's Castle - Thwomp room",
                 "sections": [
                     {
+                        "name": "Thwomp room",
                         "ref": "Map/#2 Morton's Castle/Thwomp room"
                     }
                 ],
@@ -225,39 +240,51 @@
                 "name": "#2 Morton's Castle - Moving stones room",
                 "sections": [
                     {
+                        "name": "Moving stones room",
                         "ref": "Map/#2 Morton's Castle/Moving stones room"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/#2 Morton's Castle/Normal Exit"
                     },
                     {
+                        "name": "Hidden 1-Up",
                         "ref": "Map/#2 Morton's Castle/Hidden 1-Up"
                     },
                     {
+                        "name": "Coin Block #1",
                         "ref": "Map/#2 Morton's Castle/Coin Block #1"
                     },
                     {
+                        "name": "Powerup Block #1",
                         "ref": "Map/#2 Morton's Castle/Powerup Block #1"
                     },
                     {
+                        "name": "Coin Block #2",
                         "ref": "Map/#2 Morton's Castle/Coin Block #2"
                     },
                     {
+                        "name": "Vine Block #1",
                         "ref": "Map/#2 Morton's Castle/Vine Block #1"
                     },
                     {
+                        "name": "Invisible 1-Up Mushroom Block #1",
                         "ref": "Map/#2 Morton's Castle/Invisible 1-Up Mushroom Block #1"
                     },
                     {
+                        "name": "Coin Block #3",
                         "ref": "Map/#2 Morton's Castle/Coin Block #3"
                     },
                     {
+                        "name": "Coin Block #4",
                         "ref": "Map/#2 Morton's Castle/Coin Block #4"
                     },
                     {
+                        "name": "Coin Block #5",
                         "ref": "Map/#2 Morton's Castle/Coin Block #5"
                     },
                     {
+                        "name": "Green Switch Palace Block #1",
                         "ref": "Map/#2 Morton's Castle/Green Switch Palace Block #1"
                     }
                 ],
@@ -273,6 +300,7 @@
                 "name": "#2 Morton's Castle - Bonus room",
                 "sections": [
                     {
+                        "name": "Bonus room",
                         "ref": "Map/#2 Morton's Castle/Bonus room"
                     }
                 ],
@@ -288,42 +316,55 @@
                 "name": "#2 Morton's Castle - Door to Thwomp room",
                 "sections": [
                     {
+                        "name": "Thwomp room",
                         "ref": "Map/#2 Morton's Castle/Thwomp room"
                     },
                     {
+                        "name": "Moving stones room",
                         "ref": "Map/#2 Morton's Castle/Moving stones room"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/#2 Morton's Castle/Normal Exit"
                     },
                     {
+                        "name": "Hidden 1-Up",
                         "ref": "Map/#2 Morton's Castle/Hidden 1-Up"
                     },
                     {
+                        "name": "Coin Block #1",
                         "ref": "Map/#2 Morton's Castle/Coin Block #1"
                     },
                     {
+                        "name": "Powerup Block #1",
                         "ref": "Map/#2 Morton's Castle/Powerup Block #1"
                     },
                     {
+                        "name": "Coin Block #2",
                         "ref": "Map/#2 Morton's Castle/Coin Block #2"
                     },
                     {
+                        "name": "Vine Block #1",
                         "ref": "Map/#2 Morton's Castle/Vine Block #1"
                     },
                     {
+                        "name": "Invisible 1-Up Mushroom Block #1",
                         "ref": "Map/#2 Morton's Castle/Invisible 1-Up Mushroom Block #1"
                     },
                     {
+                        "name": "Coin Block #3",
                         "ref": "Map/#2 Morton's Castle/Coin Block #3"
                     },
                     {
+                        "name": "Coin Block #4",
                         "ref": "Map/#2 Morton's Castle/Coin Block #4"
                     },
                     {
+                        "name": "Coin Block #5",
                         "ref": "Map/#2 Morton's Castle/Coin Block #5"
                     },
                     {
+                        "name": "Green Switch Palace Block #1",
                         "ref": "Map/#2 Morton's Castle/Green Switch Palace Block #1"
                     }
                 ],
@@ -339,39 +380,51 @@
                 "name": "#2 Morton's Castle - Transition to Moving stones room",
                 "sections": [
                     {
+                        "name": "Moving stones room",
                         "ref": "Map/#2 Morton's Castle/Moving stones room"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/#2 Morton's Castle/Normal Exit"
                     },
                     {
+                        "name": "Hidden 1-Up",
                         "ref": "Map/#2 Morton's Castle/Hidden 1-Up"
                     },
                     {
+                        "name": "Coin Block #1",
                         "ref": "Map/#2 Morton's Castle/Coin Block #1"
                     },
                     {
+                        "name": "Powerup Block #1",
                         "ref": "Map/#2 Morton's Castle/Powerup Block #1"
                     },
                     {
+                        "name": "Coin Block #2",
                         "ref": "Map/#2 Morton's Castle/Coin Block #2"
                     },
                     {
+                        "name": "Vine Block #1",
                         "ref": "Map/#2 Morton's Castle/Vine Block #1"
                     },
                     {
+                        "name": "Invisible 1-Up Mushroom Block #1",
                         "ref": "Map/#2 Morton's Castle/Invisible 1-Up Mushroom Block #1"
                     },
                     {
+                        "name": "Coin Block #3",
                         "ref": "Map/#2 Morton's Castle/Coin Block #3"
                     },
                     {
+                        "name": "Coin Block #4",
                         "ref": "Map/#2 Morton's Castle/Coin Block #4"
                     },
                     {
+                        "name": "Coin Block #5",
                         "ref": "Map/#2 Morton's Castle/Coin Block #5"
                     },
                     {
+                        "name": "Green Switch Palace Block #1",
                         "ref": "Map/#2 Morton's Castle/Green Switch Palace Block #1"
                     }
                 ],
@@ -397,6 +450,7 @@
                 "name": "#2 Morton's Castle - Pipe to Bonus room",
                 "sections": [
                     {
+                        "name": "Bonus room",
                         "ref": "Map/#2 Morton's Castle/Bonus room"
                     }
                 ],

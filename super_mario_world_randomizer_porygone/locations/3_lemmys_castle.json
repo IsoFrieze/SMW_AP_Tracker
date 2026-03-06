@@ -12,6 +12,7 @@
                 "name": "#3 Lemmy's Castle - Boss battle",
                 "sections": [
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/#3 Lemmy's Castle/Normal Exit"
                     }
                 ],
@@ -27,6 +28,7 @@
                 "name": "#3 Lemmy's Castle - Blocksanity - 1-Up Mushroom Block #1",
                 "sections": [
                     {
+                        "name": "1-Up Mushroom Block #1",
                         "ref": "Map/#3 Lemmy's Castle/1-Up Mushroom Block #1"
                     }
                 ],
@@ -42,6 +44,7 @@
                 "name": "#3 Lemmy's Castle - Blocksanity - 1-Up Mushroom Block #2",
                 "sections": [
                     {
+                        "name": "1-Up Mushroom Block #2",
                         "ref": "Map/#3 Lemmy's Castle/1-Up Mushroom Block #2"
                     }
                 ],
@@ -57,6 +60,7 @@
                 "name": "#3 Lemmy's Castle - Blocksanity - Powerup Block #1",
                 "sections": [
                     {
+                        "name": "Powerup Block #1",
                         "ref": "Map/#3 Lemmy's Castle/Powerup Block #1"
                     }
                 ],
@@ -72,6 +76,7 @@
                 "name": "#3 Lemmy's Castle - Blocksanity - 1-Up Mushroom Block #3",
                 "sections": [
                     {
+                        "name": "1-Up Mushroom Block #3",
                         "ref": "Map/#3 Lemmy's Castle/1-Up Mushroom Block #3"
                     }
                 ],
@@ -87,6 +92,7 @@
                 "name": "#3 Lemmy's Castle - Blocksanity - Green Switch Palace Block #1",
                 "sections": [
                     {
+                        "name": "Green Switch Palace Block #1",
                         "ref": "Map/#3 Lemmy's Castle/Green Switch Palace Block #1"
                     }
                 ],
@@ -102,6 +108,7 @@
                 "name": "#3 Lemmy's Castle - Midway Point",
                 "sections": [
                     {
+                        "name": "Midway Point",
                         "ref": "Map/#3 Lemmy's Castle/Midway Point"
                     }
                 ],
@@ -117,15 +124,19 @@
                 "name": "#3 Lemmy's Castle - Main room",
                 "sections": [
                     {
+                        "name": "Main room",
                         "ref": "Map/#3 Lemmy's Castle/Main room"
                     },
                     {
+                        "name": "1-Up Mushroom Block #1",
                         "ref": "Map/#3 Lemmy's Castle/1-Up Mushroom Block #1"
                     },
                     {
+                        "name": "1-Up Mushroom Block #2",
                         "ref": "Map/#3 Lemmy's Castle/1-Up Mushroom Block #2"
                     },
                     {
+                        "name": "Powerup Block #1",
                         "ref": "Map/#3 Lemmy's Castle/Powerup Block #1"
                     }
                 ],
@@ -141,12 +152,15 @@
                 "name": "#3 Lemmy's Castle - Midway point room",
                 "sections": [
                     {
+                        "name": "Midway point room",
                         "ref": "Map/#3 Lemmy's Castle/Midway point room"
                     },
                     {
+                        "name": "Midway Point",
                         "ref": "Map/#3 Lemmy's Castle/Midway Point"
                     },
                     {
+                        "name": "1-Up Mushroom Block #3",
                         "ref": "Map/#3 Lemmy's Castle/1-Up Mushroom Block #3"
                     }
                 ],
@@ -162,12 +176,15 @@
                 "name": "#3 Lemmy's Castle - Lava room",
                 "sections": [
                     {
+                        "name": "Lava room",
                         "ref": "Map/#3 Lemmy's Castle/Lava room"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/#3 Lemmy's Castle/Normal Exit"
                     },
                     {
+                        "name": "Green Switch Palace Block #1",
                         "ref": "Map/#3 Lemmy's Castle/Green Switch Palace Block #1"
                     }
                 ],
@@ -183,12 +200,15 @@
                 "name": "#3 Lemmy's Castle - Door to Midway point room",
                 "sections": [
                     {
+                        "name": "Midway point room",
                         "ref": "Map/#3 Lemmy's Castle/Midway point room"
                     },
                     {
+                        "name": "Midway Point",
                         "ref": "Map/#3 Lemmy's Castle/Midway Point"
                     },
                     {
+                        "name": "1-Up Mushroom Block #3",
                         "ref": "Map/#3 Lemmy's Castle/1-Up Mushroom Block #3"
                     }
                 ],
@@ -204,12 +224,15 @@
                 "name": "#3 Lemmy's Castle - Door to Lava room",
                 "sections": [
                     {
+                        "name": "Lava room",
                         "ref": "Map/#3 Lemmy's Castle/Lava room"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/#3 Lemmy's Castle/Normal Exit"
                     },
                     {
+                        "name": "Green Switch Palace Block #1",
                         "ref": "Map/#3 Lemmy's Castle/Green Switch Palace Block #1"
                     }
                 ],

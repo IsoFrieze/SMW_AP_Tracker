@@ -12,6 +12,7 @@
                 "name": "Donut Plains 3 - Goal",
                 "sections": [
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Donut Plains 3/Normal Exit"
                     }
                 ],
@@ -27,6 +28,7 @@
                 "name": "Donut Plains 3 - Dragon Coins",
                 "sections": [
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Donut Plains 3/Dragon Coins"
                     }
                 ],
@@ -62,6 +64,7 @@
                 "name": "Donut Plains 3 - Prize from bonus block",
                 "sections": [
                     {
+                        "name": "1-Up from Bonus Block",
                         "ref": "Map/Donut Plains 3/1-Up from Bonus Block"
                     }
                 ],
@@ -77,6 +80,7 @@
                 "name": "Donut Plains 3 - Blocksanity - Green Switch Palace Block #1",
                 "sections": [
                     {
+                        "name": "Green Switch Palace Block #1",
                         "ref": "Map/Donut Plains 3/Green Switch Palace Block #1"
                     }
                 ],
@@ -92,6 +96,7 @@
                 "name": "Donut Plains 3 - Blocksanity - Coin Block #1",
                 "sections": [
                     {
+                        "name": "Coin Block #1",
                         "ref": "Map/Donut Plains 3/Coin Block #1"
                     }
                 ],
@@ -107,6 +112,7 @@
                 "name": "Donut Plains 3 - Blocksanity - Coin Block #2",
                 "sections": [
                     {
+                        "name": "Coin Block #2",
                         "ref": "Map/Donut Plains 3/Coin Block #2"
                     }
                 ],
@@ -122,6 +128,7 @@
                 "name": "Donut Plains 3 - Blocksanity - Vine Block #1",
                 "sections": [
                     {
+                        "name": "Vine Block #1",
                         "ref": "Map/Donut Plains 3/Vine Block #1"
                     }
                 ],
@@ -137,6 +144,7 @@
                 "name": "Donut Plains 3 - Blocksanity - Powerup Block #1",
                 "sections": [
                     {
+                        "name": "Powerup Block #1",
                         "ref": "Map/Donut Plains 3/Powerup Block #1"
                     }
                 ],
@@ -152,6 +160,7 @@
                 "name": "Donut Plains 3 - Midway Point",
                 "sections": [
                     {
+                        "name": "Midway Point",
                         "ref": "Map/Donut Plains 3/Midway Point"
                     }
                 ],
@@ -167,30 +176,39 @@
                 "name": "Donut Plains 3 - Main room",
                 "sections": [
                     {
+                        "name": "Main room",
                         "ref": "Map/Donut Plains 3/Main room"
                     },
                     {
+                        "name": "Midway Point",
                         "ref": "Map/Donut Plains 3/Midway Point"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Donut Plains 3/Normal Exit"
                     },
                     {
+                        "name": "1-Up from Bonus Block",
                         "ref": "Map/Donut Plains 3/1-Up from Bonus Block"
                     },
                     {
+                        "name": "Green Switch Palace Block #1",
                         "ref": "Map/Donut Plains 3/Green Switch Palace Block #1"
                     },
                     {
+                        "name": "Coin Block #1",
                         "ref": "Map/Donut Plains 3/Coin Block #1"
                     },
                     {
+                        "name": "Coin Block #2",
                         "ref": "Map/Donut Plains 3/Coin Block #2"
                     },
                     {
+                        "name": "Vine Block #1",
                         "ref": "Map/Donut Plains 3/Vine Block #1"
                     },
                     {
+                        "name": "Powerup Block #1",
                         "ref": "Map/Donut Plains 3/Powerup Block #1"
                     }
                 ],
@@ -206,6 +224,7 @@
                 "name": "Donut Plains 3 - Bonus room",
                 "sections": [
                     {
+                        "name": "Bonus room",
                         "ref": "Map/Donut Plains 3/Bonus room"
                     }
                 ],
@@ -221,6 +240,7 @@
                 "name": "Donut Plains 3 - Pipe to Bonus room",
                 "sections": [
                     {
+                        "name": "Bonus room",
                         "ref": "Map/Donut Plains 3/Bonus room"
                     }
                 ],
@@ -236,30 +256,39 @@
                 "name": "Donut Plains 3 - Pipe to Main room",
                 "sections": [
                     {
+                        "name": "Main room",
                         "ref": "Map/Donut Plains 3/Main room"
                     },
                     {
+                        "name": "Midway Point",
                         "ref": "Map/Donut Plains 3/Midway Point"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Donut Plains 3/Normal Exit"
                     },
                     {
+                        "name": "1-Up from Bonus Block",
                         "ref": "Map/Donut Plains 3/1-Up from Bonus Block"
                     },
                     {
+                        "name": "Green Switch Palace Block #1",
                         "ref": "Map/Donut Plains 3/Green Switch Palace Block #1"
                     },
                     {
+                        "name": "Coin Block #1",
                         "ref": "Map/Donut Plains 3/Coin Block #1"
                     },
                     {
+                        "name": "Coin Block #2",
                         "ref": "Map/Donut Plains 3/Coin Block #2"
                     },
                     {
+                        "name": "Vine Block #1",
                         "ref": "Map/Donut Plains 3/Vine Block #1"
                     },
                     {
+                        "name": "Powerup Block #1",
                         "ref": "Map/Donut Plains 3/Powerup Block #1"
                     }
                 ],

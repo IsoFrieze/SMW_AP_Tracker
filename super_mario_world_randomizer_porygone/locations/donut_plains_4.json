@@ -12,6 +12,7 @@
                 "name": "Donut Plains 4 - Goal",
                 "sections": [
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Donut Plains 4/Normal Exit"
                     }
                 ],
@@ -27,6 +28,7 @@
                 "name": "Donut Plains 4 - Dragon Coins",
                 "sections": [
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Donut Plains 4/Dragon Coins"
                     }
                 ],
@@ -62,6 +64,7 @@
                 "name": "Donut Plains 4 - 3-Up moon",
                 "sections": [
                     {
+                        "name": "3-Up Moon",
                         "ref": "Map/Donut Plains 4/3-Up Moon"
                     }
                 ],
@@ -77,6 +80,7 @@
                 "name": "Donut Plains 4 - Hidden 1-Up",
                 "sections": [
                     {
+                        "name": "Hidden 1-Up",
                         "ref": "Map/Donut Plains 4/Hidden 1-Up"
                     }
                 ],
@@ -92,6 +96,7 @@
                 "name": "Donut Plains 4 - Blocksanity - Coin Block #1",
                 "sections": [
                     {
+                        "name": "Coin Block #1",
                         "ref": "Map/Donut Plains 4/Coin Block #1"
                     }
                 ],
@@ -107,6 +112,7 @@
                 "name": "Donut Plains 4 - Blocksanity - Powerup Block #1",
                 "sections": [
                     {
+                        "name": "Powerup Block #1",
                         "ref": "Map/Donut Plains 4/Powerup Block #1"
                     }
                 ],
@@ -122,6 +128,7 @@
                 "name": "Donut Plains 4 - Blocksanity - Coin Block #2",
                 "sections": [
                     {
+                        "name": "Coin Block #2",
                         "ref": "Map/Donut Plains 4/Coin Block #2"
                     }
                 ],
@@ -137,6 +144,7 @@
                 "name": "Donut Plains 4 - Blocksanity - Yoshi Block #1",
                 "sections": [
                     {
+                        "name": "Yoshi Block #1",
                         "ref": "Map/Donut Plains 4/Yoshi Block #1"
                     }
                 ],
@@ -152,6 +160,7 @@
                 "name": "Donut Plains 4 - Midway Point",
                 "sections": [
                     {
+                        "name": "Midway Point",
                         "ref": "Map/Donut Plains 4/Midway Point"
                     }
                 ],
@@ -167,33 +176,43 @@
                 "name": "Donut Plains 4 - Main room",
                 "sections": [
                     {
+                        "name": "Main room",
                         "ref": "Map/Donut Plains 4/Main room"
                     },
                     {
+                        "name": "Midway Point",
                         "ref": "Map/Donut Plains 4/Midway Point"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Donut Plains 4/Normal Exit"
                     },
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Donut Plains 4/Dragon Coins"
                     },
                     {
+                        "name": "3-Up Moon",
                         "ref": "Map/Donut Plains 4/3-Up Moon"
                     },
                     {
+                        "name": "Hidden 1-Up",
                         "ref": "Map/Donut Plains 4/Hidden 1-Up"
                     },
                     {
+                        "name": "Coin Block #1",
                         "ref": "Map/Donut Plains 4/Coin Block #1"
                     },
                     {
+                        "name": "Powerup Block #1",
                         "ref": "Map/Donut Plains 4/Powerup Block #1"
                     },
                     {
+                        "name": "Coin Block #2",
                         "ref": "Map/Donut Plains 4/Coin Block #2"
                     },
                     {
+                        "name": "Yoshi Block #1",
                         "ref": "Map/Donut Plains 4/Yoshi Block #1"
                     }
                 ],
@@ -209,6 +228,7 @@
                 "name": "Donut Plains 4 - Pipes room",
                 "sections": [
                     {
+                        "name": "Pipes room",
                         "ref": "Map/Donut Plains 4/Pipes room"
                     }
                 ],
@@ -224,9 +244,11 @@
                 "name": "Donut Plains 4 - Dragon coin room",
                 "sections": [
                     {
+                        "name": "Dragon coin room",
                         "ref": "Map/Donut Plains 4/Dragon coin room"
                     },
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Donut Plains 4/Dragon Coins"
                     }
                 ],
@@ -242,6 +264,7 @@
                 "name": "Donut Plains 4 - Pipe to Pipes room",
                 "sections": [
                     {
+                        "name": "Pipes room",
                         "ref": "Map/Donut Plains 4/Pipes room"
                     }
                 ],
@@ -257,9 +280,11 @@
                 "name": "Donut Plains 4 - Pipe to Dragon coin room",
                 "sections": [
                     {
+                        "name": "Dragon coin room",
                         "ref": "Map/Donut Plains 4/Dragon coin room"
                     },
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Donut Plains 4/Dragon Coins"
                     }
                 ],
@@ -275,33 +300,43 @@
                 "name": "Donut Plains 4 - Pipe to Main room",
                 "sections": [
                     {
+                        "name": "Main room",
                         "ref": "Map/Donut Plains 4/Main room"
                     },
                     {
+                        "name": "Midway Point",
                         "ref": "Map/Donut Plains 4/Midway Point"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Donut Plains 4/Normal Exit"
                     },
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Donut Plains 4/Dragon Coins"
                     },
                     {
+                        "name": "3-Up Moon",
                         "ref": "Map/Donut Plains 4/3-Up Moon"
                     },
                     {
+                        "name": "Hidden 1-Up",
                         "ref": "Map/Donut Plains 4/Hidden 1-Up"
                     },
                     {
+                        "name": "Coin Block #1",
                         "ref": "Map/Donut Plains 4/Coin Block #1"
                     },
                     {
+                        "name": "Powerup Block #1",
                         "ref": "Map/Donut Plains 4/Powerup Block #1"
                     },
                     {
+                        "name": "Coin Block #2",
                         "ref": "Map/Donut Plains 4/Coin Block #2"
                     },
                     {
+                        "name": "Yoshi Block #1",
                         "ref": "Map/Donut Plains 4/Yoshi Block #1"
                     }
                 ],

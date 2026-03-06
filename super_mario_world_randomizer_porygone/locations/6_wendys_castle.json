@@ -12,6 +12,7 @@
                 "name": "#6 Wendy's Castle - Boss battle",
                 "sections": [
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/#6 Wendy's Castle/Normal Exit"
                     }
                 ],
@@ -27,6 +28,7 @@
                 "name": "#6 Wendy's Castle - Hidden 1-Up",
                 "sections": [
                     {
+                        "name": "Hidden 1-Up",
                         "ref": "Map/#6 Wendy's Castle/Hidden 1-Up"
                     }
                 ],
@@ -42,6 +44,7 @@
                 "name": "#6 Wendy's Castle - Blocksanity - Yellow Switch Palace Block #1",
                 "sections": [
                     {
+                        "name": "Yellow Switch Palace Block #1",
                         "ref": "Map/#6 Wendy's Castle/Yellow Switch Palace Block #1"
                     }
                 ],
@@ -57,6 +60,7 @@
                 "name": "#6 Wendy's Castle - Blocksanity - Yellow Switch Palace Block #2",
                 "sections": [
                     {
+                        "name": "Yellow Switch Palace Block #2",
                         "ref": "Map/#6 Wendy's Castle/Yellow Switch Palace Block #2"
                     }
                 ],
@@ -72,6 +76,7 @@
                 "name": "#6 Wendy's Castle - Blocksanity - Green Switch Palace Block #1",
                 "sections": [
                     {
+                        "name": "Green Switch Palace Block #1",
                         "ref": "Map/#6 Wendy's Castle/Green Switch Palace Block #1"
                     }
                 ],
@@ -87,6 +92,7 @@
                 "name": "#6 Wendy's Castle - Midway Point",
                 "sections": [
                     {
+                        "name": "Midway Point",
                         "ref": "Map/#6 Wendy's Castle/Midway Point"
                     }
                 ],
@@ -102,15 +108,19 @@
                 "name": "#6 Wendy's Castle - Spikes room",
                 "sections": [
                     {
+                        "name": "Spikes room",
                         "ref": "Map/#6 Wendy's Castle/Spikes room"
                     },
                     {
+                        "name": "Midway Point",
                         "ref": "Map/#6 Wendy's Castle/Midway Point"
                     },
                     {
+                        "name": "Hidden 1-Up",
                         "ref": "Map/#6 Wendy's Castle/Hidden 1-Up"
                     },
                     {
+                        "name": "Yellow Switch Palace Block #1",
                         "ref": "Map/#6 Wendy's Castle/Yellow Switch Palace Block #1"
                     }
                 ],
@@ -126,15 +136,19 @@
                 "name": "#6 Wendy's Castle - Hothead room",
                 "sections": [
                     {
+                        "name": "Hothead room",
                         "ref": "Map/#6 Wendy's Castle/Hothead room"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/#6 Wendy's Castle/Normal Exit"
                     },
                     {
+                        "name": "Yellow Switch Palace Block #2",
                         "ref": "Map/#6 Wendy's Castle/Yellow Switch Palace Block #2"
                     },
                     {
+                        "name": "Green Switch Palace Block #1",
                         "ref": "Map/#6 Wendy's Castle/Green Switch Palace Block #1"
                     }
                 ],
@@ -150,15 +164,19 @@
                 "name": "#6 Wendy's Castle - Door to Hothead room",
                 "sections": [
                     {
+                        "name": "Hothead room",
                         "ref": "Map/#6 Wendy's Castle/Hothead room"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/#6 Wendy's Castle/Normal Exit"
                     },
                     {
+                        "name": "Yellow Switch Palace Block #2",
                         "ref": "Map/#6 Wendy's Castle/Yellow Switch Palace Block #2"
                     },
                     {
+                        "name": "Green Switch Palace Block #1",
                         "ref": "Map/#6 Wendy's Castle/Green Switch Palace Block #1"
                     }
                 ],

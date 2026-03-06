@@ -12,6 +12,7 @@
                 "name": "Vanilla Dome 3 - Goal",
                 "sections": [
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Vanilla Dome 3/Normal Exit"
                     }
                 ],
@@ -27,6 +28,7 @@
                 "name": "Vanilla Dome 3 - Dragon Coins",
                 "sections": [
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Vanilla Dome 3/Dragon Coins"
                     }
                 ],
@@ -67,6 +69,7 @@
                 "name": "Vanilla Dome 3 - 3-Up Moon",
                 "sections": [
                     {
+                        "name": "3-Up Moon",
                         "ref": "Map/Vanilla Dome 3/3-Up Moon"
                     }
                 ],
@@ -82,6 +85,7 @@
                 "name": "Vanilla Dome 3 - Blocksanity - Coin Block #1",
                 "sections": [
                     {
+                        "name": "Coin Block #1",
                         "ref": "Map/Vanilla Dome 3/Coin Block #1"
                     }
                 ],
@@ -97,6 +101,7 @@
                 "name": "Vanilla Dome 3 - Blocksanity - Flying Question Block #1",
                 "sections": [
                     {
+                        "name": "Flying Question Block #1",
                         "ref": "Map/Vanilla Dome 3/Flying Question Block #1"
                     }
                 ],
@@ -112,6 +117,7 @@
                 "name": "Vanilla Dome 3 - Blocksanity - Flying Question Block #2",
                 "sections": [
                     {
+                        "name": "Flying Question Block #2",
                         "ref": "Map/Vanilla Dome 3/Flying Question Block #2"
                     }
                 ],
@@ -127,6 +133,7 @@
                 "name": "Vanilla Dome 3 - Blocksanity - Powerup Block #1",
                 "sections": [
                     {
+                        "name": "Powerup Block #1",
                         "ref": "Map/Vanilla Dome 3/Powerup Block #1"
                     }
                 ],
@@ -142,6 +149,7 @@
                 "name": "Vanilla Dome 3 - Blocksanity - Flying Question Block #3",
                 "sections": [
                     {
+                        "name": "Flying Question Block #3",
                         "ref": "Map/Vanilla Dome 3/Flying Question Block #3"
                     }
                 ],
@@ -157,6 +165,7 @@
                 "name": "Vanilla Dome 3 - Blocksanity - Invisible Coin Block #1",
                 "sections": [
                     {
+                        "name": "Invisible Coin Block #1",
                         "ref": "Map/Vanilla Dome 3/Invisible Coin Block #1"
                     }
                 ],
@@ -172,6 +181,7 @@
                 "name": "Vanilla Dome 3 - Blocksanity - Powerup Block #2",
                 "sections": [
                     {
+                        "name": "Powerup Block #2",
                         "ref": "Map/Vanilla Dome 3/Powerup Block #2"
                     }
                 ],
@@ -187,6 +197,7 @@
                 "name": "Vanilla Dome 3 - Blocksanity - Multi Coin Block #1",
                 "sections": [
                     {
+                        "name": "Multi Coin Block #1",
                         "ref": "Map/Vanilla Dome 3/Multi Coin Block #1"
                     }
                 ],
@@ -202,6 +213,7 @@
                 "name": "Vanilla Dome 3 - Blocksanity - Powerup Block #3",
                 "sections": [
                     {
+                        "name": "Powerup Block #3",
                         "ref": "Map/Vanilla Dome 3/Powerup Block #3"
                     }
                 ],
@@ -217,6 +229,7 @@
                 "name": "Vanilla Dome 3 - Blocksanity - Yoshi Block #1",
                 "sections": [
                     {
+                        "name": "Yoshi Block #1",
                         "ref": "Map/Vanilla Dome 3/Yoshi Block #1"
                     }
                 ],
@@ -232,6 +245,7 @@
                 "name": "Vanilla Dome 3 - Blocksanity - Powerup Block #4",
                 "sections": [
                     {
+                        "name": "Powerup Block #4",
                         "ref": "Map/Vanilla Dome 3/Powerup Block #4"
                     }
                 ],
@@ -247,6 +261,7 @@
                 "name": "Vanilla Dome 3 - Blocksanity - P-Switch Coin Block #1",
                 "sections": [
                     {
+                        "name": "P-Switch Coin Block #1",
                         "ref": "Map/Vanilla Dome 3/P-Switch Coin Block #1"
                     }
                 ],
@@ -262,6 +277,7 @@
                 "name": "Vanilla Dome 3 - Blocksanity - P-Switch Coin Block #2",
                 "sections": [
                     {
+                        "name": "P-Switch Coin Block #2",
                         "ref": "Map/Vanilla Dome 3/P-Switch Coin Block #2"
                     }
                 ],
@@ -277,6 +293,7 @@
                 "name": "Vanilla Dome 3 - Blocksanity - P-Switch Coin Block #3",
                 "sections": [
                     {
+                        "name": "P-Switch Coin Block #3",
                         "ref": "Map/Vanilla Dome 3/P-Switch Coin Block #3"
                     }
                 ],
@@ -292,6 +309,7 @@
                 "name": "Vanilla Dome 3 - Blocksanity - P-Switch Coin Block #4",
                 "sections": [
                     {
+                        "name": "P-Switch Coin Block #4",
                         "ref": "Map/Vanilla Dome 3/P-Switch Coin Block #4"
                     }
                 ],
@@ -307,6 +325,7 @@
                 "name": "Vanilla Dome 3 - Blocksanity - P-Switch Coin Block #5",
                 "sections": [
                     {
+                        "name": "P-Switch Coin Block #5",
                         "ref": "Map/Vanilla Dome 3/P-Switch Coin Block #5"
                     }
                 ],
@@ -322,6 +341,7 @@
                 "name": "Vanilla Dome 3 - Blocksanity - P-Switch Coin Block #6",
                 "sections": [
                     {
+                        "name": "P-Switch Coin Block #6",
                         "ref": "Map/Vanilla Dome 3/P-Switch Coin Block #6"
                     }
                 ],
@@ -337,6 +357,7 @@
                 "name": "Vanilla Dome 3 - Midway Point",
                 "sections": [
                     {
+                        "name": "Midway Point",
                         "ref": "Map/Vanilla Dome 3/Midway Point"
                     }
                 ],
@@ -352,66 +373,87 @@
                 "name": "Vanilla Dome 3 - Main room",
                 "sections": [
                     {
+                        "name": "Main room",
                         "ref": "Map/Vanilla Dome 3/Main room"
                     },
                     {
+                        "name": "Midway Point",
                         "ref": "Map/Vanilla Dome 3/Midway Point"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Vanilla Dome 3/Normal Exit"
                     },
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Vanilla Dome 3/Dragon Coins"
                     },
                     {
+                        "name": "3-Up Moon",
                         "ref": "Map/Vanilla Dome 3/3-Up Moon"
                     },
                     {
+                        "name": "Coin Block #1",
                         "ref": "Map/Vanilla Dome 3/Coin Block #1"
                     },
                     {
+                        "name": "Flying Question Block #1",
                         "ref": "Map/Vanilla Dome 3/Flying Question Block #1"
                     },
                     {
+                        "name": "Flying Question Block #2",
                         "ref": "Map/Vanilla Dome 3/Flying Question Block #2"
                     },
                     {
+                        "name": "Powerup Block #1",
                         "ref": "Map/Vanilla Dome 3/Powerup Block #1"
                     },
                     {
+                        "name": "Flying Question Block #3",
                         "ref": "Map/Vanilla Dome 3/Flying Question Block #3"
                     },
                     {
+                        "name": "Invisible Coin Block #1",
                         "ref": "Map/Vanilla Dome 3/Invisible Coin Block #1"
                     },
                     {
+                        "name": "Powerup Block #2",
                         "ref": "Map/Vanilla Dome 3/Powerup Block #2"
                     },
                     {
+                        "name": "Multi Coin Block #1",
                         "ref": "Map/Vanilla Dome 3/Multi Coin Block #1"
                     },
                     {
+                        "name": "Yoshi Block #1",
                         "ref": "Map/Vanilla Dome 3/Yoshi Block #1"
                     },
                     {
+                        "name": "Powerup Block #4",
                         "ref": "Map/Vanilla Dome 3/Powerup Block #4"
                     },
                     {
+                        "name": "P-Switch Coin Block #1",
                         "ref": "Map/Vanilla Dome 3/P-Switch Coin Block #1"
                     },
                     {
+                        "name": "P-Switch Coin Block #2",
                         "ref": "Map/Vanilla Dome 3/P-Switch Coin Block #2"
                     },
                     {
+                        "name": "P-Switch Coin Block #3",
                         "ref": "Map/Vanilla Dome 3/P-Switch Coin Block #3"
                     },
                     {
+                        "name": "P-Switch Coin Block #4",
                         "ref": "Map/Vanilla Dome 3/P-Switch Coin Block #4"
                     },
                     {
+                        "name": "P-Switch Coin Block #5",
                         "ref": "Map/Vanilla Dome 3/P-Switch Coin Block #5"
                     },
                     {
+                        "name": "P-Switch Coin Block #6",
                         "ref": "Map/Vanilla Dome 3/P-Switch Coin Block #6"
                     }
                 ],
@@ -427,12 +469,15 @@
                 "name": "Vanilla Dome 3 - Ice cave room",
                 "sections": [
                     {
+                        "name": "Ice cave room",
                         "ref": "Map/Vanilla Dome 3/Ice cave room"
                     },
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Vanilla Dome 3/Dragon Coins"
                     },
                     {
+                        "name": "Powerup Block #3",
                         "ref": "Map/Vanilla Dome 3/Powerup Block #3"
                     }
                 ],
@@ -448,6 +493,7 @@
                 "name": "Vanilla Dome 3 - Bonus room",
                 "sections": [
                     {
+                        "name": "Bonus room",
                         "ref": "Map/Vanilla Dome 3/Bonus room"
                     }
                 ],
@@ -463,6 +509,7 @@
                 "name": "Vanilla Dome 3 - Pipe to Bonus room",
                 "sections": [
                     {
+                        "name": "Bonus room",
                         "ref": "Map/Vanilla Dome 3/Bonus room"
                     }
                 ],
@@ -478,12 +525,15 @@
                 "name": "Vanilla Dome 3 - Pipe to Ice cave room",
                 "sections": [
                     {
+                        "name": "Ice cave room",
                         "ref": "Map/Vanilla Dome 3/Ice cave room"
                     },
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Vanilla Dome 3/Dragon Coins"
                     },
                     {
+                        "name": "Powerup Block #3",
                         "ref": "Map/Vanilla Dome 3/Powerup Block #3"
                     }
                 ],
@@ -499,39 +549,51 @@
                 "name": "Vanilla Dome 3 - Pipe to Main room",
                 "sections": [
                     {
+                        "name": "Main room",
                         "ref": "Map/Vanilla Dome 3/Main room"
                     },
                     {
+                        "name": "Midway Point",
                         "ref": "Map/Vanilla Dome 3/Midway Point"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Vanilla Dome 3/Normal Exit"
                     },
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Vanilla Dome 3/Dragon Coins"
                     },
                     {
+                        "name": "Yoshi Block #1",
                         "ref": "Map/Vanilla Dome 3/Yoshi Block #1"
                     },
                     {
+                        "name": "Powerup Block #4",
                         "ref": "Map/Vanilla Dome 3/Powerup Block #4"
                     },
                     {
+                        "name": "P-Switch Coin Block #1",
                         "ref": "Map/Vanilla Dome 3/P-Switch Coin Block #1"
                     },
                     {
+                        "name": "P-Switch Coin Block #2",
                         "ref": "Map/Vanilla Dome 3/P-Switch Coin Block #2"
                     },
                     {
+                        "name": "P-Switch Coin Block #3",
                         "ref": "Map/Vanilla Dome 3/P-Switch Coin Block #3"
                     },
                     {
+                        "name": "P-Switch Coin Block #4",
                         "ref": "Map/Vanilla Dome 3/P-Switch Coin Block #4"
                     },
                     {
+                        "name": "P-Switch Coin Block #5",
                         "ref": "Map/Vanilla Dome 3/P-Switch Coin Block #5"
                     },
                     {
+                        "name": "P-Switch Coin Block #6",
                         "ref": "Map/Vanilla Dome 3/P-Switch Coin Block #6"
                     }
                 ],

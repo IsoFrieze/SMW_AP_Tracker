@@ -12,6 +12,7 @@
                 "name": "Valley Fortress - Boss battle",
                 "sections": [
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Valley Fortress/Normal Exit"
                     }
                 ],
@@ -27,6 +28,7 @@
                 "name": "Valley Fortress - Blocksanity - Green Switch Palace Block #1",
                 "sections": [
                     {
+                        "name": "Green Switch Palace Block #1",
                         "ref": "Map/Valley Fortress/Green Switch Palace Block #1"
                     }
                 ],
@@ -42,6 +44,7 @@
                 "name": "Valley Fortress - Blocksanity - Yellow Switch Palace Block #1",
                 "sections": [
                     {
+                        "name": "Yellow Switch Palace Block #1",
                         "ref": "Map/Valley Fortress/Yellow Switch Palace Block #1"
                     }
                 ],
@@ -57,15 +60,19 @@
                 "name": "Valley Fortress - Main room",
                 "sections": [
                     {
+                        "name": "Main room",
                         "ref": "Map/Valley Fortress/Main room"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Valley Fortress/Normal Exit"
                     },
                     {
+                        "name": "Green Switch Palace Block #1",
                         "ref": "Map/Valley Fortress/Green Switch Palace Block #1"
                     },
                     {
+                        "name": "Yellow Switch Palace Block #1",
                         "ref": "Map/Valley Fortress/Yellow Switch Palace Block #1"
                     }
                 ],

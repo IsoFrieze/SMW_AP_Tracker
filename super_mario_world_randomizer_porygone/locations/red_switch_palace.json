@@ -12,6 +12,7 @@
                 "name": "Red Switch Palace - Palace Button",
                 "sections": [
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Red Switch Palace/Normal Exit"
                     }
                 ],
@@ -27,6 +28,7 @@
                 "name": "Red Switch Palace - Bonus room",
                 "sections": [
                     {
+                        "name": "Bonus room",
                         "ref": "Map/Red Switch Palace/Bonus room"
                     }
                 ],
@@ -42,9 +44,11 @@
                 "name": "Red Switch Palace - Button room",
                 "sections": [
                     {
+                        "name": "Button room",
                         "ref": "Map/Red Switch Palace/Button room"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Red Switch Palace/Normal Exit"
                     }
                 ],
@@ -60,9 +64,11 @@
                 "name": "Red Switch Palace - Pipe to Button room",
                 "sections": [
                     {
+                        "name": "Button room",
                         "ref": "Map/Red Switch Palace/Button room"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Red Switch Palace/Normal Exit"
                     }
                 ],

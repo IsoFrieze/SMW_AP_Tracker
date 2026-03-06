@@ -12,6 +12,7 @@
                 "name": "Chocolate Island 3 - Goal",
                 "sections": [
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Chocolate Island 3/Normal Exit"
                     }
                 ],
@@ -27,6 +28,7 @@
                 "name": "Chocolate Island 3 - Secret goal",
                 "sections": [
                     {
+                        "name": "Secret Exit",
                         "ref": "Map/Chocolate Island 3/Secret Exit"
                     }
                 ],
@@ -42,6 +44,7 @@
                 "name": "Chocolate Island 3 - Dragon Coins",
                 "sections": [
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Chocolate Island 3/Dragon Coins"
                     }
                 ],
@@ -77,6 +80,7 @@
                 "name": "Chocolate Island 3 - Prize from bonus block",
                 "sections": [
                     {
+                        "name": "1-Up from Bonus Block",
                         "ref": "Map/Chocolate Island 3/1-Up from Bonus Block"
                     }
                 ],
@@ -92,6 +96,7 @@
                 "name": "Chocolate Island 3 - Blocksanity - Powerup Block #1",
                 "sections": [
                     {
+                        "name": "Powerup Block #1",
                         "ref": "Map/Chocolate Island 3/Powerup Block #1"
                     }
                 ],
@@ -107,6 +112,7 @@
                 "name": "Chocolate Island 3 - Blocksanity - Powerup Block #2",
                 "sections": [
                     {
+                        "name": "Powerup Block #2",
                         "ref": "Map/Chocolate Island 3/Powerup Block #2"
                     }
                 ],
@@ -122,6 +128,7 @@
                 "name": "Chocolate Island 3 - Blocksanity - Powerup Block #3",
                 "sections": [
                     {
+                        "name": "Powerup Block #3",
                         "ref": "Map/Chocolate Island 3/Powerup Block #3"
                     }
                 ],
@@ -137,6 +144,7 @@
                 "name": "Chocolate Island 3 - Blocksanity - Green Switch Palace Block #1",
                 "sections": [
                     {
+                        "name": "Green Switch Palace Block #1",
                         "ref": "Map/Chocolate Island 3/Green Switch Palace Block #1"
                     }
                 ],
@@ -152,6 +160,7 @@
                 "name": "Chocolate Island 3 - Blocksanity - Vine Block #1",
                 "sections": [
                     {
+                        "name": "Vine Block #1",
                         "ref": "Map/Chocolate Island 3/Vine Block #1"
                     }
                 ],
@@ -167,6 +176,7 @@
                 "name": "Chocolate Island 3 - Blocksanity - 1-Up Mushroom Block #1",
                 "sections": [
                     {
+                        "name": "1-Up Mushroom Block #1",
                         "ref": "Map/Chocolate Island 3/1-Up Mushroom Block #1"
                     }
                 ],
@@ -182,6 +192,7 @@
                 "name": "Chocolate Island 3 - Blocksanity - 1-Up Mushroom Block #2",
                 "sections": [
                     {
+                        "name": "1-Up Mushroom Block #2",
                         "ref": "Map/Chocolate Island 3/1-Up Mushroom Block #2"
                     }
                 ],
@@ -197,6 +208,7 @@
                 "name": "Chocolate Island 3 - Blocksanity - 1-Up Mushroom Block #3",
                 "sections": [
                     {
+                        "name": "1-Up Mushroom Block #3",
                         "ref": "Map/Chocolate Island 3/1-Up Mushroom Block #3"
                     }
                 ],
@@ -212,6 +224,7 @@
                 "name": "Chocolate Island 3 - Midway Point",
                 "sections": [
                     {
+                        "name": "Midway Point",
                         "ref": "Map/Chocolate Island 3/Midway Point"
                     }
                 ],
@@ -227,45 +240,59 @@
                 "name": "Chocolate Island 3 - Main room",
                 "sections": [
                     {
+                        "name": "Main room",
                         "ref": "Map/Chocolate Island 3/Main room"
                     },
                     {
+                        "name": "Midway Point",
                         "ref": "Map/Chocolate Island 3/Midway Point"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Chocolate Island 3/Normal Exit"
                     },
                     {
+                        "name": "Secret Exit",
                         "ref": "Map/Chocolate Island 3/Secret Exit"
                     },
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Chocolate Island 3/Dragon Coins"
                     },
                     {
+                        "name": "1-Up from Bonus Block",
                         "ref": "Map/Chocolate Island 3/1-Up from Bonus Block"
                     },
                     {
+                        "name": "Powerup Block #1",
                         "ref": "Map/Chocolate Island 3/Powerup Block #1"
                     },
                     {
+                        "name": "Powerup Block #2",
                         "ref": "Map/Chocolate Island 3/Powerup Block #2"
                     },
                     {
+                        "name": "Powerup Block #3",
                         "ref": "Map/Chocolate Island 3/Powerup Block #3"
                     },
                     {
+                        "name": "Green Switch Palace Block #1",
                         "ref": "Map/Chocolate Island 3/Green Switch Palace Block #1"
                     },
                     {
+                        "name": "Vine Block #1",
                         "ref": "Map/Chocolate Island 3/Vine Block #1"
                     },
                     {
+                        "name": "1-Up Mushroom Block #1",
                         "ref": "Map/Chocolate Island 3/1-Up Mushroom Block #1"
                     },
                     {
+                        "name": "1-Up Mushroom Block #2",
                         "ref": "Map/Chocolate Island 3/1-Up Mushroom Block #2"
                     },
                     {
+                        "name": "1-Up Mushroom Block #3",
                         "ref": "Map/Chocolate Island 3/1-Up Mushroom Block #3"
                     }
                 ],
@@ -281,9 +308,11 @@
                 "name": "Chocolate Island 3 - Coin room",
                 "sections": [
                     {
+                        "name": "Coin room",
                         "ref": "Map/Chocolate Island 3/Coin room"
                     },
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Chocolate Island 3/Dragon Coins"
                     }
                 ],
@@ -299,9 +328,11 @@
                 "name": "Chocolate Island 3 - Pipe to Coin room",
                 "sections": [
                     {
+                        "name": "Coin room",
                         "ref": "Map/Chocolate Island 3/Coin room"
                     },
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Chocolate Island 3/Dragon Coins"
                     }
                 ],
@@ -317,45 +348,59 @@
                 "name": "Chocolate Island 3 - Pipe to Main room",
                 "sections": [
                     {
+                        "name": "Main room",
                         "ref": "Map/Chocolate Island 3/Main room"
                     },
                     {
+                        "name": "Midway Point",
                         "ref": "Map/Chocolate Island 3/Midway Point"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Chocolate Island 3/Normal Exit"
                     },
                     {
+                        "name": "Secret Exit",
                         "ref": "Map/Chocolate Island 3/Secret Exit"
                     },
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Chocolate Island 3/Dragon Coins"
                     },
                     {
+                        "name": "1-Up from Bonus Block",
                         "ref": "Map/Chocolate Island 3/1-Up from Bonus Block"
                     },
                     {
+                        "name": "Powerup Block #1",
                         "ref": "Map/Chocolate Island 3/Powerup Block #1"
                     },
                     {
+                        "name": "Powerup Block #2",
                         "ref": "Map/Chocolate Island 3/Powerup Block #2"
                     },
                     {
+                        "name": "Powerup Block #3",
                         "ref": "Map/Chocolate Island 3/Powerup Block #3"
                     },
                     {
+                        "name": "Green Switch Palace Block #1",
                         "ref": "Map/Chocolate Island 3/Green Switch Palace Block #1"
                     },
                     {
+                        "name": "Vine Block #1",
                         "ref": "Map/Chocolate Island 3/Vine Block #1"
                     },
                     {
+                        "name": "1-Up Mushroom Block #1",
                         "ref": "Map/Chocolate Island 3/1-Up Mushroom Block #1"
                     },
                     {
+                        "name": "1-Up Mushroom Block #2",
                         "ref": "Map/Chocolate Island 3/1-Up Mushroom Block #2"
                     },
                     {
+                        "name": "1-Up Mushroom Block #3",
                         "ref": "Map/Chocolate Island 3/1-Up Mushroom Block #3"
                     }
                 ],

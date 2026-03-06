@@ -12,6 +12,7 @@
                 "name": "#7 Larry's Castle - Boss battle",
                 "sections": [
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/#7 Larry's Castle/Normal Exit"
                     }
                 ],
@@ -27,6 +28,7 @@
                 "name": "#7 Larry's Castle - Dragon Coins",
                 "sections": [
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/#7 Larry's Castle/Dragon Coins"
                     }
                 ],
@@ -62,6 +64,7 @@
                 "name": "#7 Larry's Castle - Hidden 1-Up",
                 "sections": [
                     {
+                        "name": "Hidden 1-Up",
                         "ref": "Map/#7 Larry's Castle/Hidden 1-Up"
                     }
                 ],
@@ -77,6 +80,7 @@
                 "name": "#7 Larry's Castle - Blocksanity - Yellow Switch Palace Block #1",
                 "sections": [
                     {
+                        "name": "Yellow Switch Palace Block #1",
                         "ref": "Map/#7 Larry's Castle/Yellow Switch Palace Block #1"
                     }
                 ],
@@ -92,6 +96,7 @@
                 "name": "#7 Larry's Castle - Blocksanity - Yellow Switch Palace Block #2",
                 "sections": [
                     {
+                        "name": "Yellow Switch Palace Block #2",
                         "ref": "Map/#7 Larry's Castle/Yellow Switch Palace Block #2"
                     }
                 ],
@@ -107,6 +112,7 @@
                 "name": "#7 Larry's Castle - Blocksanity - Green Switch Palace Block #1",
                 "sections": [
                     {
+                        "name": "Green Switch Palace Block #1",
                         "ref": "Map/#7 Larry's Castle/Green Switch Palace Block #1"
                     }
                 ],
@@ -122,6 +128,7 @@
                 "name": "#7 Larry's Castle - Midway Point",
                 "sections": [
                     {
+                        "name": "Midway Point",
                         "ref": "Map/#7 Larry's Castle/Midway Point"
                     }
                 ],
@@ -137,18 +144,23 @@
                 "name": "#7 Larry's Castle - Snake block room",
                 "sections": [
                     {
+                        "name": "Snake block room",
                         "ref": "Map/#7 Larry's Castle/Snake block room"
                     },
                     {
+                        "name": "Midway Point",
                         "ref": "Map/#7 Larry's Castle/Midway Point"
                     },
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/#7 Larry's Castle/Dragon Coins"
                     },
                     {
+                        "name": "Hidden 1-Up",
                         "ref": "Map/#7 Larry's Castle/Hidden 1-Up"
                     },
                     {
+                        "name": "Yellow Switch Palace Block #1",
                         "ref": "Map/#7 Larry's Castle/Yellow Switch Palace Block #1"
                     }
                 ],
@@ -164,15 +176,19 @@
                 "name": "#7 Larry's Castle - Magikoopa room",
                 "sections": [
                     {
+                        "name": "Magikoopa room",
                         "ref": "Map/#7 Larry's Castle/Magikoopa room"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/#7 Larry's Castle/Normal Exit"
                     },
                     {
+                        "name": "Yellow Switch Palace Block #2",
                         "ref": "Map/#7 Larry's Castle/Yellow Switch Palace Block #2"
                     },
                     {
+                        "name": "Green Switch Palace Block #1",
                         "ref": "Map/#7 Larry's Castle/Green Switch Palace Block #1"
                     }
                 ],
@@ -188,15 +204,19 @@
                 "name": "#7 Larry's Castle - Door to Magikoopa room",
                 "sections": [
                     {
+                        "name": "Magikoopa room",
                         "ref": "Map/#7 Larry's Castle/Magikoopa room"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/#7 Larry's Castle/Normal Exit"
                     },
                     {
+                        "name": "Yellow Switch Palace Block #2",
                         "ref": "Map/#7 Larry's Castle/Yellow Switch Palace Block #2"
                     },
                     {
+                        "name": "Green Switch Palace Block #1",
                         "ref": "Map/#7 Larry's Castle/Green Switch Palace Block #1"
                     }
                 ],

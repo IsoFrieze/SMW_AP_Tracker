@@ -12,6 +12,7 @@
                 "name": "Vanilla Ghost House - Goal",
                 "sections": [
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Vanilla Ghost House/Normal Exit"
                     }
                 ],
@@ -27,6 +28,7 @@
                 "name": "Vanilla Ghost House - Dragon Coins",
                 "sections": [
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Vanilla Ghost House/Dragon Coins"
                     }
                 ],
@@ -62,6 +64,7 @@
                 "name": "Vanilla Ghost House - Hidden 1-Up",
                 "sections": [
                     {
+                        "name": "Hidden 1-Up",
                         "ref": "Map/Vanilla Ghost House/Hidden 1-Up"
                     }
                 ],
@@ -77,6 +80,7 @@
                 "name": "Vanilla Ghost House - Blocksanity - Powerup Block #1",
                 "sections": [
                     {
+                        "name": "Powerup Block #1",
                         "ref": "Map/Vanilla Ghost House/Powerup Block #1"
                     }
                 ],
@@ -92,6 +96,7 @@
                 "name": "Vanilla Ghost House - Blocksanity - Vine Block #1",
                 "sections": [
                     {
+                        "name": "Vine Block #1",
                         "ref": "Map/Vanilla Ghost House/Vine Block #1"
                     }
                 ],
@@ -107,6 +112,7 @@
                 "name": "Vanilla Ghost House - Blocksanity - Powerup Block #2",
                 "sections": [
                     {
+                        "name": "Powerup Block #2",
                         "ref": "Map/Vanilla Ghost House/Powerup Block #2"
                     }
                 ],
@@ -122,6 +128,7 @@
                 "name": "Vanilla Ghost House - Blocksanity - Multi Coin Block #1",
                 "sections": [
                     {
+                        "name": "Multi Coin Block #1",
                         "ref": "Map/Vanilla Ghost House/Multi Coin Block #1"
                     }
                 ],
@@ -137,6 +144,7 @@
                 "name": "Vanilla Ghost House - Blocksanity - Blue P-Switch Block #1",
                 "sections": [
                     {
+                        "name": "Blue P-Switch Block #1",
                         "ref": "Map/Vanilla Ghost House/Blue P-Switch Block #1"
                     }
                 ],
@@ -152,24 +160,31 @@
                 "name": "Vanilla Ghost House - Main room",
                 "sections": [
                     {
+                        "name": "Main room",
                         "ref": "Map/Vanilla Ghost House/Main room"
                     },
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Vanilla Ghost House/Dragon Coins"
                     },
                     {
+                        "name": "Hidden 1-Up",
                         "ref": "Map/Vanilla Ghost House/Hidden 1-Up"
                     },
                     {
+                        "name": "Powerup Block #1",
                         "ref": "Map/Vanilla Ghost House/Powerup Block #1"
                     },
                     {
+                        "name": "Vine Block #1",
                         "ref": "Map/Vanilla Ghost House/Vine Block #1"
                     },
                     {
+                        "name": "Powerup Block #2",
                         "ref": "Map/Vanilla Ghost House/Powerup Block #2"
                     },
                     {
+                        "name": "Multi Coin Block #1",
                         "ref": "Map/Vanilla Ghost House/Multi Coin Block #1"
                     }
                 ],
@@ -185,12 +200,15 @@
                 "name": "Vanilla Ghost House - Gas bubbles room",
                 "sections": [
                     {
+                        "name": "Gas bubbles room",
                         "ref": "Map/Vanilla Ghost House/Gas bubbles room"
                     },
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Vanilla Ghost House/Dragon Coins"
                     },
                     {
+                        "name": "Blue P-Switch Block #1",
                         "ref": "Map/Vanilla Ghost House/Blue P-Switch Block #1"
                     }
                 ],
@@ -206,9 +224,11 @@
                 "name": "Vanilla Ghost House - Goal room",
                 "sections": [
                     {
+                        "name": "Goal room",
                         "ref": "Map/Vanilla Ghost House/Goal room"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Vanilla Ghost House/Normal Exit"
                     }
                 ],
@@ -224,15 +244,19 @@
                 "name": "Vanilla Ghost House - Door to Gas bubbles room",
                 "sections": [
                     {
+                        "name": "Gas bubbles room",
                         "ref": "Map/Vanilla Ghost House/Gas bubbles room"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Vanilla Ghost House/Normal Exit"
                     },
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Vanilla Ghost House/Dragon Coins"
                     },
                     {
+                        "name": "Blue P-Switch Block #1",
                         "ref": "Map/Vanilla Ghost House/Blue P-Switch Block #1"
                     }
                 ],
@@ -248,9 +272,11 @@
                 "name": "Vanilla Ghost House - Door to Goal room",
                 "sections": [
                     {
+                        "name": "Goal room",
                         "ref": "Map/Vanilla Ghost House/Goal room"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Vanilla Ghost House/Normal Exit"
                     }
                 ],
@@ -266,24 +292,31 @@
                 "name": "Vanilla Ghost House - Door to Main room",
                 "sections": [
                     {
+                        "name": "Main room",
                         "ref": "Map/Vanilla Ghost House/Main room"
                     },
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Vanilla Ghost House/Dragon Coins"
                     },
                     {
+                        "name": "Hidden 1-Up",
                         "ref": "Map/Vanilla Ghost House/Hidden 1-Up"
                     },
                     {
+                        "name": "Powerup Block #1",
                         "ref": "Map/Vanilla Ghost House/Powerup Block #1"
                     },
                     {
+                        "name": "Vine Block #1",
                         "ref": "Map/Vanilla Ghost House/Vine Block #1"
                     },
                     {
+                        "name": "Powerup Block #2",
                         "ref": "Map/Vanilla Ghost House/Powerup Block #2"
                     },
                     {
+                        "name": "Multi Coin Block #1",
                         "ref": "Map/Vanilla Ghost House/Multi Coin Block #1"
                     }
                 ],

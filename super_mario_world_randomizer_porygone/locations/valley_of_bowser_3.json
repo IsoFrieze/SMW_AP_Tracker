@@ -12,6 +12,7 @@
                 "name": "Valley of Bowser 3 - Goal",
                 "sections": [
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Valley of Bowser 3/Normal Exit"
                     }
                 ],
@@ -27,6 +28,7 @@
                 "name": "Valley of Bowser 3 - Dragon Coins",
                 "sections": [
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Valley of Bowser 3/Dragon Coins"
                     }
                 ],
@@ -62,6 +64,7 @@
                 "name": "Valley of Bowser 3 - Blocksanity - Powerup Block #1",
                 "sections": [
                     {
+                        "name": "Powerup Block #1",
                         "ref": "Map/Valley of Bowser 3/Powerup Block #1"
                     }
                 ],
@@ -77,6 +80,7 @@
                 "name": "Valley of Bowser 3 - Blocksanity - Powerup Block #2",
                 "sections": [
                     {
+                        "name": "Powerup Block #2",
                         "ref": "Map/Valley of Bowser 3/Powerup Block #2"
                     }
                 ],
@@ -92,6 +96,7 @@
                 "name": "Valley of Bowser 3 - Midway Point",
                 "sections": [
                     {
+                        "name": "Midway Point",
                         "ref": "Map/Valley of Bowser 3/Midway Point"
                     }
                 ],
@@ -107,21 +112,27 @@
                 "name": "Valley of Bowser 3 - Main room",
                 "sections": [
                     {
+                        "name": "Main room",
                         "ref": "Map/Valley of Bowser 3/Main room"
                     },
                     {
+                        "name": "Midway Point",
                         "ref": "Map/Valley of Bowser 3/Midway Point"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Valley of Bowser 3/Normal Exit"
                     },
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Valley of Bowser 3/Dragon Coins"
                     },
                     {
+                        "name": "Powerup Block #1",
                         "ref": "Map/Valley of Bowser 3/Powerup Block #1"
                     },
                     {
+                        "name": "Powerup Block #2",
                         "ref": "Map/Valley of Bowser 3/Powerup Block #2"
                     }
                 ],
@@ -137,6 +148,7 @@
                 "name": "Valley of Bowser 3 - Bonus room",
                 "sections": [
                     {
+                        "name": "Bonus room",
                         "ref": "Map/Valley of Bowser 3/Bonus room"
                     }
                 ],
@@ -152,6 +164,7 @@
                 "name": "Valley of Bowser 3 - Pipe to Bonus room",
                 "sections": [
                     {
+                        "name": "Bonus room",
                         "ref": "Map/Valley of Bowser 3/Bonus room"
                     }
                 ],
@@ -167,21 +180,27 @@
                 "name": "Valley of Bowser 3 - Pipe to Main room",
                 "sections": [
                     {
+                        "name": "Main room",
                         "ref": "Map/Valley of Bowser 3/Main room"
                     },
                     {
+                        "name": "Midway Point",
                         "ref": "Map/Valley of Bowser 3/Midway Point"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Valley of Bowser 3/Normal Exit"
                     },
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Valley of Bowser 3/Dragon Coins"
                     },
                     {
+                        "name": "Powerup Block #1",
                         "ref": "Map/Valley of Bowser 3/Powerup Block #1"
                     },
                     {
+                        "name": "Powerup Block #2",
                         "ref": "Map/Valley of Bowser 3/Powerup Block #2"
                     }
                 ],

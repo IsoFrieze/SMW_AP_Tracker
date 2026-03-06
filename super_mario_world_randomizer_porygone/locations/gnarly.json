@@ -12,6 +12,7 @@
                 "name": "Gnarly - Goal",
                 "sections": [
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Gnarly/Normal Exit"
                     }
                 ],
@@ -27,6 +28,7 @@
                 "name": "Gnarly - Dragon Coins",
                 "sections": [
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Gnarly/Dragon Coins"
                     }
                 ],
@@ -77,6 +79,7 @@
                 "name": "Gnarly - Hidden 1-Up",
                 "sections": [
                     {
+                        "name": "Hidden 1-Up",
                         "ref": "Map/Gnarly/Hidden 1-Up"
                     }
                 ],
@@ -92,6 +95,7 @@
                 "name": "Gnarly - Blocksanity - Vine Block #1",
                 "sections": [
                     {
+                        "name": "Vine Block #1",
                         "ref": "Map/Gnarly/Vine Block #1"
                     }
                 ],
@@ -107,6 +111,7 @@
                 "name": "Gnarly - Blocksanity - Vine Block #2",
                 "sections": [
                     {
+                        "name": "Vine Block #2",
                         "ref": "Map/Gnarly/Vine Block #2"
                     }
                 ],
@@ -122,6 +127,7 @@
                 "name": "Gnarly - Blocksanity - Vine Block #3",
                 "sections": [
                     {
+                        "name": "Vine Block #3",
                         "ref": "Map/Gnarly/Vine Block #3"
                     }
                 ],
@@ -137,6 +143,7 @@
                 "name": "Gnarly - Blocksanity - Vine Block #4",
                 "sections": [
                     {
+                        "name": "Vine Block #4",
                         "ref": "Map/Gnarly/Vine Block #4"
                     }
                 ],
@@ -152,6 +159,7 @@
                 "name": "Gnarly - Blocksanity - 1-Up Mushroom Block #1",
                 "sections": [
                     {
+                        "name": "1-Up Mushroom Block #1",
                         "ref": "Map/Gnarly/1-Up Mushroom Block #1"
                     }
                 ],
@@ -167,6 +175,7 @@
                 "name": "Gnarly - Blocksanity - Vine Block #5",
                 "sections": [
                     {
+                        "name": "Vine Block #5",
                         "ref": "Map/Gnarly/Vine Block #5"
                     }
                 ],
@@ -182,6 +191,7 @@
                 "name": "Gnarly - Blocksanity - Blue P-Switch Block #1",
                 "sections": [
                     {
+                        "name": "Blue P-Switch Block #1",
                         "ref": "Map/Gnarly/Blue P-Switch Block #1"
                     }
                 ],
@@ -197,6 +207,7 @@
                 "name": "Gnarly - Blocksanity - Vine Block #6",
                 "sections": [
                     {
+                        "name": "Vine Block #6",
                         "ref": "Map/Gnarly/Vine Block #6"
                     }
                 ],
@@ -212,6 +223,7 @@
                 "name": "Gnarly - Blocksanity - Powerup Block #1",
                 "sections": [
                     {
+                        "name": "Powerup Block #1",
                         "ref": "Map/Gnarly/Powerup Block #1"
                     }
                 ],
@@ -227,6 +239,7 @@
                 "name": "Gnarly - Blocksanity - P-Switch Coin Block #1",
                 "sections": [
                     {
+                        "name": "P-Switch Coin Block #1",
                         "ref": "Map/Gnarly/P-Switch Coin Block #1"
                     }
                 ],
@@ -242,6 +255,7 @@
                 "name": "Gnarly - Blocksanity - P-Switch Coin Block #2",
                 "sections": [
                     {
+                        "name": "P-Switch Coin Block #2",
                         "ref": "Map/Gnarly/P-Switch Coin Block #2"
                     }
                 ],
@@ -257,6 +271,7 @@
                 "name": "Gnarly - Blocksanity - P-Switch Coin Block #3",
                 "sections": [
                     {
+                        "name": "P-Switch Coin Block #3",
                         "ref": "Map/Gnarly/P-Switch Coin Block #3"
                     }
                 ],
@@ -272,6 +287,7 @@
                 "name": "Gnarly - Blocksanity - P-Switch Coin Block #4",
                 "sections": [
                     {
+                        "name": "P-Switch Coin Block #4",
                         "ref": "Map/Gnarly/P-Switch Coin Block #4"
                     }
                 ],
@@ -287,6 +303,7 @@
                 "name": "Gnarly - Blocksanity - P-Switch Coin Block #5",
                 "sections": [
                     {
+                        "name": "P-Switch Coin Block #5",
                         "ref": "Map/Gnarly/P-Switch Coin Block #5"
                     }
                 ],
@@ -302,6 +319,7 @@
                 "name": "Gnarly - Blocksanity - P-Switch Coin Block #6",
                 "sections": [
                     {
+                        "name": "P-Switch Coin Block #6",
                         "ref": "Map/Gnarly/P-Switch Coin Block #6"
                     }
                 ],
@@ -317,6 +335,7 @@
                 "name": "Gnarly - Blocksanity - P-Switch Coin Block #7",
                 "sections": [
                     {
+                        "name": "P-Switch Coin Block #7",
                         "ref": "Map/Gnarly/P-Switch Coin Block #7"
                     }
                 ],
@@ -332,6 +351,7 @@
                 "name": "Gnarly - Blocksanity - P-Switch Coin Block #8",
                 "sections": [
                     {
+                        "name": "P-Switch Coin Block #8",
                         "ref": "Map/Gnarly/P-Switch Coin Block #8"
                     }
                 ],
@@ -347,6 +367,7 @@
                 "name": "Gnarly - Blocksanity - P-Switch Coin Block #9",
                 "sections": [
                     {
+                        "name": "P-Switch Coin Block #9",
                         "ref": "Map/Gnarly/P-Switch Coin Block #9"
                     }
                 ],
@@ -362,6 +383,7 @@
                 "name": "Gnarly - Blocksanity - P-Switch Coin Block #10",
                 "sections": [
                     {
+                        "name": "P-Switch Coin Block #10",
                         "ref": "Map/Gnarly/P-Switch Coin Block #10"
                     }
                 ],
@@ -377,6 +399,7 @@
                 "name": "Gnarly - Blocksanity - P-Switch Coin Block #11",
                 "sections": [
                     {
+                        "name": "P-Switch Coin Block #11",
                         "ref": "Map/Gnarly/P-Switch Coin Block #11"
                     }
                 ],
@@ -392,6 +415,7 @@
                 "name": "Gnarly - Blocksanity - P-Switch Coin Block #12",
                 "sections": [
                     {
+                        "name": "P-Switch Coin Block #12",
                         "ref": "Map/Gnarly/P-Switch Coin Block #12"
                     }
                 ],
@@ -407,6 +431,7 @@
                 "name": "Gnarly - Blocksanity - P-Switch Coin Block #13",
                 "sections": [
                     {
+                        "name": "P-Switch Coin Block #13",
                         "ref": "Map/Gnarly/P-Switch Coin Block #13"
                     }
                 ],
@@ -422,66 +447,87 @@
                 "name": "Gnarly - Main room",
                 "sections": [
                     {
+                        "name": "Main room",
                         "ref": "Map/Gnarly/Main room"
                     },
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Gnarly/Dragon Coins"
                     },
                     {
+                        "name": "Hidden 1-Up",
                         "ref": "Map/Gnarly/Hidden 1-Up"
                     },
                     {
+                        "name": "Vine Block #1",
                         "ref": "Map/Gnarly/Vine Block #1"
                     },
                     {
+                        "name": "Vine Block #2",
                         "ref": "Map/Gnarly/Vine Block #2"
                     },
                     {
+                        "name": "Vine Block #3",
                         "ref": "Map/Gnarly/Vine Block #3"
                     },
                     {
+                        "name": "Vine Block #4",
                         "ref": "Map/Gnarly/Vine Block #4"
                     },
                     {
+                        "name": "1-Up Mushroom Block #1",
                         "ref": "Map/Gnarly/1-Up Mushroom Block #1"
                     },
                     {
+                        "name": "Vine Block #5",
                         "ref": "Map/Gnarly/Vine Block #5"
                     },
                     {
+                        "name": "Blue P-Switch Block #1",
                         "ref": "Map/Gnarly/Blue P-Switch Block #1"
                     },
                     {
+                        "name": "Vine Block #6",
                         "ref": "Map/Gnarly/Vine Block #6"
                     },
                     {
+                        "name": "Powerup Block #1",
                         "ref": "Map/Gnarly/Powerup Block #1"
                     },
                     {
+                        "name": "P-Switch Coin Block #1",
                         "ref": "Map/Gnarly/P-Switch Coin Block #1"
                     },
                     {
+                        "name": "P-Switch Coin Block #2",
                         "ref": "Map/Gnarly/P-Switch Coin Block #2"
                     },
                     {
+                        "name": "P-Switch Coin Block #3",
                         "ref": "Map/Gnarly/P-Switch Coin Block #3"
                     },
                     {
+                        "name": "P-Switch Coin Block #4",
                         "ref": "Map/Gnarly/P-Switch Coin Block #4"
                     },
                     {
+                        "name": "P-Switch Coin Block #5",
                         "ref": "Map/Gnarly/P-Switch Coin Block #5"
                     },
                     {
+                        "name": "P-Switch Coin Block #6",
                         "ref": "Map/Gnarly/P-Switch Coin Block #6"
                     },
                     {
+                        "name": "P-Switch Coin Block #7",
                         "ref": "Map/Gnarly/P-Switch Coin Block #7"
                     },
                     {
+                        "name": "P-Switch Coin Block #8",
                         "ref": "Map/Gnarly/P-Switch Coin Block #8"
                     },
                     {
+                        "name": "P-Switch Coin Block #9",
                         "ref": "Map/Gnarly/P-Switch Coin Block #9"
                     }
                 ],
@@ -497,24 +543,31 @@
                 "name": "Gnarly - Goal room",
                 "sections": [
                     {
+                        "name": "Goal room",
                         "ref": "Map/Gnarly/Goal room"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Gnarly/Normal Exit"
                     },
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Gnarly/Dragon Coins"
                     },
                     {
+                        "name": "P-Switch Coin Block #10",
                         "ref": "Map/Gnarly/P-Switch Coin Block #10"
                     },
                     {
+                        "name": "P-Switch Coin Block #11",
                         "ref": "Map/Gnarly/P-Switch Coin Block #11"
                     },
                     {
+                        "name": "P-Switch Coin Block #12",
                         "ref": "Map/Gnarly/P-Switch Coin Block #12"
                     },
                     {
+                        "name": "P-Switch Coin Block #13",
                         "ref": "Map/Gnarly/P-Switch Coin Block #13"
                     }
                 ],
@@ -530,24 +583,31 @@
                 "name": "Gnarly - Pipe 1 to Goal room",
                 "sections": [
                     {
+                        "name": "Goal room",
                         "ref": "Map/Gnarly/Goal room"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Gnarly/Normal Exit"
                     },
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Gnarly/Dragon Coins"
                     },
                     {
+                        "name": "P-Switch Coin Block #10",
                         "ref": "Map/Gnarly/P-Switch Coin Block #10"
                     },
                     {
+                        "name": "P-Switch Coin Block #11",
                         "ref": "Map/Gnarly/P-Switch Coin Block #11"
                     },
                     {
+                        "name": "P-Switch Coin Block #12",
                         "ref": "Map/Gnarly/P-Switch Coin Block #12"
                     },
                     {
+                        "name": "P-Switch Coin Block #13",
                         "ref": "Map/Gnarly/P-Switch Coin Block #13"
                     }
                 ],
@@ -563,21 +623,27 @@
                 "name": "Gnarly - Pipe 2 to Goal room",
                 "sections": [
                     {
+                        "name": "Goal room",
                         "ref": "Map/Gnarly/Goal room"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Gnarly/Normal Exit"
                     },
                     {
+                        "name": "P-Switch Coin Block #10",
                         "ref": "Map/Gnarly/P-Switch Coin Block #10"
                     },
                     {
+                        "name": "P-Switch Coin Block #11",
                         "ref": "Map/Gnarly/P-Switch Coin Block #11"
                     },
                     {
+                        "name": "P-Switch Coin Block #12",
                         "ref": "Map/Gnarly/P-Switch Coin Block #12"
                     },
                     {
+                        "name": "P-Switch Coin Block #13",
                         "ref": "Map/Gnarly/P-Switch Coin Block #13"
                     }
                 ],

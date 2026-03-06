@@ -12,6 +12,7 @@
                 "name": "#5 Roy's Castle - Boss battle",
                 "sections": [
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/#5 Roy's Castle/Normal Exit"
                     }
                 ],
@@ -27,6 +28,7 @@
                 "name": "#5 Roy's Castle - Dragon Coins",
                 "sections": [
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/#5 Roy's Castle/Dragon Coins"
                     }
                 ],
@@ -62,6 +64,7 @@
                 "name": "#5 Roy's Castle - Blocksanity - Green Switch Palace Block #1",
                 "sections": [
                     {
+                        "name": "Green Switch Palace Block #1",
                         "ref": "Map/#5 Roy's Castle/Green Switch Palace Block #1"
                     }
                 ],
@@ -77,15 +80,19 @@
                 "name": "#5 Roy's Castle - Main room",
                 "sections": [
                     {
+                        "name": "Main room",
                         "ref": "Map/#5 Roy's Castle/Main room"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/#5 Roy's Castle/Normal Exit"
                     },
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/#5 Roy's Castle/Dragon Coins"
                     },
                     {
+                        "name": "Green Switch Palace Block #1",
                         "ref": "Map/#5 Roy's Castle/Green Switch Palace Block #1"
                     }
                 ],

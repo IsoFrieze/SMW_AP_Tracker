@@ -12,6 +12,7 @@
                 "name": "Forest of Illusion 2 - Goal",
                 "sections": [
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Forest of Illusion 2/Normal Exit"
                     }
                 ],
@@ -27,6 +28,7 @@
                 "name": "Forest of Illusion 2 - Keyhole",
                 "sections": [
                     {
+                        "name": "Secret Exit",
                         "ref": "Map/Forest of Illusion 2/Secret Exit"
                     }
                 ],
@@ -42,6 +44,7 @@
                 "name": "Forest of Illusion 2 - Dragon Coins",
                 "sections": [
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Forest of Illusion 2/Dragon Coins"
                     }
                 ],
@@ -77,6 +80,7 @@
                 "name": "Forest of Illusion 2 - Blocksanity - Green Switch Palace Block #1",
                 "sections": [
                     {
+                        "name": "Green Switch Palace Block #1",
                         "ref": "Map/Forest of Illusion 2/Green Switch Palace Block #1"
                     }
                 ],
@@ -92,6 +96,7 @@
                 "name": "Forest of Illusion 2 - Blocksanity - Powerup Block #1",
                 "sections": [
                     {
+                        "name": "Powerup Block #1",
                         "ref": "Map/Forest of Illusion 2/Powerup Block #1"
                     }
                 ],
@@ -107,6 +112,7 @@
                 "name": "Forest of Illusion 2 - Blocksanity - Invisible Coin Block #1",
                 "sections": [
                     {
+                        "name": "Invisible Coin Block #1",
                         "ref": "Map/Forest of Illusion 2/Invisible Coin Block #1"
                     }
                 ],
@@ -122,6 +128,7 @@
                 "name": "Forest of Illusion 2 - Blocksanity - Invisible Coin Block #2",
                 "sections": [
                     {
+                        "name": "Invisible Coin Block #2",
                         "ref": "Map/Forest of Illusion 2/Invisible Coin Block #2"
                     }
                 ],
@@ -137,6 +144,7 @@
                 "name": "Forest of Illusion 2 - Blocksanity - Invisible 1-Up Mushroom Block #1",
                 "sections": [
                     {
+                        "name": "Invisible 1-Up Mushroom Block #1",
                         "ref": "Map/Forest of Illusion 2/Invisible 1-Up Mushroom Block #1"
                     }
                 ],
@@ -152,6 +160,7 @@
                 "name": "Forest of Illusion 2 - Blocksanity - Invisible Coin Block #3",
                 "sections": [
                     {
+                        "name": "Invisible Coin Block #3",
                         "ref": "Map/Forest of Illusion 2/Invisible Coin Block #3"
                     }
                 ],
@@ -167,6 +176,7 @@
                 "name": "Forest of Illusion 2 - Blocksanity - Yellow Switch Palace Block #1",
                 "sections": [
                     {
+                        "name": "Yellow Switch Palace Block #1",
                         "ref": "Map/Forest of Illusion 2/Yellow Switch Palace Block #1"
                     }
                 ],
@@ -182,36 +192,47 @@
                 "name": "Forest of Illusion 2 - Main room",
                 "sections": [
                     {
+                        "name": "Main room",
                         "ref": "Map/Forest of Illusion 2/Main room"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Forest of Illusion 2/Normal Exit"
                     },
                     {
+                        "name": "Secret Exit",
                         "ref": "Map/Forest of Illusion 2/Secret Exit"
                     },
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Forest of Illusion 2/Dragon Coins"
                     },
                     {
+                        "name": "Green Switch Palace Block #1",
                         "ref": "Map/Forest of Illusion 2/Green Switch Palace Block #1"
                     },
                     {
+                        "name": "Powerup Block #1",
                         "ref": "Map/Forest of Illusion 2/Powerup Block #1"
                     },
                     {
+                        "name": "Invisible Coin Block #1",
                         "ref": "Map/Forest of Illusion 2/Invisible Coin Block #1"
                     },
                     {
+                        "name": "Invisible Coin Block #2",
                         "ref": "Map/Forest of Illusion 2/Invisible Coin Block #2"
                     },
                     {
+                        "name": "Invisible 1-Up Mushroom Block #1",
                         "ref": "Map/Forest of Illusion 2/Invisible 1-Up Mushroom Block #1"
                     },
                     {
+                        "name": "Invisible Coin Block #3",
                         "ref": "Map/Forest of Illusion 2/Invisible Coin Block #3"
                     },
                     {
+                        "name": "Yellow Switch Palace Block #1",
                         "ref": "Map/Forest of Illusion 2/Yellow Switch Palace Block #1"
                     }
                 ],

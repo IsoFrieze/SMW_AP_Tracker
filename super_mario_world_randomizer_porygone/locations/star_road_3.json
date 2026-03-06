@@ -12,6 +12,7 @@
                 "name": "Star Road 3 - Goal",
                 "sections": [
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Star Road 3/Normal Exit"
                     }
                 ],
@@ -27,6 +28,7 @@
                 "name": "Star Road 3 - Keyhole",
                 "sections": [
                     {
+                        "name": "Secret Exit",
                         "ref": "Map/Star Road 3/Secret Exit"
                     }
                 ],
@@ -42,6 +44,7 @@
                 "name": "Star Road 3 - Blocksanity - Key Block #1",
                 "sections": [
                     {
+                        "name": "Key Block #1",
                         "ref": "Map/Star Road 3/Key Block #1"
                     }
                 ],
@@ -57,15 +60,19 @@
                 "name": "Star Road 3 - Main room",
                 "sections": [
                     {
+                        "name": "Main room",
                         "ref": "Map/Star Road 3/Main room"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Star Road 3/Normal Exit"
                     },
                     {
+                        "name": "Secret Exit",
                         "ref": "Map/Star Road 3/Secret Exit"
                     },
                     {
+                        "name": "Key Block #1",
                         "ref": "Map/Star Road 3/Key Block #1"
                     }
                 ],

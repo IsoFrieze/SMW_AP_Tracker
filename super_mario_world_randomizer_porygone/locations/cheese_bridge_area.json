@@ -12,6 +12,7 @@
                 "name": "Cheese Bridge Area - Goal",
                 "sections": [
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Cheese Bridge Area/Normal Exit"
                     }
                 ],
@@ -32,6 +33,7 @@
                 "name": "Cheese Bridge Area - Secret goal",
                 "sections": [
                     {
+                        "name": "Secret Exit",
                         "ref": "Map/Cheese Bridge Area/Secret Exit"
                     }
                 ],
@@ -47,6 +49,7 @@
                 "name": "Cheese Bridge Area - Dragon Coins",
                 "sections": [
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Cheese Bridge Area/Dragon Coins"
                     }
                 ],
@@ -107,6 +110,7 @@
                 "name": "Cheese Bridge Area - 3-Up Moon",
                 "sections": [
                     {
+                        "name": "3-Up Moon",
                         "ref": "Map/Cheese Bridge Area/3-Up Moon"
                     }
                 ],
@@ -122,6 +126,7 @@
                 "name": "Cheese Bridge Area - Blocksanity - Powerup Block #1",
                 "sections": [
                     {
+                        "name": "Powerup Block #1",
                         "ref": "Map/Cheese Bridge Area/Powerup Block #1"
                     }
                 ],
@@ -137,6 +142,7 @@
                 "name": "Cheese Bridge Area - Blocksanity - Powerup Block #2",
                 "sections": [
                     {
+                        "name": "Powerup Block #2",
                         "ref": "Map/Cheese Bridge Area/Powerup Block #2"
                     }
                 ],
@@ -152,6 +158,7 @@
                 "name": "Cheese Bridge Area - Blocksanity - Wings Block #1",
                 "sections": [
                     {
+                        "name": "Wings Block #1",
                         "ref": "Map/Cheese Bridge Area/Wings Block #1"
                     }
                 ],
@@ -167,6 +174,7 @@
                 "name": "Cheese Bridge Area - Blocksanity - Powerup Block #3",
                 "sections": [
                     {
+                        "name": "Powerup Block #3",
                         "ref": "Map/Cheese Bridge Area/Powerup Block #3"
                     }
                 ],
@@ -182,6 +190,7 @@
                 "name": "Cheese Bridge Area - Midway Point",
                 "sections": [
                     {
+                        "name": "Midway Point",
                         "ref": "Map/Cheese Bridge Area/Midway Point"
                     }
                 ],
@@ -197,33 +206,43 @@
                 "name": "Cheese Bridge Area - Main room",
                 "sections": [
                     {
+                        "name": "Main room",
                         "ref": "Map/Cheese Bridge Area/Main room"
                     },
                     {
+                        "name": "Midway Point",
                         "ref": "Map/Cheese Bridge Area/Midway Point"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Cheese Bridge Area/Normal Exit"
                     },
                     {
+                        "name": "Secret Exit",
                         "ref": "Map/Cheese Bridge Area/Secret Exit"
                     },
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Cheese Bridge Area/Dragon Coins"
                     },
                     {
+                        "name": "3-Up Moon",
                         "ref": "Map/Cheese Bridge Area/3-Up Moon"
                     },
                     {
+                        "name": "Powerup Block #1",
                         "ref": "Map/Cheese Bridge Area/Powerup Block #1"
                     },
                     {
+                        "name": "Powerup Block #2",
                         "ref": "Map/Cheese Bridge Area/Powerup Block #2"
                     },
                     {
+                        "name": "Wings Block #1",
                         "ref": "Map/Cheese Bridge Area/Wings Block #1"
                     },
                     {
+                        "name": "Powerup Block #3",
                         "ref": "Map/Cheese Bridge Area/Powerup Block #3"
                     }
                 ],
@@ -239,12 +258,15 @@
                 "name": "Cheese Bridge Area - Yoshi wings room",
                 "sections": [
                     {
+                        "name": "Yoshi wings room",
                         "ref": "Map/Cheese Bridge Area/Yoshi wings room"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Cheese Bridge Area/Normal Exit"
                     },
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Cheese Bridge Area/Dragon Coins"
                     }
                 ],
@@ -260,6 +282,7 @@
                 "name": "Cheese Bridge Area - Moving platforms room",
                 "sections": [
                     {
+                        "name": "Moving platforms room",
                         "ref": "Map/Cheese Bridge Area/Moving platforms room"
                     }
                 ],
@@ -275,12 +298,15 @@
                 "name": "Cheese Bridge Area - Transition to Yoshi wings room",
                 "sections": [
                     {
+                        "name": "Yoshi wings room",
                         "ref": "Map/Cheese Bridge Area/Yoshi wings room"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Cheese Bridge Area/Normal Exit"
                     },
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Cheese Bridge Area/Dragon Coins"
                     }
                 ],
@@ -296,6 +322,7 @@
                 "name": "Cheese Bridge Area - Pipe to Moving platforms room",
                 "sections": [
                     {
+                        "name": "Moving platforms room",
                         "ref": "Map/Cheese Bridge Area/Moving platforms room"
                     }
                 ],
@@ -311,33 +338,43 @@
                 "name": "Cheese Bridge Area - Pipe to Main room",
                 "sections": [
                     {
+                        "name": "Main room",
                         "ref": "Map/Cheese Bridge Area/Main room"
                     },
                     {
+                        "name": "Midway Point",
                         "ref": "Map/Cheese Bridge Area/Midway Point"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Cheese Bridge Area/Normal Exit"
                     },
                     {
+                        "name": "Secret Exit",
                         "ref": "Map/Cheese Bridge Area/Secret Exit"
                     },
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Cheese Bridge Area/Dragon Coins"
                     },
                     {
+                        "name": "3-Up Moon",
                         "ref": "Map/Cheese Bridge Area/3-Up Moon"
                     },
                     {
+                        "name": "Powerup Block #1",
                         "ref": "Map/Cheese Bridge Area/Powerup Block #1"
                     },
                     {
+                        "name": "Powerup Block #2",
                         "ref": "Map/Cheese Bridge Area/Powerup Block #2"
                     },
                     {
+                        "name": "Wings Block #1",
                         "ref": "Map/Cheese Bridge Area/Wings Block #1"
                     },
                     {
+                        "name": "Powerup Block #3",
                         "ref": "Map/Cheese Bridge Area/Powerup Block #3"
                     }
                 ],

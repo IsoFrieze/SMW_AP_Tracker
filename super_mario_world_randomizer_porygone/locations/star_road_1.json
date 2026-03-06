@@ -12,6 +12,7 @@
                 "name": "Star Road 1 - Goal",
                 "sections": [
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Star Road 1/Normal Exit"
                     }
                 ],
@@ -27,6 +28,7 @@
                 "name": "Star Road 1 - Keyhole",
                 "sections": [
                     {
+                        "name": "Secret Exit",
                         "ref": "Map/Star Road 1/Secret Exit"
                     }
                 ],
@@ -42,6 +44,7 @@
                 "name": "Star Road 1 - Dragon Coins",
                 "sections": [
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Star Road 1/Dragon Coins"
                     }
                 ],
@@ -77,12 +80,15 @@
                 "name": "Star Road 1 - Main room",
                 "sections": [
                     {
+                        "name": "Main room",
                         "ref": "Map/Star Road 1/Main room"
                     },
                     {
+                        "name": "Secret Exit",
                         "ref": "Map/Star Road 1/Secret Exit"
                     },
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Star Road 1/Dragon Coins"
                     }
                 ],
@@ -98,9 +104,11 @@
                 "name": "Star Road 1 - Goal room",
                 "sections": [
                     {
+                        "name": "Goal room",
                         "ref": "Map/Star Road 1/Goal room"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Star Road 1/Normal Exit"
                     }
                 ],
@@ -116,9 +124,11 @@
                 "name": "Star Road 1 - Pipe to Goal room",
                 "sections": [
                     {
+                        "name": "Goal room",
                         "ref": "Map/Star Road 1/Goal room"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Star Road 1/Normal Exit"
                     }
                 ],

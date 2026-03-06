@@ -12,6 +12,7 @@
                 "name": "Yoshi's Island 1 - Goal",
                 "sections": [
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Yoshi's Island 1/Normal Exit"
                     }
                 ],
@@ -27,6 +28,7 @@
                 "name": "Yoshi's Island 1 - Dragon Coins",
                 "sections": [
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Yoshi's Island 1/Dragon Coins"
                     }
                 ],
@@ -62,6 +64,7 @@
                 "name": "Yoshi's Island 1 - 3-Up Moon",
                 "sections": [
                     {
+                        "name": "3-Up Moon",
                         "ref": "Map/Yoshi's Island 1/3-Up Moon"
                     }
                 ],
@@ -77,6 +80,7 @@
                 "name": "Yoshi's Island 1 - Blocksanity - Flying Question Block #1",
                 "sections": [
                     {
+                        "name": "Flying Question Block #1",
                         "ref": "Map/Yoshi's Island 1/Flying Question Block #1"
                     }
                 ],
@@ -92,6 +96,7 @@
                 "name": "Yoshi's Island 1 - Blocksanity - Yellow Switch Palace Block #1",
                 "sections": [
                     {
+                        "name": "Yellow Switch Palace Block #1",
                         "ref": "Map/Yoshi's Island 1/Yellow Switch Palace Block #1"
                     }
                 ],
@@ -107,6 +112,7 @@
                 "name": "Yoshi's Island 1 - Blocksanity - 1-Up Mushroom Block #1",
                 "sections": [
                     {
+                        "name": "1-Up Mushroom Block #1",
                         "ref": "Map/Yoshi's Island 1/1-Up Mushroom Block #1"
                     }
                 ],
@@ -122,6 +128,7 @@
                 "name": "Yoshi's Island 1 - Blocksanity - Powerup Block #1",
                 "sections": [
                     {
+                        "name": "Powerup Block #1",
                         "ref": "Map/Yoshi's Island 1/Powerup Block #1"
                     }
                 ],
@@ -137,6 +144,7 @@
                 "name": "Yoshi's Island 1 - Midway Point",
                 "sections": [
                     {
+                        "name": "Midway Point",
                         "ref": "Map/Yoshi's Island 1/Midway Point"
                     }
                 ],
@@ -152,30 +160,39 @@
                 "name": "Yoshi's Island 1 - Main room",
                 "sections": [
                     {
+                        "name": "Main room",
                         "ref": "Map/Yoshi's Island 1/Main room"
                     },
                     {
+                        "name": "Midway Point",
                         "ref": "Map/Yoshi's Island 1/Midway Point"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Yoshi's Island 1/Normal Exit"
                     },
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Yoshi's Island 1/Dragon Coins"
                     },
                     {
+                        "name": "3-Up Moon",
                         "ref": "Map/Yoshi's Island 1/3-Up Moon"
                     },
                     {
+                        "name": "Flying Question Block #1",
                         "ref": "Map/Yoshi's Island 1/Flying Question Block #1"
                     },
                     {
+                        "name": "Yellow Switch Palace Block #1",
                         "ref": "Map/Yoshi's Island 1/Yellow Switch Palace Block #1"
                     },
                     {
+                        "name": "1-Up Mushroom Block #1",
                         "ref": "Map/Yoshi's Island 1/1-Up Mushroom Block #1"
                     },
                     {
+                        "name": "Powerup Block #1",
                         "ref": "Map/Yoshi's Island 1/Powerup Block #1"
                     }
                 ],
@@ -191,9 +208,11 @@
                 "name": "Yoshi's Island 1 - Dragon coin room",
                 "sections": [
                     {
+                        "name": "Dragon coin room",
                         "ref": "Map/Yoshi's Island 1/Dragon coin room"
                     },
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Yoshi's Island 1/Dragon Coins"
                     }
                 ],
@@ -209,9 +228,11 @@
                 "name": "Yoshi's Island 1 - Pipe to Dragon coin room",
                 "sections": [
                     {
+                        "name": "Dragon coin room",
                         "ref": "Map/Yoshi's Island 1/Dragon coin room"
                     },
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Yoshi's Island 1/Dragon Coins"
                     }
                 ],
@@ -227,30 +248,39 @@
                 "name": "Yoshi's Island 1 - Pipe to Main room",
                 "sections": [
                     {
+                        "name": "Main room",
                         "ref": "Map/Yoshi's Island 1/Main room"
                     },
                     {
+                        "name": "Midway Point",
                         "ref": "Map/Yoshi's Island 1/Midway Point"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Yoshi's Island 1/Normal Exit"
                     },
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Yoshi's Island 1/Dragon Coins"
                     },
                     {
+                        "name": "3-Up Moon",
                         "ref": "Map/Yoshi's Island 1/3-Up Moon"
                     },
                     {
+                        "name": "Flying Question Block #1",
                         "ref": "Map/Yoshi's Island 1/Flying Question Block #1"
                     },
                     {
+                        "name": "Yellow Switch Palace Block #1",
                         "ref": "Map/Yoshi's Island 1/Yellow Switch Palace Block #1"
                     },
                     {
+                        "name": "1-Up Mushroom Block #1",
                         "ref": "Map/Yoshi's Island 1/1-Up Mushroom Block #1"
                     },
                     {
+                        "name": "Powerup Block #1",
                         "ref": "Map/Yoshi's Island 1/Powerup Block #1"
                     }
                 ],

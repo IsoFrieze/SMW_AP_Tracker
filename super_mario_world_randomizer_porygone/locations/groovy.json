@@ -12,6 +12,7 @@
                 "name": "Groovy - Goal",
                 "sections": [
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Groovy/Normal Exit"
                     }
                 ],
@@ -27,6 +28,7 @@
                 "name": "Groovy - Dragon Coins",
                 "sections": [
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Groovy/Dragon Coins"
                     }
                 ],
@@ -62,6 +64,7 @@
                 "name": "Groovy - Blocksanity - Yoshi Block #1",
                 "sections": [
                     {
+                        "name": "Yoshi Block #1",
                         "ref": "Map/Groovy/Yoshi Block #1"
                     }
                 ],
@@ -77,15 +80,19 @@
                 "name": "Groovy - Main room",
                 "sections": [
                     {
+                        "name": "Main room",
                         "ref": "Map/Groovy/Main room"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Groovy/Normal Exit"
                     },
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Groovy/Dragon Coins"
                     },
                     {
+                        "name": "Yoshi Block #1",
                         "ref": "Map/Groovy/Yoshi Block #1"
                     }
                 ],

@@ -12,6 +12,7 @@
                 "name": "Sunken Ghost Ship - Goal",
                 "sections": [
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Sunken Ghost Ship/Normal Exit"
                     }
                 ],
@@ -27,6 +28,7 @@
                 "name": "Sunken Ghost Ship - Dragon Coins",
                 "sections": [
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Sunken Ghost Ship/Dragon Coins"
                     }
                 ],
@@ -62,6 +64,7 @@
                 "name": "Sunken Ghost Ship - Blocksanity - Powerup Block #1",
                 "sections": [
                     {
+                        "name": "Powerup Block #1",
                         "ref": "Map/Sunken Ghost Ship/Powerup Block #1"
                     }
                 ],
@@ -77,6 +80,7 @@
                 "name": "Sunken Ghost Ship - Blocksanity - Star Block #1",
                 "sections": [
                     {
+                        "name": "Star Block #1",
                         "ref": "Map/Sunken Ghost Ship/Star Block #1"
                     }
                 ],
@@ -92,9 +96,11 @@
                 "name": "Sunken Ghost Ship - Ship entrance",
                 "sections": [
                     {
+                        "name": "Ship entrance",
                         "ref": "Map/Sunken Ghost Ship/Ship entrance"
                     },
                     {
+                        "name": "Powerup Block #1",
                         "ref": "Map/Sunken Ghost Ship/Powerup Block #1"
                     }
                 ],
@@ -110,6 +116,7 @@
                 "name": "Sunken Ghost Ship - Reappearing ghosts",
                 "sections": [
                     {
+                        "name": "Reappearing ghosts",
                         "ref": "Map/Sunken Ghost Ship/Reappearing ghosts"
                     }
                 ],
@@ -125,15 +132,19 @@
                 "name": "Sunken Ghost Ship - Falling room",
                 "sections": [
                     {
+                        "name": "Falling room",
                         "ref": "Map/Sunken Ghost Ship/Falling room"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Sunken Ghost Ship/Normal Exit"
                     },
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Sunken Ghost Ship/Dragon Coins"
                     },
                     {
+                        "name": "Star Block #1",
                         "ref": "Map/Sunken Ghost Ship/Star Block #1"
                     }
                 ],
@@ -149,18 +160,23 @@
                 "name": "Sunken Ghost Ship - Pipe to Reappearing ghosts",
                 "sections": [
                     {
+                        "name": "Reappearing ghosts",
                         "ref": "Map/Sunken Ghost Ship/Reappearing ghosts"
                     },
                     {
+                        "name": "Falling room",
                         "ref": "Map/Sunken Ghost Ship/Falling room"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Sunken Ghost Ship/Normal Exit"
                     },
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Sunken Ghost Ship/Dragon Coins"
                     },
                     {
+                        "name": "Star Block #1",
                         "ref": "Map/Sunken Ghost Ship/Star Block #1"
                     }
                 ],
@@ -176,15 +192,19 @@
                 "name": "Sunken Ghost Ship - Pipe to Falling room",
                 "sections": [
                     {
+                        "name": "Falling room",
                         "ref": "Map/Sunken Ghost Ship/Falling room"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Sunken Ghost Ship/Normal Exit"
                     },
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Sunken Ghost Ship/Dragon Coins"
                     },
                     {
+                        "name": "Star Block #1",
                         "ref": "Map/Sunken Ghost Ship/Star Block #1"
                     }
                 ],

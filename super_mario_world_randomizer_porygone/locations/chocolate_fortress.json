@@ -12,6 +12,7 @@
                 "name": "Chocolate Fortress - Boss battle",
                 "sections": [
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Chocolate Fortress/Normal Exit"
                     }
                 ],
@@ -27,6 +28,7 @@
                 "name": "Chocolate Fortress - Blocksanity - Powerup Block #1",
                 "sections": [
                     {
+                        "name": "Powerup Block #1",
                         "ref": "Map/Chocolate Fortress/Powerup Block #1"
                     }
                 ],
@@ -42,6 +44,7 @@
                 "name": "Chocolate Fortress - Blocksanity - Powerup Block #2",
                 "sections": [
                     {
+                        "name": "Powerup Block #2",
                         "ref": "Map/Chocolate Fortress/Powerup Block #2"
                     }
                 ],
@@ -57,6 +60,7 @@
                 "name": "Chocolate Fortress - Blocksanity - Coin Block #1",
                 "sections": [
                     {
+                        "name": "Coin Block #1",
                         "ref": "Map/Chocolate Fortress/Coin Block #1"
                     }
                 ],
@@ -72,6 +76,7 @@
                 "name": "Chocolate Fortress - Blocksanity - Coin Block #2",
                 "sections": [
                     {
+                        "name": "Coin Block #2",
                         "ref": "Map/Chocolate Fortress/Coin Block #2"
                     }
                 ],
@@ -87,6 +92,7 @@
                 "name": "Chocolate Fortress - Blocksanity - Green Switch Palace Block #1",
                 "sections": [
                     {
+                        "name": "Green Switch Palace Block #1",
                         "ref": "Map/Chocolate Fortress/Green Switch Palace Block #1"
                     }
                 ],
@@ -102,6 +108,7 @@
                 "name": "Chocolate Fortress - Midway Point",
                 "sections": [
                     {
+                        "name": "Midway Point",
                         "ref": "Map/Chocolate Fortress/Midway Point"
                     }
                 ],
@@ -117,12 +124,15 @@
                 "name": "Chocolate Fortress - Wooden spike room",
                 "sections": [
                     {
+                        "name": "Wooden spike room",
                         "ref": "Map/Chocolate Fortress/Wooden spike room"
                     },
                     {
+                        "name": "Midway Point",
                         "ref": "Map/Chocolate Fortress/Midway Point"
                     },
                     {
+                        "name": "Powerup Block #1",
                         "ref": "Map/Chocolate Fortress/Powerup Block #1"
                     }
                 ],
@@ -138,21 +148,27 @@
                 "name": "Chocolate Fortress - Thwomp room",
                 "sections": [
                     {
+                        "name": "Thwomp room",
                         "ref": "Map/Chocolate Fortress/Thwomp room"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Chocolate Fortress/Normal Exit"
                     },
                     {
+                        "name": "Powerup Block #2",
                         "ref": "Map/Chocolate Fortress/Powerup Block #2"
                     },
                     {
+                        "name": "Coin Block #1",
                         "ref": "Map/Chocolate Fortress/Coin Block #1"
                     },
                     {
+                        "name": "Coin Block #2",
                         "ref": "Map/Chocolate Fortress/Coin Block #2"
                     },
                     {
+                        "name": "Green Switch Palace Block #1",
                         "ref": "Map/Chocolate Fortress/Green Switch Palace Block #1"
                     }
                 ],
@@ -168,21 +184,27 @@
                 "name": "Chocolate Fortress - Door to Thwomp room",
                 "sections": [
                     {
+                        "name": "Thwomp room",
                         "ref": "Map/Chocolate Fortress/Thwomp room"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Chocolate Fortress/Normal Exit"
                     },
                     {
+                        "name": "Powerup Block #2",
                         "ref": "Map/Chocolate Fortress/Powerup Block #2"
                     },
                     {
+                        "name": "Coin Block #1",
                         "ref": "Map/Chocolate Fortress/Coin Block #1"
                     },
                     {
+                        "name": "Coin Block #2",
                         "ref": "Map/Chocolate Fortress/Coin Block #2"
                     },
                     {
+                        "name": "Green Switch Palace Block #1",
                         "ref": "Map/Chocolate Fortress/Green Switch Palace Block #1"
                     }
                 ],

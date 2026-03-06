@@ -12,6 +12,7 @@
                 "name": "Butter Bridge 1 - Goal",
                 "sections": [
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Butter Bridge 1/Normal Exit"
                     }
                 ],
@@ -27,6 +28,7 @@
                 "name": "Butter Bridge 1 - Dragon Coins",
                 "sections": [
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Butter Bridge 1/Dragon Coins"
                     }
                 ],
@@ -62,6 +64,7 @@
                 "name": "Butter Bridge 1 - Prize from bonus block",
                 "sections": [
                     {
+                        "name": "1-Up from Bonus Block",
                         "ref": "Map/Butter Bridge 1/1-Up from Bonus Block"
                     }
                 ],
@@ -77,6 +80,7 @@
                 "name": "Butter Bridge 1 - Blocksanity - Powerup Block #1",
                 "sections": [
                     {
+                        "name": "Powerup Block #1",
                         "ref": "Map/Butter Bridge 1/Powerup Block #1"
                     }
                 ],
@@ -92,6 +96,7 @@
                 "name": "Butter Bridge 1 - Blocksanity - Multi Coin Block #1",
                 "sections": [
                     {
+                        "name": "Multi Coin Block #1",
                         "ref": "Map/Butter Bridge 1/Multi Coin Block #1"
                     }
                 ],
@@ -107,6 +112,7 @@
                 "name": "Butter Bridge 1 - Blocksanity - Multi Coin Block #2",
                 "sections": [
                     {
+                        "name": "Multi Coin Block #2",
                         "ref": "Map/Butter Bridge 1/Multi Coin Block #2"
                     }
                 ],
@@ -122,6 +128,7 @@
                 "name": "Butter Bridge 1 - Blocksanity - Multi Coin Block #3",
                 "sections": [
                     {
+                        "name": "Multi Coin Block #3",
                         "ref": "Map/Butter Bridge 1/Multi Coin Block #3"
                     }
                 ],
@@ -137,6 +144,7 @@
                 "name": "Butter Bridge 1 - Blocksanity - 1-Up Mushroom Block #1",
                 "sections": [
                     {
+                        "name": "1-Up Mushroom Block #1",
                         "ref": "Map/Butter Bridge 1/1-Up Mushroom Block #1"
                     }
                 ],
@@ -152,27 +160,35 @@
                 "name": "Butter Bridge 1 - Main room",
                 "sections": [
                     {
+                        "name": "Main room",
                         "ref": "Map/Butter Bridge 1/Main room"
                     },
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Butter Bridge 1/Dragon Coins"
                     },
                     {
+                        "name": "1-Up from Bonus Block",
                         "ref": "Map/Butter Bridge 1/1-Up from Bonus Block"
                     },
                     {
+                        "name": "Powerup Block #1",
                         "ref": "Map/Butter Bridge 1/Powerup Block #1"
                     },
                     {
+                        "name": "Multi Coin Block #1",
                         "ref": "Map/Butter Bridge 1/Multi Coin Block #1"
                     },
                     {
+                        "name": "Multi Coin Block #2",
                         "ref": "Map/Butter Bridge 1/Multi Coin Block #2"
                     },
                     {
+                        "name": "Multi Coin Block #3",
                         "ref": "Map/Butter Bridge 1/Multi Coin Block #3"
                     },
                     {
+                        "name": "1-Up Mushroom Block #1",
                         "ref": "Map/Butter Bridge 1/1-Up Mushroom Block #1"
                     }
                 ],
@@ -188,9 +204,11 @@
                 "name": "Butter Bridge 1 - Goal room",
                 "sections": [
                     {
+                        "name": "Goal room",
                         "ref": "Map/Butter Bridge 1/Goal room"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Butter Bridge 1/Normal Exit"
                     }
                 ],
@@ -206,9 +224,11 @@
                 "name": "Butter Bridge 1 - Pipe to Goal room",
                 "sections": [
                     {
+                        "name": "Goal room",
                         "ref": "Map/Butter Bridge 1/Goal room"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Butter Bridge 1/Normal Exit"
                     }
                 ],

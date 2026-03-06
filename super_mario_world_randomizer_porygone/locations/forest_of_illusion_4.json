@@ -12,6 +12,7 @@
                 "name": "Forest of Illusion 4 - Goal",
                 "sections": [
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Forest of Illusion 4/Normal Exit"
                     }
                 ],
@@ -27,6 +28,7 @@
                 "name": "Forest of Illusion 4 - Keyhole",
                 "sections": [
                     {
+                        "name": "Secret Exit",
                         "ref": "Map/Forest of Illusion 4/Secret Exit"
                     }
                 ],
@@ -42,6 +44,7 @@
                 "name": "Forest of Illusion 4 - Dragon Coins",
                 "sections": [
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Forest of Illusion 4/Dragon Coins"
                     }
                 ],
@@ -77,6 +80,7 @@
                 "name": "Forest of Illusion 4 - Blocksanity - Multi Coin Block #1",
                 "sections": [
                     {
+                        "name": "Multi Coin Block #1",
                         "ref": "Map/Forest of Illusion 4/Multi Coin Block #1"
                     }
                 ],
@@ -92,6 +96,7 @@
                 "name": "Forest of Illusion 4 - Blocksanity - Coin Block #1",
                 "sections": [
                     {
+                        "name": "Coin Block #1",
                         "ref": "Map/Forest of Illusion 4/Coin Block #1"
                     }
                 ],
@@ -107,6 +112,7 @@
                 "name": "Forest of Illusion 4 - Blocksanity - Coin Block #2",
                 "sections": [
                     {
+                        "name": "Coin Block #2",
                         "ref": "Map/Forest of Illusion 4/Coin Block #2"
                     }
                 ],
@@ -122,6 +128,7 @@
                 "name": "Forest of Illusion 4 - Blocksanity - Coin Block #3",
                 "sections": [
                     {
+                        "name": "Coin Block #3",
                         "ref": "Map/Forest of Illusion 4/Coin Block #3"
                     }
                 ],
@@ -137,6 +144,7 @@
                 "name": "Forest of Illusion 4 - Blocksanity - Coin Block #4",
                 "sections": [
                     {
+                        "name": "Coin Block #4",
                         "ref": "Map/Forest of Illusion 4/Coin Block #4"
                     }
                 ],
@@ -152,6 +160,7 @@
                 "name": "Forest of Illusion 4 - Blocksanity - Powerup Block #1",
                 "sections": [
                     {
+                        "name": "Powerup Block #1",
                         "ref": "Map/Forest of Illusion 4/Powerup Block #1"
                     }
                 ],
@@ -167,6 +176,7 @@
                 "name": "Forest of Illusion 4 - Blocksanity - Coin Block #5",
                 "sections": [
                     {
+                        "name": "Coin Block #5",
                         "ref": "Map/Forest of Illusion 4/Coin Block #5"
                     }
                 ],
@@ -182,6 +192,7 @@
                 "name": "Forest of Illusion 4 - Blocksanity - Coin Block #6",
                 "sections": [
                     {
+                        "name": "Coin Block #6",
                         "ref": "Map/Forest of Illusion 4/Coin Block #6"
                     }
                 ],
@@ -197,6 +208,7 @@
                 "name": "Forest of Illusion 4 - Blocksanity - Coin Block #7",
                 "sections": [
                     {
+                        "name": "Coin Block #7",
                         "ref": "Map/Forest of Illusion 4/Coin Block #7"
                     }
                 ],
@@ -212,6 +224,7 @@
                 "name": "Forest of Illusion 4 - Blocksanity - Powerup Block #2",
                 "sections": [
                     {
+                        "name": "Powerup Block #2",
                         "ref": "Map/Forest of Illusion 4/Powerup Block #2"
                     }
                 ],
@@ -227,6 +240,7 @@
                 "name": "Forest of Illusion 4 - Blocksanity - Coin Block #8",
                 "sections": [
                     {
+                        "name": "Coin Block #8",
                         "ref": "Map/Forest of Illusion 4/Coin Block #8"
                     }
                 ],
@@ -242,6 +256,7 @@
                 "name": "Forest of Illusion 4 - Blocksanity - Coin Block #9",
                 "sections": [
                     {
+                        "name": "Coin Block #9",
                         "ref": "Map/Forest of Illusion 4/Coin Block #9"
                     }
                 ],
@@ -257,6 +272,7 @@
                 "name": "Forest of Illusion 4 - Blocksanity - Coin Block #10",
                 "sections": [
                     {
+                        "name": "Coin Block #10",
                         "ref": "Map/Forest of Illusion 4/Coin Block #10"
                     }
                 ],
@@ -272,6 +288,7 @@
                 "name": "Forest of Illusion 4 - Midway Point",
                 "sections": [
                     {
+                        "name": "Midway Point",
                         "ref": "Map/Forest of Illusion 4/Midway Point"
                     }
                 ],
@@ -287,54 +304,71 @@
                 "name": "Forest of Illusion 4 - Main room",
                 "sections": [
                     {
+                        "name": "Main room",
                         "ref": "Map/Forest of Illusion 4/Main room"
                     },
                     {
+                        "name": "Midway Point",
                         "ref": "Map/Forest of Illusion 4/Midway Point"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Forest of Illusion 4/Normal Exit"
                     },
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Forest of Illusion 4/Dragon Coins"
                     },
                     {
+                        "name": "Multi Coin Block #1",
                         "ref": "Map/Forest of Illusion 4/Multi Coin Block #1"
                     },
                     {
+                        "name": "Coin Block #1",
                         "ref": "Map/Forest of Illusion 4/Coin Block #1"
                     },
                     {
+                        "name": "Coin Block #2",
                         "ref": "Map/Forest of Illusion 4/Coin Block #2"
                     },
                     {
+                        "name": "Coin Block #3",
                         "ref": "Map/Forest of Illusion 4/Coin Block #3"
                     },
                     {
+                        "name": "Coin Block #4",
                         "ref": "Map/Forest of Illusion 4/Coin Block #4"
                     },
                     {
+                        "name": "Powerup Block #1",
                         "ref": "Map/Forest of Illusion 4/Powerup Block #1"
                     },
                     {
+                        "name": "Coin Block #5",
                         "ref": "Map/Forest of Illusion 4/Coin Block #5"
                     },
                     {
+                        "name": "Coin Block #6",
                         "ref": "Map/Forest of Illusion 4/Coin Block #6"
                     },
                     {
+                        "name": "Coin Block #7",
                         "ref": "Map/Forest of Illusion 4/Coin Block #7"
                     },
                     {
+                        "name": "Powerup Block #2",
                         "ref": "Map/Forest of Illusion 4/Powerup Block #2"
                     },
                     {
+                        "name": "Coin Block #8",
                         "ref": "Map/Forest of Illusion 4/Coin Block #8"
                     },
                     {
+                        "name": "Coin Block #9",
                         "ref": "Map/Forest of Illusion 4/Coin Block #9"
                     },
                     {
+                        "name": "Coin Block #10",
                         "ref": "Map/Forest of Illusion 4/Coin Block #10"
                     }
                 ],
@@ -350,9 +384,11 @@
                 "name": "Forest of Illusion 4 - Keyhole room",
                 "sections": [
                     {
+                        "name": "Keyhole room",
                         "ref": "Map/Forest of Illusion 4/Keyhole room"
                     },
                     {
+                        "name": "Secret Exit",
                         "ref": "Map/Forest of Illusion 4/Secret Exit"
                     }
                 ],
@@ -368,6 +404,7 @@
                 "name": "Forest of Illusion 4 - Blurp room",
                 "sections": [
                     {
+                        "name": "Blurp room",
                         "ref": "Map/Forest of Illusion 4/Blurp room"
                     }
                 ],
@@ -383,9 +420,11 @@
                 "name": "Forest of Illusion 4 - Pipe to Keyhole room",
                 "sections": [
                     {
+                        "name": "Keyhole room",
                         "ref": "Map/Forest of Illusion 4/Keyhole room"
                     },
                     {
+                        "name": "Secret Exit",
                         "ref": "Map/Forest of Illusion 4/Secret Exit"
                     }
                 ],
@@ -401,6 +440,7 @@
                 "name": "Forest of Illusion 4 - Pipe to Blurp room",
                 "sections": [
                     {
+                        "name": "Blurp room",
                         "ref": "Map/Forest of Illusion 4/Blurp room"
                     }
                 ],
@@ -416,54 +456,71 @@
                 "name": "Forest of Illusion 4 - Pipe to Main room",
                 "sections": [
                     {
+                        "name": "Main room",
                         "ref": "Map/Forest of Illusion 4/Main room"
                     },
                     {
+                        "name": "Midway Point",
                         "ref": "Map/Forest of Illusion 4/Midway Point"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Forest of Illusion 4/Normal Exit"
                     },
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Forest of Illusion 4/Dragon Coins"
                     },
                     {
+                        "name": "Multi Coin Block #1",
                         "ref": "Map/Forest of Illusion 4/Multi Coin Block #1"
                     },
                     {
+                        "name": "Coin Block #1",
                         "ref": "Map/Forest of Illusion 4/Coin Block #1"
                     },
                     {
+                        "name": "Coin Block #2",
                         "ref": "Map/Forest of Illusion 4/Coin Block #2"
                     },
                     {
+                        "name": "Coin Block #3",
                         "ref": "Map/Forest of Illusion 4/Coin Block #3"
                     },
                     {
+                        "name": "Coin Block #4",
                         "ref": "Map/Forest of Illusion 4/Coin Block #4"
                     },
                     {
+                        "name": "Powerup Block #1",
                         "ref": "Map/Forest of Illusion 4/Powerup Block #1"
                     },
                     {
+                        "name": "Coin Block #5",
                         "ref": "Map/Forest of Illusion 4/Coin Block #5"
                     },
                     {
+                        "name": "Coin Block #6",
                         "ref": "Map/Forest of Illusion 4/Coin Block #6"
                     },
                     {
+                        "name": "Coin Block #7",
                         "ref": "Map/Forest of Illusion 4/Coin Block #7"
                     },
                     {
+                        "name": "Powerup Block #2",
                         "ref": "Map/Forest of Illusion 4/Powerup Block #2"
                     },
                     {
+                        "name": "Coin Block #8",
                         "ref": "Map/Forest of Illusion 4/Coin Block #8"
                     },
                     {
+                        "name": "Coin Block #9",
                         "ref": "Map/Forest of Illusion 4/Coin Block #9"
                     },
                     {
+                        "name": "Coin Block #10",
                         "ref": "Map/Forest of Illusion 4/Coin Block #10"
                     }
                 ],

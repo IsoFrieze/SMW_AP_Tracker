@@ -12,6 +12,7 @@
                 "name": "Vanilla Dome 4 - Goal",
                 "sections": [
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Vanilla Dome 4/Normal Exit"
                     }
                 ],
@@ -27,6 +28,7 @@
                 "name": "Vanilla Dome 4 - Dragon Coins",
                 "sections": [
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Vanilla Dome 4/Dragon Coins"
                     }
                 ],
@@ -62,6 +64,7 @@
                 "name": "Vanilla Dome 4 - Hidden 1-Up",
                 "sections": [
                     {
+                        "name": "Hidden 1-Up",
                         "ref": "Map/Vanilla Dome 4/Hidden 1-Up"
                     }
                 ],
@@ -77,6 +80,7 @@
                 "name": "Vanilla Dome 4 - Blocksanity - Powerup Block #1",
                 "sections": [
                     {
+                        "name": "Powerup Block #1",
                         "ref": "Map/Vanilla Dome 4/Powerup Block #1"
                     }
                 ],
@@ -92,6 +96,7 @@
                 "name": "Vanilla Dome 4 - Blocksanity - Powerup Block #2",
                 "sections": [
                     {
+                        "name": "Powerup Block #2",
                         "ref": "Map/Vanilla Dome 4/Powerup Block #2"
                     }
                 ],
@@ -107,6 +112,7 @@
                 "name": "Vanilla Dome 4 - Blocksanity - Coin Block #1",
                 "sections": [
                     {
+                        "name": "Coin Block #1",
                         "ref": "Map/Vanilla Dome 4/Coin Block #1"
                     }
                 ],
@@ -122,6 +128,7 @@
                 "name": "Vanilla Dome 4 - Blocksanity - Coin Block #2",
                 "sections": [
                     {
+                        "name": "Coin Block #2",
                         "ref": "Map/Vanilla Dome 4/Coin Block #2"
                     }
                 ],
@@ -137,6 +144,7 @@
                 "name": "Vanilla Dome 4 - Blocksanity - Coin Block #3",
                 "sections": [
                     {
+                        "name": "Coin Block #3",
                         "ref": "Map/Vanilla Dome 4/Coin Block #3"
                     }
                 ],
@@ -152,6 +160,7 @@
                 "name": "Vanilla Dome 4 - Blocksanity - 1-Up Mushroom Block #1",
                 "sections": [
                     {
+                        "name": "1-Up Mushroom Block #1",
                         "ref": "Map/Vanilla Dome 4/1-Up Mushroom Block #1"
                     }
                 ],
@@ -167,6 +176,7 @@
                 "name": "Vanilla Dome 4 - Blocksanity - Coin Block #4",
                 "sections": [
                     {
+                        "name": "Coin Block #4",
                         "ref": "Map/Vanilla Dome 4/Coin Block #4"
                     }
                 ],
@@ -182,6 +192,7 @@
                 "name": "Vanilla Dome 4 - Blocksanity - Coin Block #5",
                 "sections": [
                     {
+                        "name": "Coin Block #5",
                         "ref": "Map/Vanilla Dome 4/Coin Block #5"
                     }
                 ],
@@ -197,6 +208,7 @@
                 "name": "Vanilla Dome 4 - Blocksanity - Coin Block #6",
                 "sections": [
                     {
+                        "name": "Coin Block #6",
                         "ref": "Map/Vanilla Dome 4/Coin Block #6"
                     }
                 ],
@@ -212,6 +224,7 @@
                 "name": "Vanilla Dome 4 - Blocksanity - Coin Block #7",
                 "sections": [
                     {
+                        "name": "Coin Block #7",
                         "ref": "Map/Vanilla Dome 4/Coin Block #7"
                     }
                 ],
@@ -227,6 +240,7 @@
                 "name": "Vanilla Dome 4 - Blocksanity - Coin Block #8",
                 "sections": [
                     {
+                        "name": "Coin Block #8",
                         "ref": "Map/Vanilla Dome 4/Coin Block #8"
                     }
                 ],
@@ -242,6 +256,7 @@
                 "name": "Vanilla Dome 4 - Midway Point",
                 "sections": [
                     {
+                        "name": "Midway Point",
                         "ref": "Map/Vanilla Dome 4/Midway Point"
                     }
                 ],
@@ -257,51 +272,67 @@
                 "name": "Vanilla Dome 4 - Main room",
                 "sections": [
                     {
+                        "name": "Main room",
                         "ref": "Map/Vanilla Dome 4/Main room"
                     },
                     {
+                        "name": "Midway Point",
                         "ref": "Map/Vanilla Dome 4/Midway Point"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Vanilla Dome 4/Normal Exit"
                     },
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Vanilla Dome 4/Dragon Coins"
                     },
                     {
+                        "name": "Hidden 1-Up",
                         "ref": "Map/Vanilla Dome 4/Hidden 1-Up"
                     },
                     {
+                        "name": "Powerup Block #1",
                         "ref": "Map/Vanilla Dome 4/Powerup Block #1"
                     },
                     {
+                        "name": "Powerup Block #2",
                         "ref": "Map/Vanilla Dome 4/Powerup Block #2"
                     },
                     {
+                        "name": "Coin Block #1",
                         "ref": "Map/Vanilla Dome 4/Coin Block #1"
                     },
                     {
+                        "name": "Coin Block #2",
                         "ref": "Map/Vanilla Dome 4/Coin Block #2"
                     },
                     {
+                        "name": "Coin Block #3",
                         "ref": "Map/Vanilla Dome 4/Coin Block #3"
                     },
                     {
+                        "name": "1-Up Mushroom Block #1",
                         "ref": "Map/Vanilla Dome 4/1-Up Mushroom Block #1"
                     },
                     {
+                        "name": "Coin Block #4",
                         "ref": "Map/Vanilla Dome 4/Coin Block #4"
                     },
                     {
+                        "name": "Coin Block #5",
                         "ref": "Map/Vanilla Dome 4/Coin Block #5"
                     },
                     {
+                        "name": "Coin Block #6",
                         "ref": "Map/Vanilla Dome 4/Coin Block #6"
                     },
                     {
+                        "name": "Coin Block #7",
                         "ref": "Map/Vanilla Dome 4/Coin Block #7"
                     },
                     {
+                        "name": "Coin Block #8",
                         "ref": "Map/Vanilla Dome 4/Coin Block #8"
                     }
                 ],
@@ -317,9 +348,11 @@
                 "name": "Vanilla Dome 4 - Lava room",
                 "sections": [
                     {
+                        "name": "Lava room",
                         "ref": "Map/Vanilla Dome 4/Lava room"
                     },
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Vanilla Dome 4/Dragon Coins"
                     }
                 ],
@@ -335,9 +368,11 @@
                 "name": "Vanilla Dome 4 - Pipe to Lava room",
                 "sections": [
                     {
+                        "name": "Lava room",
                         "ref": "Map/Vanilla Dome 4/Lava room"
                     },
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Vanilla Dome 4/Dragon Coins"
                     }
                 ],
@@ -353,51 +388,67 @@
                 "name": "Vanilla Dome 4 - Pipe to Main room",
                 "sections": [
                     {
+                        "name": "Main room",
                         "ref": "Map/Vanilla Dome 4/Main room"
                     },
                     {
+                        "name": "Midway Point",
                         "ref": "Map/Vanilla Dome 4/Midway Point"
                     },
                     {
+                        "name": "Normal Exit",
                         "ref": "Map/Vanilla Dome 4/Normal Exit"
                     },
                     {
+                        "name": "Dragon Coins",
                         "ref": "Map/Vanilla Dome 4/Dragon Coins"
                     },
                     {
+                        "name": "Hidden 1-Up",
                         "ref": "Map/Vanilla Dome 4/Hidden 1-Up"
                     },
                     {
+                        "name": "Powerup Block #1",
                         "ref": "Map/Vanilla Dome 4/Powerup Block #1"
                     },
                     {
+                        "name": "Powerup Block #2",
                         "ref": "Map/Vanilla Dome 4/Powerup Block #2"
                     },
                     {
+                        "name": "Coin Block #1",
                         "ref": "Map/Vanilla Dome 4/Coin Block #1"
                     },
                     {
+                        "name": "Coin Block #2",
                         "ref": "Map/Vanilla Dome 4/Coin Block #2"
                     },
                     {
+                        "name": "Coin Block #3",
                         "ref": "Map/Vanilla Dome 4/Coin Block #3"
                     },
                     {
+                        "name": "1-Up Mushroom Block #1",
                         "ref": "Map/Vanilla Dome 4/1-Up Mushroom Block #1"
                     },
                     {
+                        "name": "Coin Block #4",
                         "ref": "Map/Vanilla Dome 4/Coin Block #4"
                     },
                     {
+                        "name": "Coin Block #5",
                         "ref": "Map/Vanilla Dome 4/Coin Block #5"
                     },
                     {
+                        "name": "Coin Block #6",
                         "ref": "Map/Vanilla Dome 4/Coin Block #6"
                     },
                     {
+                        "name": "Coin Block #7",
                         "ref": "Map/Vanilla Dome 4/Coin Block #7"
                     },
                     {
+                        "name": "Coin Block #8",
                         "ref": "Map/Vanilla Dome 4/Coin Block #8"
                     }
                 ],

@@ -9,21 +9,13 @@
         ],
         "children": [
             {
+                "name": "Donut Ghost House - Goal",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            ""
-                        ],
                         "name": "Normal Exit",
-                        "access_rules": [
-                            "powerup_3, run"
-                        ],
-                        "chest_unopened_img": "images/checks/goal_sphere_disabled.png",
-                        "chest_opened_img": "images/checks/goal_sphere.png",
-                        "item_count": 1
+                        "ref": "Map/Donut Ghost House/Normal Exit"
                     }
                 ],
-                "name": "Donut Ghost House - Goal",
                 "map_locations": [
                     {
                         "map": "dpgh_sub_5",
@@ -33,23 +25,13 @@
                 ]
             },
             {
+                "name": "Donut Ghost House - Secret goal",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            ""
-                        ],
                         "name": "Secret Exit",
-                        "access_rules": [
-                            "climb",
-                            "[climb], spin_jump",
-                            "powerup_3, run"
-                        ],
-                        "chest_unopened_img": "images/checks/goal_sphere_disabled.png",
-                        "chest_opened_img": "images/checks/goal_sphere.png",
-                        "item_count": 1
+                        "ref": "Map/Donut Ghost House/Secret Exit"
                     }
                 ],
-                "name": "Donut Ghost House - Secret goal",
                 "map_locations": [
                     {
                         "map": "dpgh_sub_4",
@@ -63,15 +45,7 @@
                 "sections": [
                     {
                         "name": "Vine|P-Switch Block #1",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Donut Ghost House/Vine|P-Switch Block #1"
                     }
                 ],
                 "map_locations": [
@@ -92,15 +66,7 @@
                 "sections": [
                     {
                         "name": "Directional Coin Block #1",
-                        "access_rules": [
-                            "p_switch"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Donut Ghost House/Directional Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -116,15 +82,7 @@
                 "sections": [
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "access_rules": [
-                            "run, powerup_3"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Donut Ghost House/1-Up Mushroom Block #1"
                     }
                 ],
                 "map_locations": [
@@ -140,15 +98,7 @@
                 "sections": [
                     {
                         "name": "1-Up Mushroom Block #2",
-                        "access_rules": [
-                            "run, powerup_3"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Donut Ghost House/1-Up Mushroom Block #2"
                     }
                 ],
                 "map_locations": [
@@ -164,15 +114,7 @@
                 "sections": [
                     {
                         "name": "1-Up Mushroom Block #3",
-                        "access_rules": [
-                            "run, powerup_3"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Donut Ghost House/1-Up Mushroom Block #3"
                     }
                 ],
                 "map_locations": [
@@ -188,15 +130,7 @@
                 "sections": [
                     {
                         "name": "1-Up Mushroom Block #4",
-                        "access_rules": [
-                            "run, powerup_3"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Donut Ghost House/1-Up Mushroom Block #4"
                     }
                 ],
                 "map_locations": [
@@ -204,6 +138,280 @@
                         "map": "dpgh_main",
                         "x": 1704,
                         "y": 328
+                    }
+                ]
+            },
+            {
+                "name": "Donut Ghost House - Ghost ceiling room",
+                "sections": [
+                    {
+                        "name": "Ghost ceiling room",
+                        "ref": "Map/Donut Ghost House/Ghost ceiling room"
+                    },
+                    {
+                        "name": "1-Up Mushroom Block #1",
+                        "ref": "Map/Donut Ghost House/1-Up Mushroom Block #1"
+                    },
+                    {
+                        "name": "1-Up Mushroom Block #2",
+                        "ref": "Map/Donut Ghost House/1-Up Mushroom Block #2"
+                    },
+                    {
+                        "name": "1-Up Mushroom Block #3",
+                        "ref": "Map/Donut Ghost House/1-Up Mushroom Block #3"
+                    },
+                    {
+                        "name": "1-Up Mushroom Block #4",
+                        "ref": "Map/Donut Ghost House/1-Up Mushroom Block #4"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dpgh_main",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Donut Ghost House - Stairs room #1",
+                "sections": [
+                    {
+                        "name": "Stairs room #1",
+                        "ref": "Map/Donut Ghost House/Stairs room #1"
+                    },
+                    {
+                        "name": "Vine|P-Switch Block #1",
+                        "ref": "Map/Donut Ghost House/Vine|P-Switch Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dpgh_sub_1",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Donut Ghost House - Stairs room #2",
+                "sections": [
+                    {
+                        "name": "Stairs room #2",
+                        "ref": "Map/Donut Ghost House/Stairs room #2"
+                    },
+                    {
+                        "name": "Vine|P-Switch Block #1",
+                        "ref": "Map/Donut Ghost House/Vine|P-Switch Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dpgh_sub_2",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Donut Ghost House - Directional coin room",
+                "sections": [
+                    {
+                        "name": "Directional coin room",
+                        "ref": "Map/Donut Ghost House/Directional coin room"
+                    },
+                    {
+                        "name": "Directional Coin Block #1",
+                        "ref": "Map/Donut Ghost House/Directional Coin Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dpgh_sub_3",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Donut Ghost House - Secret goal room",
+                "sections": [
+                    {
+                        "name": "Secret goal room",
+                        "ref": "Map/Donut Ghost House/Secret goal room"
+                    },
+                    {
+                        "name": "Secret Exit",
+                        "ref": "Map/Donut Ghost House/Secret Exit"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dpgh_sub_4",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Donut Ghost House - Normal goal room",
+                "sections": [
+                    {
+                        "name": "Normal goal room",
+                        "ref": "Map/Donut Ghost House/Normal goal room"
+                    },
+                    {
+                        "name": "Normal Exit",
+                        "ref": "Map/Donut Ghost House/Normal Exit"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dpgh_sub_5",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Donut Ghost House - Door to Stairs room #1",
+                "sections": [
+                    {
+                        "name": "Stairs room #1",
+                        "ref": "Map/Donut Ghost House/Stairs room #1"
+                    },
+                    {
+                        "name": "Stairs room #2",
+                        "ref": "Map/Donut Ghost House/Stairs room #2"
+                    },
+                    {
+                        "name": "Directional coin room",
+                        "ref": "Map/Donut Ghost House/Directional coin room"
+                    },
+                    {
+                        "name": "Secret goal room",
+                        "ref": "Map/Donut Ghost House/Secret goal room"
+                    },
+                    {
+                        "name": "Secret Exit",
+                        "ref": "Map/Donut Ghost House/Secret Exit"
+                    },
+                    {
+                        "name": "Vine|P-Switch Block #1",
+                        "ref": "Map/Donut Ghost House/Vine|P-Switch Block #1"
+                    },
+                    {
+                        "name": "Directional Coin Block #1",
+                        "ref": "Map/Donut Ghost House/Directional Coin Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dpgh_main",
+                        "x": 1240,
+                        "y": 368
+                    },
+                    {
+                        "map": "dpgh_sub_2",
+                        "x": 456,
+                        "y": 272
+                    },
+                    {
+                        "map": "dpgh_sub_3",
+                        "x": 216,
+                        "y": 368
+                    }
+                ]
+            },
+            {
+                "name": "Donut Ghost House - Door to Stairs room #2",
+                "sections": [
+                    {
+                        "name": "Stairs room #2",
+                        "ref": "Map/Donut Ghost House/Stairs room #2"
+                    },
+                    {
+                        "name": "Secret Exit",
+                        "ref": "Map/Donut Ghost House/Secret Exit"
+                    },
+                    {
+                        "name": "Directional coin room",
+                        "ref": "Map/Donut Ghost House/Directional coin room"
+                    },
+                    {
+                        "name": "Vine|P-Switch Block #1",
+                        "ref": "Map/Donut Ghost House/Vine|P-Switch Block #1"
+                    },
+                    {
+                        "name": "Directional Coin Block #1",
+                        "ref": "Map/Donut Ghost House/Directional Coin Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dpgh_sub_1",
+                        "x": 456,
+                        "y": 272
+                    }
+                ]
+            },
+            {
+                "name": "Donut Ghost House - Door to Directional coin room",
+                "sections": [
+                    {
+                        "name": "Directional coin room",
+                        "ref": "Map/Donut Ghost House/Directional coin room"
+                    },
+                    {
+                        "name": "Directional Coin Block #1",
+                        "ref": "Map/Donut Ghost House/Directional Coin Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dpgh_sub_2",
+                        "x": 88,
+                        "y": 304
+                    }
+                ]
+            },
+            {
+                "name": "Donut Ghost House - Door to Secret goal room",
+                "sections": [
+                    {
+                        "name": "Secret goal room",
+                        "ref": "Map/Donut Ghost House/Secret goal room"
+                    },
+                    {
+                        "name": "Secret Exit",
+                        "ref": "Map/Donut Ghost House/Secret Exit"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dpgh_sub_1",
+                        "x": 104,
+                        "y": 112
+                    }
+                ]
+            },
+            {
+                "name": "Donut Ghost House - Door to Normal goal room",
+                "sections": [
+                    {
+                        "name": "Normal goal room",
+                        "ref": "Map/Donut Ghost House/Normal goal room"
+                    },
+                    {
+                        "name": "Normal Exit",
+                        "ref": "Map/Donut Ghost House/Normal Exit"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dpgh_main",
+                        "x": 1736,
+                        "y": 368
                     }
                 ]
             }

@@ -9,21 +9,13 @@
         ],
         "children": [
             {
+                "name": "Groovy - Goal",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            ""
-                        ],
                         "name": "Normal Exit",
-                        "access_rules": [
-                            "[powerup_1]"
-                        ],
-                        "chest_unopened_img": "images/checks/goal_sphere_disabled.png",
-                        "chest_opened_img": "images/checks/goal_sphere.png",
-                        "item_count": 1
+                        "ref": "Map/Groovy/Normal Exit"
                     }
                 ],
-                "name": "Groovy - Goal",
                 "map_locations": [
                     {
                         "map": "sw5_main",
@@ -33,22 +25,13 @@
                 ]
             },
             {
+                "name": "Groovy - Dragon Coins",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            "dragon_coin_checks"
-                        ],
                         "name": "Dragon Coins",
-                        "access_rules": [
-                            "[powerup_1]"
-                        ],
-                        "chest_unopened_img": "images/checks/dragon_coin_disabled.png",
-                        "chest_opened_img": "images/checks/dragon_coin.png",
-                        "clear_as_group": true,
-                        "item_count": 1
+                        "ref": "Map/Groovy/Dragon Coins"
                     }
                 ],
-                "name": "Groovy - Dragon Coin",
                 "map_locations": [
                     {
                         "map": "sw5_main",
@@ -82,15 +65,7 @@
                 "sections": [
                     {
                         "name": "Yoshi Block #1",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Groovy/Yoshi Block #1"
                     }
                 ],
                 "map_locations": [
@@ -98,6 +73,34 @@
                         "map": "sw5_main",
                         "x": 472,
                         "y": 360
+                    }
+                ]
+            },
+            {
+                "name": "Groovy - Main room",
+                "sections": [
+                    {
+                        "name": "Main room",
+                        "ref": "Map/Groovy/Main room"
+                    },
+                    {
+                        "name": "Normal Exit",
+                        "ref": "Map/Groovy/Normal Exit"
+                    },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Map/Groovy/Dragon Coins"
+                    },
+                    {
+                        "name": "Yoshi Block #1",
+                        "ref": "Map/Groovy/Yoshi Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "sw5_main",
+                        "x": 16,
+                        "y": 16
                     }
                 ]
             }

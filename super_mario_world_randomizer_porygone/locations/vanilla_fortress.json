@@ -9,21 +9,13 @@
         ],
         "children": [
             {
+                "name": "Vanilla Fortress - Boss battle",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            ""
-                        ],
                         "name": "Normal Exit",
-                        "access_rules": [
-                            "swim"
-                        ],
-                        "chest_unopened_img": "images/checks/goal_sphere_disabled.png",
-                        "chest_opened_img": "images/checks/goal_sphere.png",
-                        "item_count": 1
+                        "ref": "Map/Vanilla Fortress/Normal Exit"
                     }
                 ],
-                "name": "Vanilla Fortress - Boss battle",
                 "map_locations": [
                     {
                         "map": "vdf_sub_1",
@@ -33,21 +25,13 @@
                 ]
             },
             {
+                "name": "Vanilla Fortress - Hidden 1-Up",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            "hidden_1up_checks"
-                        ],
                         "name": "Hidden 1-Up",
-                        "access_rules": [
-                            "swim"
-                        ],
-                        "chest_unopened_img": "images/checks/hidden_disabled.png",
-                        "chest_opened_img": "images/checks/hidden.png",
-                        "item_count": 1
+                        "ref": "Map/Vanilla Fortress/Hidden 1-Up"
                     }
                 ],
-                "name": "Vanilla Fortress - Hidden 1-Up",
                 "map_locations": [
                     {
                         "map": "vdf_sub_1",
@@ -61,15 +45,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #1",
-                        "access_rules": [
-                            "swim"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Vanilla Fortress/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -85,15 +61,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #2",
-                        "access_rules": [
-                            "swim"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Vanilla Fortress/Powerup Block #2"
                     }
                 ],
                 "map_locations": [
@@ -109,15 +77,7 @@
                 "sections": [
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "access_rules": [
-                            "ysp, swim"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Vanilla Fortress/Yellow Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -125,6 +85,95 @@
                         "map": "vdf_sub_1",
                         "x": 1928,
                         "y": 280
+                    }
+                ]
+            },
+            {
+                "name": "Vanilla Fortress - Spikes room",
+                "sections": [
+                    {
+                        "name": "Spikes room",
+                        "ref": "Map/Vanilla Fortress/Spikes room"
+                    },
+                    {
+                        "name": "Powerup Block #1",
+                        "ref": "Map/Vanilla Fortress/Powerup Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vdf_main",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Vanilla Fortress - Thwomp room",
+                "sections": [
+                    {
+                        "name": "Thwomp room",
+                        "ref": "Map/Vanilla Fortress/Thwomp room"
+                    },
+                    {
+                        "name": "Normal Exit",
+                        "ref": "Map/Vanilla Fortress/Normal Exit"
+                    },
+                    {
+                        "name": "Powerup Block #2",
+                        "ref": "Map/Vanilla Fortress/Powerup Block #2"
+                    },
+                    {
+                        "name": "Hidden 1-Up",
+                        "ref": "Map/Vanilla Fortress/Hidden 1-Up"
+                    },
+                    {
+                        "name": "Yellow Switch Palace Block #1",
+                        "ref": "Map/Vanilla Fortress/Yellow Switch Palace Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vdf_sub_1",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Vanilla Fortress - Pipe to Thwomp room",
+                "sections": [
+                    {
+                        "name": "Thwomp room",
+                        "ref": "Map/Vanilla Fortress/Thwomp room"
+                    },
+                    {
+                        "name": "Normal Exit",
+                        "ref": "Map/Vanilla Fortress/Normal Exit"
+                    },
+                    {
+                        "name": "Powerup Block #2",
+                        "ref": "Map/Vanilla Fortress/Powerup Block #2"
+                    },
+                    {
+                        "name": "Hidden 1-Up",
+                        "ref": "Map/Vanilla Fortress/Hidden 1-Up"
+                    },
+                    {
+                        "name": "Yellow Switch Palace Block #1",
+                        "ref": "Map/Vanilla Fortress/Yellow Switch Palace Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vdf_main",
+                        "x": 904,
+                        "y": 368
+                    },
+                    {
+                        "map": "vdf_main",
+                        "x": 2000,
+                        "y": 296
                     }
                 ]
             }

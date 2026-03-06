@@ -9,21 +9,13 @@
         ],
         "children": [
             {
+                "name": "#1 Iggy's Castle - Boss battle",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            ""
-                        ],
                         "name": "Normal Exit",
-                        "access_rules": [
-                            "climb"
-                        ],
-                        "chest_unopened_img": "images/checks/goal_sphere_disabled.png",
-                        "chest_opened_img": "images/checks/goal_sphere.png",
-                        "item_count": 1
+                        "ref": "Map/#1 Iggy's Castle/Normal Exit"
                     }
                 ],
-                "name": "#1 Iggy's Castle - Boss battle",
                 "map_locations": [
                     {
                         "map": "yic_sub_1",
@@ -37,16 +29,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #1",
-                        "access_rules": [
-                            "carry, [climb]",
-                            "climb"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/#1 Iggy's Castle/Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -62,16 +45,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #2",
-                        "access_rules": [
-                            "carry, [climb]",
-                            "climb"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/#1 Iggy's Castle/Coin Block #2"
                     }
                 ],
                 "map_locations": [
@@ -87,16 +61,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #1",
-                        "access_rules": [
-                            "carry, [climb]",
-                            "climb"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/#1 Iggy's Castle/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -112,16 +77,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #3",
-                        "access_rules": [
-                            "carry, [climb]",
-                            "climb"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/#1 Iggy's Castle/Coin Block #3"
                     }
                 ],
                 "map_locations": [
@@ -137,16 +93,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #4",
-                        "access_rules": [
-                            "carry, [climb]",
-                            "climb"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/#1 Iggy's Castle/Coin Block #4"
                     }
                 ],
                 "map_locations": [
@@ -162,15 +109,7 @@
                 "sections": [
                     {
                         "name": "Flying Question Block #1",
-                        "access_rules": [
-                            "climb"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/#1 Iggy's Castle/Flying Question Block #1"
                     }
                 ],
                 "map_locations": [
@@ -178,6 +117,110 @@
                         "map": "yic_sub_1",
                         "x": 600,
                         "y": 344
+                    }
+                ]
+            },
+            {
+                "name": "#1 Iggy's Castle - Midway Point",
+                "sections": [
+                    {
+                        "name": "Midway Point",
+                        "ref": "Map/#1 Iggy's Castle/Midway Point"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "yic_main",
+                        "x": 1912,
+                        "y": 376
+                    }
+                ]
+            },
+            {
+                "name": "#1 Iggy's Castle - Net room",
+                "sections": [
+                    {
+                        "name": "Net room",
+                        "ref": "Map/#1 Iggy's Castle/Net room"
+                    },
+                    {
+                        "name": "Midway Point",
+                        "ref": "Map/#1 Iggy's Castle/Midway Point"
+                    },
+                    {
+                        "name": "Coin Block #1",
+                        "ref": "Map/#1 Iggy's Castle/Coin Block #1"
+                    },
+                    {
+                        "name": "Coin Block #2",
+                        "ref": "Map/#1 Iggy's Castle/Coin Block #2"
+                    },
+                    {
+                        "name": "Powerup Block #1",
+                        "ref": "Map/#1 Iggy's Castle/Powerup Block #1"
+                    },
+                    {
+                        "name": "Coin Block #3",
+                        "ref": "Map/#1 Iggy's Castle/Coin Block #3"
+                    },
+                    {
+                        "name": "Coin Block #4",
+                        "ref": "Map/#1 Iggy's Castle/Coin Block #4"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "yic_main",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "#1 Iggy's Castle - Smashers room",
+                "sections": [
+                    {
+                        "name": "Smashers room",
+                        "ref": "Map/#1 Iggy's Castle/Smashers room"
+                    },
+                    {
+                        "name": "Normal Exit",
+                        "ref": "Map/#1 Iggy's Castle/Normal Exit"
+                    },
+                    {
+                        "name": "Flying Question Block #1",
+                        "ref": "Map/#1 Iggy's Castle/Flying Question Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "yic_sub_1",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "#1 Iggy's Castle - Door to Smashers room",
+                "sections": [
+                    {
+                        "name": "Smashers room",
+                        "ref": "Map/#1 Iggy's Castle/Smashers room"
+                    },
+                    {
+                        "name": "Normal Exit",
+                        "ref": "Map/#1 Iggy's Castle/Normal Exit"
+                    },
+                    {
+                        "name": "Flying Question Block #1",
+                        "ref": "Map/#1 Iggy's Castle/Flying Question Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "yic_main",
+                        "x": 1976,
+                        "y": 368
                     }
                 ]
             }

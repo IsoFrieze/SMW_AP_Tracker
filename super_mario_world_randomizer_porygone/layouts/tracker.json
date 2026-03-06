@@ -591,6 +591,15 @@
                                                                     "dpsh_sub_3"
                                                                 ]
                                                             }
+                                                        },
+                                                        {
+                                                            "title": "Boss room",
+                                                            "content": {
+                                                                "type": "map",
+                                                                "maps": [
+                                                                    "dpsh_sub_4"
+                                                                ]
+                                                            }
                                                         }
                                                     ]
                                                 }
@@ -1377,7 +1386,7 @@
                                                             }
                                                         },
                                                         {
-                                                            "title": "Secret goal room",
+                                                            "title": "Normal goal room",
                                                             "content": {
                                                                 "type": "map",
                                                                 "maps": [
@@ -1386,7 +1395,7 @@
                                                             }
                                                         },
                                                         {
-                                                            "title": "Normal goal room",
+                                                            "title": "Secret goal room",
                                                             "content": {
                                                                 "type": "map",
                                                                 "maps": [

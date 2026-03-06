@@ -9,21 +9,13 @@
         ],
         "children": [
             {
+                "name": "Outrageous - Goal",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            ""
-                        ],
                         "name": "Normal Exit",
-                        "access_rules": [
-                            "[powerup_1]"
-                        ],
-                        "chest_unopened_img": "images/checks/goal_sphere_disabled.png",
-                        "chest_opened_img": "images/checks/goal_sphere.png",
-                        "item_count": 1
+                        "ref": "Map/Outrageous/Normal Exit"
                     }
                 ],
-                "name": "Outrageous - Goal",
                 "map_locations": [
                     {
                         "map": "sw7_main",
@@ -33,22 +25,13 @@
                 ]
             },
             {
+                "name": "Outrageous - Dragon Coins",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            "dragon_coin_checks"
-                        ],
                         "name": "Dragon Coins",
-                        "access_rules": [
-                            "[powerup_1]"
-                        ],
-                        "chest_unopened_img": "images/checks/dragon_coin_disabled.png",
-                        "chest_opened_img": "images/checks/dragon_coin.png",
-                        "clear_as_group": true,
-                        "item_count": 1
+                        "ref": "Map/Outrageous/Dragon Coins"
                     }
                 ],
-                "name": "Outrageous - Dragon Coin",
                 "map_locations": [
                     {
                         "map": "sw7_main",
@@ -82,15 +65,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #1",
-                        "access_rules": [
-                            "[powerup_1]"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Outrageous/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -106,15 +81,7 @@
                 "sections": [
                     {
                         "name": "Yoshi Block #1",
-                        "access_rules": [
-                            "[powerup_1]"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Outrageous/Yoshi Block #1"
                     }
                 ],
                 "map_locations": [
@@ -130,15 +97,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #1",
-                        "access_rules": [
-                            "[powerup_1]"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Outrageous/Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -154,15 +113,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #2",
-                        "access_rules": [
-                            "[powerup_1]"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Outrageous/Powerup Block #2"
                     }
                 ],
                 "map_locations": [
@@ -178,15 +129,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #2",
-                        "access_rules": [
-                            "[powerup_1]"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Outrageous/Coin Block #2"
                     }
                 ],
                 "map_locations": [
@@ -194,6 +137,50 @@
                         "map": "sw7_main",
                         "x": 1976,
                         "y": 760
+                    }
+                ]
+            },
+            {
+                "name": "Outrageous - Main room",
+                "sections": [
+                    {
+                        "name": "Main room",
+                        "ref": "Map/Outrageous/Main room"
+                    },
+                    {
+                        "name": "Normal Exit",
+                        "ref": "Map/Outrageous/Normal Exit"
+                    },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Map/Outrageous/Dragon Coins"
+                    },
+                    {
+                        "name": "Powerup Block #1",
+                        "ref": "Map/Outrageous/Powerup Block #1"
+                    },
+                    {
+                        "name": "Yoshi Block #1",
+                        "ref": "Map/Outrageous/Yoshi Block #1"
+                    },
+                    {
+                        "name": "Coin Block #1",
+                        "ref": "Map/Outrageous/Coin Block #1"
+                    },
+                    {
+                        "name": "Powerup Block #2",
+                        "ref": "Map/Outrageous/Powerup Block #2"
+                    },
+                    {
+                        "name": "Coin Block #2",
+                        "ref": "Map/Outrageous/Coin Block #2"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "sw7_main",
+                        "x": 16,
+                        "y": 16
                     }
                 ]
             }

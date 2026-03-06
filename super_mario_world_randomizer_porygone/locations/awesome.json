@@ -9,22 +9,13 @@
         ],
         "children": [
             {
+                "name": "Awesome - Goal",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            ""
-                        ],
                         "name": "Normal Exit",
-                        "access_rules": [
-                            "[powerup_2]",
-                            "star"
-                        ],
-                        "chest_unopened_img": "images/checks/goal_sphere_disabled.png",
-                        "chest_opened_img": "images/checks/goal_sphere.png",
-                        "item_count": 1
+                        "ref": "Map/Awesome/Normal Exit"
                     }
                 ],
-                "name": "Awesome - Goal",
                 "map_locations": [
                     {
                         "map": "sw4_main",
@@ -34,23 +25,13 @@
                 ]
             },
             {
+                "name": "Awesome - Dragon Coins",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            "dragon_coin_checks"
-                        ],
                         "name": "Dragon Coins",
-                        "access_rules": [
-                            "[powerup_2]",
-                            "star"
-                        ],
-                        "chest_unopened_img": "images/checks/dragon_coin_disabled.png",
-                        "chest_opened_img": "images/checks/dragon_coin.png",
-                        "clear_as_group": true,
-                        "item_count": 1
+                        "ref": "Map/Awesome/Dragon Coins"
                     }
                 ],
-                "name": "Awesome - Dragon Coin",
                 "map_locations": [
                     {
                         "map": "sw4_main",
@@ -84,15 +65,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #1",
-                        "access_rules": [
-                            "[powerup_2]"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Awesome/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -108,16 +81,7 @@
                 "sections": [
                     {
                         "name": "Star Block #1",
-                        "access_rules": [
-                            "[powerup_2], carry",
-                            "[powerup_2], p_switch"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Awesome/Star Block #1"
                     }
                 ],
                 "map_locations": [
@@ -125,6 +89,38 @@
                         "map": "sw4_main",
                         "x": 760,
                         "y": 680
+                    }
+                ]
+            },
+            {
+                "name": "Awesome - Main room",
+                "sections": [
+                    {
+                        "name": "Main room",
+                        "ref": "Map/Awesome/Main room"
+                    },
+                    {
+                        "name": "Normal Exit",
+                        "ref": "Map/Awesome/Normal Exit"
+                    },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Map/Awesome/Dragon Coins"
+                    },
+                    {
+                        "name": "Powerup Block #1",
+                        "ref": "Map/Awesome/Powerup Block #1"
+                    },
+                    {
+                        "name": "Star Block #1",
+                        "ref": "Map/Awesome/Star Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "sw4_main",
+                        "x": 16,
+                        "y": 16
                     }
                 ]
             }

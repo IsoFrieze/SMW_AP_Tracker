@@ -9,21 +9,13 @@
         ],
         "children": [
             {
+                "name": "#6 Wendy's Castle - Boss battle",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            ""
-                        ],
                         "name": "Normal Exit",
-                        "access_rules": [
-                            "powerup_1"
-                        ],
-                        "chest_unopened_img": "images/checks/goal_sphere_disabled.png",
-                        "chest_opened_img": "images/checks/goal_sphere.png",
-                        "item_count": 1
+                        "ref": "Map/#6 Wendy's Castle/Normal Exit"
                     }
                 ],
-                "name": "#6 Wendy's Castle - Boss battle",
                 "map_locations": [
                     {
                         "map": "cic_sub",
@@ -33,21 +25,13 @@
                 ]
             },
             {
+                "name": "#6 Wendy's Castle - Hidden 1-Up",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            "hidden_1up_checks"
-                        ],
                         "name": "Hidden 1-Up",
-                        "access_rules": [
-                            ""
-                        ],
-                        "chest_unopened_img": "images/checks/hidden_disabled.png",
-                        "chest_opened_img": "images/checks/hidden.png",
-                        "item_count": 1
+                        "ref": "Map/#6 Wendy's Castle/Hidden 1-Up"
                     }
                 ],
-                "name": "#6 Wendy's Castle - Hidden 1-Up",
                 "map_locations": [
                     {
                         "map": "cic_main",
@@ -61,15 +45,7 @@
                 "sections": [
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "access_rules": [
-                            "ysp, powerup_1"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/#6 Wendy's Castle/Yellow Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -85,15 +61,7 @@
                 "sections": [
                     {
                         "name": "Yellow Switch Palace Block #2",
-                        "access_rules": [
-                            "ysp, powerup_1"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/#6 Wendy's Castle/Yellow Switch Palace Block #2"
                     }
                 ],
                 "map_locations": [
@@ -109,15 +77,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #1",
-                        "access_rules": [
-                            "gsp, powerup_1"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/#6 Wendy's Castle/Green Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -125,6 +85,106 @@
                         "map": "cic_sub",
                         "x": 1880,
                         "y": 328
+                    }
+                ]
+            },
+            {
+                "name": "#6 Wendy's Castle - Midway Point",
+                "sections": [
+                    {
+                        "name": "Midway Point",
+                        "ref": "Map/#6 Wendy's Castle/Midway Point"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "cic_main",
+                        "x": 1160,
+                        "y": 808
+                    }
+                ]
+            },
+            {
+                "name": "#6 Wendy's Castle - Spikes room",
+                "sections": [
+                    {
+                        "name": "Spikes room",
+                        "ref": "Map/#6 Wendy's Castle/Spikes room"
+                    },
+                    {
+                        "name": "Midway Point",
+                        "ref": "Map/#6 Wendy's Castle/Midway Point"
+                    },
+                    {
+                        "name": "Hidden 1-Up",
+                        "ref": "Map/#6 Wendy's Castle/Hidden 1-Up"
+                    },
+                    {
+                        "name": "Yellow Switch Palace Block #1",
+                        "ref": "Map/#6 Wendy's Castle/Yellow Switch Palace Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "cic_main",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "#6 Wendy's Castle - Hothead room",
+                "sections": [
+                    {
+                        "name": "Hothead room",
+                        "ref": "Map/#6 Wendy's Castle/Hothead room"
+                    },
+                    {
+                        "name": "Normal Exit",
+                        "ref": "Map/#6 Wendy's Castle/Normal Exit"
+                    },
+                    {
+                        "name": "Yellow Switch Palace Block #2",
+                        "ref": "Map/#6 Wendy's Castle/Yellow Switch Palace Block #2"
+                    },
+                    {
+                        "name": "Green Switch Palace Block #1",
+                        "ref": "Map/#6 Wendy's Castle/Green Switch Palace Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "cic_sub",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "#6 Wendy's Castle - Door to Hothead room",
+                "sections": [
+                    {
+                        "name": "Hothead room",
+                        "ref": "Map/#6 Wendy's Castle/Hothead room"
+                    },
+                    {
+                        "name": "Normal Exit",
+                        "ref": "Map/#6 Wendy's Castle/Normal Exit"
+                    },
+                    {
+                        "name": "Yellow Switch Palace Block #2",
+                        "ref": "Map/#6 Wendy's Castle/Yellow Switch Palace Block #2"
+                    },
+                    {
+                        "name": "Green Switch Palace Block #1",
+                        "ref": "Map/#6 Wendy's Castle/Green Switch Palace Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "cic_main",
+                        "x": 1224,
+                        "y": 800
                     }
                 ]
             }

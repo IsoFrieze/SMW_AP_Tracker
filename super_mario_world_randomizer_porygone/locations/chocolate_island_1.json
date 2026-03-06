@@ -9,23 +9,13 @@
         ],
         "children": [
             {
+                "name": "Chocolate Island 1 - Goal",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            ""
-                        ],
                         "name": "Normal Exit",
-                        "access_rules": [
-                            "p_switch",
-                            "[p_switch], powerup_1",
-                            "[p_switch], yoshi"
-                        ],
-                        "chest_unopened_img": "images/checks/goal_sphere_disabled.png",
-                        "chest_opened_img": "images/checks/goal_sphere.png",
-                        "item_count": 1
+                        "ref": "Map/Chocolate Island 1/Normal Exit"
                     }
                 ],
-                "name": "Chocolate Island 1 - Goal",
                 "map_locations": [
                     {
                         "map": "ci1_main",
@@ -40,24 +30,13 @@
                 ]
             },
             {
+                "name": "Chocolate Island 1 - Dragon Coins",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            "dragon_coin_checks"
-                        ],
                         "name": "Dragon Coins",
-                        "access_rules": [
-                            "p_switch",
-                            "[p_switch], powerup_1",
-                            "[p_switch], yoshi"
-                        ],
-                        "chest_unopened_img": "images/checks/dragon_coin_disabled.png",
-                        "chest_opened_img": "images/checks/dragon_coin.png",
-                        "clear_as_group": true,
-                        "item_count": 1
+                        "ref": "Map/Chocolate Island 1/Dragon Coins"
                     }
                 ],
-                "name": "Chocolate Island 1 - Dragon Coin",
                 "map_locations": [
                     {
                         "map": "ci1_main",
@@ -87,22 +66,13 @@
                 ]
             },
             {
+                "name": "Chocolate Island 1 - 3-Up Moon",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            "moon_checks"
-                        ],
                         "name": "3-Up Moon",
-                        "access_rules": [
-                            "powerup_3, run",
-                            "yoshi"
-                        ],
-                        "chest_unopened_img": "images/checks/moon_disabled.png",
-                        "chest_opened_img": "images/checks/moon.png",
-                        "item_count": 1
+                        "ref": "Map/Chocolate Island 1/3-Up Moon"
                     }
                 ],
-                "name": "Chocolate Island 1 - 3-Up Moon",
                 "map_locations": [
                     {
                         "map": "ci1_main_alt",
@@ -116,17 +86,7 @@
                 "sections": [
                     {
                         "name": "Flying Question Block #1",
-                        "access_rules": [
-                            "p_switch",
-                            "[p_switch], powerup_1",
-                            "[p_switch], yoshi"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Chocolate Island 1/Flying Question Block #1"
                     }
                 ],
                 "map_locations": [
@@ -147,17 +107,7 @@
                 "sections": [
                     {
                         "name": "Flying Question Block #2",
-                        "access_rules": [
-                            "p_switch",
-                            "[p_switch], powerup_1",
-                            "[p_switch], yoshi"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Chocolate Island 1/Flying Question Block #2"
                     }
                 ],
                 "map_locations": [
@@ -178,17 +128,7 @@
                 "sections": [
                     {
                         "name": "Yoshi Block #1",
-                        "access_rules": [
-                            "p_switch",
-                            "[p_switch], powerup_1",
-                            "[p_switch], yoshi"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Chocolate Island 1/Yoshi Block #1"
                     }
                 ],
                 "map_locations": [
@@ -209,26 +149,7 @@
                 "sections": [
                     {
                         "name": "Green|Yellow Switch Palace Block #1",
-                        "access_rules": [
-                            "p_switch, gsp, bsp",
-                            "[p_switch], powerup_1, gsp, bsp",
-                            "[p_switch], yoshi, gsp, bsp",
-                            "p_switch, gsp, poweurp_3",
-                            "[p_switch], powerup_1, gsp, poweurp_3",
-                            "[p_switch], yoshi, gsp, poweurp_3",
-                            "p_switch, ysp, bsp",
-                            "[p_switch], powerup_1, ysp, bsp",
-                            "[p_switch], yoshi, ysp, bsp",
-                            "p_switch, ysp, poweurp_3",
-                            "[p_switch], powerup_1, ysp, poweurp_3",
-                            "[p_switch], yoshi, ysp, poweurp_3"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Chocolate Island 1/Green|Yellow Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -249,17 +170,7 @@
                 "sections": [
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "access_rules": [
-                            "p_switch",
-                            "[p_switch], powerup_1",
-                            "[p_switch], yoshi"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Chocolate Island 1/1-Up Mushroom Block #1"
                     }
                 ],
                 "map_locations": [
@@ -267,6 +178,226 @@
                         "map": "ci1_sub",
                         "x": 120,
                         "y": 296
+                    }
+                ]
+            },
+            {
+                "name": "Chocolate Island 1 - Midway Point",
+                "sections": [
+                    {
+                        "name": "Midway Point",
+                        "ref": "Map/Chocolate Island 1/Midway Point"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ci1_main_alt",
+                        "x": 408,
+                        "y": 664
+                    }
+                ]
+            },
+            {
+                "name": "Chocolate Island 1 - Main room",
+                "sections": [
+                    {
+                        "name": "Main room",
+                        "ref": "Map/Chocolate Island 1/Main room"
+                    },
+                    {
+                        "name": "Normal Exit",
+                        "ref": "Map/Chocolate Island 1/Normal Exit"
+                    },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Map/Chocolate Island 1/Dragon Coins"
+                    },
+                    {
+                        "name": "Flying Question Block #1",
+                        "ref": "Map/Chocolate Island 1/Flying Question Block #1"
+                    },
+                    {
+                        "name": "Flying Question Block #2",
+                        "ref": "Map/Chocolate Island 1/Flying Question Block #2"
+                    },
+                    {
+                        "name": "Yoshi Block #1",
+                        "ref": "Map/Chocolate Island 1/Yoshi Block #1"
+                    },
+                    {
+                        "name": "Green|Yellow Switch Palace Block #1",
+                        "ref": "Map/Chocolate Island 1/Green|Yellow Switch Palace Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ci1_main",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Chocolate Island 1 - Copy of main room",
+                "sections": [
+                    {
+                        "name": "Copy of main room",
+                        "ref": "Map/Chocolate Island 1/Copy of main room"
+                    },
+                    {
+                        "name": "Midway Point",
+                        "ref": "Map/Chocolate Island 1/Midway Point"
+                    },
+                    {
+                        "name": "Normal Exit",
+                        "ref": "Map/Chocolate Island 1/Normal Exit"
+                    },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Map/Chocolate Island 1/Dragon Coins"
+                    },
+                    {
+                        "name": "3-Up Moon",
+                        "ref": "Map/Chocolate Island 1/3-Up Moon"
+                    },
+                    {
+                        "name": "Flying Question Block #1",
+                        "ref": "Map/Chocolate Island 1/Flying Question Block #1"
+                    },
+                    {
+                        "name": "Flying Question Block #2",
+                        "ref": "Map/Chocolate Island 1/Flying Question Block #2"
+                    },
+                    {
+                        "name": "Yoshi Block #1",
+                        "ref": "Map/Chocolate Island 1/Yoshi Block #1"
+                    },
+                    {
+                        "name": "Green|Yellow Switch Palace Block #1",
+                        "ref": "Map/Chocolate Island 1/Green|Yellow Switch Palace Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ci1_main_alt",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Chocolate Island 1 - Porcupuffer room",
+                "sections": [
+                    {
+                        "name": "Porcupuffer room",
+                        "ref": "Map/Chocolate Island 1/Porcupuffer room"
+                    },
+                    {
+                        "name": "1-Up Mushroom Block #1",
+                        "ref": "Map/Chocolate Island 1/1-Up Mushroom Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ci1_sub",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Chocolate Island 1 - Pipe to Copy of main room",
+                "sections": [
+                    {
+                        "name": "Copy of main room",
+                        "ref": "Map/Chocolate Island 1/Copy of main room"
+                    },
+                    {
+                        "name": "Midway Point",
+                        "ref": "Map/Chocolate Island 1/Midway Point"
+                    },
+                    {
+                        "name": "Normal Exit",
+                        "ref": "Map/Chocolate Island 1/Normal Exit"
+                    },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Map/Chocolate Island 1/Dragon Coins"
+                    },
+                    {
+                        "name": "3-Up Moon",
+                        "ref": "Map/Chocolate Island 1/3-Up Moon"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ci1_main",
+                        "x": 1712,
+                        "y": 296
+                    },
+                    {
+                        "map": "ci1_main",
+                        "x": 16,
+                        "y": 1208
+                    }
+                ]
+            },
+            {
+                "name": "Chocolate Island 1 - Pipe to Main room",
+                "sections": [
+                    {
+                        "name": "Main room",
+                        "ref": "Map/Chocolate Island 1/Main room"
+                    },
+                    {
+                        "name": "Normal Exit",
+                        "ref": "Map/Chocolate Island 1/Normal Exit"
+                    },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Map/Chocolate Island 1/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ci1_main_alt",
+                        "x": 1712,
+                        "y": 296
+                    },
+                    {
+                        "map": "ci1_main_alt",
+                        "x": 16,
+                        "y": 1208
+                    },
+                    {
+                        "map": "ci1_sub",
+                        "x": 976,
+                        "y": 296
+                    },
+                ]
+            },
+            {
+                "name": "Chocolate Island 1 - Pipe to Porcupuffer room",
+                "sections": [
+                    {
+                        "name": "Porcupuffer room",
+                        "ref": "Map/Chocolate Island 1/Porcupuffer room"
+                    },
+                    {
+                        "name": "1-Up Mushroom Block #1",
+                        "ref": "Map/Chocolate Island 1/1-Up Mushroom Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ci1_main",
+                        "x": 1920,
+                        "y": 776
+                    },
+                    {
+                        "map": "ci1_main_alt",
+                        "x": 1920,
+                        "y": 776
                     }
                 ]
             }

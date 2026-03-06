@@ -9,21 +9,13 @@
         ],
         "children": [
             {
+                "name": "Cookie Mountain - Goal",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            ""
-                        ],
                         "name": "Normal Exit",
-                        "access_rules": [
-                            ""
-                        ],
-                        "chest_unopened_img": "images/checks/goal_sphere_disabled.png",
-                        "chest_opened_img": "images/checks/goal_sphere.png",
-                        "item_count": 1
+                        "ref": "Map/Cookie Mountain/Normal Exit"
                     }
                 ],
-                "name": "Cookie Mountain - Goal",
                 "map_locations": [
                     {
                         "map": "tb4_main",
@@ -33,25 +25,13 @@
                 ]
             },
             {
+                "name": "Cookie Mountain - Dragon Coins",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            "dragon_coin_checks"
-                        ],
                         "name": "Dragon Coins",
-                        "access_rules": [
-                            "yoshi",
-                            "climb",
-                            "[yoshi], powerup_3, run",
-                            "[climb], powerup_3, run"
-                        ],
-                        "chest_unopened_img": "images/checks/dragon_coin_disabled.png",
-                        "chest_opened_img": "images/checks/dragon_coin.png",
-                        "clear_as_group": true,
-                        "item_count": 1
+                        "ref": "Map/Cookie Mountain/Dragon Coins"
                     }
                 ],
-                "name": "Cookie Mountain - Dragon Coin",
                 "map_locations": [
                     {
                         "map": "tb4_main",
@@ -81,21 +61,13 @@
                 ]
             },
             {
+                "name": "Cookie Mountain - Hidden 1-Up",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            "hidden_1up_checks"
-                        ],
                         "name": "Hidden 1-Up",
-                        "access_rules": [
-                            "swim"
-                        ],
-                        "chest_unopened_img": "images/checks/hidden_disabled.png",
-                        "chest_opened_img": "images/checks/hidden.png",
-                        "item_count": 1
+                        "ref": "Map/Cookie Mountain/Hidden 1-Up"
                     }
                 ],
-                "name": "Cookie Mountain - Hidden 1-Up",
                 "map_locations": [
                     {
                         "map": "tb4_main",
@@ -109,15 +81,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #1",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Cookie Mountain/Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -133,15 +97,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #2",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Cookie Mountain/Coin Block #2"
                     }
                 ],
                 "map_locations": [
@@ -157,15 +113,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #3",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Cookie Mountain/Coin Block #3"
                     }
                 ],
                 "map_locations": [
@@ -181,15 +129,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #4",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Cookie Mountain/Coin Block #4"
                     }
                 ],
                 "map_locations": [
@@ -205,15 +145,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #5",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Cookie Mountain/Coin Block #5"
                     }
                 ],
                 "map_locations": [
@@ -229,15 +161,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #6",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Cookie Mountain/Coin Block #6"
                     }
                 ],
                 "map_locations": [
@@ -253,15 +177,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #7",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Cookie Mountain/Coin Block #7"
                     }
                 ],
                 "map_locations": [
@@ -277,15 +193,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #8",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Cookie Mountain/Coin Block #8"
                     }
                 ],
                 "map_locations": [
@@ -301,15 +209,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #9",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Cookie Mountain/Coin Block #9"
                     }
                 ],
                 "map_locations": [
@@ -325,15 +225,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #1",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Cookie Mountain/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -349,16 +241,7 @@
                 "sections": [
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "access_rules": [
-                            "yoshi",
-                            "climb"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Cookie Mountain/1-Up Mushroom Block #1"
                     }
                 ],
                 "map_locations": [
@@ -374,15 +257,7 @@
                 "sections": [
                     {
                         "name": "Vine Block #1",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Cookie Mountain/Vine Block #1"
                     }
                 ],
                 "map_locations": [
@@ -398,15 +273,7 @@
                 "sections": [
                     {
                         "name": "Yoshi Block #1",
-                        "access_rules": [
-                            "[rsp]"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Cookie Mountain/Yoshi Block #1"
                     }
                 ],
                 "map_locations": [
@@ -422,15 +289,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #10",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Cookie Mountain/Coin Block #10"
                     }
                 ],
                 "map_locations": [
@@ -446,15 +305,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #11",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Cookie Mountain/Coin Block #11"
                     }
                 ],
                 "map_locations": [
@@ -470,15 +321,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #2",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Cookie Mountain/Powerup Block #2"
                     }
                 ],
                 "map_locations": [
@@ -494,15 +337,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #12",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Cookie Mountain/Coin Block #12"
                     }
                 ],
                 "map_locations": [
@@ -518,15 +353,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #13",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Cookie Mountain/Coin Block #13"
                     }
                 ],
                 "map_locations": [
@@ -542,15 +369,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #14",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Cookie Mountain/Coin Block #14"
                     }
                 ],
                 "map_locations": [
@@ -566,15 +385,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #15",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Cookie Mountain/Coin Block #15"
                     }
                 ],
                 "map_locations": [
@@ -590,15 +401,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #16",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Cookie Mountain/Coin Block #16"
                     }
                 ],
                 "map_locations": [
@@ -614,15 +417,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #17",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Cookie Mountain/Coin Block #17"
                     }
                 ],
                 "map_locations": [
@@ -638,15 +433,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #18",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Cookie Mountain/Coin Block #18"
                     }
                 ],
                 "map_locations": [
@@ -662,15 +449,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #19",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Cookie Mountain/Coin Block #19"
                     }
                 ],
                 "map_locations": [
@@ -686,15 +465,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #20",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Cookie Mountain/Coin Block #20"
                     }
                 ],
                 "map_locations": [
@@ -710,15 +481,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #21",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Cookie Mountain/Coin Block #21"
                     }
                 ],
                 "map_locations": [
@@ -734,15 +497,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #22",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Cookie Mountain/Coin Block #22"
                     }
                 ],
                 "map_locations": [
@@ -758,15 +513,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #23",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Cookie Mountain/Coin Block #23"
                     }
                 ],
                 "map_locations": [
@@ -782,15 +529,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #24",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Cookie Mountain/Coin Block #24"
                     }
                 ],
                 "map_locations": [
@@ -806,15 +545,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #25",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Cookie Mountain/Coin Block #25"
                     }
                 ],
                 "map_locations": [
@@ -830,15 +561,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #26",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Cookie Mountain/Coin Block #26"
                     }
                 ],
                 "map_locations": [
@@ -854,15 +577,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #27",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Cookie Mountain/Coin Block #27"
                     }
                 ],
                 "map_locations": [
@@ -878,15 +593,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #28",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Cookie Mountain/Coin Block #28"
                     }
                 ],
                 "map_locations": [
@@ -902,15 +609,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #29",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Cookie Mountain/Coin Block #29"
                     }
                 ],
                 "map_locations": [
@@ -926,15 +625,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #30",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Cookie Mountain/Coin Block #30"
                     }
                 ],
                 "map_locations": [
@@ -942,6 +633,398 @@
                         "map": "tb4_main",
                         "x": 872,
                         "y": 1192
+                    }
+                ]
+            },
+            {
+                "name": "Cookie Mountain - Midway Point",
+                "sections": [
+                    {
+                        "name": "Midway Point",
+                        "ref": "Map/Cookie Mountain/Midway Point"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "tb4_main",
+                        "x": 440,
+                        "y": 712
+                    }
+                ]
+            },
+            {
+                "name": "Cookie Mountain - Main room",
+                "sections": [
+                    {
+                        "name": "Main room",
+                        "ref": "Map/Cookie Mountain/Main room"
+                    },
+                    {
+                        "name": "Midway Point",
+                        "ref": "Map/Cookie Mountain/Midway Point"
+                    },
+                    {
+                        "name": "Normal Exit",
+                        "ref": "Map/Cookie Mountain/Normal Exit"
+                    },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Map/Cookie Mountain/Dragon Coins"
+                    },
+                    {
+                        "name": "Hidden 1-Up",
+                        "ref": "Map/Cookie Mountain/Hidden 1-Up"
+                    },
+                    {
+                        "name": "Coin Block #1",
+                        "ref": "Map/Cookie Mountain/Coin Block #1"
+                    },
+                    {
+                        "name": "Coin Block #2",
+                        "ref": "Map/Cookie Mountain/Coin Block #2"
+                    },
+                    {
+                        "name": "Coin Block #3",
+                        "ref": "Map/Cookie Mountain/Coin Block #3"
+                    },
+                    {
+                        "name": "Coin Block #4",
+                        "ref": "Map/Cookie Mountain/Coin Block #4"
+                    },
+                    {
+                        "name": "Coin Block #5",
+                        "ref": "Map/Cookie Mountain/Coin Block #5"
+                    },
+                    {
+                        "name": "Coin Block #6",
+                        "ref": "Map/Cookie Mountain/Coin Block #6"
+                    },
+                    {
+                        "name": "Coin Block #7",
+                        "ref": "Map/Cookie Mountain/Coin Block #7"
+                    },
+                    {
+                        "name": "Coin Block #8",
+                        "ref": "Map/Cookie Mountain/Coin Block #8"
+                    },
+                    {
+                        "name": "Coin Block #9",
+                        "ref": "Map/Cookie Mountain/Coin Block #9"
+                    },
+                    {
+                        "name": "Powerup Block #1",
+                        "ref": "Map/Cookie Mountain/Powerup Block #1"
+                    },
+                    {
+                        "name": "1-Up Mushroom Block #1",
+                        "ref": "Map/Cookie Mountain/1-Up Mushroom Block #1"
+                    },
+                    {
+                        "name": "Vine Block #1",
+                        "ref": "Map/Cookie Mountain/Vine Block #1"
+                    },
+                    {
+                        "name": "Yoshi Block #1",
+                        "ref": "Map/Cookie Mountain/Yoshi Block #1"
+                    },
+                    {
+                        "name": "Coin Block #10",
+                        "ref": "Map/Cookie Mountain/Coin Block #10"
+                    },
+                    {
+                        "name": "Coin Block #11",
+                        "ref": "Map/Cookie Mountain/Coin Block #11"
+                    },
+                    {
+                        "name": "Powerup Block #2",
+                        "ref": "Map/Cookie Mountain/Powerup Block #2"
+                    },
+                    {
+                        "name": "Coin Block #12",
+                        "ref": "Map/Cookie Mountain/Coin Block #12"
+                    },
+                    {
+                        "name": "Coin Block #13",
+                        "ref": "Map/Cookie Mountain/Coin Block #13"
+                    },
+                    {
+                        "name": "Coin Block #14",
+                        "ref": "Map/Cookie Mountain/Coin Block #14"
+                    },
+                    {
+                        "name": "Coin Block #15",
+                        "ref": "Map/Cookie Mountain/Coin Block #15"
+                    },
+                    {
+                        "name": "Coin Block #16",
+                        "ref": "Map/Cookie Mountain/Coin Block #16"
+                    },
+                    {
+                        "name": "Coin Block #17",
+                        "ref": "Map/Cookie Mountain/Coin Block #17"
+                    },
+                    {
+                        "name": "Coin Block #18",
+                        "ref": "Map/Cookie Mountain/Coin Block #18"
+                    },
+                    {
+                        "name": "Coin Block #19",
+                        "ref": "Map/Cookie Mountain/Coin Block #19"
+                    },
+                    {
+                        "name": "Coin Block #20",
+                        "ref": "Map/Cookie Mountain/Coin Block #20"
+                    },
+                    {
+                        "name": "Coin Block #21",
+                        "ref": "Map/Cookie Mountain/Coin Block #21"
+                    },
+                    {
+                        "name": "Coin Block #22",
+                        "ref": "Map/Cookie Mountain/Coin Block #22"
+                    },
+                    {
+                        "name": "Coin Block #23",
+                        "ref": "Map/Cookie Mountain/Coin Block #23"
+                    },
+                    {
+                        "name": "Coin Block #24",
+                        "ref": "Map/Cookie Mountain/Coin Block #24"
+                    },
+                    {
+                        "name": "Coin Block #25",
+                        "ref": "Map/Cookie Mountain/Coin Block #25"
+                    },
+                    {
+                        "name": "Coin Block #26",
+                        "ref": "Map/Cookie Mountain/Coin Block #26"
+                    },
+                    {
+                        "name": "Coin Block #27",
+                        "ref": "Map/Cookie Mountain/Coin Block #27"
+                    },
+                    {
+                        "name": "Coin Block #28",
+                        "ref": "Map/Cookie Mountain/Coin Block #28"
+                    },
+                    {
+                        "name": "Coin Block #29",
+                        "ref": "Map/Cookie Mountain/Coin Block #29"
+                    },
+                    {
+                        "name": "Coin Block #30",
+                        "ref": "Map/Cookie Mountain/Coin Block #30"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "tb4_main",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Cookie Mountain - River room",
+                "sections": [
+                    {
+                        "name": "River room",
+                        "ref": "Map/Cookie Mountain/River room"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "tb4_sub_1",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Cookie Mountain - Pipe to River room",
+                "sections": [
+                    {
+                        "name": "River room",
+                        "ref": "Map/Cookie Mountain/River room"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "tb4_main",
+                        "x": 960,
+                        "y": 776
+                    }
+                ]
+            },
+            {
+                "name": "Cookie Mountain - Pipe to Main room",
+                "sections": [
+                    {
+                        "name": "Main room",
+                        "ref": "Map/Cookie Mountain/Main room"
+                    },
+                    {
+                        "name": "Midway Point",
+                        "ref": "Map/Cookie Mountain/Midway Point"
+                    },
+                    {
+                        "name": "Normal Exit",
+                        "ref": "Map/Cookie Mountain/Normal Exit"
+                    },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Map/Cookie Mountain/Dragon Coins"
+                    },
+                    {
+                        "name": "Hidden 1-Up",
+                        "ref": "Map/Cookie Mountain/Hidden 1-Up"
+                    },
+                    {
+                        "name": "Coin Block #1",
+                        "ref": "Map/Cookie Mountain/Coin Block #1"
+                    },
+                    {
+                        "name": "Coin Block #2",
+                        "ref": "Map/Cookie Mountain/Coin Block #2"
+                    },
+                    {
+                        "name": "Coin Block #3",
+                        "ref": "Map/Cookie Mountain/Coin Block #3"
+                    },
+                    {
+                        "name": "Coin Block #4",
+                        "ref": "Map/Cookie Mountain/Coin Block #4"
+                    },
+                    {
+                        "name": "Coin Block #5",
+                        "ref": "Map/Cookie Mountain/Coin Block #5"
+                    },
+                    {
+                        "name": "Coin Block #6",
+                        "ref": "Map/Cookie Mountain/Coin Block #6"
+                    },
+                    {
+                        "name": "Coin Block #7",
+                        "ref": "Map/Cookie Mountain/Coin Block #7"
+                    },
+                    {
+                        "name": "Coin Block #8",
+                        "ref": "Map/Cookie Mountain/Coin Block #8"
+                    },
+                    {
+                        "name": "Coin Block #9",
+                        "ref": "Map/Cookie Mountain/Coin Block #9"
+                    },
+                    {
+                        "name": "Powerup Block #1",
+                        "ref": "Map/Cookie Mountain/Powerup Block #1"
+                    },
+                    {
+                        "name": "1-Up Mushroom Block #1",
+                        "ref": "Map/Cookie Mountain/1-Up Mushroom Block #1"
+                    },
+                    {
+                        "name": "Vine Block #1",
+                        "ref": "Map/Cookie Mountain/Vine Block #1"
+                    },
+                    {
+                        "name": "Yoshi Block #1",
+                        "ref": "Map/Cookie Mountain/Yoshi Block #1"
+                    },
+                    {
+                        "name": "Coin Block #10",
+                        "ref": "Map/Cookie Mountain/Coin Block #10"
+                    },
+                    {
+                        "name": "Coin Block #11",
+                        "ref": "Map/Cookie Mountain/Coin Block #11"
+                    },
+                    {
+                        "name": "Powerup Block #2",
+                        "ref": "Map/Cookie Mountain/Powerup Block #2"
+                    },
+                    {
+                        "name": "Coin Block #12",
+                        "ref": "Map/Cookie Mountain/Coin Block #12"
+                    },
+                    {
+                        "name": "Coin Block #13",
+                        "ref": "Map/Cookie Mountain/Coin Block #13"
+                    },
+                    {
+                        "name": "Coin Block #14",
+                        "ref": "Map/Cookie Mountain/Coin Block #14"
+                    },
+                    {
+                        "name": "Coin Block #15",
+                        "ref": "Map/Cookie Mountain/Coin Block #15"
+                    },
+                    {
+                        "name": "Coin Block #16",
+                        "ref": "Map/Cookie Mountain/Coin Block #16"
+                    },
+                    {
+                        "name": "Coin Block #17",
+                        "ref": "Map/Cookie Mountain/Coin Block #17"
+                    },
+                    {
+                        "name": "Coin Block #18",
+                        "ref": "Map/Cookie Mountain/Coin Block #18"
+                    },
+                    {
+                        "name": "Coin Block #19",
+                        "ref": "Map/Cookie Mountain/Coin Block #19"
+                    },
+                    {
+                        "name": "Coin Block #20",
+                        "ref": "Map/Cookie Mountain/Coin Block #20"
+                    },
+                    {
+                        "name": "Coin Block #21",
+                        "ref": "Map/Cookie Mountain/Coin Block #21"
+                    },
+                    {
+                        "name": "Coin Block #22",
+                        "ref": "Map/Cookie Mountain/Coin Block #22"
+                    },
+                    {
+                        "name": "Coin Block #23",
+                        "ref": "Map/Cookie Mountain/Coin Block #23"
+                    },
+                    {
+                        "name": "Coin Block #24",
+                        "ref": "Map/Cookie Mountain/Coin Block #24"
+                    },
+                    {
+                        "name": "Coin Block #25",
+                        "ref": "Map/Cookie Mountain/Coin Block #25"
+                    },
+                    {
+                        "name": "Coin Block #26",
+                        "ref": "Map/Cookie Mountain/Coin Block #26"
+                    },
+                    {
+                        "name": "Coin Block #27",
+                        "ref": "Map/Cookie Mountain/Coin Block #27"
+                    },
+                    {
+                        "name": "Coin Block #28",
+                        "ref": "Map/Cookie Mountain/Coin Block #28"
+                    },
+                    {
+                        "name": "Coin Block #29",
+                        "ref": "Map/Cookie Mountain/Coin Block #29"
+                    },
+                    {
+                        "name": "Coin Block #30",
+                        "ref": "Map/Cookie Mountain/Coin Block #30"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "tb4_sub_1",
+                        "x": 64,
+                        "y": 296
                     }
                 ]
             }

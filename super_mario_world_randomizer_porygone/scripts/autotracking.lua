@@ -91,6 +91,14 @@ function onClear(slot_data)
         local blocksanity = Tracker:FindObjectForCode("blocksanity")
         blocksanity.Active = (slot_data['blocksanity'] ~= 0)
     end
+    if slot_data['midway_point_checks'] then
+        local midway_points = Tracker:FindObjectForCode("midway_point_checks")
+        midway_points.Active = (slot_data['midway_point_checks'] ~= 0)
+    end
+    if slot_data['room_checks'] then
+        local rooms = Tracker:FindObjectForCode("room_checks")
+        rooms.Active = (slot_data['room_checks'] ~= 0)
+    end
 
     if Archipelago.PlayerNumber>-1 then
         EVENT_ID="smw_curlevelid_"..TEAM_NUMBER.."_"..PLAYER_ID
@@ -133,6 +141,9 @@ function onItem(index, item_id, item_name, player_number)
             else
                 obj.Active = true
             end
+        elseif v[2] == "progressiveskip" then
+            obj.Active = true
+            obj.CurrentStage = v[3]
         elseif v[2] == "consumable" then
             obj.AcquiredCount = obj.AcquiredCount + obj.Increment
         end

@@ -9,21 +9,13 @@
         ],
         "children": [
             {
+                "name": "Forest Ghost House - Goal",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            ""
-                        ],
                         "name": "Normal Exit",
-                        "access_rules": [
-                            "p_switch"
-                        ],
-                        "chest_unopened_img": "images/checks/goal_sphere_disabled.png",
-                        "chest_opened_img": "images/checks/goal_sphere.png",
-                        "item_count": 1
+                        "ref": "Map/Forest Ghost House/Normal Exit"
                     }
                 ],
-                "name": "Forest Ghost House - Goal",
                 "map_locations": [
                     {
                         "map": "foigh_sub_3",
@@ -33,21 +25,13 @@
                 ]
             },
             {
+                "name": "Forest Ghost House - Secret goal",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            ""
-                        ],
                         "name": "Secret Exit",
-                        "access_rules": [
-                            "p_switch"
-                        ],
-                        "chest_unopened_img": "images/checks/goal_sphere_disabled.png",
-                        "chest_opened_img": "images/checks/goal_sphere.png",
-                        "item_count": 1
+                        "ref": "Map/Forest Ghost House/Secret Exit"
                     }
                 ],
-                "name": "Forest Ghost House - Secret goal",
                 "map_locations": [
                     {
                         "map": "foigh_sub_2",
@@ -57,22 +41,13 @@
                 ]
             },
             {
+                "name": "Forest Ghost House - Dragon Coins",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            "dragon_coin_checks"
-                        ],
                         "name": "Dragon Coins",
-                        "access_rules": [
-                            "p_switch"
-                        ],
-                        "chest_unopened_img": "images/checks/dragon_coin_disabled.png",
-                        "chest_opened_img": "images/checks/dragon_coin.png",
-                        "clear_as_group": true,
-                        "item_count": 1
+                        "ref": "Map/Forest Ghost House/Dragon Coins"
                     }
                 ],
-                "name": "Forest Ghost House - Dragon Coin",
                 "map_locations": [
                     {
                         "map": "foigh_main",
@@ -102,21 +77,13 @@
                 ]
             },
             {
+                "name": "Forest Ghost House - 3-Up Moon",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            "moon_checks"
-                        ],
                         "name": "3-Up Moon",
-                        "access_rules": [
-                            "p_switch"
-                        ],
-                        "chest_unopened_img": "images/checks/moon_disabled.png",
-                        "chest_opened_img": "images/checks/moon.png",
-                        "item_count": 1
+                        "ref": "Map/Forest Ghost House/3-Up Moon"
                     }
                 ],
-                "name": "Forest Ghost House - 3-Up Moon",
                 "map_locations": [
                     {
                         "map": "foigh_sub_3",
@@ -130,15 +97,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #1",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Forest Ghost House/Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -154,15 +113,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #1",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Forest Ghost House/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -178,15 +129,7 @@
                 "sections": [
                     {
                         "name": "Flying Question Block #1",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Forest Ghost House/Flying Question Block #1"
                     }
                 ],
                 "map_locations": [
@@ -202,15 +145,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #2",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Forest Ghost House/Powerup Block #2"
                     }
                 ],
                 "map_locations": [
@@ -226,15 +161,7 @@
                 "sections": [
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Forest Ghost House/1-Up Mushroom Block #1"
                     }
                 ],
                 "map_locations": [
@@ -242,6 +169,258 @@
                         "map": "foigh_sub_1",
                         "x": 1608,
                         "y": 360
+                    }
+                ]
+            },
+            {
+                "name": "Forest Ghost House - Main room",
+                "sections": [
+                    {
+                        "name": "Main room",
+                        "ref": "Map/Forest Ghost House/Main room"
+                    },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Map/Forest Ghost House/Dragon Coins"
+                    },
+                    {
+                        "name": "Coin Block #1",
+                        "ref": "Map/Forest Ghost House/Coin Block #1"
+                    },
+                    {
+                        "name": "Powerup Block #1",
+                        "ref": "Map/Forest Ghost House/Powerup Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "foigh_main",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Forest Ghost House - Ghost ceiling room",
+                "sections": [
+                    {
+                        "name": "Ghost ceiling room",
+                        "ref": "Map/Forest Ghost House/Ghost ceiling room"
+                    },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Map/Forest Ghost House/Dragon Coins"
+                    },
+                    {
+                        "name": "Flying Question Block #1",
+                        "ref": "Map/Forest Ghost House/Flying Question Block #1"
+                    },
+                    {
+                        "name": "Powerup Block #2",
+                        "ref": "Map/Forest Ghost House/Powerup Block #2"
+                    },
+                    {
+                        "name": "1-Up Mushroom Block #1",
+                        "ref": "Map/Forest Ghost House/1-Up Mushroom Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "foigh_sub_1",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Forest Ghost House - Normal goal room",
+                "sections": [
+                    {
+                        "name": "Normal goal room",
+                        "ref": "Map/Forest Ghost House/Normal goal room"
+                    },
+                    {
+                        "name": "Normal Exit",
+                        "ref": "Map/Forest Ghost House/Normal Exit"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "foigh_sub_2",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Forest Ghost House - Secret goal room",
+                "sections": [
+                    {
+                        "name": "Secret goal room",
+                        "ref": "Map/Forest Ghost House/Secret goal room"
+                    },
+                    {
+                        "name": "Secret Exit",
+                        "ref": "Map/Forest Ghost House/Secret Exit"
+                    },
+                    {
+                        "name": "3-Up Moon",
+                        "ref": "Map/Forest Ghost House/3-Up Moon"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "foigh_sub_3",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Forest Ghost House - Door to Ghost ceiling room",
+                "sections": [
+                    {
+                        "name": "Ghost ceiling room",
+                        "ref": "Map/Forest Ghost House/Ghost ceiling room"
+                    },
+                    {
+                        "name": "Normal Exit",
+                        "ref": "Map/Forest Ghost House/Normal Exit"
+                    },
+                    {
+                        "name": "Secret Exit",
+                        "ref": "Map/Forest Ghost House/Secret Exit"
+                    },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Map/Forest Ghost House/Dragon Coins"
+                    },
+                    {
+                        "name": "3-Up Moon",
+                        "ref": "Map/Forest Ghost House/3-Up Moon"
+                    },
+                    {
+                        "name": "Flying Question Block #1",
+                        "ref": "Map/Forest Ghost House/Flying Question Block #1"
+                    },
+                    {
+                        "name": "Powerup Block #2",
+                        "ref": "Map/Forest Ghost House/Powerup Block #2"
+                    },
+                    {
+                        "name": "1-Up Mushroom Block #1",
+                        "ref": "Map/Forest Ghost House/1-Up Mushroom Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "foigh_main",
+                        "x": 1160,
+                        "y": 800
+                    }
+                ]
+            },
+            {
+                "name": "Forest Ghost House - Door 1 to Main room",
+                "sections": [
+                    {
+                        "name": "Main room",
+                        "ref": "Map/Forest Ghost House/Main room"
+                    },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Map/Forest Ghost House/Dragon Coins"
+                    },
+                    {
+                        "name": "Coin Block #1",
+                        "ref": "Map/Forest Ghost House/Coin Block #1"
+                    },
+                    {
+                        "name": "Powerup Block #1",
+                        "ref": "Map/Forest Ghost House/Powerup Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "foigh_sub_1",
+                        "x": 1768,
+                        "y": 368
+                    }
+                ]
+            },
+            {
+                "name": "Forest Ghost House - Door 2 to Main room",
+                "sections": [
+                    {
+                        "name": "Main room",
+                        "ref": "Map/Forest Ghost House/Main room"
+                    },
+                    {
+                        "name": "Normal Exit",
+                        "ref": "Map/Forest Ghost House/Normal Exit"
+                    },
+                    {
+                        "name": "Secret Exit",
+                        "ref": "Map/Forest Ghost House/Secret Exit"
+                    },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Map/Forest Ghost House/Dragon Coins"
+                    },
+                    {
+                        "name": "3-Up Moon",
+                        "ref": "Map/Forest Ghost House/3-Up Moon"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "foigh_sub_1",
+                        "x": 2008,
+                        "y": 368
+                    }
+                ]
+            },
+            {
+                "name": "Forest Ghost House - Door to Normal goal room",
+                "sections": [
+                    {
+                        "name": "Normal goal room",
+                        "ref": "Map/Forest Ghost House/Normal goal room"
+                    },
+                    {
+                        "name": "Normal Exit",
+                        "ref": "Map/Forest Ghost House/Normal Exit"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "foigh_main",
+                        "x": 904,
+                        "y": 272
+                    }
+                ]
+            },
+            {
+                "name": "Forest Ghost House - Door to Secret goal room",
+                "sections": [
+                    {
+                        "name": "Secret goal room",
+                        "ref": "Map/Forest Ghost House/Secret goal room"
+                    },
+                    {
+                        "name": "Secret Exit",
+                        "ref": "Map/Forest Ghost House/Secret Exit"
+                    },
+                    {
+                        "name": "3-Up Moon",
+                        "ref": "Map/Forest Ghost House/3-Up Moon"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "foigh_main",
+                        "x": 296,
+                        "y": 272
                     }
                 ]
             }

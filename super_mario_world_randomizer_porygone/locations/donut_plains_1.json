@@ -9,21 +9,13 @@
         ],
         "children": [
             {
+                "name": "Donut Plains 1 - Goal",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            ""
-                        ],
                         "name": "Normal Exit",
-                        "access_rules": [
-                            ""
-                        ],
-                        "chest_unopened_img": "images/checks/goal_sphere_disabled.png",
-                        "chest_opened_img": "images/checks/goal_sphere.png",
-                        "item_count": 1
+                        "ref": "Map/Donut Plains 1/Normal Exit"
                     }
                 ],
-                "name": "Donut Plains 1 - Goal",
                 "map_locations": [
                     {
                         "map": "dp1_main",
@@ -33,23 +25,13 @@
                 ]
             },
             {
+                "name": "Donut Plains 1 - Keyhole",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            ""
-                        ],
                         "name": "Secret Exit",
-                        "access_rules": [
-                            "carry, yoshi",
-                            "carry, gsp",
-                            "carry, powerup_3, run"
-                        ],
-                        "chest_unopened_img": "images/checks/goal_sphere_disabled.png",
-                        "chest_opened_img": "images/checks/goal_sphere.png",
-                        "item_count": 1
+                        "ref": "Map/Donut Plains 1/Secret Exit"
                     }
                 ],
-                "name": "Donut Plains 1 - Keyhole",
                 "map_locations": [
                     {
                         "map": "dp1_main",
@@ -59,24 +41,13 @@
                 ]
             },
             {
+                "name": "Donut Plains 1 - Dragon Coins",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            "dragon_coin_checks"
-                        ],
                         "name": "Dragon Coins",
-                        "access_rules": [
-                            "climb",
-                            "yoshi",
-                            "powerup_3, run"
-                        ],
-                        "chest_unopened_img": "images/checks/dragon_coin_disabled.png",
-                        "chest_opened_img": "images/checks/dragon_coin.png",
-                        "clear_as_group": true,
-                        "item_count": 1
+                        "ref": "Map/Donut Plains 1/Dragon Coins"
                     }
                 ],
-                "name": "Donut Plains 1 - Dragon Coin",
                 "map_locations": [
                     {
                         "map": "dp1_main",
@@ -106,21 +77,13 @@
                 ]
             },
             {
+                "name": "Donut Plains 1 - Hidden 1-Up",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            "hidden_1up_checks"
-                        ],
                         "name": "Hidden 1-Up",
-                        "access_rules": [
-                            ""
-                        ],
-                        "chest_unopened_img": "images/checks/hidden_disabled.png",
-                        "chest_opened_img": "images/checks/hidden.png",
-                        "item_count": 1
+                        "ref": "Map/Donut Plains 1/Hidden 1-Up"
                     }
                 ],
-                "name": "Donut Plains 1 - Hidden 1-Up",
                 "map_locations": [
                     {
                         "map": "dp1_main",
@@ -134,15 +97,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #1",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Donut Plains 1/Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -158,15 +113,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #2",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Donut Plains 1/Coin Block #2"
                     }
                 ],
                 "map_locations": [
@@ -182,15 +129,7 @@
                 "sections": [
                     {
                         "name": "Yoshi Block #1",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Donut Plains 1/Yoshi Block #1"
                     }
                 ],
                 "map_locations": [
@@ -206,15 +145,7 @@
                 "sections": [
                     {
                         "name": "Vine Block #1",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Donut Plains 1/Vine Block #1"
                     }
                 ],
                 "map_locations": [
@@ -230,16 +161,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #1",
-                        "access_rules": [
-                            "carry, gsp, [powerup_3]",
-                            "gsp, powerup_3"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Donut Plains 1/Green Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -255,16 +177,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #2",
-                        "access_rules": [
-                            "carry, gsp, [powerup_3]",
-                            "gsp, powerup_3"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Donut Plains 1/Green Switch Palace Block #2"
                     }
                 ],
                 "map_locations": [
@@ -280,16 +193,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #3",
-                        "access_rules": [
-                            "carry, gsp, [powerup_3]",
-                            "gsp, powerup_3"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Donut Plains 1/Green Switch Palace Block #3"
                     }
                 ],
                 "map_locations": [
@@ -305,16 +209,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #4",
-                        "access_rules": [
-                            "carry, gsp, [powerup_3]",
-                            "gsp, powerup_3"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Donut Plains 1/Green Switch Palace Block #4"
                     }
                 ],
                 "map_locations": [
@@ -330,16 +225,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #5",
-                        "access_rules": [
-                            "carry, gsp, [powerup_3]",
-                            "gsp, powerup_3"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Donut Plains 1/Green Switch Palace Block #5"
                     }
                 ],
                 "map_locations": [
@@ -355,16 +241,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #6",
-                        "access_rules": [
-                            "carry, gsp, [powerup_3]",
-                            "gsp, powerup_3"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Donut Plains 1/Green Switch Palace Block #6"
                     }
                 ],
                 "map_locations": [
@@ -380,16 +257,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #7",
-                        "access_rules": [
-                            "carry, gsp, [powerup_3]",
-                            "gsp, powerup_3"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Donut Plains 1/Green Switch Palace Block #7"
                     }
                 ],
                 "map_locations": [
@@ -405,16 +273,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #8",
-                        "access_rules": [
-                            "carry, gsp, [powerup_3]",
-                            "gsp, powerup_3"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Donut Plains 1/Green Switch Palace Block #8"
                     }
                 ],
                 "map_locations": [
@@ -430,16 +289,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #9",
-                        "access_rules": [
-                            "carry, gsp, [powerup_3]",
-                            "gsp, powerup_3"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Donut Plains 1/Green Switch Palace Block #9"
                     }
                 ],
                 "map_locations": [
@@ -455,16 +305,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #10",
-                        "access_rules": [
-                            "carry, gsp, [powerup_3]",
-                            "gsp, powerup_3"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Donut Plains 1/Green Switch Palace Block #10"
                     }
                 ],
                 "map_locations": [
@@ -480,16 +321,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #11",
-                        "access_rules": [
-                            "carry, gsp, [powerup_3]",
-                            "gsp, powerup_3"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Donut Plains 1/Green Switch Palace Block #11"
                     }
                 ],
                 "map_locations": [
@@ -505,16 +337,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #12",
-                        "access_rules": [
-                            "carry, gsp, [powerup_3]",
-                            "gsp, powerup_3"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Donut Plains 1/Green Switch Palace Block #12"
                     }
                 ],
                 "map_locations": [
@@ -530,16 +353,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #13",
-                        "access_rules": [
-                            "carry, gsp, [powerup_3]",
-                            "gsp, powerup_3"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Donut Plains 1/Green Switch Palace Block #13"
                     }
                 ],
                 "map_locations": [
@@ -555,16 +369,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #14",
-                        "access_rules": [
-                            "carry, gsp, [powerup_3]",
-                            "gsp, powerup_3"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Donut Plains 1/Green Switch Palace Block #14"
                     }
                 ],
                 "map_locations": [
@@ -580,16 +385,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #15",
-                        "access_rules": [
-                            "carry, gsp, [powerup_3]",
-                            "gsp, powerup_3"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Donut Plains 1/Green Switch Palace Block #15"
                     }
                 ],
                 "map_locations": [
@@ -605,16 +401,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #16",
-                        "access_rules": [
-                            "carry, gsp, [powerup_3]",
-                            "gsp, powerup_3"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Donut Plains 1/Green Switch Palace Block #16"
                     }
                 ],
                 "map_locations": [
@@ -630,15 +417,7 @@
                 "sections": [
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "access_rules": [
-                            "ysp"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Donut Plains 1/Yellow Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -654,15 +433,7 @@
                 "sections": [
                     {
                         "name": "Yellow Switch Palace Block #2",
-                        "access_rules": [
-                            "ysp"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Donut Plains 1/Yellow Switch Palace Block #2"
                     }
                 ],
                 "map_locations": [
@@ -678,15 +449,7 @@
                 "sections": [
                     {
                         "name": "Yellow Switch Palace Block #3",
-                        "access_rules": [
-                            "ysp"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Donut Plains 1/Yellow Switch Palace Block #3"
                     }
                 ],
                 "map_locations": [
@@ -694,6 +457,362 @@
                         "map": "dp1_main",
                         "x": 664,
                         "y": 1192
+                    }
+                ]
+            },
+            {
+                "name": "Donut Plains 1 - Midway Point",
+                "sections": [
+                    {
+                        "name": "Midway Point",
+                        "ref": "Map/Donut Plains 1/Midway Point"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dp1_main",
+                        "x": 376,
+                        "y": 808
+                    }
+                ]
+            },
+            {
+                "name": "Donut Plains 1 - Main room",
+                "sections": [
+                    {
+                        "name": "Main room",
+                        "ref": "Map/Donut Plains 1/Main room"
+                    },
+                    {
+                        "name": "Midway Point",
+                        "ref": "Map/Donut Plains 1/Midway Point"
+                    },
+                    {
+                        "name": "Normal Exit",
+                        "ref": "Map/Donut Plains 1/Normal Exit"
+                    },
+                    {
+                        "name": "Secret Exit",
+                        "ref": "Map/Donut Plains 1/Secret Exit"
+                    },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Map/Donut Plains 1/Dragon Coins"
+                    },
+                    {
+                        "name": "Hidden 1-Up",
+                        "ref": "Map/Donut Plains 1/Hidden 1-Up"
+                    },
+                    {
+                        "name": "Coin Block #1",
+                        "ref": "Map/Donut Plains 1/Coin Block #1"
+                    },
+                    {
+                        "name": "Coin Block #2",
+                        "ref": "Map/Donut Plains 1/Coin Block #2"
+                    },
+                    {
+                        "name": "Yoshi Block #1",
+                        "ref": "Map/Donut Plains 1/Yoshi Block #1"
+                    },
+                    {
+                        "name": "Vine Block #1",
+                        "ref": "Map/Donut Plains 1/Vine Block #1"
+                    },
+                    {
+                        "name": "Green Switch Palace Block #1",
+                        "ref": "Map/Donut Plains 1/Green Switch Palace Block #1"
+                    },
+                    {
+                        "name": "Green Switch Palace Block #2",
+                        "ref": "Map/Donut Plains 1/Green Switch Palace Block #2"
+                    },
+                    {
+                        "name": "Green Switch Palace Block #3",
+                        "ref": "Map/Donut Plains 1/Green Switch Palace Block #3"
+                    },
+                    {
+                        "name": "Green Switch Palace Block #4",
+                        "ref": "Map/Donut Plains 1/Green Switch Palace Block #4"
+                    },
+                    {
+                        "name": "Green Switch Palace Block #5",
+                        "ref": "Map/Donut Plains 1/Green Switch Palace Block #5"
+                    },
+                    {
+                        "name": "Green Switch Palace Block #6",
+                        "ref": "Map/Donut Plains 1/Green Switch Palace Block #6"
+                    },
+                    {
+                        "name": "Green Switch Palace Block #7",
+                        "ref": "Map/Donut Plains 1/Green Switch Palace Block #7"
+                    },
+                    {
+                        "name": "Green Switch Palace Block #8",
+                        "ref": "Map/Donut Plains 1/Green Switch Palace Block #8"
+                    },
+                    {
+                        "name": "Green Switch Palace Block #9",
+                        "ref": "Map/Donut Plains 1/Green Switch Palace Block #9"
+                    },
+                    {
+                        "name": "Green Switch Palace Block #10",
+                        "ref": "Map/Donut Plains 1/Green Switch Palace Block #10"
+                    },
+                    {
+                        "name": "Green Switch Palace Block #11",
+                        "ref": "Map/Donut Plains 1/Green Switch Palace Block #11"
+                    },
+                    {
+                        "name": "Green Switch Palace Block #12",
+                        "ref": "Map/Donut Plains 1/Green Switch Palace Block #12"
+                    },
+                    {
+                        "name": "Green Switch Palace Block #13",
+                        "ref": "Map/Donut Plains 1/Green Switch Palace Block #13"
+                    },
+                    {
+                        "name": "Green Switch Palace Block #14",
+                        "ref": "Map/Donut Plains 1/Green Switch Palace Block #14"
+                    },
+                    {
+                        "name": "Green Switch Palace Block #15",
+                        "ref": "Map/Donut Plains 1/Green Switch Palace Block #15"
+                    },
+                    {
+                        "name": "Green Switch Palace Block #16",
+                        "ref": "Map/Donut Plains 1/Green Switch Palace Block #16"
+                    },
+                    {
+                        "name": "Yellow Switch Palace Block #1",
+                        "ref": "Map/Donut Plains 1/Yellow Switch Palace Block #1"
+                    },
+                    {
+                        "name": "Yellow Switch Palace Block #2",
+                        "ref": "Map/Donut Plains 1/Yellow Switch Palace Block #2"
+                    },
+                    {
+                        "name": "Yellow Switch Palace Block #3",
+                        "ref": "Map/Donut Plains 1/Yellow Switch Palace Block #3"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dp1_main",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Donut Plains 1 - Flying room",
+                "sections": [
+                    {
+                        "name": "Flying room",
+                        "ref": "Map/Donut Plains 1/Flying room"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dp1_sub_1",
+                        "x": 16,
+                        "y": 16
+                    },
+                    {
+                        "map": "dp1_main",
+                        "x": 848,
+                        "y": 776
+                    }
+                ]
+            },
+            {
+                "name": "Donut Plains 1 - Bonus room",
+                "sections": [
+                    {
+                        "name": "Bonus room",
+                        "ref": "Map/Donut Plains 1/Bonus room"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dp1_zbonus",
+                        "x": 16,
+                        "y": 16
+                    },
+                    {
+                        "map": "dp1_main",
+                        "x": 1920,
+                        "y": 328
+                    }
+                ]
+            },
+            {
+                "name": "Donut Plains 1 - Pipe to Flying room",
+                "sections": [
+                    {
+                        "name": "Flying room",
+                        "ref": "Map/Donut Plains 1/Flying room"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dp1_main",
+                        "x": 848,
+                        "y": 776
+                    }
+                ]
+            },
+            {
+                "name": "Donut Plains 1 - Pipe to Bonus room",
+                "sections": [
+                    {
+                        "name": "Bonus room",
+                        "ref": "Map/Donut Plains 1/Bonus room"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dp1_main",
+                        "x": 1920,
+                        "y": 328
+                    }
+                ]
+            },
+            {
+                "name": "Donut Plains 1 - Pipe to Main room",
+                "sections": [
+                    {
+                        "name": "Main room",
+                        "ref": "Map/Donut Plains 1/Main room"
+                    },
+                    {
+                        "name": "Midway Point",
+                        "ref": "Map/Donut Plains 1/Midway Point"
+                    },
+                    {
+                        "name": "Normal Exit",
+                        "ref": "Map/Donut Plains 1/Normal Exit"
+                    },
+                    {
+                        "name": "Secret Exit",
+                        "ref": "Map/Donut Plains 1/Secret Exit"
+                    },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Map/Donut Plains 1/Dragon Coins"
+                    },
+                    {
+                        "name": "Hidden 1-Up",
+                        "ref": "Map/Donut Plains 1/Hidden 1-Up"
+                    },
+                    {
+                        "name": "Coin Block #1",
+                        "ref": "Map/Donut Plains 1/Coin Block #1"
+                    },
+                    {
+                        "name": "Coin Block #2",
+                        "ref": "Map/Donut Plains 1/Coin Block #2"
+                    },
+                    {
+                        "name": "Yoshi Block #1",
+                        "ref": "Map/Donut Plains 1/Yoshi Block #1"
+                    },
+                    {
+                        "name": "Vine Block #1",
+                        "ref": "Map/Donut Plains 1/Vine Block #1"
+                    },
+                    {
+                        "name": "Green Switch Palace Block #1",
+                        "ref": "Map/Donut Plains 1/Green Switch Palace Block #1"
+                    },
+                    {
+                        "name": "Green Switch Palace Block #2",
+                        "ref": "Map/Donut Plains 1/Green Switch Palace Block #2"
+                    },
+                    {
+                        "name": "Green Switch Palace Block #3",
+                        "ref": "Map/Donut Plains 1/Green Switch Palace Block #3"
+                    },
+                    {
+                        "name": "Green Switch Palace Block #4",
+                        "ref": "Map/Donut Plains 1/Green Switch Palace Block #4"
+                    },
+                    {
+                        "name": "Green Switch Palace Block #5",
+                        "ref": "Map/Donut Plains 1/Green Switch Palace Block #5"
+                    },
+                    {
+                        "name": "Green Switch Palace Block #6",
+                        "ref": "Map/Donut Plains 1/Green Switch Palace Block #6"
+                    },
+                    {
+                        "name": "Green Switch Palace Block #7",
+                        "ref": "Map/Donut Plains 1/Green Switch Palace Block #7"
+                    },
+                    {
+                        "name": "Green Switch Palace Block #8",
+                        "ref": "Map/Donut Plains 1/Green Switch Palace Block #8"
+                    },
+                    {
+                        "name": "Green Switch Palace Block #9",
+                        "ref": "Map/Donut Plains 1/Green Switch Palace Block #9"
+                    },
+                    {
+                        "name": "Green Switch Palace Block #10",
+                        "ref": "Map/Donut Plains 1/Green Switch Palace Block #10"
+                    },
+                    {
+                        "name": "Green Switch Palace Block #11",
+                        "ref": "Map/Donut Plains 1/Green Switch Palace Block #11"
+                    },
+                    {
+                        "name": "Green Switch Palace Block #12",
+                        "ref": "Map/Donut Plains 1/Green Switch Palace Block #12"
+                    },
+                    {
+                        "name": "Green Switch Palace Block #13",
+                        "ref": "Map/Donut Plains 1/Green Switch Palace Block #13"
+                    },
+                    {
+                        "name": "Green Switch Palace Block #14",
+                        "ref": "Map/Donut Plains 1/Green Switch Palace Block #14"
+                    },
+                    {
+                        "name": "Green Switch Palace Block #15",
+                        "ref": "Map/Donut Plains 1/Green Switch Palace Block #15"
+                    },
+                    {
+                        "name": "Green Switch Palace Block #16",
+                        "ref": "Map/Donut Plains 1/Green Switch Palace Block #16"
+                    },
+                    {
+                        "name": "Yellow Switch Palace Block #1",
+                        "ref": "Map/Donut Plains 1/Yellow Switch Palace Block #1"
+                    },
+                    {
+                        "name": "Yellow Switch Palace Block #2",
+                        "ref": "Map/Donut Plains 1/Yellow Switch Palace Block #2"
+                    },
+                    {
+                        "name": "Yellow Switch Palace Block #3",
+                        "ref": "Map/Donut Plains 1/Yellow Switch Palace Block #3"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dp1_zbonus",
+                        "x": 200,
+                        "y": 64
+                    },
+                    {
+                        "map": "dp1_zbonus",
+                        "x": 24,
+                        "y": 384
+                    },
+                    {
+                        "map": "dp1_sub_1",
+                        "x": 1504,
+                        "y": 776
                     }
                 ]
             }

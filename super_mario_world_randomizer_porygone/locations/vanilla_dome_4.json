@@ -9,21 +9,13 @@
         ],
         "children": [
             {
+                "name": "Vanilla Dome 4 - Goal",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            ""
-                        ],
                         "name": "Normal Exit",
-                        "access_rules": [
-                            ""
-                        ],
-                        "chest_unopened_img": "images/checks/goal_sphere_disabled.png",
-                        "chest_opened_img": "images/checks/goal_sphere.png",
-                        "item_count": 1
+                        "ref": "Map/Vanilla Dome 4/Normal Exit"
                     }
                 ],
-                "name": "Vanilla Dome 4 - Goal",
                 "map_locations": [
                     {
                         "map": "vd4_main",
@@ -33,22 +25,13 @@
                 ]
             },
             {
+                "name": "Vanilla Dome 4 - Dragon Coins",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            "dragon_coin_checks"
-                        ],
                         "name": "Dragon Coins",
-                        "access_rules": [
-                            ""
-                        ],
-                        "chest_unopened_img": "images/checks/dragon_coin_disabled.png",
-                        "chest_opened_img": "images/checks/dragon_coin.png",
-                        "clear_as_group": true,
-                        "item_count": 1
+                        "ref": "Map/Vanilla Dome 4/Dragon Coins"
                     }
                 ],
-                "name": "Vanilla Dome 4 - Dragon Coin",
                 "map_locations": [
                     {
                         "map": "vd4_main",
@@ -78,21 +61,13 @@
                 ]
             },
             {
+                "name": "Vanilla Dome 4 - Hidden 1-Up",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            "hidden_1up_checks"
-                        ],
                         "name": "Hidden 1-Up",
-                        "access_rules": [
-                            ""
-                        ],
-                        "chest_unopened_img": "images/checks/hidden_disabled.png",
-                        "chest_opened_img": "images/checks/hidden.png",
-                        "item_count": 1
+                        "ref": "Map/Vanilla Dome 4/Hidden 1-Up"
                     }
                 ],
-                "name": "Vanilla Dome 4 - Hidden 1-Up",
                 "map_locations": [
                     {
                         "map": "vd4_main",
@@ -106,15 +81,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #1",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Vanilla Dome 4/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -130,15 +97,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #2",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Vanilla Dome 4/Powerup Block #2"
                     }
                 ],
                 "map_locations": [
@@ -154,15 +113,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #1",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Vanilla Dome 4/Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -178,15 +129,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #2",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Vanilla Dome 4/Coin Block #2"
                     }
                 ],
                 "map_locations": [
@@ -202,15 +145,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #3",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Vanilla Dome 4/Coin Block #3"
                     }
                 ],
                 "map_locations": [
@@ -226,15 +161,7 @@
                 "sections": [
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Vanilla Dome 4/1-Up Mushroom Block #1"
                     }
                 ],
                 "map_locations": [
@@ -250,15 +177,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #4",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Vanilla Dome 4/Coin Block #4"
                     }
                 ],
                 "map_locations": [
@@ -274,15 +193,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #5",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Vanilla Dome 4/Coin Block #5"
                     }
                 ],
                 "map_locations": [
@@ -298,15 +209,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #6",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Vanilla Dome 4/Coin Block #6"
                     }
                 ],
                 "map_locations": [
@@ -322,15 +225,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #7",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Vanilla Dome 4/Coin Block #7"
                     }
                 ],
                 "map_locations": [
@@ -346,17 +241,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #8",
-                        "access_rules": [
-                            "carry",
-                            "[carry], yoshi",
-                            "[carry], powerup_3"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Vanilla Dome 4/Coin Block #8"
                     }
                 ],
                 "map_locations": [
@@ -364,6 +249,214 @@
                         "map": "vd4_main",
                         "x": 1688,
                         "y": 728
+                    }
+                ]
+            },
+            {
+                "name": "Vanilla Dome 4 - Midway Point",
+                "sections": [
+                    {
+                        "name": "Midway Point",
+                        "ref": "Map/Vanilla Dome 4/Midway Point"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vd4_main",
+                        "x": 472,
+                        "y": 696
+                    }
+                ]
+            },
+            {
+                "name": "Vanilla Dome 4 - Main room",
+                "sections": [
+                    {
+                        "name": "Main room",
+                        "ref": "Map/Vanilla Dome 4/Main room"
+                    },
+                    {
+                        "name": "Midway Point",
+                        "ref": "Map/Vanilla Dome 4/Midway Point"
+                    },
+                    {
+                        "name": "Normal Exit",
+                        "ref": "Map/Vanilla Dome 4/Normal Exit"
+                    },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Map/Vanilla Dome 4/Dragon Coins"
+                    },
+                    {
+                        "name": "Hidden 1-Up",
+                        "ref": "Map/Vanilla Dome 4/Hidden 1-Up"
+                    },
+                    {
+                        "name": "Powerup Block #1",
+                        "ref": "Map/Vanilla Dome 4/Powerup Block #1"
+                    },
+                    {
+                        "name": "Powerup Block #2",
+                        "ref": "Map/Vanilla Dome 4/Powerup Block #2"
+                    },
+                    {
+                        "name": "Coin Block #1",
+                        "ref": "Map/Vanilla Dome 4/Coin Block #1"
+                    },
+                    {
+                        "name": "Coin Block #2",
+                        "ref": "Map/Vanilla Dome 4/Coin Block #2"
+                    },
+                    {
+                        "name": "Coin Block #3",
+                        "ref": "Map/Vanilla Dome 4/Coin Block #3"
+                    },
+                    {
+                        "name": "1-Up Mushroom Block #1",
+                        "ref": "Map/Vanilla Dome 4/1-Up Mushroom Block #1"
+                    },
+                    {
+                        "name": "Coin Block #4",
+                        "ref": "Map/Vanilla Dome 4/Coin Block #4"
+                    },
+                    {
+                        "name": "Coin Block #5",
+                        "ref": "Map/Vanilla Dome 4/Coin Block #5"
+                    },
+                    {
+                        "name": "Coin Block #6",
+                        "ref": "Map/Vanilla Dome 4/Coin Block #6"
+                    },
+                    {
+                        "name": "Coin Block #7",
+                        "ref": "Map/Vanilla Dome 4/Coin Block #7"
+                    },
+                    {
+                        "name": "Coin Block #8",
+                        "ref": "Map/Vanilla Dome 4/Coin Block #8"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vd4_main",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Vanilla Dome 4 - Lava room",
+                "sections": [
+                    {
+                        "name": "Lava room",
+                        "ref": "Map/Vanilla Dome 4/Lava room"
+                    },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Map/Vanilla Dome 4/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vd4_sub_1",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Vanilla Dome 4 - Pipe to Lava room",
+                "sections": [
+                    {
+                        "name": "Lava room",
+                        "ref": "Map/Vanilla Dome 4/Lava room"
+                    },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Map/Vanilla Dome 4/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vd4_main",
+                        "x": 800,
+                        "y": 824
+                    }
+                ]
+            },
+            {
+                "name": "Vanilla Dome 4 - Pipe to Main room",
+                "sections": [
+                    {
+                        "name": "Main room",
+                        "ref": "Map/Vanilla Dome 4/Main room"
+                    },
+                    {
+                        "name": "Midway Point",
+                        "ref": "Map/Vanilla Dome 4/Midway Point"
+                    },
+                    {
+                        "name": "Normal Exit",
+                        "ref": "Map/Vanilla Dome 4/Normal Exit"
+                    },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Map/Vanilla Dome 4/Dragon Coins"
+                    },
+                    {
+                        "name": "Hidden 1-Up",
+                        "ref": "Map/Vanilla Dome 4/Hidden 1-Up"
+                    },
+                    {
+                        "name": "Powerup Block #1",
+                        "ref": "Map/Vanilla Dome 4/Powerup Block #1"
+                    },
+                    {
+                        "name": "Powerup Block #2",
+                        "ref": "Map/Vanilla Dome 4/Powerup Block #2"
+                    },
+                    {
+                        "name": "Coin Block #1",
+                        "ref": "Map/Vanilla Dome 4/Coin Block #1"
+                    },
+                    {
+                        "name": "Coin Block #2",
+                        "ref": "Map/Vanilla Dome 4/Coin Block #2"
+                    },
+                    {
+                        "name": "Coin Block #3",
+                        "ref": "Map/Vanilla Dome 4/Coin Block #3"
+                    },
+                    {
+                        "name": "1-Up Mushroom Block #1",
+                        "ref": "Map/Vanilla Dome 4/1-Up Mushroom Block #1"
+                    },
+                    {
+                        "name": "Coin Block #4",
+                        "ref": "Map/Vanilla Dome 4/Coin Block #4"
+                    },
+                    {
+                        "name": "Coin Block #5",
+                        "ref": "Map/Vanilla Dome 4/Coin Block #5"
+                    },
+                    {
+                        "name": "Coin Block #6",
+                        "ref": "Map/Vanilla Dome 4/Coin Block #6"
+                    },
+                    {
+                        "name": "Coin Block #7",
+                        "ref": "Map/Vanilla Dome 4/Coin Block #7"
+                    },
+                    {
+                        "name": "Coin Block #8",
+                        "ref": "Map/Vanilla Dome 4/Coin Block #8"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vd4_sub_1",
+                        "x": 1464,
+                        "y": 368
                     }
                 ]
             }

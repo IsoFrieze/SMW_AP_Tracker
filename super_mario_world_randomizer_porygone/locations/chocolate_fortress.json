@@ -9,21 +9,13 @@
         ],
         "children": [
             {
+                "name": "Chocolate Fortress - Boss battle",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            ""
-                        ],
                         "name": "Normal Exit",
-                        "access_rules": [
-                            ""
-                        ],
-                        "chest_unopened_img": "images/checks/goal_sphere_disabled.png",
-                        "chest_opened_img": "images/checks/goal_sphere.png",
-                        "item_count": 1
+                        "ref": "Map/Chocolate Fortress/Normal Exit"
                     }
                 ],
-                "name": "Chocolate Fortress - Boss battle",
                 "map_locations": [
                     {
                         "map": "cif_sub",
@@ -37,15 +29,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #1",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Chocolate Fortress/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -61,15 +45,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #2",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Chocolate Fortress/Powerup Block #2"
                     }
                 ],
                 "map_locations": [
@@ -85,15 +61,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #1",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Chocolate Fortress/Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -109,15 +77,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #2",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Chocolate Fortress/Coin Block #2"
                     }
                 ],
                 "map_locations": [
@@ -133,15 +93,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #1",
-                        "access_rules": [
-                            "gsp"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Chocolate Fortress/Green Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -149,6 +101,118 @@
                         "map": "cif_sub",
                         "x": 968,
                         "y": 744
+                    }
+                ]
+            },
+            {
+                "name": "Chocolate Fortress - Midway Point",
+                "sections": [
+                    {
+                        "name": "Midway Point",
+                        "ref": "Map/Chocolate Fortress/Midway Point"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "cif_main",
+                        "x": 2168,
+                        "y": 376
+                    }
+                ]
+            },
+            {
+                "name": "Chocolate Fortress - Wooden spike room",
+                "sections": [
+                    {
+                        "name": "Wooden spike room",
+                        "ref": "Map/Chocolate Fortress/Wooden spike room"
+                    },
+                    {
+                        "name": "Midway Point",
+                        "ref": "Map/Chocolate Fortress/Midway Point"
+                    },
+                    {
+                        "name": "Powerup Block #1",
+                        "ref": "Map/Chocolate Fortress/Powerup Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "cif_main",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Chocolate Fortress - Thwomp room",
+                "sections": [
+                    {
+                        "name": "Thwomp room",
+                        "ref": "Map/Chocolate Fortress/Thwomp room"
+                    },
+                    {
+                        "name": "Normal Exit",
+                        "ref": "Map/Chocolate Fortress/Normal Exit"
+                    },
+                    {
+                        "name": "Powerup Block #2",
+                        "ref": "Map/Chocolate Fortress/Powerup Block #2"
+                    },
+                    {
+                        "name": "Coin Block #1",
+                        "ref": "Map/Chocolate Fortress/Coin Block #1"
+                    },
+                    {
+                        "name": "Coin Block #2",
+                        "ref": "Map/Chocolate Fortress/Coin Block #2"
+                    },
+                    {
+                        "name": "Green Switch Palace Block #1",
+                        "ref": "Map/Chocolate Fortress/Green Switch Palace Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "cif_sub",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Chocolate Fortress - Door to Thwomp room",
+                "sections": [
+                    {
+                        "name": "Thwomp room",
+                        "ref": "Map/Chocolate Fortress/Thwomp room"
+                    },
+                    {
+                        "name": "Normal Exit",
+                        "ref": "Map/Chocolate Fortress/Normal Exit"
+                    },
+                    {
+                        "name": "Powerup Block #2",
+                        "ref": "Map/Chocolate Fortress/Powerup Block #2"
+                    },
+                    {
+                        "name": "Coin Block #1",
+                        "ref": "Map/Chocolate Fortress/Coin Block #1"
+                    },
+                    {
+                        "name": "Coin Block #2",
+                        "ref": "Map/Chocolate Fortress/Coin Block #2"
+                    },
+                    {
+                        "name": "Green Switch Palace Block #1",
+                        "ref": "Map/Chocolate Fortress/Green Switch Palace Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "cif_main",
+                        "x": 2248,
+                        "y": 368
                     }
                 ]
             }

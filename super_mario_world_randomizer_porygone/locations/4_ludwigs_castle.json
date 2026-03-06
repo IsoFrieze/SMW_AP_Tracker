@@ -9,21 +9,13 @@
         ],
         "children": [
             {
+                "name": "#4 Ludwig's Castle - Boss battle",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            ""
-                        ],
                         "name": "Normal Exit",
-                        "access_rules": [
-                            "run, climb"
-                        ],
-                        "chest_unopened_img": "images/checks/goal_sphere_disabled.png",
-                        "chest_opened_img": "images/checks/goal_sphere.png",
-                        "item_count": 1
+                        "ref": "Map/#4 Ludwig's Castle/Normal Exit"
                     }
                 ],
-                "name": "#4 Ludwig's Castle - Boss battle",
                 "map_locations": [
                     {
                         "map": "tbc_sub_2_vert",
@@ -37,15 +29,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #1",
-                        "access_rules": [
-                            "climb"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/#4 Ludwig's Castle/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -53,6 +37,156 @@
                         "map": "tbc_sub_2_vert",
                         "x": 952,
                         "y": 120
+                    }
+                ]
+            },
+            {
+                "name": "#4 Ludwig's Castle - Orange wall room",
+                "sections": [
+                    {
+                        "name": "Orange wall room",
+                        "ref": "Map/#4 Ludwig's Castle/Orange wall room"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "tbc_main",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "#4 Ludwig's Castle - Falling ceiling room",
+                "sections": [
+                    {
+                        "name": "Falling ceiling room",
+                        "ref": "Map/#4 Ludwig's Castle/Falling ceiling room"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "tbc_sub_1",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "#4 Ludwig's Castle - Net room",
+                "sections": [
+                    {
+                        "name": "Net room",
+                        "ref": "Map/#4 Ludwig's Castle/Net room"
+                    },
+                    {
+                        "name": "Normal Exit",
+                        "ref": "Map/#4 Ludwig's Castle/Normal Exit"
+                    },
+                    {
+                        "name": "Powerup Block #1",
+                        "ref": "Map/#4 Ludwig's Castle/Powerup Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "tbc_sub_2_vert",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "#4 Ludwig's Castle - Bonus room",
+                "sections": [
+                    {
+                        "name": "Bonus room",
+                        "ref": "Map/#4 Ludwig's Castle/Bonus room"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "tbc_zbonus",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "#4 Ludwig's Castle - Transition to Falling ceiling room",
+                "sections": [
+                    {
+                        "name": "Falling ceiling room",
+                        "ref": "Map/#4 Ludwig's Castle/Falling ceiling room"
+                    },
+                    {
+                        "name": "Net room",
+                        "ref": "Map/#4 Ludwig's Castle/Net room"
+                    },
+                    {
+                        "name": "Normal Exit",
+                        "ref": "Map/#4 Ludwig's Castle/Normal Exit"
+                    },
+                    {
+                        "name": "Powerup Block #1",
+                        "ref": "Map/#4 Ludwig's Castle/Powerup Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "tbc_main",
+                        "x": 1256,
+                        "y": 320
+                    },
+                    {
+                        "map": "tbc_zbonus",
+                        "x": 200,
+                        "y": 64
+                    },
+                    {
+                        "map": "tbc_zbonus",
+                        "x": 24,
+                        "y": 384
+                    }
+                ]
+            },
+            {
+                "name": "#4 Ludwig's Castle - Door to Net room",
+                "sections": [
+                    {
+                        "name": "Net room",
+                        "ref": "Map/#4 Ludwig's Castle/Net room"
+                    },
+                    {
+                        "name": "Normal Exit",
+                        "ref": "Map/#4 Ludwig's Castle/Normal Exit"
+                    },
+                    {
+                        "name": "Powerup Block #1",
+                        "ref": "Map/#4 Ludwig's Castle/Powerup Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "tbc_sub_1",
+                        "x": 72,
+                        "y": 368
+                    }
+                ]
+            },
+            {
+                "name": "#4 Ludwig's Castle - Pipe to Bonus room",
+                "sections": [
+                    {
+                        "name": "Bonus room",
+                        "ref": "Map/#4 Ludwig's Castle/Bonus room"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "tbc_main",
+                        "x": 1488,
+                        "y": 104
                     }
                 ]
             }

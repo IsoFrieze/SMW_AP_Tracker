@@ -9,21 +9,13 @@
         ],
         "children": [
             {
+                "name": "Choco Ghost House - Goal",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            ""
-                        ],
                         "name": "Normal Exit",
-                        "access_rules": [
-                            ""
-                        ],
-                        "chest_unopened_img": "images/checks/goal_sphere_disabled.png",
-                        "chest_opened_img": "images/checks/goal_sphere.png",
-                        "item_count": 1
+                        "ref": "Map/Choco Ghost House/Normal Exit"
                     }
                 ],
-                "name": "Choco Ghost House - Goal",
                 "map_locations": [
                     {
                         "map": "cigh_sub_2",
@@ -37,15 +29,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #1",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Choco Ghost House/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -61,15 +45,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #2",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Choco Ghost House/Powerup Block #2"
                     }
                 ],
                 "map_locations": [
@@ -85,15 +61,7 @@
                 "sections": [
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Choco Ghost House/1-Up Mushroom Block #1"
                     }
                 ],
                 "map_locations": [
@@ -101,6 +69,122 @@
                         "map": "cigh_sub_1",
                         "x": 1496,
                         "y": 328
+                    }
+                ]
+            },
+            {
+                "name": "Choco Ghost House - Fishing boo room",
+                "sections": [
+                    {
+                        "name": "Fishing boo room",
+                        "ref": "Map/Choco Ghost House/Fishing boo room"
+                    },
+                    {
+                        "name": "Powerup Block #1",
+                        "ref": "Map/Choco Ghost House/Powerup Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "cigh_main",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Choco Ghost House - Boo stream room",
+                "sections": [
+                    {
+                        "name": "Boo stream room",
+                        "ref": "Map/Choco Ghost House/Boo stream room"
+                    },
+                    {
+                        "name": "Powerup Block #2",
+                        "ref": "Map/Choco Ghost House/Powerup Block #2"
+                    },
+                    {
+                        "name": "1-Up Mushroom Block #1",
+                        "ref": "Map/Choco Ghost House/1-Up Mushroom Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "cigh_sub_1",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Choco Ghost House - Goal room",
+                "sections": [
+                    {
+                        "name": "Goal room",
+                        "ref": "Map/Choco Ghost House/Goal room"
+                    },
+                    {
+                        "name": "Normal Exit",
+                        "ref": "Map/Choco Ghost House/Normal Exit"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "cigh_sub_2",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Choco Ghost House - Door to Boo stream room",
+                "sections": [
+                    {
+                        "name": "Boo stream room",
+                        "ref": "Map/Choco Ghost House/Boo stream room"
+                    },
+                    {
+                        "name": "Goal room",
+                        "ref": "Map/Choco Ghost House/Goal room"
+                    },
+                    {
+                        "name": "Normal Exit",
+                        "ref": "Map/Choco Ghost House/Normal Exit"
+                    },
+                    {
+                        "name": "Powerup Block #2",
+                        "ref": "Map/Choco Ghost House/Powerup Block #2"
+                    },
+                    {
+                        "name": "1-Up Mushroom Block #1",
+                        "ref": "Map/Choco Ghost House/1-Up Mushroom Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "cigh_main",
+                        "x": 1416,
+                        "y": 800
+                    }
+                ]
+            },
+            {
+                "name": "Choco Ghost House - Door to Goal room",
+                "sections": [
+                    {
+                        "name": "Goal room",
+                        "ref": "Map/Choco Ghost House/Goal room"
+                    },
+                    {
+                        "name": "Normal Exit",
+                        "ref": "Map/Choco Ghost House/Normal Exit"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "cigh_sub_1",
+                        "x": 616,
+                        "y": 240
                     }
                 ]
             }

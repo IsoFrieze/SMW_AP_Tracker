@@ -9,21 +9,13 @@
         ],
         "children": [
             {
+                "name": "#3 Lemmy's Castle - Boss battle",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            ""
-                        ],
                         "name": "Normal Exit",
-                        "access_rules": [
-                            ""
-                        ],
-                        "chest_unopened_img": "images/checks/goal_sphere_disabled.png",
-                        "chest_opened_img": "images/checks/goal_sphere.png",
-                        "item_count": 1
+                        "ref": "Map/#3 Lemmy's Castle/Normal Exit"
                     }
                 ],
-                "name": "#3 Lemmy's Castle - Boss battle",
                 "map_locations": [
                     {
                         "map": "vdc_sub_2",
@@ -37,16 +29,7 @@
                 "sections": [
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "access_rules": [
-                            "[carry]",
-                            "[poweurp_1]"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/#3 Lemmy's Castle/1-Up Mushroom Block #1"
                     }
                 ],
                 "map_locations": [
@@ -62,16 +45,7 @@
                 "sections": [
                     {
                         "name": "1-Up Mushroom Block #2",
-                        "access_rules": [
-                            "[carry]",
-                            "[poweurp_1]"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/#3 Lemmy's Castle/1-Up Mushroom Block #2"
                     }
                 ],
                 "map_locations": [
@@ -87,15 +61,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #1",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/#3 Lemmy's Castle/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -111,15 +77,7 @@
                 "sections": [
                     {
                         "name": "1-Up Mushroom Block #3",
-                        "access_rules": [
-                            "p_switch"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/#3 Lemmy's Castle/1-Up Mushroom Block #3"
                     }
                 ],
                 "map_locations": [
@@ -135,15 +93,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #1",
-                        "access_rules": [
-                            "gsp"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/#3 Lemmy's Castle/Green Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -151,6 +101,151 @@
                         "map": "vdc_sub_2",
                         "x": 1176,
                         "y": 760
+                    }
+                ]
+            },
+            {
+                "name": "#3 Lemmy's Castle - Midway Point",
+                "sections": [
+                    {
+                        "name": "Midway Point",
+                        "ref": "Map/#3 Lemmy's Castle/Midway Point"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vdc_sub_1",
+                        "x": 136,
+                        "y": 376
+                    }
+                ]
+            },
+            {
+                "name": "#3 Lemmy's Castle - Main room",
+                "sections": [
+                    {
+                        "name": "Main room",
+                        "ref": "Map/#3 Lemmy's Castle/Main room"
+                    },
+                    {
+                        "name": "1-Up Mushroom Block #1",
+                        "ref": "Map/#3 Lemmy's Castle/1-Up Mushroom Block #1"
+                    },
+                    {
+                        "name": "1-Up Mushroom Block #2",
+                        "ref": "Map/#3 Lemmy's Castle/1-Up Mushroom Block #2"
+                    },
+                    {
+                        "name": "Powerup Block #1",
+                        "ref": "Map/#3 Lemmy's Castle/Powerup Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vdc_main",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "#3 Lemmy's Castle - Midway point room",
+                "sections": [
+                    {
+                        "name": "Midway point room",
+                        "ref": "Map/#3 Lemmy's Castle/Midway point room"
+                    },
+                    {
+                        "name": "Midway Point",
+                        "ref": "Map/#3 Lemmy's Castle/Midway Point"
+                    },
+                    {
+                        "name": "1-Up Mushroom Block #3",
+                        "ref": "Map/#3 Lemmy's Castle/1-Up Mushroom Block #3"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vdc_sub_1",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "#3 Lemmy's Castle - Lava room",
+                "sections": [
+                    {
+                        "name": "Lava room",
+                        "ref": "Map/#3 Lemmy's Castle/Lava room"
+                    },
+                    {
+                        "name": "Normal Exit",
+                        "ref": "Map/#3 Lemmy's Castle/Normal Exit"
+                    },
+                    {
+                        "name": "Green Switch Palace Block #1",
+                        "ref": "Map/#3 Lemmy's Castle/Green Switch Palace Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vdc_sub_2",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "#3 Lemmy's Castle - Door to Midway point room",
+                "sections": [
+                    {
+                        "name": "Midway point room",
+                        "ref": "Map/#3 Lemmy's Castle/Midway point room"
+                    },
+                    {
+                        "name": "Midway Point",
+                        "ref": "Map/#3 Lemmy's Castle/Midway Point"
+                    },
+                    {
+                        "name": "1-Up Mushroom Block #3",
+                        "ref": "Map/#3 Lemmy's Castle/1-Up Mushroom Block #3"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vdc_main",
+                        "x": 88,
+                        "y": 736
+                    }
+                ]
+            },
+            {
+                "name": "#3 Lemmy's Castle - Door to Lava room",
+                "sections": [
+                    {
+                        "name": "Lava room",
+                        "ref": "Map/#3 Lemmy's Castle/Lava room"
+                    },
+                    {
+                        "name": "Normal Exit",
+                        "ref": "Map/#3 Lemmy's Castle/Normal Exit"
+                    },
+                    {
+                        "name": "Green Switch Palace Block #1",
+                        "ref": "Map/#3 Lemmy's Castle/Green Switch Palace Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vdc_main",
+                        "x": 968,
+                        "y": 672
+                    },
+                    {
+                        "map": "vdc_sub_1",
+                        "x": 456,
+                        "y": 368
                     }
                 ]
             }

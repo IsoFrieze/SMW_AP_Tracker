@@ -9,25 +9,73 @@
         ],
         "children": [
             {
+                "name": "Red Switch Palace - Palace Button",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            ""
-                        ],
                         "name": "Normal Exit",
-                        "access_rules": [
-                            ""
-                        ],
-                        "chest_unopened_img": "images/checks/goal_sphere_disabled.png",
-                        "chest_opened_img": "images/checks/goal_sphere.png",
-                        "item_count": 1
+                        "ref": "Map/Red Switch Palace/Normal Exit"
                     }
                 ],
-                "name": "Red Switch Palace - Palace Button",
                 "map_locations": [
                     {
                         "map": "vdz_sub_1",
                         "x": 640,
+                        "y": 368
+                    }
+                ]
+            },
+            {
+                "name": "Red Switch Palace - Bonus room",
+                "sections": [
+                    {
+                        "name": "Bonus room",
+                        "ref": "Map/Red Switch Palace/Bonus room"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vdz_main",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Red Switch Palace - Button room",
+                "sections": [
+                    {
+                        "name": "Button room",
+                        "ref": "Map/Red Switch Palace/Button room"
+                    },
+                    {
+                        "name": "Normal Exit",
+                        "ref": "Map/Red Switch Palace/Normal Exit"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vdz_sub_1",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Red Switch Palace - Pipe to Button room",
+                "sections": [
+                    {
+                        "name": "Button room",
+                        "ref": "Map/Red Switch Palace/Button room"
+                    },
+                    {
+                        "name": "Normal Exit",
+                        "ref": "Map/Red Switch Palace/Normal Exit"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vdz_main",
+                        "x": 728,
                         "y": 368
                     }
                 ]

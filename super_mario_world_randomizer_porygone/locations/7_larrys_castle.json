@@ -9,21 +9,13 @@
         ],
         "children": [
             {
+                "name": "#7 Larry's Castle - Boss battle",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            ""
-                        ],
                         "name": "Normal Exit",
-                        "access_rules": [
-                            ""
-                        ],
-                        "chest_unopened_img": "images/checks/goal_sphere_disabled.png",
-                        "chest_opened_img": "images/checks/goal_sphere.png",
-                        "item_count": 1
+                        "ref": "Map/#7 Larry's Castle/Normal Exit"
                     }
                 ],
-                "name": "#7 Larry's Castle - Goal",
                 "map_locations": [
                     {
                         "map": "vobc_sub",
@@ -33,22 +25,13 @@
                 ]
             },
             {
+                "name": "#7 Larry's Castle - Dragon Coins",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            "dragon_coin_checks"
-                        ],
                         "name": "Dragon Coins",
-                        "access_rules": [
-                            ""
-                        ],
-                        "chest_unopened_img": "images/checks/dragon_coin_disabled.png",
-                        "chest_opened_img": "images/checks/dragon_coin.png",
-                        "clear_as_group": true,
-                        "item_count": 1
+                        "ref": "Map/#7 Larry's Castle/Dragon Coins"
                     }
                 ],
-                "name": "#7 Larry's Castle - Dragon Coin",
                 "map_locations": [
                     {
                         "map": "vobc_main",
@@ -78,21 +61,13 @@
                 ]
             },
             {
+                "name": "#7 Larry's Castle - Hidden 1-Up",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            "hidden_1up_checks"
-                        ],
                         "name": "Hidden 1-Up",
-                        "access_rules": [
-                            ""
-                        ],
-                        "chest_unopened_img": "images/checks/hidden_disabled.png",
-                        "chest_opened_img": "images/checks/hidden.png",
-                        "item_count": 1
+                        "ref": "Map/#7 Larry's Castle/Hidden 1-Up"
                     }
                 ],
-                "name": "#7 Larry's Castle - Hidden 1-Up",
                 "map_locations": [
                     {
                         "map": "vobc_main",
@@ -106,15 +81,7 @@
                 "sections": [
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "access_rules": [
-                            "ysp"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/#7 Larry's Castle/Yellow Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -130,15 +97,7 @@
                 "sections": [
                     {
                         "name": "Yellow Switch Palace Block #2",
-                        "access_rules": [
-                            "ysp"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/#7 Larry's Castle/Yellow Switch Palace Block #2"
                     }
                 ],
                 "map_locations": [
@@ -154,15 +113,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #1",
-                        "access_rules": [
-                            "gsp"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/#7 Larry's Castle/Green Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -170,6 +121,115 @@
                         "map": "vobc_sub",
                         "x": 904,
                         "y": 760
+                    }
+                ]
+            },
+            {
+                "name": "#7 Larry's Castle - Midway Point",
+                "sections": [
+                    {
+                        "name": "Midway Point",
+                        "ref": "Map/#7 Larry's Castle/Midway Point"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vobc_main",
+                        "x": 1816,
+                        "y": 376
+                    }
+                ]
+            },
+            {
+                "name": "#7 Larry's Castle - Snake block room",
+                "sections": [
+                    {
+                        "name": "Snake block room",
+                        "ref": "Map/#7 Larry's Castle/Snake block room"
+                    },
+                    {
+                        "name": "Midway Point",
+                        "ref": "Map/#7 Larry's Castle/Midway Point"
+                    },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Map/#7 Larry's Castle/Dragon Coins"
+                    },
+                    {
+                        "name": "Hidden 1-Up",
+                        "ref": "Map/#7 Larry's Castle/Hidden 1-Up"
+                    },
+                    {
+                        "name": "Yellow Switch Palace Block #1",
+                        "ref": "Map/#7 Larry's Castle/Yellow Switch Palace Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vobc_main",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "#7 Larry's Castle - Magikoopa room",
+                "sections": [
+                    {
+                        "name": "Magikoopa room",
+                        "ref": "Map/#7 Larry's Castle/Magikoopa room"
+                    },
+                    {
+                        "name": "Normal Exit",
+                        "ref": "Map/#7 Larry's Castle/Normal Exit"
+                    },
+                    {
+                        "name": "Yellow Switch Palace Block #2",
+                        "ref": "Map/#7 Larry's Castle/Yellow Switch Palace Block #2"
+                    },
+                    {
+                        "name": "Green Switch Palace Block #1",
+                        "ref": "Map/#7 Larry's Castle/Green Switch Palace Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vobc_sub",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "#7 Larry's Castle - Door to Magikoopa room",
+                "sections": [
+                    {
+                        "name": "Magikoopa room",
+                        "ref": "Map/#7 Larry's Castle/Magikoopa room"
+                    },
+                    {
+                        "name": "Normal Exit",
+                        "ref": "Map/#7 Larry's Castle/Normal Exit"
+                    },
+                    {
+                        "name": "Yellow Switch Palace Block #2",
+                        "ref": "Map/#7 Larry's Castle/Yellow Switch Palace Block #2"
+                    },
+                    {
+                        "name": "Green Switch Palace Block #1",
+                        "ref": "Map/#7 Larry's Castle/Green Switch Palace Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vobc_main",
+                        "x": 1784,
+                        "y": 96
+                    },
+                    {
+                        "map": "vobc_main",
+                        "x": 1992,
+                        "y": 368
                     }
                 ]
             }

@@ -9,26 +9,23 @@
         ],
         "children": [
             {
+                "name": "Forest Fortress - Boss battle",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            ""
-                        ],
                         "name": "Normal Exit",
-                        "access_rules": [
-                            ""
-                        ],
-                        "chest_unopened_img": "images/checks/goal_sphere_disabled.png",
-                        "chest_opened_img": "images/checks/goal_sphere.png",
-                        "item_count": 1
+                        "ref": "Map/Forest Fortress/Normal Exit"
                     }
                 ],
-                "name": "Forest Fortress - Boss battle",
                 "map_locations": [
                     {
                         "map": "foif_sub_1",
                         "x": 2192,
                         "y": 304
+                    },
+                    {
+                        "map": "foif_sub_1",
+                        "x": 1728,
+                        "y": 800
                     }
                 ]
             },
@@ -37,15 +34,7 @@
                 "sections": [
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "access_rules": [
-                            "ysp"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Forest Fortress/Yellow Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -61,15 +50,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #1",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Forest Fortress/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -85,15 +66,7 @@
                 "sections": [
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "access_rules": [
-                            "run, powerup_3"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Forest Fortress/1-Up Mushroom Block #1"
                     }
                 ],
                 "map_locations": [
@@ -109,15 +82,7 @@
                 "sections": [
                     {
                         "name": "1-Up Mushroom Block #2",
-                        "access_rules": [
-                            "run, powerup_3"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Forest Fortress/1-Up Mushroom Block #2"
                     }
                 ],
                 "map_locations": [
@@ -133,15 +98,7 @@
                 "sections": [
                     {
                         "name": "1-Up Mushroom Block #3",
-                        "access_rules": [
-                            "run, powerup_3"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Forest Fortress/1-Up Mushroom Block #3"
                     }
                 ],
                 "map_locations": [
@@ -157,15 +114,7 @@
                 "sections": [
                     {
                         "name": "1-Up Mushroom Block #4",
-                        "access_rules": [
-                            "run, powerup_3"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Forest Fortress/1-Up Mushroom Block #4"
                     }
                 ],
                 "map_locations": [
@@ -181,15 +130,7 @@
                 "sections": [
                     {
                         "name": "1-Up Mushroom Block #5",
-                        "access_rules": [
-                            "run, powerup_3"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Forest Fortress/1-Up Mushroom Block #5"
                     }
                 ],
                 "map_locations": [
@@ -205,15 +146,7 @@
                 "sections": [
                     {
                         "name": "1-Up Mushroom Block #6",
-                        "access_rules": [
-                            "run, powerup_3"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Forest Fortress/1-Up Mushroom Block #6"
                     }
                 ],
                 "map_locations": [
@@ -229,15 +162,7 @@
                 "sections": [
                     {
                         "name": "1-Up Mushroom Block #7",
-                        "access_rules": [
-                            "run, powerup_3"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Forest Fortress/1-Up Mushroom Block #7"
                     }
                 ],
                 "map_locations": [
@@ -253,15 +178,7 @@
                 "sections": [
                     {
                         "name": "1-Up Mushroom Block #8",
-                        "access_rules": [
-                            "run, powerup_3"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Forest Fortress/1-Up Mushroom Block #8"
                     }
                 ],
                 "map_locations": [
@@ -277,15 +194,7 @@
                 "sections": [
                     {
                         "name": "1-Up Mushroom Block #9",
-                        "access_rules": [
-                            "run, powerup_3"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Forest Fortress/1-Up Mushroom Block #9"
                     }
                 ],
                 "map_locations": [
@@ -293,6 +202,150 @@
                         "map": "foif_sub_1",
                         "x": 1752,
                         "y": 696
+                    }
+                ]
+            },
+            {
+                "name": "Forest Fortress - Smashers room",
+                "sections": [
+                    {
+                        "name": "Smashers room",
+                        "ref": "Map/Forest Fortress/Smashers room"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "foif_main",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Forest Fortress - Lava pool room",
+                "sections": [
+                    {
+                        "name": "Lava pool room",
+                        "ref": "Map/Forest Fortress/Lava pool room"
+                    },
+                    {
+                        "name": "Normal Exit",
+                        "ref": "Map/Forest Fortress/Normal Exit"
+                    },
+                    {
+                        "name": "Yellow Switch Palace Block #1",
+                        "ref": "Map/Forest Fortress/Yellow Switch Palace Block #1"
+                    },
+                    {
+                        "name": "Powerup Block #1",
+                        "ref": "Map/Forest Fortress/Powerup Block #1"
+                    },
+                    {
+                        "name": "1-Up Mushroom Block #1",
+                        "ref": "Map/Forest Fortress/1-Up Mushroom Block #1"
+                    },
+                    {
+                        "name": "1-Up Mushroom Block #2",
+                        "ref": "Map/Forest Fortress/1-Up Mushroom Block #2"
+                    },
+                    {
+                        "name": "1-Up Mushroom Block #3",
+                        "ref": "Map/Forest Fortress/1-Up Mushroom Block #3"
+                    },
+                    {
+                        "name": "1-Up Mushroom Block #4",
+                        "ref": "Map/Forest Fortress/1-Up Mushroom Block #4"
+                    },
+                    {
+                        "name": "1-Up Mushroom Block #5",
+                        "ref": "Map/Forest Fortress/1-Up Mushroom Block #5"
+                    },
+                    {
+                        "name": "1-Up Mushroom Block #6",
+                        "ref": "Map/Forest Fortress/1-Up Mushroom Block #6"
+                    },
+                    {
+                        "name": "1-Up Mushroom Block #7",
+                        "ref": "Map/Forest Fortress/1-Up Mushroom Block #7"
+                    },
+                    {
+                        "name": "1-Up Mushroom Block #8",
+                        "ref": "Map/Forest Fortress/1-Up Mushroom Block #8"
+                    },
+                    {
+                        "name": "1-Up Mushroom Block #9",
+                        "ref": "Map/Forest Fortress/1-Up Mushroom Block #9"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "foif_sub_1",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Forest Fortress - Door to Lava pool room",
+                "sections": [
+                    {
+                        "name": "Lava pool room",
+                        "ref": "Map/Forest Fortress/Lava pool room"
+                    },
+                    {
+                        "name": "Normal Exit",
+                        "ref": "Map/Forest Fortress/Normal Exit"
+                    },
+                    {
+                        "name": "Yellow Switch Palace Block #1",
+                        "ref": "Map/Forest Fortress/Yellow Switch Palace Block #1"
+                    },
+                    {
+                        "name": "Powerup Block #1",
+                        "ref": "Map/Forest Fortress/Powerup Block #1"
+                    },
+                    {
+                        "name": "1-Up Mushroom Block #1",
+                        "ref": "Map/Forest Fortress/1-Up Mushroom Block #1"
+                    },
+                    {
+                        "name": "1-Up Mushroom Block #2",
+                        "ref": "Map/Forest Fortress/1-Up Mushroom Block #2"
+                    },
+                    {
+                        "name": "1-Up Mushroom Block #3",
+                        "ref": "Map/Forest Fortress/1-Up Mushroom Block #3"
+                    },
+                    {
+                        "name": "1-Up Mushroom Block #4",
+                        "ref": "Map/Forest Fortress/1-Up Mushroom Block #4"
+                    },
+                    {
+                        "name": "1-Up Mushroom Block #5",
+                        "ref": "Map/Forest Fortress/1-Up Mushroom Block #5"
+                    },
+                    {
+                        "name": "1-Up Mushroom Block #6",
+                        "ref": "Map/Forest Fortress/1-Up Mushroom Block #6"
+                    },
+                    {
+                        "name": "1-Up Mushroom Block #7",
+                        "ref": "Map/Forest Fortress/1-Up Mushroom Block #7"
+                    },
+                    {
+                        "name": "1-Up Mushroom Block #8",
+                        "ref": "Map/Forest Fortress/1-Up Mushroom Block #8"
+                    },
+                    {
+                        "name": "1-Up Mushroom Block #9",
+                        "ref": "Map/Forest Fortress/1-Up Mushroom Block #9"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "foif_main",
+                        "x": 1480,
+                        "y": 368
                     }
                 ]
             }

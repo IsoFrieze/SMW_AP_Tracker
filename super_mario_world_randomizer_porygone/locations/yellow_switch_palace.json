@@ -9,25 +9,73 @@
         ],
         "children": [
             {
+                "name": "Yellow Switch Palace - Palace Button",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            ""
-                        ],
                         "name": "Normal Exit",
-                        "access_rules": [
-                            ""
-                        ],
-                        "chest_unopened_img": "images/checks/goal_sphere_disabled.png",
-                        "chest_opened_img": "images/checks/goal_sphere.png",
-                        "item_count": 1
+                        "ref": "Map/Yellow Switch Palace/Normal Exit"
                     }
                 ],
-                "name": "Yellow Switch Palace - Palace Button",
                 "map_locations": [
                     {
                         "map": "ysp_sub_1",
                         "x": 640,
+                        "y": 368
+                    }
+                ]
+            },
+            {
+                "name": "Yellow Switch Palace - Bonus room",
+                "sections": [
+                    {
+                        "name": "Bonus room",
+                        "ref": "Map/Yellow Switch Palace/Bonus room"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ysp_main",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Yellow Switch Palace - Button room",
+                "sections": [
+                    {
+                        "name": "Button room",
+                        "ref": "Map/Yellow Switch Palace/Button room"
+                    },
+                    {
+                        "name": "Normal Exit",
+                        "ref": "Map/Yellow Switch Palace/Normal Exit"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ysp_sub_1",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Yellow Switch Palace - Pipe to Button room",
+                "sections": [
+                    {
+                        "name": "Button room",
+                        "ref": "Map/Yellow Switch Palace/Button room"
+                    },
+                    {
+                        "name": "Normal Exit",
+                        "ref": "Map/Yellow Switch Palace/Normal Exit"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ysp_main",
+                        "x": 728,
                         "y": 368
                     }
                 ]

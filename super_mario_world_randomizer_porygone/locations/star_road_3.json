@@ -9,21 +9,13 @@
         ],
         "children": [
             {
+                "name": "Star Road 3 - Goal",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            ""
-                        ],
                         "name": "Normal Exit",
-                        "access_rules": [
-                            ""
-                        ],
-                        "chest_unopened_img": "images/checks/goal_sphere_disabled.png",
-                        "chest_opened_img": "images/checks/goal_sphere.png",
-                        "item_count": 1
+                        "ref": "Map/Star Road 3/Normal Exit"
                     }
                 ],
-                "name": "Star Road 3 - Goal",
                 "map_locations": [
                     {
                         "map": "sr3_main",
@@ -33,21 +25,13 @@
                 ]
             },
             {
+                "name": "Star Road 3 - Keyhole",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            ""
-                        ],
                         "name": "Secret Exit",
-                        "access_rules": [
-                            "carry"
-                        ],
-                        "chest_unopened_img": "images/checks/goal_sphere_disabled.png",
-                        "chest_opened_img": "images/checks/goal_sphere.png",
-                        "item_count": 1
+                        "ref": "Map/Star Road 3/Secret Exit"
                     }
                 ],
-                "name": "Star Road 3 - Keyhole",
                 "map_locations": [
                     {
                         "map": "sr3_main",
@@ -61,16 +45,7 @@
                 "sections": [
                     {
                         "name": "Key Block #1",
-                        "access_rules": [
-                            "carry",
-                            "powerup_2"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Star Road 3/Key Block #1"
                     }
                 ],
                 "map_locations": [
@@ -78,6 +53,34 @@
                         "map": "sr3_main",
                         "x": 136,
                         "y": 56
+                    }
+                ]
+            },
+            {
+                "name": "Star Road 3 - Main room",
+                "sections": [
+                    {
+                        "name": "Main room",
+                        "ref": "Map/Star Road 3/Main room"
+                    },
+                    {
+                        "name": "Normal Exit",
+                        "ref": "Map/Star Road 3/Normal Exit"
+                    },
+                    {
+                        "name": "Secret Exit",
+                        "ref": "Map/Star Road 3/Secret Exit"
+                    },
+                    {
+                        "name": "Key Block #1",
+                        "ref": "Map/Star Road 3/Key Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "sr3_main",
+                        "x": 16,
+                        "y": 16
                     }
                 ]
             }

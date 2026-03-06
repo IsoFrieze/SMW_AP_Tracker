@@ -9,24 +9,13 @@
         ],
         "children": [
             {
+                "name": "Chocolate Island 3 - Goal",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            ""
-                        ],
                         "name": "Normal Exit",
-                        "access_rules": [
-                            "climb",
-                            "powerup_3, run",
-                            "[climb], yoshi, carry",
-                            "[run], [powerup_3], yoshi, carry"
-                        ],
-                        "chest_unopened_img": "images/checks/goal_sphere_disabled.png",
-                        "chest_opened_img": "images/checks/goal_sphere.png",
-                        "item_count": 1
+                        "ref": "Map/Chocolate Island 3/Normal Exit"
                     }
                 ],
-                "name": "Chocolate Island 3 - Goal",
                 "map_locations": [
                     {
                         "map": "ci3_main",
@@ -36,22 +25,13 @@
                 ]
             },
             {
+                "name": "Chocolate Island 3 - Secret goal",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            ""
-                        ],
                         "name": "Secret Exit",
-                        "access_rules": [
-                            "powerup_3, run",
-                            "[run], [powerup_3], yoshi, carry"
-                        ],
-                        "chest_unopened_img": "images/checks/goal_sphere_disabled.png",
-                        "chest_opened_img": "images/checks/goal_sphere.png",
-                        "item_count": 1
+                        "ref": "Map/Chocolate Island 3/Secret Exit"
                     }
                 ],
-                "name": "Chocolate Island 3 - Secret goal",
                 "map_locations": [
                     {
                         "map": "ci3_main",
@@ -61,22 +41,13 @@
                 ]
             },
             {
+                "name": "Chocolate Island 3 - Dragon Coins",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            "dragon_coin_checks"
-                        ],
                         "name": "Dragon Coins",
-                        "access_rules": [
-                            ""
-                        ],
-                        "chest_unopened_img": "images/checks/dragon_coin_disabled.png",
-                        "chest_opened_img": "images/checks/dragon_coin.png",
-                        "clear_as_group": true,
-                        "item_count": 1
+                        "ref": "Map/Chocolate Island 3/Dragon Coins"
                     }
                 ],
-                "name": "Chocolate Island 3 - Dragon Coin",
                 "map_locations": [
                     {
                         "map": "ci3_main",
@@ -106,26 +77,18 @@
                 ]
             },
             {
+                "name": "Chocolate Island 3 - Prize from bonus block",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            "bonus_block_checks"
-                        ],
                         "name": "1-Up from Bonus Block",
-                        "access_rules": [
-                            ""
-                        ],
-                        "chest_unopened_img": "images/checks/bonus_disabled.png",
-                        "chest_opened_img": "images/checks/bonus.png",
-                        "item_count": 1
+                        "ref": "Map/Chocolate Island 3/1-Up from Bonus Block"
                     }
                 ],
-                "name": "Chocolate Island 3 - Prize from bonus block",
                 "map_locations": [
                     {
                         "map": "ci3_main",
                         "x": 472,
-                        "y": 1176
+                        "y": 1192
                     }
                 ]
             },
@@ -134,15 +97,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #1",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Chocolate Island 3/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -158,15 +113,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #2",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Chocolate Island 3/Powerup Block #2"
                     }
                 ],
                 "map_locations": [
@@ -182,15 +129,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #3",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Chocolate Island 3/Powerup Block #3"
                     }
                 ],
                 "map_locations": [
@@ -206,15 +145,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #1",
-                        "access_rules": [
-                            "gsp"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Chocolate Island 3/Green Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -226,43 +157,11 @@
                 ]
             },
             {
-                "name": "Chocolate Island 3 - Blocksanity - Bonus Block #1",
-                "sections": [
-                    {
-                        "name": "Bonus Block #1",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "ci3_main",
-                        "x": 472,
-                        "y": 1192
-                    }
-                ]
-            },
-            {
                 "name": "Chocolate Island 3 - Blocksanity - Vine Block #1",
                 "sections": [
                     {
                         "name": "Vine Block #1",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Chocolate Island 3/Vine Block #1"
                     }
                 ],
                 "map_locations": [
@@ -278,16 +177,7 @@
                 "sections": [
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "access_rules": [
-                            "run, powerup_3",
-                            "[run], [powerup_3], yoshi, carry"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Chocolate Island 3/1-Up Mushroom Block #1"
                     }
                 ],
                 "map_locations": [
@@ -303,16 +193,7 @@
                 "sections": [
                     {
                         "name": "1-Up Mushroom Block #2",
-                        "access_rules": [
-                            "run, powerup_3",
-                            "[run], [powerup_3], yoshi, carry"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Chocolate Island 3/1-Up Mushroom Block #2"
                     }
                 ],
                 "map_locations": [
@@ -328,16 +209,7 @@
                 "sections": [
                     {
                         "name": "1-Up Mushroom Block #3",
-                        "access_rules": [
-                            "run, powerup_3",
-                            "[run], [powerup_3], yoshi, carry"
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Chocolate Island 3/1-Up Mushroom Block #3"
                     }
                 ],
                 "map_locations": [
@@ -345,6 +217,198 @@
                         "map": "ci3_main",
                         "x": 1704,
                         "y": 1192
+                    }
+                ]
+            },
+            {
+                "name": "Chocolate Island 3 - Midway Point",
+                "sections": [
+                    {
+                        "name": "Midway Point",
+                        "ref": "Map/Chocolate Island 3/Midway Point"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ci3_main",
+                        "x": 504,
+                        "y": 696
+                    }
+                ]
+            },
+            {
+                "name": "Chocolate Island 3 - Main room",
+                "sections": [
+                    {
+                        "name": "Main room",
+                        "ref": "Map/Chocolate Island 3/Main room"
+                    },
+                    {
+                        "name": "Midway Point",
+                        "ref": "Map/Chocolate Island 3/Midway Point"
+                    },
+                    {
+                        "name": "Normal Exit",
+                        "ref": "Map/Chocolate Island 3/Normal Exit"
+                    },
+                    {
+                        "name": "Secret Exit",
+                        "ref": "Map/Chocolate Island 3/Secret Exit"
+                    },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Map/Chocolate Island 3/Dragon Coins"
+                    },
+                    {
+                        "name": "1-Up from Bonus Block",
+                        "ref": "Map/Chocolate Island 3/1-Up from Bonus Block"
+                    },
+                    {
+                        "name": "Powerup Block #1",
+                        "ref": "Map/Chocolate Island 3/Powerup Block #1"
+                    },
+                    {
+                        "name": "Powerup Block #2",
+                        "ref": "Map/Chocolate Island 3/Powerup Block #2"
+                    },
+                    {
+                        "name": "Powerup Block #3",
+                        "ref": "Map/Chocolate Island 3/Powerup Block #3"
+                    },
+                    {
+                        "name": "Green Switch Palace Block #1",
+                        "ref": "Map/Chocolate Island 3/Green Switch Palace Block #1"
+                    },
+                    {
+                        "name": "Vine Block #1",
+                        "ref": "Map/Chocolate Island 3/Vine Block #1"
+                    },
+                    {
+                        "name": "1-Up Mushroom Block #1",
+                        "ref": "Map/Chocolate Island 3/1-Up Mushroom Block #1"
+                    },
+                    {
+                        "name": "1-Up Mushroom Block #2",
+                        "ref": "Map/Chocolate Island 3/1-Up Mushroom Block #2"
+                    },
+                    {
+                        "name": "1-Up Mushroom Block #3",
+                        "ref": "Map/Chocolate Island 3/1-Up Mushroom Block #3"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ci3_main",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Chocolate Island 3 - Coin room",
+                "sections": [
+                    {
+                        "name": "Coin room",
+                        "ref": "Map/Chocolate Island 3/Coin room"
+                    },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Map/Chocolate Island 3/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ci3_sub",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Chocolate Island 3 - Pipe to Coin room",
+                "sections": [
+                    {
+                        "name": "Coin room",
+                        "ref": "Map/Chocolate Island 3/Coin room"
+                    },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Map/Chocolate Island 3/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ci3_main",
+                        "x": 1936,
+                        "y": 232
+                    }
+                ]
+            },
+            {
+                "name": "Chocolate Island 3 - Pipe to Main room",
+                "sections": [
+                    {
+                        "name": "Main room",
+                        "ref": "Map/Chocolate Island 3/Main room"
+                    },
+                    {
+                        "name": "Midway Point",
+                        "ref": "Map/Chocolate Island 3/Midway Point"
+                    },
+                    {
+                        "name": "Normal Exit",
+                        "ref": "Map/Chocolate Island 3/Normal Exit"
+                    },
+                    {
+                        "name": "Secret Exit",
+                        "ref": "Map/Chocolate Island 3/Secret Exit"
+                    },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Map/Chocolate Island 3/Dragon Coins"
+                    },
+                    {
+                        "name": "1-Up from Bonus Block",
+                        "ref": "Map/Chocolate Island 3/1-Up from Bonus Block"
+                    },
+                    {
+                        "name": "Powerup Block #1",
+                        "ref": "Map/Chocolate Island 3/Powerup Block #1"
+                    },
+                    {
+                        "name": "Powerup Block #2",
+                        "ref": "Map/Chocolate Island 3/Powerup Block #2"
+                    },
+                    {
+                        "name": "Powerup Block #3",
+                        "ref": "Map/Chocolate Island 3/Powerup Block #3"
+                    },
+                    {
+                        "name": "Green Switch Palace Block #1",
+                        "ref": "Map/Chocolate Island 3/Green Switch Palace Block #1"
+                    },
+                    {
+                        "name": "Vine Block #1",
+                        "ref": "Map/Chocolate Island 3/Vine Block #1"
+                    },
+                    {
+                        "name": "1-Up Mushroom Block #1",
+                        "ref": "Map/Chocolate Island 3/1-Up Mushroom Block #1"
+                    },
+                    {
+                        "name": "1-Up Mushroom Block #2",
+                        "ref": "Map/Chocolate Island 3/1-Up Mushroom Block #2"
+                    },
+                    {
+                        "name": "1-Up Mushroom Block #3",
+                        "ref": "Map/Chocolate Island 3/1-Up Mushroom Block #3"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ci3_sub",
+                        "x": 480,
+                        "y": 344
                     }
                 ]
             }

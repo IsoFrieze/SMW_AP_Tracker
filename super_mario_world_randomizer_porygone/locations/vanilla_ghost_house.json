@@ -9,21 +9,13 @@
         ],
         "children": [
             {
+                "name": "Vanilla Ghost House - Goal",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            ""
-                        ],
                         "name": "Normal Exit",
-                        "access_rules": [
-                            "p_switch"
-                        ],
-                        "chest_unopened_img": "images/checks/goal_sphere_disabled.png",
-                        "chest_opened_img": "images/checks/goal_sphere.png",
-                        "item_count": 1
+                        "ref": "Map/Vanilla Ghost House/Normal Exit"
                     }
                 ],
-                "name": "Vanilla Ghost House - Goal",
                 "map_locations": [
                     {
                         "map": "vdgh_sub_2",
@@ -33,23 +25,13 @@
                 ]
             },
             {
+                "name": "Vanilla Ghost House - Dragon Coins",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            "dragon_coin_checks"
-                        ],
                         "name": "Dragon Coins",
-                        "access_rules": [
-                            "climb",
-                            "[climb], spin_jump"
-                        ],
-                        "chest_unopened_img": "images/checks/dragon_coin_disabled.png",
-                        "chest_opened_img": "images/checks/dragon_coin.png",
-                        "clear_as_group": true,
-                        "item_count": 1
+                        "ref": "Map/Vanilla Ghost House/Dragon Coins"
                     }
                 ],
-                "name": "Vanilla Ghost House - Dragon Coin",
                 "map_locations": [
                     {
                         "map": "vdgh_main",
@@ -79,21 +61,13 @@
                 ]
             },
             {
+                "name": "Vanilla Ghost House - Hidden 1-Up",
                 "sections": [
                     {
-                        "visibility_rules": [
-                            "hidden_1up_checks"
-                        ],
                         "name": "Hidden 1-Up",
-                        "access_rules": [
-                            ""
-                        ],
-                        "chest_unopened_img": "images/checks/hidden_disabled.png",
-                        "chest_opened_img": "images/checks/hidden.png",
-                        "item_count": 1
+                        "ref": "Map/Vanilla Ghost House/Hidden 1-Up"
                     }
                 ],
-                "name": "Vanilla Ghost House - Hidden 1-Up",
                 "map_locations": [
                     {
                         "map": "vdgh_main",
@@ -107,15 +81,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #1",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Vanilla Ghost House/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -131,15 +97,7 @@
                 "sections": [
                     {
                         "name": "Vine Block #1",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Vanilla Ghost House/Vine Block #1"
                     }
                 ],
                 "map_locations": [
@@ -155,15 +113,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #2",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Vanilla Ghost House/Powerup Block #2"
                     }
                 ],
                 "map_locations": [
@@ -179,15 +129,7 @@
                 "sections": [
                     {
                         "name": "Multi Coin Block #1",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Vanilla Ghost House/Multi Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -203,15 +145,7 @@
                 "sections": [
                     {
                         "name": "Blue P-Switch Block #1",
-                        "access_rules": [
-                            ""
-                        ],
-                        "visibility_rules": [
-                            "blocksanity"
-                        ],
-                        "chest_unopened_img": "images/checks/blocksanity_disabled.png",
-                        "chest_opened_img": "images/checks/blocksanity.png",
-                        "item_count": 1
+                        "ref": "Map/Vanilla Ghost House/Blue P-Switch Block #1"
                     }
                 ],
                 "map_locations": [
@@ -219,6 +153,178 @@
                         "map": "vdgh_sub_1",
                         "x": 1512,
                         "y": 296
+                    }
+                ]
+            },
+            {
+                "name": "Vanilla Ghost House - Main room",
+                "sections": [
+                    {
+                        "name": "Main room",
+                        "ref": "Map/Vanilla Ghost House/Main room"
+                    },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Map/Vanilla Ghost House/Dragon Coins"
+                    },
+                    {
+                        "name": "Hidden 1-Up",
+                        "ref": "Map/Vanilla Ghost House/Hidden 1-Up"
+                    },
+                    {
+                        "name": "Powerup Block #1",
+                        "ref": "Map/Vanilla Ghost House/Powerup Block #1"
+                    },
+                    {
+                        "name": "Vine Block #1",
+                        "ref": "Map/Vanilla Ghost House/Vine Block #1"
+                    },
+                    {
+                        "name": "Powerup Block #2",
+                        "ref": "Map/Vanilla Ghost House/Powerup Block #2"
+                    },
+                    {
+                        "name": "Multi Coin Block #1",
+                        "ref": "Map/Vanilla Ghost House/Multi Coin Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vdgh_main",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Vanilla Ghost House - Gas bubbles room",
+                "sections": [
+                    {
+                        "name": "Gas bubbles room",
+                        "ref": "Map/Vanilla Ghost House/Gas bubbles room"
+                    },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Map/Vanilla Ghost House/Dragon Coins"
+                    },
+                    {
+                        "name": "Blue P-Switch Block #1",
+                        "ref": "Map/Vanilla Ghost House/Blue P-Switch Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vdgh_sub_1",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Vanilla Ghost House - Goal room",
+                "sections": [
+                    {
+                        "name": "Goal room",
+                        "ref": "Map/Vanilla Ghost House/Goal room"
+                    },
+                    {
+                        "name": "Normal Exit",
+                        "ref": "Map/Vanilla Ghost House/Normal Exit"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vdgh_sub_2",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Vanilla Ghost House - Door to Gas bubbles room",
+                "sections": [
+                    {
+                        "name": "Gas bubbles room",
+                        "ref": "Map/Vanilla Ghost House/Gas bubbles room"
+                    },
+                    {
+                        "name": "Normal Exit",
+                        "ref": "Map/Vanilla Ghost House/Normal Exit"
+                    },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Map/Vanilla Ghost House/Dragon Coins"
+                    },
+                    {
+                        "name": "Blue P-Switch Block #1",
+                        "ref": "Map/Vanilla Ghost House/Blue P-Switch Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vdgh_main",
+                        "x": 1224,
+                        "y": 800
+                    }
+                ]
+            },
+            {
+                "name": "Vanilla Ghost House - Door to Goal room",
+                "sections": [
+                    {
+                        "name": "Goal room",
+                        "ref": "Map/Vanilla Ghost House/Goal room"
+                    },
+                    {
+                        "name": "Normal Exit",
+                        "ref": "Map/Vanilla Ghost House/Normal Exit"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vdgh_sub_1",
+                        "x": 1992,
+                        "y": 368
+                    }
+                ]
+            },
+            {
+                "name": "Vanilla Ghost House - Door to Main room",
+                "sections": [
+                    {
+                        "name": "Main room",
+                        "ref": "Map/Vanilla Ghost House/Main room"
+                    },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Map/Vanilla Ghost House/Dragon Coins"
+                    },
+                    {
+                        "name": "Hidden 1-Up",
+                        "ref": "Map/Vanilla Ghost House/Hidden 1-Up"
+                    },
+                    {
+                        "name": "Powerup Block #1",
+                        "ref": "Map/Vanilla Ghost House/Powerup Block #1"
+                    },
+                    {
+                        "name": "Vine Block #1",
+                        "ref": "Map/Vanilla Ghost House/Vine Block #1"
+                    },
+                    {
+                        "name": "Powerup Block #2",
+                        "ref": "Map/Vanilla Ghost House/Powerup Block #2"
+                    },
+                    {
+                        "name": "Multi Coin Block #1",
+                        "ref": "Map/Vanilla Ghost House/Multi Coin Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vdgh_sub_1",
+                        "x": 1752,
+                        "y": 368
                     }
                 ]
             }

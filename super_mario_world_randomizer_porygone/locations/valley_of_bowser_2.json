@@ -372,10 +372,12 @@
                 "name": "Valley of Bowser 2 - Transition to Yoshi wings room",
                 "sections": [
                     {
-                        "ref": "Map/Valley of Bowser 2/Dragon Coins",
+                        "name": "Dragon Coins",
+                        "ref": "Map/Valley of Bowser 2/Dragon Coins"
                     },
                     {
-                        "ref": "Map/Valley of Bowser 2/Normal Exit",
+                        "name": "Normal Exit",
+                        "ref": "Map/Valley of Bowser 2/Normal Exit"
                     }
                 ],
                 "map_locations": [

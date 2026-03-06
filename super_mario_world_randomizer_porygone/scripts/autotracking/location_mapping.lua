@@ -189,7 +189,14 @@ LOCATION_MAPPING = {
     [NORMAL_EXIT | SZ6] = {"@Map/Mondo/Normal Exit"},
     [NORMAL_EXIT | SZ7] = {"@Map/Outrageous/Normal Exit"},
     [NORMAL_EXIT | SZ8] = {"@Map/Funky/Normal Exit"},
-    [DRAGON_COINS | YI1] = {"@Map/Yoshi's Island 1/Dragon Coins"},
+    [DRAGON_COINS | YI1] = {
+        "@Map/Yoshi's Island 1/Dragon Coins",
+        "@Map/Yoshi's Island 1/Dragon Coin #1",
+        "@Map/Yoshi's Island 1/Dragon Coin #2",
+        "@Map/Yoshi's Island 1/Dragon Coin #3",
+        "@Map/Yoshi's Island 1/Dragon Coin #4",
+        "@Map/Yoshi's Island 1/Dragon Coin #5"
+    },
     [DRAGON_COINS | YI2] = {"@Map/Yoshi's Island 2/Dragon Coins"},
     [DRAGON_COINS | YI3] = {"@Map/Yoshi's Island 3/Dragon Coins"},
     [DRAGON_COINS | YI4] = {"@Map/Yoshi's Island 4/Dragon Coins"},

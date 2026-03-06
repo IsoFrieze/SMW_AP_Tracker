@@ -13,7 +13,7 @@
                 "sections": [
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/#5 Roy's Castle/Normal Exit"
+                        "ref": "Exits/FIC/Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -29,7 +29,7 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/#5 Roy's Castle/Dragon Coins"
+                        "ref": "Dragon Coins/FIC/Dragon Coins"
                     }
                 ],
                 "map_locations": [
@@ -65,7 +65,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Map/#5 Roy's Castle/Green Switch Palace Block #1"
+                        "ref": "Blocks/FIC/Green Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -81,19 +81,19 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Map/#5 Roy's Castle/Main room"
+                        "ref": "Rooms/FIC/0x0020"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/#5 Roy's Castle/Normal Exit"
+                        "ref": "Exits/FIC/Normal Exit"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/#5 Roy's Castle/Dragon Coins"
+                        "ref": "Dragon Coins/FIC/Dragon Coins"
                     },
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Map/#5 Roy's Castle/Green Switch Palace Block #1"
+                        "ref": "Blocks/FIC/Green Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [

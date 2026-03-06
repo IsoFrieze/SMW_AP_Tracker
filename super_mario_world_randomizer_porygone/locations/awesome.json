@@ -13,7 +13,7 @@
                 "sections": [
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Awesome/Normal Exit"
+                        "ref": "Exits/SZ4/Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -29,7 +29,7 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Awesome/Dragon Coins"
+                        "ref": "Dragon Coins/SZ4/Dragon Coins"
                     }
                 ],
                 "map_locations": [
@@ -65,7 +65,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Map/Awesome/Powerup Block #1"
+                        "ref": "Blocks/SZ4/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -81,7 +81,7 @@
                 "sections": [
                     {
                         "name": "Star Block #1",
-                        "ref": "Map/Awesome/Star Block #1"
+                        "ref": "Blocks/SZ4/Star Block #1"
                     }
                 ],
                 "map_locations": [
@@ -97,23 +97,23 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Map/Awesome/Main room"
+                        "ref": "Rooms/SZ4/0x012D"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Awesome/Normal Exit"
+                        "ref": "Exits/SZ4/Normal Exit"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Awesome/Dragon Coins"
+                        "ref": "Dragon Coins/SZ4/Dragon Coins"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Map/Awesome/Powerup Block #1"
+                        "ref": "Blocks/SZ4/Powerup Block #1"
                     },
                     {
                         "name": "Star Block #1",
-                        "ref": "Map/Awesome/Star Block #1"
+                        "ref": "Blocks/SZ4/Star Block #1"
                     }
                 ],
                 "map_locations": [

@@ -13,7 +13,7 @@
                 "sections": [
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Yellow Switch Palace/Normal Exit"
+                        "ref": "Exits/YSP/Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -29,7 +29,7 @@
                 "sections": [
                     {
                         "name": "Bonus room",
-                        "ref": "Map/Yellow Switch Palace/Bonus room"
+                        "ref": "Rooms/YSP/0x0014"
                     }
                 ],
                 "map_locations": [
@@ -45,11 +45,11 @@
                 "sections": [
                     {
                         "name": "Button room",
-                        "ref": "Map/Yellow Switch Palace/Button room"
+                        "ref": "Rooms/YSP/0x00CA"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Yellow Switch Palace/Normal Exit"
+                        "ref": "Exits/YSP/Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -65,11 +65,11 @@
                 "sections": [
                     {
                         "name": "Button room",
-                        "ref": "Map/Yellow Switch Palace/Button room"
+                        "ref": "Rooms/YSP/0x00CA"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Yellow Switch Palace/Normal Exit"
+                        "ref": "Exits/YSP/Normal Exit"
                     }
                 ],
                 "map_locations": [

@@ -13,7 +13,7 @@
                 "sections": [
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Sunken Ghost Ship/Normal Exit"
+                        "ref": "Exits/SGS/Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -29,7 +29,7 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Sunken Ghost Ship/Dragon Coins"
+                        "ref": "Dragon Coins/SGS/Dragon Coins"
                     }
                 ],
                 "map_locations": [
@@ -65,7 +65,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Map/Sunken Ghost Ship/Powerup Block #1"
+                        "ref": "Blocks/SGS/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -81,7 +81,7 @@
                 "sections": [
                     {
                         "name": "Star Block #1",
-                        "ref": "Map/Sunken Ghost Ship/Star Block #1"
+                        "ref": "Blocks/SGS/Star Block #1"
                     }
                 ],
                 "map_locations": [
@@ -97,11 +97,11 @@
                 "sections": [
                     {
                         "name": "Ship entrance",
-                        "ref": "Map/Sunken Ghost Ship/Ship entrance"
+                        "ref": "Rooms/SGS/0x0018"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Map/Sunken Ghost Ship/Powerup Block #1"
+                        "ref": "Blocks/SGS/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -117,7 +117,7 @@
                 "sections": [
                     {
                         "name": "Reappearing ghosts",
-                        "ref": "Map/Sunken Ghost Ship/Reappearing ghosts"
+                        "ref": "Rooms/SGS/0x00F8"
                     }
                 ],
                 "map_locations": [
@@ -133,19 +133,19 @@
                 "sections": [
                     {
                         "name": "Falling room",
-                        "ref": "Map/Sunken Ghost Ship/Falling room"
+                        "ref": "Rooms/SGS/0x00F7"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Sunken Ghost Ship/Normal Exit"
+                        "ref": "Exits/SGS/Normal Exit"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Sunken Ghost Ship/Dragon Coins"
+                        "ref": "Dragon Coins/SGS/Dragon Coins"
                     },
                     {
                         "name": "Star Block #1",
-                        "ref": "Map/Sunken Ghost Ship/Star Block #1"
+                        "ref": "Blocks/SGS/Star Block #1"
                     }
                 ],
                 "map_locations": [
@@ -161,23 +161,23 @@
                 "sections": [
                     {
                         "name": "Reappearing ghosts",
-                        "ref": "Map/Sunken Ghost Ship/Reappearing ghosts"
+                        "ref": "Rooms/SGS/0x00F8"
                     },
                     {
                         "name": "Falling room",
-                        "ref": "Map/Sunken Ghost Ship/Falling room"
+                        "ref": "Rooms/SGS/0x00F7"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Sunken Ghost Ship/Normal Exit"
+                        "ref": "Exits/SGS/Normal Exit"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Sunken Ghost Ship/Dragon Coins"
+                        "ref": "Dragon Coins/SGS/Dragon Coins"
                     },
                     {
                         "name": "Star Block #1",
-                        "ref": "Map/Sunken Ghost Ship/Star Block #1"
+                        "ref": "Blocks/SGS/Star Block #1"
                     }
                 ],
                 "map_locations": [
@@ -193,19 +193,19 @@
                 "sections": [
                     {
                         "name": "Falling room",
-                        "ref": "Map/Sunken Ghost Ship/Falling room"
+                        "ref": "Rooms/SGS/0x00F7"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Sunken Ghost Ship/Normal Exit"
+                        "ref": "Exits/SGS/Normal Exit"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Sunken Ghost Ship/Dragon Coins"
+                        "ref": "Dragon Coins/SGS/Dragon Coins"
                     },
                     {
                         "name": "Star Block #1",
-                        "ref": "Map/Sunken Ghost Ship/Star Block #1"
+                        "ref": "Blocks/SGS/Star Block #1"
                     }
                 ],
                 "map_locations": [

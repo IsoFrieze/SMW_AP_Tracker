@@ -13,7 +13,7 @@
                 "sections": [
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Star Road 1/Normal Exit"
+                        "ref": "Exits/SR1/Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -29,7 +29,7 @@
                 "sections": [
                     {
                         "name": "Secret Exit",
-                        "ref": "Map/Star Road 1/Secret Exit"
+                        "ref": "Exits/SR1/Secret Exit"
                     }
                 ],
                 "map_locations": [
@@ -45,7 +45,7 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Star Road 1/Dragon Coins"
+                        "ref": "Dragon Coins/SR1/Dragon Coins"
                     }
                 ],
                 "map_locations": [
@@ -81,15 +81,15 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Map/Star Road 1/Main room"
+                        "ref": "Rooms/SR1/0x0134"
                     },
                     {
                         "name": "Secret Exit",
-                        "ref": "Map/Star Road 1/Secret Exit"
+                        "ref": "Exits/SR1/Secret Exit"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Star Road 1/Dragon Coins"
+                        "ref": "Dragon Coins/SR1/Dragon Coins"
                     }
                 ],
                 "map_locations": [
@@ -105,11 +105,11 @@
                 "sections": [
                     {
                         "name": "Goal room",
-                        "ref": "Map/Star Road 1/Goal room"
+                        "ref": "Rooms/SR1/0x01D6"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Star Road 1/Normal Exit"
+                        "ref": "Exits/SR1/Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -125,11 +125,11 @@
                 "sections": [
                     {
                         "name": "Goal room",
-                        "ref": "Map/Star Road 1/Goal room"
+                        "ref": "Rooms/SR1/0x01D6"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Star Road 1/Normal Exit"
+                        "ref": "Exits/SR1/Normal Exit"
                     }
                 ],
                 "map_locations": [

@@ -13,7 +13,7 @@
                 "sections": [
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Donut Plains 2/Normal Exit"
+                        "ref": "Exits/DP2/Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -29,7 +29,7 @@
                 "sections": [
                     {
                         "name": "Secret Exit",
-                        "ref": "Map/Donut Plains 2/Secret Exit"
+                        "ref": "Exits/DP2/Secret Exit"
                     }
                 ],
                 "map_locations": [
@@ -45,7 +45,7 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Donut Plains 2/Dragon Coins"
+                        "ref": "Dragon Coins/DP2/Dragon Coins"
                     }
                 ],
                 "map_locations": [
@@ -81,7 +81,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #1",
-                        "ref": "Map/Donut Plains 2/Coin Block #1"
+                        "ref": "Blocks/DP2/Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -97,7 +97,7 @@
                 "sections": [
                     {
                         "name": "Multi Coin Block #1",
-                        "ref": "Map/Donut Plains 2/Multi Coin Block #1"
+                        "ref": "Blocks/DP2/Multi Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -113,7 +113,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #2",
-                        "ref": "Map/Donut Plains 2/Coin Block #2"
+                        "ref": "Blocks/DP2/Coin Block #2"
                     }
                 ],
                 "map_locations": [
@@ -129,7 +129,7 @@
                 "sections": [
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Map/Donut Plains 2/Yellow Switch Palace Block #1"
+                        "ref": "Blocks/DP2/Yellow Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -145,7 +145,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Map/Donut Plains 2/Powerup Block #1"
+                        "ref": "Blocks/DP2/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -161,7 +161,7 @@
                 "sections": [
                     {
                         "name": "Multi Coin Block #2",
-                        "ref": "Map/Donut Plains 2/Multi Coin Block #2"
+                        "ref": "Blocks/DP2/Multi Coin Block #2"
                     }
                 ],
                 "map_locations": [
@@ -177,7 +177,7 @@
                 "sections": [
                     {
                         "name": "Flying Question Block #1",
-                        "ref": "Map/Donut Plains 2/Flying Question Block #1"
+                        "ref": "Blocks/DP2/Flying Question Block #1"
                     }
                 ],
                 "map_locations": [
@@ -193,7 +193,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Map/Donut Plains 2/Green Switch Palace Block #1"
+                        "ref": "Blocks/DP2/Green Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -209,7 +209,7 @@
                 "sections": [
                     {
                         "name": "Yellow Switch Palace Block #2",
-                        "ref": "Map/Donut Plains 2/Yellow Switch Palace Block #2"
+                        "ref": "Blocks/DP2/Yellow Switch Palace Block #2"
                     }
                 ],
                 "map_locations": [
@@ -225,7 +225,7 @@
                 "sections": [
                     {
                         "name": "Vine Block #1",
-                        "ref": "Map/Donut Plains 2/Vine Block #1"
+                        "ref": "Blocks/DP2/Vine Block #1"
                     }
                 ],
                 "map_locations": [
@@ -241,43 +241,43 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Map/Donut Plains 2/Main room"
+                        "ref": "Rooms/DP2/0x0009"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Donut Plains 2/Dragon Coins"
+                        "ref": "Dragon Coins/DP2/Dragon Coins"
                     },
                     {
                         "name": "Coin Block #1",
-                        "ref": "Map/Donut Plains 2/Coin Block #1"
+                        "ref": "Blocks/DP2/Coin Block #1"
                     },
                     {
                         "name": "Multi Coin Block #1",
-                        "ref": "Map/Donut Plains 2/Multi Coin Block #1"
+                        "ref": "Blocks/DP2/Multi Coin Block #1"
                     },
                     {
                         "name": "Coin Block #2",
-                        "ref": "Map/Donut Plains 2/Coin Block #2"
+                        "ref": "Blocks/DP2/Coin Block #2"
                     },
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Map/Donut Plains 2/Yellow Switch Palace Block #1"
+                        "ref": "Blocks/DP2/Yellow Switch Palace Block #1"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Map/Donut Plains 2/Powerup Block #1"
+                        "ref": "Blocks/DP2/Powerup Block #1"
                     },
                     {
                         "name": "Multi Coin Block #2",
-                        "ref": "Map/Donut Plains 2/Multi Coin Block #2"
+                        "ref": "Blocks/DP2/Multi Coin Block #2"
                     },
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Map/Donut Plains 2/Green Switch Palace Block #1"
+                        "ref": "Blocks/DP2/Green Switch Palace Block #1"
                     },
                     {
                         "name": "Flying Question Block #1",
-                        "ref": "Map/Donut Plains 2/Flying Question Block #1"
+                        "ref": "Blocks/DP2/Flying Question Block #1"
                     }
                 ],
                 "map_locations": [
@@ -293,19 +293,19 @@
                 "sections": [
                     {
                         "name": "Keyhole room",
-                        "ref": "Map/Donut Plains 2/Keyhole room"
+                        "ref": "Rooms/DP2/0x00E9"
                     },
                     {
                         "name": "Secret Exit",
-                        "ref": "Map/Donut Plains 2/Secret Exit"
+                        "ref": "Exits/DP2/Secret Exit"
                     },
                     {
                         "name": "Yellow Switch Palace Block #2",
-                        "ref": "Map/Donut Plains 2/Yellow Switch Palace Block #2"
+                        "ref": "Blocks/DP2/Yellow Switch Palace Block #2"
                     },
                     {
                         "name": "Vine Block #1",
-                        "ref": "Map/Donut Plains 2/Vine Block #1"
+                        "ref": "Blocks/DP2/Vine Block #1"
                     }
                 ],
                 "map_locations": [
@@ -321,11 +321,11 @@
                 "sections": [
                     {
                         "name": "Goal room",
-                        "ref": "Map/Donut Plains 2/Goal room"
+                        "ref": "Rooms/DP2/0x00FF"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Donut Plains 2/Normal Exit"
+                        "ref": "Exits/DP2/Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -341,27 +341,27 @@
                 "sections": [
                     {
                         "name": "Keyhole room",
-                        "ref": "Map/Donut Plains 2/Keyhole room"
+                        "ref": "Rooms/DP2/0x00E9"
                     },
                     {
                         "name": "Goal room",
-                        "ref": "Map/Donut Plains 2/Goal room"
+                        "ref": "Rooms/DP2/0x00FF"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Donut Plains 2/Normal Exit"
+                        "ref": "Exits/DP2/Normal Exit"
                     },
                     {
                         "name": "Secret Exit",
-                        "ref": "Map/Donut Plains 2/Secret Exit"
+                        "ref": "Exits/DP2/Secret Exit"
                     },
                     {
                         "name": "Yellow Switch Palace Block #2",
-                        "ref": "Map/Donut Plains 2/Yellow Switch Palace Block #2"
+                        "ref": "Blocks/DP2/Yellow Switch Palace Block #2"
                     },
                     {
                         "name": "Vine Block #1",
-                        "ref": "Map/Donut Plains 2/Vine Block #1"
+                        "ref": "Blocks/DP2/Vine Block #1"
                     }
                 ],
                 "map_locations": [
@@ -377,11 +377,11 @@
                 "sections": [
                     {
                         "name": "Goal room",
-                        "ref": "Map/Donut Plains 2/Goal room"
+                        "ref": "Rooms/DP2/0x00FF"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Donut Plains 2/Normal Exit"
+                        "ref": "Exits/DP2/Normal Exit"
                     }
                 ],
                 "map_locations": [

@@ -13,7 +13,7 @@
                 "sections": [
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/#7 Larry's Castle/Normal Exit"
+                        "ref": "Exits/VBC/Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -29,7 +29,7 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/#7 Larry's Castle/Dragon Coins"
+                        "ref": "Dragon Coins/VBC/Dragon Coins"
                     }
                 ],
                 "map_locations": [
@@ -65,7 +65,7 @@
                 "sections": [
                     {
                         "name": "Hidden 1-Up",
-                        "ref": "Map/#7 Larry's Castle/Hidden 1-Up"
+                        "ref": "Hidden 1-Ups/VBC/Hidden 1-Up"
                     }
                 ],
                 "map_locations": [
@@ -81,7 +81,7 @@
                 "sections": [
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Map/#7 Larry's Castle/Yellow Switch Palace Block #1"
+                        "ref": "Blocks/VBC/Yellow Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -97,7 +97,7 @@
                 "sections": [
                     {
                         "name": "Yellow Switch Palace Block #2",
-                        "ref": "Map/#7 Larry's Castle/Yellow Switch Palace Block #2"
+                        "ref": "Blocks/VBC/Yellow Switch Palace Block #2"
                     }
                 ],
                 "map_locations": [
@@ -113,7 +113,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Map/#7 Larry's Castle/Green Switch Palace Block #1"
+                        "ref": "Blocks/VBC/Green Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -129,7 +129,7 @@
                 "sections": [
                     {
                         "name": "Midway Point",
-                        "ref": "Map/#7 Larry's Castle/Midway Point"
+                        "ref": "Midways/VBC/Midway Point"
                     }
                 ],
                 "map_locations": [
@@ -145,23 +145,23 @@
                 "sections": [
                     {
                         "name": "Snake block room",
-                        "ref": "Map/#7 Larry's Castle/Snake block room"
+                        "ref": "Rooms/VBC/0x0110"
                     },
                     {
                         "name": "Midway Point",
-                        "ref": "Map/#7 Larry's Castle/Midway Point"
+                        "ref": "Midways/VBC/Midway Point"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/#7 Larry's Castle/Dragon Coins"
+                        "ref": "Dragon Coins/VBC/Dragon Coins"
                     },
                     {
                         "name": "Hidden 1-Up",
-                        "ref": "Map/#7 Larry's Castle/Hidden 1-Up"
+                        "ref": "Hidden 1-Ups/VBC/Hidden 1-Up"
                     },
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Map/#7 Larry's Castle/Yellow Switch Palace Block #1"
+                        "ref": "Blocks/VBC/Yellow Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -177,19 +177,19 @@
                 "sections": [
                     {
                         "name": "Magikoopa room",
-                        "ref": "Map/#7 Larry's Castle/Magikoopa room"
+                        "ref": "Rooms/VBC/0x01FE"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/#7 Larry's Castle/Normal Exit"
+                        "ref": "Exits/VBC/Normal Exit"
                     },
                     {
                         "name": "Yellow Switch Palace Block #2",
-                        "ref": "Map/#7 Larry's Castle/Yellow Switch Palace Block #2"
+                        "ref": "Blocks/VBC/Yellow Switch Palace Block #2"
                     },
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Map/#7 Larry's Castle/Green Switch Palace Block #1"
+                        "ref": "Blocks/VBC/Green Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -205,19 +205,19 @@
                 "sections": [
                     {
                         "name": "Magikoopa room",
-                        "ref": "Map/#7 Larry's Castle/Magikoopa room"
+                        "ref": "Rooms/VBC/0x01FE"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/#7 Larry's Castle/Normal Exit"
+                        "ref": "Exits/VBC/Normal Exit"
                     },
                     {
                         "name": "Yellow Switch Palace Block #2",
-                        "ref": "Map/#7 Larry's Castle/Yellow Switch Palace Block #2"
+                        "ref": "Blocks/VBC/Yellow Switch Palace Block #2"
                     },
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Map/#7 Larry's Castle/Green Switch Palace Block #1"
+                        "ref": "Blocks/VBC/Green Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [

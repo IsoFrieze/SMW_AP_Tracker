@@ -13,7 +13,7 @@
                 "sections": [
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Forest Ghost House/Normal Exit"
+                        "ref": "Exits/FGH/Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -29,7 +29,7 @@
                 "sections": [
                     {
                         "name": "Secret Exit",
-                        "ref": "Map/Forest Ghost House/Secret Exit"
+                        "ref": "Exits/FGH/Secret Exit"
                     }
                 ],
                 "map_locations": [
@@ -45,7 +45,7 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Forest Ghost House/Dragon Coins"
+                        "ref": "Dragon Coins/FGH/Dragon Coins"
                     }
                 ],
                 "map_locations": [
@@ -81,7 +81,7 @@
                 "sections": [
                     {
                         "name": "3-Up Moon",
-                        "ref": "Map/Forest Ghost House/3-Up Moon"
+                        "ref": "Moons/FGH/3-Up Moon"
                     }
                 ],
                 "map_locations": [
@@ -97,7 +97,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #1",
-                        "ref": "Map/Forest Ghost House/Coin Block #1"
+                        "ref": "Blocks/FGH/Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -113,7 +113,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Map/Forest Ghost House/Powerup Block #1"
+                        "ref": "Blocks/FGH/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -129,7 +129,7 @@
                 "sections": [
                     {
                         "name": "Flying Question Block #1",
-                        "ref": "Map/Forest Ghost House/Flying Question Block #1"
+                        "ref": "Blocks/FGH/Flying Question Block #1"
                     }
                 ],
                 "map_locations": [
@@ -145,7 +145,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Map/Forest Ghost House/Powerup Block #2"
+                        "ref": "Blocks/FGH/Powerup Block #2"
                     }
                 ],
                 "map_locations": [
@@ -161,7 +161,7 @@
                 "sections": [
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "ref": "Map/Forest Ghost House/1-Up Mushroom Block #1"
+                        "ref": "Blocks/FGH/1-Up Mushroom Block #1"
                     }
                 ],
                 "map_locations": [
@@ -177,19 +177,19 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Map/Forest Ghost House/Main room"
+                        "ref": "Rooms/FGH/0x011D"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Forest Ghost House/Dragon Coins"
+                        "ref": "Dragon Coins/FGH/Dragon Coins"
                     },
                     {
                         "name": "Coin Block #1",
-                        "ref": "Map/Forest Ghost House/Coin Block #1"
+                        "ref": "Blocks/FGH/Coin Block #1"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Map/Forest Ghost House/Powerup Block #1"
+                        "ref": "Blocks/FGH/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -205,23 +205,23 @@
                 "sections": [
                     {
                         "name": "Ghost ceiling room",
-                        "ref": "Map/Forest Ghost House/Ghost ceiling room"
+                        "ref": "Rooms/FGH/0x01FA"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Forest Ghost House/Dragon Coins"
+                        "ref": "Dragon Coins/FGH/Dragon Coins"
                     },
                     {
                         "name": "Flying Question Block #1",
-                        "ref": "Map/Forest Ghost House/Flying Question Block #1"
+                        "ref": "Blocks/FGH/Flying Question Block #1"
                     },
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Map/Forest Ghost House/Powerup Block #2"
+                        "ref": "Blocks/FGH/Powerup Block #2"
                     },
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "ref": "Map/Forest Ghost House/1-Up Mushroom Block #1"
+                        "ref": "Blocks/FGH/1-Up Mushroom Block #1"
                     }
                 ],
                 "map_locations": [
@@ -237,11 +237,11 @@
                 "sections": [
                     {
                         "name": "Normal goal room",
-                        "ref": "Map/Forest Ghost House/Normal goal room"
+                        "ref": "Rooms/FGH/0x01E7"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Forest Ghost House/Normal Exit"
+                        "ref": "Exits/FGH/Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -257,15 +257,15 @@
                 "sections": [
                     {
                         "name": "Secret goal room",
-                        "ref": "Map/Forest Ghost House/Secret goal room"
+                        "ref": "Rooms/FGH/0x01E6"
                     },
                     {
                         "name": "Secret Exit",
-                        "ref": "Map/Forest Ghost House/Secret Exit"
+                        "ref": "Exits/FGH/Secret Exit"
                     },
                     {
                         "name": "3-Up Moon",
-                        "ref": "Map/Forest Ghost House/3-Up Moon"
+                        "ref": "Moons/FGH/3-Up Moon"
                     }
                 ],
                 "map_locations": [
@@ -281,35 +281,35 @@
                 "sections": [
                     {
                         "name": "Ghost ceiling room",
-                        "ref": "Map/Forest Ghost House/Ghost ceiling room"
+                        "ref": "Rooms/FGH/0x01FA"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Forest Ghost House/Normal Exit"
+                        "ref": "Exits/FGH/Normal Exit"
                     },
                     {
                         "name": "Secret Exit",
-                        "ref": "Map/Forest Ghost House/Secret Exit"
+                        "ref": "Exits/FGH/Secret Exit"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Forest Ghost House/Dragon Coins"
+                        "ref": "Dragon Coins/FGH/Dragon Coins"
                     },
                     {
                         "name": "3-Up Moon",
-                        "ref": "Map/Forest Ghost House/3-Up Moon"
+                        "ref": "Moons/FGH/3-Up Moon"
                     },
                     {
                         "name": "Flying Question Block #1",
-                        "ref": "Map/Forest Ghost House/Flying Question Block #1"
+                        "ref": "Blocks/FGH/Flying Question Block #1"
                     },
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Map/Forest Ghost House/Powerup Block #2"
+                        "ref": "Blocks/FGH/Powerup Block #2"
                     },
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "ref": "Map/Forest Ghost House/1-Up Mushroom Block #1"
+                        "ref": "Blocks/FGH/1-Up Mushroom Block #1"
                     }
                 ],
                 "map_locations": [
@@ -325,19 +325,19 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Map/Forest Ghost House/Main room"
+                        "ref": "Rooms/FGH/0x011D"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Forest Ghost House/Dragon Coins"
+                        "ref": "Dragon Coins/FGH/Dragon Coins"
                     },
                     {
                         "name": "Coin Block #1",
-                        "ref": "Map/Forest Ghost House/Coin Block #1"
+                        "ref": "Blocks/FGH/Coin Block #1"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Map/Forest Ghost House/Powerup Block #1"
+                        "ref": "Blocks/FGH/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -353,23 +353,23 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Map/Forest Ghost House/Main room"
+                        "ref": "Rooms/FGH/0x011D"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Forest Ghost House/Normal Exit"
+                        "ref": "Exits/FGH/Normal Exit"
                     },
                     {
                         "name": "Secret Exit",
-                        "ref": "Map/Forest Ghost House/Secret Exit"
+                        "ref": "Exits/FGH/Secret Exit"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Forest Ghost House/Dragon Coins"
+                        "ref": "Dragon Coins/FGH/Dragon Coins"
                     },
                     {
                         "name": "3-Up Moon",
-                        "ref": "Map/Forest Ghost House/3-Up Moon"
+                        "ref": "Moons/FGH/3-Up Moon"
                     }
                 ],
                 "map_locations": [
@@ -385,11 +385,11 @@
                 "sections": [
                     {
                         "name": "Normal goal room",
-                        "ref": "Map/Forest Ghost House/Normal goal room"
+                        "ref": "Rooms/FGH/0x01E7"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Forest Ghost House/Normal Exit"
+                        "ref": "Exits/FGH/Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -405,15 +405,15 @@
                 "sections": [
                     {
                         "name": "Secret goal room",
-                        "ref": "Map/Forest Ghost House/Secret goal room"
+                        "ref": "Rooms/FGH/0x01E6"
                     },
                     {
                         "name": "Secret Exit",
-                        "ref": "Map/Forest Ghost House/Secret Exit"
+                        "ref": "Exits/FGH/Secret Exit"
                     },
                     {
                         "name": "3-Up Moon",
-                        "ref": "Map/Forest Ghost House/3-Up Moon"
+                        "ref": "Moons/FGH/3-Up Moon"
                     }
                 ],
                 "map_locations": [

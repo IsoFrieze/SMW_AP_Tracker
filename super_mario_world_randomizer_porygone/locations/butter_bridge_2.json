@@ -13,7 +13,7 @@
                 "sections": [
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Butter Bridge 2/Normal Exit"
+                        "ref": "Exits/BB2/Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -29,7 +29,7 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Butter Bridge 2/Dragon Coins"
+                        "ref": "Dragon Coins/BB2/Dragon Coins"
                     }
                 ],
                 "map_locations": [
@@ -65,7 +65,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Map/Butter Bridge 2/Powerup Block #1"
+                        "ref": "Blocks/BB2/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -81,7 +81,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Map/Butter Bridge 2/Green Switch Palace Block #1"
+                        "ref": "Blocks/BB2/Green Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -97,7 +97,7 @@
                 "sections": [
                     {
                         "name": "Yoshi Block #1",
-                        "ref": "Map/Butter Bridge 2/Yoshi Block #1"
+                        "ref": "Blocks/BB2/Yoshi Block #1"
                     }
                 ],
                 "map_locations": [
@@ -113,7 +113,7 @@
                 "sections": [
                     {
                         "name": "Midway Point",
-                        "ref": "Map/Butter Bridge 2/Midway Point"
+                        "ref": "Midways/BB2/Midway Point"
                     }
                 ],
                 "map_locations": [
@@ -129,31 +129,31 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Map/Butter Bridge 2/Main room"
+                        "ref": "Rooms/BB2/0x000D"
                     },
                     {
                         "name": "Midway Point",
-                        "ref": "Map/Butter Bridge 2/Midway Point"
+                        "ref": "Midways/BB2/Midway Point"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Butter Bridge 2/Normal Exit"
+                        "ref": "Exits/BB2/Normal Exit"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Butter Bridge 2/Dragon Coins"
+                        "ref": "Dragon Coins/BB2/Dragon Coins"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Map/Butter Bridge 2/Powerup Block #1"
+                        "ref": "Blocks/BB2/Powerup Block #1"
                     },
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Map/Butter Bridge 2/Green Switch Palace Block #1"
+                        "ref": "Blocks/BB2/Green Switch Palace Block #1"
                     },
                     {
                         "name": "Yoshi Block #1",
-                        "ref": "Map/Butter Bridge 2/Yoshi Block #1"
+                        "ref": "Blocks/BB2/Yoshi Block #1"
                     }
                 ],
                 "map_locations": [
@@ -169,11 +169,11 @@
                 "sections": [
                     {
                         "name": "Dragon coin room",
-                        "ref": "Map/Butter Bridge 2/Dragon coin room"
+                        "ref": "Rooms/BB2/0x00DD"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Butter Bridge 2/Dragon Coins"
+                        "ref": "Dragon Coins/BB2/Dragon Coins"
                     },
                 ],
                 "map_locations": [
@@ -189,11 +189,11 @@
                 "sections": [
                     {
                         "name": "Dragon coin room",
-                        "ref": "Map/Butter Bridge 2/Dragon coin room"
+                        "ref": "Rooms/BB2/0x00DD"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Butter Bridge 2/Dragon Coins"
+                        "ref": "Dragon Coins/BB2/Dragon Coins"
                     },
                 ],
                 "map_locations": [
@@ -209,31 +209,31 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Map/Butter Bridge 2/Main room"
+                        "ref": "Rooms/BB2/0x000D"
                     },
                     {
                         "name": "Midway Point",
-                        "ref": "Map/Butter Bridge 2/Midway Point"
+                        "ref": "Midways/BB2/Midway Point"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Butter Bridge 2/Normal Exit"
+                        "ref": "Exits/BB2/Normal Exit"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Butter Bridge 2/Dragon Coins"
+                        "ref": "Dragon Coins/BB2/Dragon Coins"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Map/Butter Bridge 2/Powerup Block #1"
+                        "ref": "Blocks/BB2/Powerup Block #1"
                     },
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Map/Butter Bridge 2/Green Switch Palace Block #1"
+                        "ref": "Blocks/BB2/Green Switch Palace Block #1"
                     },
                     {
                         "name": "Yoshi Block #1",
-                        "ref": "Map/Butter Bridge 2/Yoshi Block #1"
+                        "ref": "Blocks/BB2/Yoshi Block #1"
                     }
                 ],
                 "map_locations": [

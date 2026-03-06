@@ -13,7 +13,7 @@
                 "sections": [
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Valley of Bowser 2/Normal Exit"
+                        "ref": "Exits/VB2/Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -34,7 +34,7 @@
                 "sections": [
                     {
                         "name": "Secret Exit",
-                        "ref": "Map/Valley of Bowser 2/Secret Exit"
+                        "ref": "Exits/VB2/Secret Exit"
                     }
                 ],
                 "map_locations": [
@@ -50,7 +50,7 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Valley of Bowser 2/Dragon Coins"
+                        "ref": "Dragon Coins/VB2/Dragon Coins"
                     }
                 ],
                 "map_locations": [
@@ -96,7 +96,7 @@
                 "sections": [
                     {
                         "name": "Hidden 1-Up",
-                        "ref": "Map/Valley of Bowser 2/Hidden 1-Up"
+                        "ref": "Hidden 1-Ups/VB2/Hidden 1-Up"
                     }
                 ],
                 "map_locations": [
@@ -117,7 +117,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Map/Valley of Bowser 2/Powerup Block #1"
+                        "ref": "Blocks/VB2/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -133,7 +133,7 @@
                 "sections": [
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Map/Valley of Bowser 2/Yellow Switch Palace Block #1"
+                        "ref": "Blocks/VB2/Yellow Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -149,7 +149,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Map/Valley of Bowser 2/Powerup Block #2"
+                        "ref": "Blocks/VB2/Powerup Block #2"
                     }
                 ],
                 "map_locations": [
@@ -165,7 +165,7 @@
                 "sections": [
                     {
                         "name": "Wings Block #1",
-                        "ref": "Map/Valley of Bowser 2/Wings Block #1"
+                        "ref": "Blocks/VB2/Wings Block #1"
                     }
                 ],
                 "map_locations": [
@@ -181,7 +181,7 @@
                 "sections": [
                     {
                         "name": "Midway Point",
-                        "ref": "Map/Valley of Bowser 2/Midway Point"
+                        "ref": "Midways/VB2/Midway Point"
                     }
                 ],
                 "map_locations": [
@@ -197,23 +197,23 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Map/Valley of Bowser 2/Main room"
+                        "ref": "Rooms/VB2/0x0115"
                     },
                     {
                         "name": "Midway Point",
-                        "ref": "Map/Valley of Bowser 2/Midway Point"
+                        "ref": "Midways/VB2/Midway Point"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Valley of Bowser 2/Dragon Coins"
+                        "ref": "Dragon Coins/VB2/Dragon Coins"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Map/Valley of Bowser 2/Powerup Block #1"
+                        "ref": "Blocks/VB2/Powerup Block #1"
                     },
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Map/Valley of Bowser 2/Yellow Switch Palace Block #1"
+                        "ref": "Blocks/VB2/Yellow Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -229,23 +229,23 @@
                 "sections": [
                     {
                         "name": "Moving rocks room",
-                        "ref": "Map/Valley of Bowser 2/Moving rocks room"
+                        "ref": "Rooms/VB2/0x01E3"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Valley of Bowser 2/Dragon Coins"
+                        "ref": "Dragon Coins/VB2/Dragon Coins"
                     },
                     {
                         "name": "Hidden 1-Up",
-                        "ref": "Map/Valley of Bowser 2/Hidden 1-Up"
+                        "ref": "Hidden 1-Ups/VB2/Hidden 1-Up"
                     },
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Map/Valley of Bowser 2/Powerup Block #2"
+                        "ref": "Blocks/VB2/Powerup Block #2"
                     },
                     {
                         "name": "Wings Block #1",
-                        "ref": "Map/Valley of Bowser 2/Wings Block #1"
+                        "ref": "Blocks/VB2/Wings Block #1"
                     }
                 ],
                 "map_locations": [
@@ -261,15 +261,15 @@
                 "sections": [
                     {
                         "name": "Rising rocks room",
-                        "ref": "Map/Valley of Bowser 2/Rising rocks room"
+                        "ref": "Rooms/VB2/0x01E2"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Valley of Bowser 2/Normal Exit"
+                        "ref": "Exits/VB2/Normal Exit"
                     },
                     {
                         "name": "Secret Exit",
-                        "ref": "Map/Valley of Bowser 2/Secret Exit"
+                        "ref": "Exits/VB2/Secret Exit"
                     }
                 ],
                 "map_locations": [
@@ -285,11 +285,11 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Valley of Bowser 2/Dragon Coins"
+                        "ref": "Dragon Coins/VB2/Dragon Coins"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Valley of Bowser 2/Normal Exit"
+                        "ref": "Exits/VB2/Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -305,35 +305,35 @@
                 "sections": [
                     {
                         "name": "Moving rocks room",
-                        "ref": "Map/Valley of Bowser 2/Moving rocks room"
+                        "ref": "Rooms/VB2/0x01E3"
                     },
                     {
                         "name": "Rising rocks room",
-                        "ref": "Map/Valley of Bowser 2/Rising rocks room"
+                        "ref": "Rooms/VB2/0x01E2"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Valley of Bowser 2/Normal Exit"
+                        "ref": "Exits/VB2/Normal Exit"
                     },
                     {
                         "name": "Secret Exit",
-                        "ref": "Map/Valley of Bowser 2/Secret Exit"
+                        "ref": "Exits/VB2/Secret Exit"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Valley of Bowser 2/Dragon Coins"
+                        "ref": "Dragon Coins/VB2/Dragon Coins"
                     },
                     {
                         "name": "Hidden 1-Up",
-                        "ref": "Map/Valley of Bowser 2/Hidden 1-Up"
+                        "ref": "Hidden 1-Ups/VB2/Hidden 1-Up"
                     },
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Map/Valley of Bowser 2/Powerup Block #2"
+                        "ref": "Blocks/VB2/Powerup Block #2"
                     },
                     {
                         "name": "Wings Block #1",
-                        "ref": "Map/Valley of Bowser 2/Wings Block #1"
+                        "ref": "Blocks/VB2/Wings Block #1"
                     }
                 ],
                 "map_locations": [
@@ -349,15 +349,15 @@
                 "sections": [
                     {
                         "name": "Rising rocks room",
-                        "ref": "Map/Valley of Bowser 2/Rising rocks room"
+                        "ref": "Rooms/VB2/0x01E2"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Valley of Bowser 2/Normal Exit"
+                        "ref": "Exits/VB2/Normal Exit"
                     },
                     {
                         "name": "Secret Exit",
-                        "ref": "Map/Valley of Bowser 2/Secret Exit"
+                        "ref": "Exits/VB2/Secret Exit"
                     }
                 ],
                 "map_locations": [
@@ -373,11 +373,11 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Valley of Bowser 2/Dragon Coins"
+                        "ref": "Dragon Coins/VB2/Dragon Coins"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Valley of Bowser 2/Normal Exit"
+                        "ref": "Exits/VB2/Normal Exit"
                     }
                 ],
                 "map_locations": [

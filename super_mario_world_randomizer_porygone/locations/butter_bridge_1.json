@@ -13,7 +13,7 @@
                 "sections": [
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Butter Bridge 1/Normal Exit"
+                        "ref": "Exits/BB1/Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -29,7 +29,7 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Butter Bridge 1/Dragon Coins"
+                        "ref": "Dragon Coins/BB1/Dragon Coins"
                     }
                 ],
                 "map_locations": [
@@ -65,7 +65,7 @@
                 "sections": [
                     {
                         "name": "1-Up from Bonus Block",
-                        "ref": "Map/Butter Bridge 1/1-Up from Bonus Block"
+                        "ref": "Bonus 1-Ups/BB1/1-Up from Bonus Block"
                     }
                 ],
                 "map_locations": [
@@ -81,7 +81,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Map/Butter Bridge 1/Powerup Block #1"
+                        "ref": "Blocks/BB1/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -97,7 +97,7 @@
                 "sections": [
                     {
                         "name": "Multi Coin Block #1",
-                        "ref": "Map/Butter Bridge 1/Multi Coin Block #1"
+                        "ref": "Blocks/BB1/Multi Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -113,7 +113,7 @@
                 "sections": [
                     {
                         "name": "Multi Coin Block #2",
-                        "ref": "Map/Butter Bridge 1/Multi Coin Block #2"
+                        "ref": "Blocks/BB1/Multi Coin Block #2"
                     }
                 ],
                 "map_locations": [
@@ -129,7 +129,7 @@
                 "sections": [
                     {
                         "name": "Multi Coin Block #3",
-                        "ref": "Map/Butter Bridge 1/Multi Coin Block #3"
+                        "ref": "Blocks/BB1/Multi Coin Block #3"
                     }
                 ],
                 "map_locations": [
@@ -145,7 +145,7 @@
                 "sections": [
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "ref": "Map/Butter Bridge 1/1-Up Mushroom Block #1"
+                        "ref": "Blocks/BB1/1-Up Mushroom Block #1"
                     }
                 ],
                 "map_locations": [
@@ -161,35 +161,35 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Map/Butter Bridge 1/Main room"
+                        "ref": "Rooms/BB1/0x000C"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Butter Bridge 1/Dragon Coins"
+                        "ref": "Dragon Coins/BB1/Dragon Coins"
                     },
                     {
                         "name": "1-Up from Bonus Block",
-                        "ref": "Map/Butter Bridge 1/1-Up from Bonus Block"
+                        "ref": "Bonus 1-Ups/BB1/1-Up from Bonus Block"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Map/Butter Bridge 1/Powerup Block #1"
+                        "ref": "Blocks/BB1/Powerup Block #1"
                     },
                     {
                         "name": "Multi Coin Block #1",
-                        "ref": "Map/Butter Bridge 1/Multi Coin Block #1"
+                        "ref": "Blocks/BB1/Multi Coin Block #1"
                     },
                     {
                         "name": "Multi Coin Block #2",
-                        "ref": "Map/Butter Bridge 1/Multi Coin Block #2"
+                        "ref": "Blocks/BB1/Multi Coin Block #2"
                     },
                     {
                         "name": "Multi Coin Block #3",
-                        "ref": "Map/Butter Bridge 1/Multi Coin Block #3"
+                        "ref": "Blocks/BB1/Multi Coin Block #3"
                     },
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "ref": "Map/Butter Bridge 1/1-Up Mushroom Block #1"
+                        "ref": "Blocks/BB1/1-Up Mushroom Block #1"
                     }
                 ],
                 "map_locations": [
@@ -205,11 +205,11 @@
                 "sections": [
                     {
                         "name": "Goal room",
-                        "ref": "Map/Butter Bridge 1/Goal room"
+                        "ref": "Rooms/BB1/0x00F3"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Butter Bridge 1/Normal Exit"
+                        "ref": "Exits/BB1/Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -225,11 +225,11 @@
                 "sections": [
                     {
                         "name": "Goal room",
-                        "ref": "Map/Butter Bridge 1/Goal room"
+                        "ref": "Rooms/BB1/0x00F3"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Butter Bridge 1/Normal Exit"
+                        "ref": "Exits/BB1/Normal Exit"
                     }
                 ],
                 "map_locations": [

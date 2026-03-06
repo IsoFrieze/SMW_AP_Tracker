@@ -1,3 +1,5 @@
+Tracker:AddLocations("locations/_all_checks.json")
+
 Tracker:AddLocations("locations/map.json")
 Tracker:AddLocations("locations/yoshis_island_1.json")
 Tracker:AddLocations("locations/yoshis_island_2.json")

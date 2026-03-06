@@ -13,7 +13,7 @@
                 "sections": [
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Soda Lake/Normal Exit"
+                        "ref": "Exits/SOL/Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -29,7 +29,7 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Soda Lake/Dragon Coins"
+                        "ref": "Dragon Coins/SOL/Dragon Coins"
                     }
                 ],
                 "map_locations": [
@@ -65,7 +65,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Map/Soda Lake/Powerup Block #1"
+                        "ref": "Blocks/SOL/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -81,15 +81,15 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Map/Soda Lake/Main room"
+                        "ref": "Rooms/SOL/0x0011"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Soda Lake/Dragon Coins"
+                        "ref": "Dragon Coins/SOL/Dragon Coins"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Map/Soda Lake/Powerup Block #1"
+                        "ref": "Blocks/SOL/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -105,11 +105,11 @@
                 "sections": [
                     {
                         "name": "Goal room",
-                        "ref": "Map/Soda Lake/Goal room"
+                        "ref": "Rooms/SOL/0x00C6"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Soda Lake/Normal Exit"
+                        "ref": "Exits/SOL/Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -125,11 +125,11 @@
                 "sections": [
                     {
                         "name": "Goal room",
-                        "ref": "Map/Soda Lake/Goal room"
+                        "ref": "Rooms/SOL/0x00C6"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Soda Lake/Normal Exit"
+                        "ref": "Exits/SOL/Normal Exit"
                     }
                 ],
                 "map_locations": [

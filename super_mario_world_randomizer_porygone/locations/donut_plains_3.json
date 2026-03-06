@@ -13,7 +13,7 @@
                 "sections": [
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Donut Plains 3/Normal Exit"
+                        "ref": "Exits/DP3/Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -29,7 +29,7 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Donut Plains 3/Dragon Coins"
+                        "ref": "Dragon Coins/DP3/Dragon Coins"
                     }
                 ],
                 "map_locations": [
@@ -65,7 +65,7 @@
                 "sections": [
                     {
                         "name": "1-Up from Bonus Block",
-                        "ref": "Map/Donut Plains 3/1-Up from Bonus Block"
+                        "ref": "Bonus 1-Ups/DP3/1-Up from Bonus Block"
                     }
                 ],
                 "map_locations": [
@@ -81,7 +81,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Map/Donut Plains 3/Green Switch Palace Block #1"
+                        "ref": "Blocks/DP3/Green Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -97,7 +97,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #1",
-                        "ref": "Map/Donut Plains 3/Coin Block #1"
+                        "ref": "Blocks/DP3/Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -113,7 +113,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #2",
-                        "ref": "Map/Donut Plains 3/Coin Block #2"
+                        "ref": "Blocks/DP3/Coin Block #2"
                     }
                 ],
                 "map_locations": [
@@ -129,7 +129,7 @@
                 "sections": [
                     {
                         "name": "Vine Block #1",
-                        "ref": "Map/Donut Plains 3/Vine Block #1"
+                        "ref": "Blocks/DP3/Vine Block #1"
                     }
                 ],
                 "map_locations": [
@@ -145,7 +145,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Map/Donut Plains 3/Powerup Block #1"
+                        "ref": "Blocks/DP3/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -161,7 +161,7 @@
                 "sections": [
                     {
                         "name": "Midway Point",
-                        "ref": "Map/Donut Plains 3/Midway Point"
+                        "ref": "Midways/DP3/Midway Point"
                     }
                 ],
                 "map_locations": [
@@ -177,39 +177,39 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Map/Donut Plains 3/Main room"
+                        "ref": "Rooms/DP3/0x0005"
                     },
                     {
                         "name": "Midway Point",
-                        "ref": "Map/Donut Plains 3/Midway Point"
+                        "ref": "Midways/DP3/Midway Point"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Donut Plains 3/Normal Exit"
+                        "ref": "Exits/DP3/Normal Exit"
                     },
                     {
                         "name": "1-Up from Bonus Block",
-                        "ref": "Map/Donut Plains 3/1-Up from Bonus Block"
+                        "ref": "Bonus 1-Ups/DP3/1-Up from Bonus Block"
                     },
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Map/Donut Plains 3/Green Switch Palace Block #1"
+                        "ref": "Blocks/DP3/Green Switch Palace Block #1"
                     },
                     {
                         "name": "Coin Block #1",
-                        "ref": "Map/Donut Plains 3/Coin Block #1"
+                        "ref": "Blocks/DP3/Coin Block #1"
                     },
                     {
                         "name": "Coin Block #2",
-                        "ref": "Map/Donut Plains 3/Coin Block #2"
+                        "ref": "Blocks/DP3/Coin Block #2"
                     },
                     {
                         "name": "Vine Block #1",
-                        "ref": "Map/Donut Plains 3/Vine Block #1"
+                        "ref": "Blocks/DP3/Vine Block #1"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Map/Donut Plains 3/Powerup Block #1"
+                        "ref": "Blocks/DP3/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -225,7 +225,7 @@
                 "sections": [
                     {
                         "name": "Bonus room",
-                        "ref": "Map/Donut Plains 3/Bonus room"
+                        "ref": "Rooms/DP3/0x00F4"
                     }
                 ],
                 "map_locations": [
@@ -241,7 +241,7 @@
                 "sections": [
                     {
                         "name": "Bonus room",
-                        "ref": "Map/Donut Plains 3/Bonus room"
+                        "ref": "Rooms/DP3/0x00F4"
                     }
                 ],
                 "map_locations": [
@@ -257,39 +257,39 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Map/Donut Plains 3/Main room"
+                        "ref": "Rooms/DP3/0x0005"
                     },
                     {
                         "name": "Midway Point",
-                        "ref": "Map/Donut Plains 3/Midway Point"
+                        "ref": "Midways/DP3/Midway Point"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Donut Plains 3/Normal Exit"
+                        "ref": "Exits/DP3/Normal Exit"
                     },
                     {
                         "name": "1-Up from Bonus Block",
-                        "ref": "Map/Donut Plains 3/1-Up from Bonus Block"
+                        "ref": "Bonus 1-Ups/DP3/1-Up from Bonus Block"
                     },
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Map/Donut Plains 3/Green Switch Palace Block #1"
+                        "ref": "Blocks/DP3/Green Switch Palace Block #1"
                     },
                     {
                         "name": "Coin Block #1",
-                        "ref": "Map/Donut Plains 3/Coin Block #1"
+                        "ref": "Blocks/DP3/Coin Block #1"
                     },
                     {
                         "name": "Coin Block #2",
-                        "ref": "Map/Donut Plains 3/Coin Block #2"
+                        "ref": "Blocks/DP3/Coin Block #2"
                     },
                     {
                         "name": "Vine Block #1",
-                        "ref": "Map/Donut Plains 3/Vine Block #1"
+                        "ref": "Blocks/DP3/Vine Block #1"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Map/Donut Plains 3/Powerup Block #1"
+                        "ref": "Blocks/DP3/Powerup Block #1"
                     }
                 ],
                 "map_locations": [

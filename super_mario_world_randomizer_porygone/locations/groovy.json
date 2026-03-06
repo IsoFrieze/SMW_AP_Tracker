@@ -13,7 +13,7 @@
                 "sections": [
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Groovy/Normal Exit"
+                        "ref": "Exits/SZ5/Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -29,7 +29,7 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Groovy/Dragon Coins"
+                        "ref": "Dragon Coins/SZ5/Dragon Coins"
                     }
                 ],
                 "map_locations": [
@@ -65,7 +65,7 @@
                 "sections": [
                     {
                         "name": "Yoshi Block #1",
-                        "ref": "Map/Groovy/Yoshi Block #1"
+                        "ref": "Blocks/SZ5/Yoshi Block #1"
                     }
                 ],
                 "map_locations": [
@@ -81,19 +81,19 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Map/Groovy/Main room"
+                        "ref": "Rooms/SZ5/0x0128"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Groovy/Normal Exit"
+                        "ref": "Exits/SZ5/Normal Exit"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Groovy/Dragon Coins"
+                        "ref": "Dragon Coins/SZ5/Dragon Coins"
                     },
                     {
                         "name": "Yoshi Block #1",
-                        "ref": "Map/Groovy/Yoshi Block #1"
+                        "ref": "Blocks/SZ5/Yoshi Block #1"
                     }
                 ],
                 "map_locations": [

@@ -13,7 +13,7 @@
                 "sections": [
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Star Road 3/Normal Exit"
+                        "ref": "Exits/SR3/Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -29,7 +29,7 @@
                 "sections": [
                     {
                         "name": "Secret Exit",
-                        "ref": "Map/Star Road 3/Secret Exit"
+                        "ref": "Exits/SR3/Secret Exit"
                     }
                 ],
                 "map_locations": [
@@ -45,7 +45,7 @@
                 "sections": [
                     {
                         "name": "Key Block #1",
-                        "ref": "Map/Star Road 3/Key Block #1"
+                        "ref": "Blocks/SR3/Key Block #1"
                     }
                 ],
                 "map_locations": [
@@ -61,19 +61,19 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Map/Star Road 3/Main room"
+                        "ref": "Rooms/SR3/0x0132"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Star Road 3/Normal Exit"
+                        "ref": "Exits/SR3/Normal Exit"
                     },
                     {
                         "name": "Secret Exit",
-                        "ref": "Map/Star Road 3/Secret Exit"
+                        "ref": "Exits/SR3/Secret Exit"
                     },
                     {
                         "name": "Key Block #1",
-                        "ref": "Map/Star Road 3/Key Block #1"
+                        "ref": "Blocks/SR3/Key Block #1"
                     }
                 ],
                 "map_locations": [

@@ -13,7 +13,7 @@
                 "sections": [
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Vanilla Ghost House/Normal Exit"
+                        "ref": "Exits/VDH/Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -29,7 +29,7 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Vanilla Ghost House/Dragon Coins"
+                        "ref": "Dragon Coins/VDH/Dragon Coins"
                     }
                 ],
                 "map_locations": [
@@ -65,7 +65,7 @@
                 "sections": [
                     {
                         "name": "Hidden 1-Up",
-                        "ref": "Map/Vanilla Ghost House/Hidden 1-Up"
+                        "ref": "Hidden 1-Ups/VDH/Hidden 1-Up"
                     }
                 ],
                 "map_locations": [
@@ -81,7 +81,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Map/Vanilla Ghost House/Powerup Block #1"
+                        "ref": "Blocks/VDH/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -97,7 +97,7 @@
                 "sections": [
                     {
                         "name": "Vine Block #1",
-                        "ref": "Map/Vanilla Ghost House/Vine Block #1"
+                        "ref": "Blocks/VDH/Vine Block #1"
                     }
                 ],
                 "map_locations": [
@@ -113,7 +113,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Map/Vanilla Ghost House/Powerup Block #2"
+                        "ref": "Blocks/VDH/Powerup Block #2"
                     }
                 ],
                 "map_locations": [
@@ -129,7 +129,7 @@
                 "sections": [
                     {
                         "name": "Multi Coin Block #1",
-                        "ref": "Map/Vanilla Ghost House/Multi Coin Block #1"
+                        "ref": "Blocks/VDH/Multi Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -145,7 +145,7 @@
                 "sections": [
                     {
                         "name": "Blue P-Switch Block #1",
-                        "ref": "Map/Vanilla Ghost House/Blue P-Switch Block #1"
+                        "ref": "Blocks/VDH/Blue P-Switch Block #1"
                     }
                 ],
                 "map_locations": [
@@ -161,31 +161,31 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Map/Vanilla Ghost House/Main room"
+                        "ref": "Rooms/VDH/0x0107"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Vanilla Ghost House/Dragon Coins"
+                        "ref": "Dragon Coins/VDH/Dragon Coins"
                     },
                     {
                         "name": "Hidden 1-Up",
-                        "ref": "Map/Vanilla Ghost House/Hidden 1-Up"
+                        "ref": "Hidden 1-Ups/VDH/Hidden 1-Up"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Map/Vanilla Ghost House/Powerup Block #1"
+                        "ref": "Blocks/VDH/Powerup Block #1"
                     },
                     {
                         "name": "Vine Block #1",
-                        "ref": "Map/Vanilla Ghost House/Vine Block #1"
+                        "ref": "Blocks/VDH/Vine Block #1"
                     },
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Map/Vanilla Ghost House/Powerup Block #2"
+                        "ref": "Blocks/VDH/Powerup Block #2"
                     },
                     {
                         "name": "Multi Coin Block #1",
-                        "ref": "Map/Vanilla Ghost House/Multi Coin Block #1"
+                        "ref": "Blocks/VDH/Multi Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -201,15 +201,15 @@
                 "sections": [
                     {
                         "name": "Gas bubbles room",
-                        "ref": "Map/Vanilla Ghost House/Gas bubbles room"
+                        "ref": "Rooms/VDH/0x01EA"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Vanilla Ghost House/Dragon Coins"
+                        "ref": "Dragon Coins/VDH/Dragon Coins"
                     },
                     {
                         "name": "Blue P-Switch Block #1",
-                        "ref": "Map/Vanilla Ghost House/Blue P-Switch Block #1"
+                        "ref": "Blocks/VDH/Blue P-Switch Block #1"
                     }
                 ],
                 "map_locations": [
@@ -225,11 +225,11 @@
                 "sections": [
                     {
                         "name": "Goal room",
-                        "ref": "Map/Vanilla Ghost House/Goal room"
+                        "ref": "Rooms/VDH/0x01F9"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Vanilla Ghost House/Normal Exit"
+                        "ref": "Exits/VDH/Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -245,19 +245,19 @@
                 "sections": [
                     {
                         "name": "Gas bubbles room",
-                        "ref": "Map/Vanilla Ghost House/Gas bubbles room"
+                        "ref": "Rooms/VDH/0x01EA"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Vanilla Ghost House/Normal Exit"
+                        "ref": "Exits/VDH/Normal Exit"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Vanilla Ghost House/Dragon Coins"
+                        "ref": "Dragon Coins/VDH/Dragon Coins"
                     },
                     {
                         "name": "Blue P-Switch Block #1",
-                        "ref": "Map/Vanilla Ghost House/Blue P-Switch Block #1"
+                        "ref": "Blocks/VDH/Blue P-Switch Block #1"
                     }
                 ],
                 "map_locations": [
@@ -273,11 +273,11 @@
                 "sections": [
                     {
                         "name": "Goal room",
-                        "ref": "Map/Vanilla Ghost House/Goal room"
+                        "ref": "Rooms/VDH/0x01F9"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Vanilla Ghost House/Normal Exit"
+                        "ref": "Exits/VDH/Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -293,31 +293,31 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Map/Vanilla Ghost House/Main room"
+                        "ref": "Rooms/VDH/0x0107"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Vanilla Ghost House/Dragon Coins"
+                        "ref": "Dragon Coins/VDH/Dragon Coins"
                     },
                     {
                         "name": "Hidden 1-Up",
-                        "ref": "Map/Vanilla Ghost House/Hidden 1-Up"
+                        "ref": "Hidden 1-Ups/VDH/Hidden 1-Up"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Map/Vanilla Ghost House/Powerup Block #1"
+                        "ref": "Blocks/VDH/Powerup Block #1"
                     },
                     {
                         "name": "Vine Block #1",
-                        "ref": "Map/Vanilla Ghost House/Vine Block #1"
+                        "ref": "Blocks/VDH/Vine Block #1"
                     },
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Map/Vanilla Ghost House/Powerup Block #2"
+                        "ref": "Blocks/VDH/Powerup Block #2"
                     },
                     {
                         "name": "Multi Coin Block #1",
-                        "ref": "Map/Vanilla Ghost House/Multi Coin Block #1"
+                        "ref": "Blocks/VDH/Multi Coin Block #1"
                     }
                 ],
                 "map_locations": [

@@ -13,7 +13,7 @@
                 "sections": [
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Chocolate Island 2/Normal Exit"
+                        "ref": "Exits/CI2/Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -34,7 +34,7 @@
                 "sections": [
                     {
                         "name": "Secret Exit",
-                        "ref": "Map/Chocolate Island 2/Secret Exit"
+                        "ref": "Exits/CI2/Secret Exit"
                     }
                 ],
                 "map_locations": [
@@ -50,7 +50,7 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Chocolate Island 2/Dragon Coins"
+                        "ref": "Dragon Coins/CI2/Dragon Coins"
                     }
                 ],
                 "map_locations": [
@@ -96,7 +96,7 @@
                 "sections": [
                     {
                         "name": "Hidden 1-Up",
-                        "ref": "Map/Chocolate Island 2/Hidden 1-Up"
+                        "ref": "Hidden 1-Ups/CI2/Hidden 1-Up"
                     }
                 ],
                 "map_locations": [
@@ -112,7 +112,7 @@
                 "sections": [
                     {
                         "name": "Multi Coin Block #1",
-                        "ref": "Map/Chocolate Island 2/Multi Coin Block #1"
+                        "ref": "Blocks/CI2/Multi Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -128,7 +128,7 @@
                 "sections": [
                     {
                         "name": "Invisible Coin Block #1",
-                        "ref": "Map/Chocolate Island 2/Invisible Coin Block #1"
+                        "ref": "Blocks/CI2/Invisible Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -144,7 +144,7 @@
                 "sections": [
                     {
                         "name": "Yoshi Block #1",
-                        "ref": "Map/Chocolate Island 2/Yoshi Block #1"
+                        "ref": "Blocks/CI2/Yoshi Block #1"
                     }
                 ],
                 "map_locations": [
@@ -160,7 +160,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #1",
-                        "ref": "Map/Chocolate Island 2/Coin Block #1"
+                        "ref": "Blocks/CI2/Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -176,7 +176,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #2",
-                        "ref": "Map/Chocolate Island 2/Coin Block #2"
+                        "ref": "Blocks/CI2/Coin Block #2"
                     }
                 ],
                 "map_locations": [
@@ -192,7 +192,7 @@
                 "sections": [
                     {
                         "name": "Multi Coin Block #2",
-                        "ref": "Map/Chocolate Island 2/Multi Coin Block #2"
+                        "ref": "Blocks/CI2/Multi Coin Block #2"
                     }
                 ],
                 "map_locations": [
@@ -208,7 +208,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Map/Chocolate Island 2/Powerup Block #1"
+                        "ref": "Blocks/CI2/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -224,7 +224,7 @@
                 "sections": [
                     {
                         "name": "Blue P-Switch Block #1",
-                        "ref": "Map/Chocolate Island 2/Blue P-Switch Block #1"
+                        "ref": "Blocks/CI2/Blue P-Switch Block #1"
                     }
                 ],
                 "map_locations": [
@@ -240,7 +240,7 @@
                 "sections": [
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Map/Chocolate Island 2/Yellow Switch Palace Block #1"
+                        "ref": "Blocks/CI2/Yellow Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -256,7 +256,7 @@
                 "sections": [
                     {
                         "name": "Yellow Switch Palace Block #2",
-                        "ref": "Map/Chocolate Island 2/Yellow Switch Palace Block #2"
+                        "ref": "Blocks/CI2/Yellow Switch Palace Block #2"
                     }
                 ],
                 "map_locations": [
@@ -272,7 +272,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Map/Chocolate Island 2/Green Switch Palace Block #1"
+                        "ref": "Blocks/CI2/Green Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -288,7 +288,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #2",
-                        "ref": "Map/Chocolate Island 2/Green Switch Palace Block #2"
+                        "ref": "Blocks/CI2/Green Switch Palace Block #2"
                     }
                 ],
                 "map_locations": [
@@ -304,7 +304,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #3",
-                        "ref": "Map/Chocolate Island 2/Green Switch Palace Block #3"
+                        "ref": "Blocks/CI2/Green Switch Palace Block #3"
                     }
                 ],
                 "map_locations": [
@@ -320,7 +320,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #4",
-                        "ref": "Map/Chocolate Island 2/Green Switch Palace Block #4"
+                        "ref": "Blocks/CI2/Green Switch Palace Block #4"
                     }
                 ],
                 "map_locations": [
@@ -336,7 +336,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #5",
-                        "ref": "Map/Chocolate Island 2/Green Switch Palace Block #5"
+                        "ref": "Blocks/CI2/Green Switch Palace Block #5"
                     }
                 ],
                 "map_locations": [
@@ -352,7 +352,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #6",
-                        "ref": "Map/Chocolate Island 2/Green Switch Palace Block #6"
+                        "ref": "Blocks/CI2/Green Switch Palace Block #6"
                     }
                 ],
                 "map_locations": [
@@ -368,23 +368,23 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Map/Chocolate Island 2/Main room"
+                        "ref": "Rooms/CI2/0x0024"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Chocolate Island 2/Dragon Coins"
+                        "ref": "Dragon Coins/CI2/Dragon Coins"
                     },
                     {
                         "name": "Multi Coin Block #1",
-                        "ref": "Map/Chocolate Island 2/Multi Coin Block #1"
+                        "ref": "Blocks/CI2/Multi Coin Block #1"
                     },
                     {
                         "name": "Invisible Coin Block #1",
-                        "ref": "Map/Chocolate Island 2/Invisible Coin Block #1"
+                        "ref": "Blocks/CI2/Invisible Coin Block #1"
                     },
                     {
                         "name": "Yoshi Block #1",
-                        "ref": "Map/Chocolate Island 2/Yoshi Block #1"
+                        "ref": "Blocks/CI2/Yoshi Block #1"
                     }
                 ],
                 "map_locations": [
@@ -400,7 +400,7 @@
                 "sections": [
                     {
                         "name": "Group A rooms",
-                        "ref": "Map/Chocolate Island 2/Group A rooms"
+                        "ref": "Rooms/CI2/0x00CF"
                     }
                 ],
                 "map_locations": [
@@ -416,31 +416,31 @@
                 "sections": [
                     {
                         "name": "Group A rooms",
-                        "ref": "Map/Chocolate Island 2/Group A rooms"
+                        "ref": "Rooms/CI2/0x00CF"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Chocolate Island 2/Dragon Coins"
+                        "ref": "Dragon Coins/CI2/Dragon Coins"
                     },
                     {
                         "name": "Hidden 1-Up",
-                        "ref": "Map/Chocolate Island 2/Hidden 1-Up"
+                        "ref": "Hidden 1-Ups/CI2/Hidden 1-Up"
                     },
                     {
                         "name": "Coin Block #1",
-                        "ref": "Map/Chocolate Island 2/Coin Block #1"
+                        "ref": "Blocks/CI2/Coin Block #1"
                     },
                     {
                         "name": "Coin Block #2",
-                        "ref": "Map/Chocolate Island 2/Coin Block #2"
+                        "ref": "Blocks/CI2/Coin Block #2"
                     },
                     {
                         "name": "Multi Coin Block #2",
-                        "ref": "Map/Chocolate Island 2/Multi Coin Block #2"
+                        "ref": "Blocks/CI2/Multi Coin Block #2"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Map/Chocolate Island 2/Powerup Block #1"
+                        "ref": "Blocks/CI2/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -456,11 +456,11 @@
                 "sections": [
                     {
                         "name": "Group A rooms",
-                        "ref": "Map/Chocolate Island 2/Group A rooms"
+                        "ref": "Rooms/CI2/0x00CF"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Chocolate Island 2/Dragon Coins"
+                        "ref": "Dragon Coins/CI2/Dragon Coins"
                     }
                 ],
                 "map_locations": [
@@ -476,11 +476,11 @@
                 "sections": [
                     {
                         "name": "Group B rooms",
-                        "ref": "Map/Chocolate Island 2/Group B rooms"
+                        "ref": "Rooms/CI2/0x00CE"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Chocolate Island 2/Dragon Coins"
+                        "ref": "Dragon Coins/CI2/Dragon Coins"
                     }
                 ],
                 "map_locations": [
@@ -496,11 +496,11 @@
                 "sections": [
                     {
                         "name": "Group B rooms",
-                        "ref": "Map/Chocolate Island 2/Group B rooms"
+                        "ref": "Rooms/CI2/0x00CE"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Chocolate Island 2/Dragon Coins"
+                        "ref": "Dragon Coins/CI2/Dragon Coins"
                     }
                 ],
                 "map_locations": [
@@ -516,43 +516,43 @@
                 "sections": [
                     {
                         "name": "Group B rooms",
-                        "ref": "Map/Chocolate Island 2/Group B rooms"
+                        "ref": "Rooms/CI2/0x00CE"
                     },
                     {
                         "name": "Secret Exit",
-                        "ref": "Map/Chocolate Island 2/Secret Exit"
+                        "ref": "Exits/CI2/Secret Exit"
                     },
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Map/Chocolate Island 2/Yellow Switch Palace Block #1"
+                        "ref": "Blocks/CI2/Yellow Switch Palace Block #1"
                     },
                     {
                         "name": "Yellow Switch Palace Block #2",
-                        "ref": "Map/Chocolate Island 2/Yellow Switch Palace Block #2"
+                        "ref": "Blocks/CI2/Yellow Switch Palace Block #2"
                     },
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Map/Chocolate Island 2/Green Switch Palace Block #1"
+                        "ref": "Blocks/CI2/Green Switch Palace Block #1"
                     },
                     {
                         "name": "Green Switch Palace Block #2",
-                        "ref": "Map/Chocolate Island 2/Green Switch Palace Block #2"
+                        "ref": "Blocks/CI2/Green Switch Palace Block #2"
                     },
                     {
                         "name": "Green Switch Palace Block #3",
-                        "ref": "Map/Chocolate Island 2/Green Switch Palace Block #3"
+                        "ref": "Blocks/CI2/Green Switch Palace Block #3"
                     },
                     {
                         "name": "Green Switch Palace Block #4",
-                        "ref": "Map/Chocolate Island 2/Green Switch Palace Block #4"
+                        "ref": "Blocks/CI2/Green Switch Palace Block #4"
                     },
                     {
                         "name": "Green Switch Palace Block #5",
-                        "ref": "Map/Chocolate Island 2/Green Switch Palace Block #5"
+                        "ref": "Blocks/CI2/Green Switch Palace Block #5"
                     },
                     {
                         "name": "Green Switch Palace Block #6",
-                        "ref": "Map/Chocolate Island 2/Green Switch Palace Block #6"
+                        "ref": "Blocks/CI2/Green Switch Palace Block #6"
                     }
                 ],
                 "map_locations": [
@@ -568,11 +568,11 @@
                 "sections": [
                     {
                         "name": "Group C rooms",
-                        "ref": "Map/Chocolate Island 2/Group C rooms"
+                        "ref": "Rooms/CI2/0x00CD"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Chocolate Island 2/Normal Exit"
+                        "ref": "Exits/CI2/Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -588,19 +588,19 @@
                 "sections": [
                     {
                         "name": "Group C rooms",
-                        "ref": "Map/Chocolate Island 2/Group C rooms"
+                        "ref": "Rooms/CI2/0x00CD"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Chocolate Island 2/Dragon Coins"
+                        "ref": "Dragon Coins/CI2/Dragon Coins"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Chocolate Island 2/Normal Exit"
+                        "ref": "Exits/CI2/Normal Exit"
                     },
                     {
                         "name": "Blue P-Switch Block #1",
-                        "ref": "Map/Chocolate Island 2/Blue P-Switch Block #1"
+                        "ref": "Blocks/CI2/Blue P-Switch Block #1"
                     }
                 ],
                 "map_locations": [
@@ -616,59 +616,59 @@
                 "sections": [
                     {
                         "name": "Group A rooms",
-                        "ref": "Map/Chocolate Island 2/Group A rooms"
+                        "ref": "Rooms/CI2/0x00CF"
                     },
                     {
                         "name": "Group B rooms",
-                        "ref": "Map/Chocolate Island 2/Group B rooms"
+                        "ref": "Rooms/CI2/0x00CE"
                     },
                     {
                         "name": "Group C rooms",
-                        "ref": "Map/Chocolate Island 2/Group C rooms"
+                        "ref": "Rooms/CI2/0x00CD"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Chocolate Island 2/Normal Exit"
+                        "ref": "Exits/CI2/Normal Exit"
                     },
                     {
                         "name": "Secret Exit",
-                        "ref": "Map/Chocolate Island 2/Secret Exit"
+                        "ref": "Exits/CI2/Secret Exit"
                     },
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Map/Chocolate Island 2/Yellow Switch Palace Block #1"
+                        "ref": "Blocks/CI2/Yellow Switch Palace Block #1"
                     },
                     {
                         "name": "Yellow Switch Palace Block #2",
-                        "ref": "Map/Chocolate Island 2/Yellow Switch Palace Block #2"
+                        "ref": "Blocks/CI2/Yellow Switch Palace Block #2"
                     },
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Map/Chocolate Island 2/Green Switch Palace Block #1"
+                        "ref": "Blocks/CI2/Green Switch Palace Block #1"
                     },
                     {
                         "name": "Green Switch Palace Block #2",
-                        "ref": "Map/Chocolate Island 2/Green Switch Palace Block #2"
+                        "ref": "Blocks/CI2/Green Switch Palace Block #2"
                     },
                     {
                         "name": "Green Switch Palace Block #3",
-                        "ref": "Map/Chocolate Island 2/Green Switch Palace Block #3"
+                        "ref": "Blocks/CI2/Green Switch Palace Block #3"
                     },
                     {
                         "name": "Green Switch Palace Block #4",
-                        "ref": "Map/Chocolate Island 2/Green Switch Palace Block #4"
+                        "ref": "Blocks/CI2/Green Switch Palace Block #4"
                     },
                     {
                         "name": "Green Switch Palace Block #5",
-                        "ref": "Map/Chocolate Island 2/Green Switch Palace Block #5"
+                        "ref": "Blocks/CI2/Green Switch Palace Block #5"
                     },
                     {
                         "name": "Green Switch Palace Block #6",
-                        "ref": "Map/Chocolate Island 2/Green Switch Palace Block #6"
+                        "ref": "Blocks/CI2/Green Switch Palace Block #6"
                     },
                     {
                         "name": "Blue P-Switch Block #1",
-                        "ref": "Map/Chocolate Island 2/Blue P-Switch Block #1"
+                        "ref": "Blocks/CI2/Blue P-Switch Block #1"
                     }
                 ],
                 "map_locations": [
@@ -684,83 +684,83 @@
                 "sections": [                    
                     {
                         "name": "Group A rooms",
-                        "ref": "Map/Chocolate Island 2/Group A rooms"
+                        "ref": "Rooms/CI2/0x00CF"
                     },
                     {
                         "name": "Group B rooms",
-                        "ref": "Map/Chocolate Island 2/Group B rooms"
+                        "ref": "Rooms/CI2/0x00CE"
                     },
                     {
                         "name": "Group C rooms",
-                        "ref": "Map/Chocolate Island 2/Group C rooms"
+                        "ref": "Rooms/CI2/0x00CD"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Chocolate Island 2/Dragon Coins"
+                        "ref": "Dragon Coins/CI2/Dragon Coins"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Chocolate Island 2/Normal Exit"
+                        "ref": "Exits/CI2/Normal Exit"
                     },
                     {
                         "name": "Secret Exit",
-                        "ref": "Map/Chocolate Island 2/Secret Exit"
+                        "ref": "Exits/CI2/Secret Exit"
                     },
                     {
                         "name": "Hidden 1-Up",
-                        "ref": "Map/Chocolate Island 2/Hidden 1-Up"
+                        "ref": "Hidden 1-Ups/CI2/Hidden 1-Up"
                     },
                     {
                         "name": "Coin Block #1",
-                        "ref": "Map/Chocolate Island 2/Coin Block #1"
+                        "ref": "Blocks/CI2/Coin Block #1"
                     },
                     {
                         "name": "Coin Block #2",
-                        "ref": "Map/Chocolate Island 2/Coin Block #2"
+                        "ref": "Blocks/CI2/Coin Block #2"
                     },
                     {
                         "name": "Multi Coin Block #2",
-                        "ref": "Map/Chocolate Island 2/Multi Coin Block #2"
+                        "ref": "Blocks/CI2/Multi Coin Block #2"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Map/Chocolate Island 2/Powerup Block #1"
+                        "ref": "Blocks/CI2/Powerup Block #1"
                     },
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Map/Chocolate Island 2/Yellow Switch Palace Block #1"
+                        "ref": "Blocks/CI2/Yellow Switch Palace Block #1"
                     },
                     {
                         "name": "Yellow Switch Palace Block #2",
-                        "ref": "Map/Chocolate Island 2/Yellow Switch Palace Block #2"
+                        "ref": "Blocks/CI2/Yellow Switch Palace Block #2"
                     },
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Map/Chocolate Island 2/Green Switch Palace Block #1"
+                        "ref": "Blocks/CI2/Green Switch Palace Block #1"
                     },
                     {
                         "name": "Green Switch Palace Block #2",
-                        "ref": "Map/Chocolate Island 2/Green Switch Palace Block #2"
+                        "ref": "Blocks/CI2/Green Switch Palace Block #2"
                     },
                     {
                         "name": "Green Switch Palace Block #3",
-                        "ref": "Map/Chocolate Island 2/Green Switch Palace Block #3"
+                        "ref": "Blocks/CI2/Green Switch Palace Block #3"
                     },
                     {
                         "name": "Green Switch Palace Block #4",
-                        "ref": "Map/Chocolate Island 2/Green Switch Palace Block #4"
+                        "ref": "Blocks/CI2/Green Switch Palace Block #4"
                     },
                     {
                         "name": "Green Switch Palace Block #5",
-                        "ref": "Map/Chocolate Island 2/Green Switch Palace Block #5"
+                        "ref": "Blocks/CI2/Green Switch Palace Block #5"
                     },
                     {
                         "name": "Green Switch Palace Block #6",
-                        "ref": "Map/Chocolate Island 2/Green Switch Palace Block #6"
+                        "ref": "Blocks/CI2/Green Switch Palace Block #6"
                     },
                     {
                         "name": "Blue P-Switch Block #1",
-                        "ref": "Map/Chocolate Island 2/Blue P-Switch Block #1"
+                        "ref": "Blocks/CI2/Blue P-Switch Block #1"
                     }
                 ],
                 "map_locations": [
@@ -776,59 +776,59 @@
                 "sections": [
                     {
                         "name": "Group A rooms",
-                        "ref": "Map/Chocolate Island 2/Group A rooms"
+                        "ref": "Rooms/CI2/0x00CF"
                     },
                     {
                         "name": "Group B rooms",
-                        "ref": "Map/Chocolate Island 2/Group B rooms"
+                        "ref": "Rooms/CI2/0x00CE"
                     },
                     {
                         "name": "Group C rooms",
-                        "ref": "Map/Chocolate Island 2/Group C rooms"
+                        "ref": "Rooms/CI2/0x00CD"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Chocolate Island 2/Normal Exit"
+                        "ref": "Exits/CI2/Normal Exit"
                     },
                     {
                         "name": "Secret Exit",
-                        "ref": "Map/Chocolate Island 2/Secret Exit"
+                        "ref": "Exits/CI2/Secret Exit"
                     },
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Map/Chocolate Island 2/Yellow Switch Palace Block #1"
+                        "ref": "Blocks/CI2/Yellow Switch Palace Block #1"
                     },
                     {
                         "name": "Yellow Switch Palace Block #2",
-                        "ref": "Map/Chocolate Island 2/Yellow Switch Palace Block #2"
+                        "ref": "Blocks/CI2/Yellow Switch Palace Block #2"
                     },
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Map/Chocolate Island 2/Green Switch Palace Block #1"
+                        "ref": "Blocks/CI2/Green Switch Palace Block #1"
                     },
                     {
                         "name": "Green Switch Palace Block #2",
-                        "ref": "Map/Chocolate Island 2/Green Switch Palace Block #2"
+                        "ref": "Blocks/CI2/Green Switch Palace Block #2"
                     },
                     {
                         "name": "Green Switch Palace Block #3",
-                        "ref": "Map/Chocolate Island 2/Green Switch Palace Block #3"
+                        "ref": "Blocks/CI2/Green Switch Palace Block #3"
                     },
                     {
                         "name": "Green Switch Palace Block #4",
-                        "ref": "Map/Chocolate Island 2/Green Switch Palace Block #4"
+                        "ref": "Blocks/CI2/Green Switch Palace Block #4"
                     },
                     {
                         "name": "Green Switch Palace Block #5",
-                        "ref": "Map/Chocolate Island 2/Green Switch Palace Block #5"
+                        "ref": "Blocks/CI2/Green Switch Palace Block #5"
                     },
                     {
                         "name": "Green Switch Palace Block #6",
-                        "ref": "Map/Chocolate Island 2/Green Switch Palace Block #6"
+                        "ref": "Blocks/CI2/Green Switch Palace Block #6"
                     },
                     {
                         "name": "Blue P-Switch Block #1",
-                        "ref": "Map/Chocolate Island 2/Blue P-Switch Block #1"
+                        "ref": "Blocks/CI2/Blue P-Switch Block #1"
                     }
                 ],
                 "map_locations": [
@@ -844,19 +844,19 @@
                 "sections": [
                     {
                         "name": "Group B rooms",
-                        "ref": "Map/Chocolate Island 2/Group B rooms"
+                        "ref": "Rooms/CI2/0x00CE"
                     },
                     {
                         "name": "Group C rooms",
-                        "ref": "Map/Chocolate Island 2/Group C rooms"
+                        "ref": "Rooms/CI2/0x00CD"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Chocolate Island 2/Normal Exit"
+                        "ref": "Exits/CI2/Normal Exit"
                     },
                     {
                         "name": "Blue P-Switch Block #1",
-                        "ref": "Map/Chocolate Island 2/Blue P-Switch Block #1"
+                        "ref": "Blocks/CI2/Blue P-Switch Block #1"
                     }
                 ],
                 "map_locations": [
@@ -882,23 +882,23 @@
                 "sections": [
                     {
                         "name": "Group B rooms",
-                        "ref": "Map/Chocolate Island 2/Group B rooms"
+                        "ref": "Rooms/CI2/0x00CE"
                     },
                     {
                         "name": "Group C rooms",
-                        "ref": "Map/Chocolate Island 2/Group C rooms"
+                        "ref": "Rooms/CI2/0x00CD"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Chocolate Island 2/Dragon Coins"
+                        "ref": "Dragon Coins/CI2/Dragon Coins"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Chocolate Island 2/Normal Exit"
+                        "ref": "Exits/CI2/Normal Exit"
                     },
                     {
                         "name": "Blue P-Switch Block #1",
-                        "ref": "Map/Chocolate Island 2/Blue P-Switch Block #1"
+                        "ref": "Blocks/CI2/Blue P-Switch Block #1"
                     }
                 ],
                 "map_locations": [
@@ -924,43 +924,43 @@
                 "sections": [
                     {
                         "name": "Group B rooms",
-                        "ref": "Map/Chocolate Island 2/Group B rooms"
+                        "ref": "Rooms/CI2/0x00CE"
                     },
                     {
                         "name": "Secret Exit",
-                        "ref": "Map/Chocolate Island 2/Secret Exit"
+                        "ref": "Exits/CI2/Secret Exit"
                     },
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Map/Chocolate Island 2/Yellow Switch Palace Block #1"
+                        "ref": "Blocks/CI2/Yellow Switch Palace Block #1"
                     },
                     {
                         "name": "Yellow Switch Palace Block #2",
-                        "ref": "Map/Chocolate Island 2/Yellow Switch Palace Block #2"
+                        "ref": "Blocks/CI2/Yellow Switch Palace Block #2"
                     },
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Map/Chocolate Island 2/Green Switch Palace Block #1"
+                        "ref": "Blocks/CI2/Green Switch Palace Block #1"
                     },
                     {
                         "name": "Green Switch Palace Block #2",
-                        "ref": "Map/Chocolate Island 2/Green Switch Palace Block #2"
+                        "ref": "Blocks/CI2/Green Switch Palace Block #2"
                     },
                     {
                         "name": "Green Switch Palace Block #3",
-                        "ref": "Map/Chocolate Island 2/Green Switch Palace Block #3"
+                        "ref": "Blocks/CI2/Green Switch Palace Block #3"
                     },
                     {
                         "name": "Green Switch Palace Block #4",
-                        "ref": "Map/Chocolate Island 2/Green Switch Palace Block #4"
+                        "ref": "Blocks/CI2/Green Switch Palace Block #4"
                     },
                     {
                         "name": "Green Switch Palace Block #5",
-                        "ref": "Map/Chocolate Island 2/Green Switch Palace Block #5"
+                        "ref": "Blocks/CI2/Green Switch Palace Block #5"
                     },
                     {
                         "name": "Green Switch Palace Block #6",
-                        "ref": "Map/Chocolate Island 2/Green Switch Palace Block #6"
+                        "ref": "Blocks/CI2/Green Switch Palace Block #6"
                     }
                 ],
                 "map_locations": [
@@ -986,11 +986,11 @@
                 "sections": [
                     {
                         "name": "Group C rooms",
-                        "ref": "Map/Chocolate Island 2/Group C rooms"
+                        "ref": "Rooms/CI2/0x00CD"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Chocolate Island 2/Normal Exit"
+                        "ref": "Exits/CI2/Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -1011,19 +1011,19 @@
                 "sections": [
                     {
                         "name": "Group C rooms",
-                        "ref": "Map/Chocolate Island 2/Group C rooms"
+                        "ref": "Rooms/CI2/0x00CD"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Chocolate Island 2/Dragon Coins"
+                        "ref": "Dragon Coins/CI2/Dragon Coins"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Chocolate Island 2/Normal Exit"
+                        "ref": "Exits/CI2/Normal Exit"
                     },
                     {
                         "name": "Blue P-Switch Block #1",
-                        "ref": "Map/Chocolate Island 2/Blue P-Switch Block #1"
+                        "ref": "Blocks/CI2/Blue P-Switch Block #1"
                     }
                 ],
                 "map_locations": [

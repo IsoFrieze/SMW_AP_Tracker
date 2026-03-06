@@ -13,7 +13,7 @@
                 "sections": [
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Red Switch Palace/Normal Exit"
+                        "ref": "Exits/RSP/Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -29,7 +29,7 @@
                 "sections": [
                     {
                         "name": "Bonus room",
-                        "ref": "Map/Red Switch Palace/Bonus room"
+                        "ref": "Rooms/RSP/0x011B"
                     }
                 ],
                 "map_locations": [
@@ -45,11 +45,11 @@
                 "sections": [
                     {
                         "name": "Button room",
-                        "ref": "Map/Red Switch Palace/Button room"
+                        "ref": "Rooms/RSP/0x01D8"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Red Switch Palace/Normal Exit"
+                        "ref": "Exits/RSP/Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -65,11 +65,11 @@
                 "sections": [
                     {
                         "name": "Button room",
-                        "ref": "Map/Red Switch Palace/Button room"
+                        "ref": "Rooms/RSP/0x01D8"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Red Switch Palace/Normal Exit"
+                        "ref": "Exits/RSP/Normal Exit"
                     }
                 ],
                 "map_locations": [

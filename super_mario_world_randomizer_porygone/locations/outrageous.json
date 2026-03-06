@@ -13,7 +13,7 @@
                 "sections": [
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Outrageous/Normal Exit"
+                        "ref": "Exits/SZ7/Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -29,7 +29,7 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Outrageous/Dragon Coins"
+                        "ref": "Dragon Coins/SZ7/Dragon Coins"
                     }
                 ],
                 "map_locations": [
@@ -65,7 +65,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Map/Outrageous/Powerup Block #1"
+                        "ref": "Blocks/SZ7/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -81,7 +81,7 @@
                 "sections": [
                     {
                         "name": "Yoshi Block #1",
-                        "ref": "Map/Outrageous/Yoshi Block #1"
+                        "ref": "Blocks/SZ7/Yoshi Block #1"
                     }
                 ],
                 "map_locations": [
@@ -97,7 +97,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #1",
-                        "ref": "Map/Outrageous/Coin Block #1"
+                        "ref": "Blocks/SZ7/Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -113,7 +113,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Map/Outrageous/Powerup Block #2"
+                        "ref": "Blocks/SZ7/Powerup Block #2"
                     }
                 ],
                 "map_locations": [
@@ -129,7 +129,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #2",
-                        "ref": "Map/Outrageous/Coin Block #2"
+                        "ref": "Blocks/SZ7/Coin Block #2"
                     }
                 ],
                 "map_locations": [
@@ -145,35 +145,35 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Map/Outrageous/Main room"
+                        "ref": "Rooms/SZ7/0x0126"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Outrageous/Normal Exit"
+                        "ref": "Exits/SZ7/Normal Exit"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Outrageous/Dragon Coins"
+                        "ref": "Dragon Coins/SZ7/Dragon Coins"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Map/Outrageous/Powerup Block #1"
+                        "ref": "Blocks/SZ7/Powerup Block #1"
                     },
                     {
                         "name": "Yoshi Block #1",
-                        "ref": "Map/Outrageous/Yoshi Block #1"
+                        "ref": "Blocks/SZ7/Yoshi Block #1"
                     },
                     {
                         "name": "Coin Block #1",
-                        "ref": "Map/Outrageous/Coin Block #1"
+                        "ref": "Blocks/SZ7/Coin Block #1"
                     },
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Map/Outrageous/Powerup Block #2"
+                        "ref": "Blocks/SZ7/Powerup Block #2"
                     },
                     {
                         "name": "Coin Block #2",
-                        "ref": "Map/Outrageous/Coin Block #2"
+                        "ref": "Blocks/SZ7/Coin Block #2"
                     }
                 ],
                 "map_locations": [

@@ -13,7 +13,7 @@
                 "sections": [
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Cheese Bridge Area/Normal Exit"
+                        "ref": "Exits/CBA/Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -34,7 +34,7 @@
                 "sections": [
                     {
                         "name": "Secret Exit",
-                        "ref": "Map/Cheese Bridge Area/Secret Exit"
+                        "ref": "Exits/CBA/Secret Exit"
                     }
                 ],
                 "map_locations": [
@@ -50,7 +50,7 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Cheese Bridge Area/Dragon Coins"
+                        "ref": "Dragon Coins/CBA/Dragon Coins"
                     }
                 ],
                 "map_locations": [
@@ -111,7 +111,7 @@
                 "sections": [
                     {
                         "name": "3-Up Moon",
-                        "ref": "Map/Cheese Bridge Area/3-Up Moon"
+                        "ref": "Moons/CBA/3-Up Moon"
                     }
                 ],
                 "map_locations": [
@@ -127,7 +127,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Map/Cheese Bridge Area/Powerup Block #1"
+                        "ref": "Blocks/CBA/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -143,7 +143,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Map/Cheese Bridge Area/Powerup Block #2"
+                        "ref": "Blocks/CBA/Powerup Block #2"
                     }
                 ],
                 "map_locations": [
@@ -159,7 +159,7 @@
                 "sections": [
                     {
                         "name": "Wings Block #1",
-                        "ref": "Map/Cheese Bridge Area/Wings Block #1"
+                        "ref": "Blocks/CBA/Wings Block #1"
                     }
                 ],
                 "map_locations": [
@@ -175,7 +175,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #3",
-                        "ref": "Map/Cheese Bridge Area/Powerup Block #3"
+                        "ref": "Blocks/CBA/Powerup Block #3"
                     }
                 ],
                 "map_locations": [
@@ -191,7 +191,7 @@
                 "sections": [
                     {
                         "name": "Midway Point",
-                        "ref": "Map/Cheese Bridge Area/Midway Point"
+                        "ref": "Midways/CBA/Midway Point"
                     }
                 ],
                 "map_locations": [
@@ -207,43 +207,43 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Map/Cheese Bridge Area/Main room"
+                        "ref": "Rooms/CBA/0x000F"
                     },
                     {
                         "name": "Midway Point",
-                        "ref": "Map/Cheese Bridge Area/Midway Point"
+                        "ref": "Midways/CBA/Midway Point"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Cheese Bridge Area/Normal Exit"
+                        "ref": "Exits/CBA/Normal Exit"
                     },
                     {
                         "name": "Secret Exit",
-                        "ref": "Map/Cheese Bridge Area/Secret Exit"
+                        "ref": "Exits/CBA/Secret Exit"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Cheese Bridge Area/Dragon Coins"
+                        "ref": "Dragon Coins/CBA/Dragon Coins"
                     },
                     {
                         "name": "3-Up Moon",
-                        "ref": "Map/Cheese Bridge Area/3-Up Moon"
+                        "ref": "Moons/CBA/3-Up Moon"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Map/Cheese Bridge Area/Powerup Block #1"
+                        "ref": "Blocks/CBA/Powerup Block #1"
                     },
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Map/Cheese Bridge Area/Powerup Block #2"
+                        "ref": "Blocks/CBA/Powerup Block #2"
                     },
                     {
                         "name": "Wings Block #1",
-                        "ref": "Map/Cheese Bridge Area/Wings Block #1"
+                        "ref": "Blocks/CBA/Wings Block #1"
                     },
                     {
                         "name": "Powerup Block #3",
-                        "ref": "Map/Cheese Bridge Area/Powerup Block #3"
+                        "ref": "Blocks/CBA/Powerup Block #3"
                     }
                 ],
                 "map_locations": [
@@ -259,15 +259,15 @@
                 "sections": [
                     {
                         "name": "Yoshi wings room",
-                        "ref": "Map/Cheese Bridge Area/Yoshi wings room"
+                        "ref": "Rooms/CBA/0x20C8"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Cheese Bridge Area/Normal Exit"
+                        "ref": "Exits/CBA/Normal Exit"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Cheese Bridge Area/Dragon Coins"
+                        "ref": "Dragon Coins/CBA/Dragon Coins"
                     }
                 ],
                 "map_locations": [
@@ -283,7 +283,7 @@
                 "sections": [
                     {
                         "name": "Moving platforms room",
-                        "ref": "Map/Cheese Bridge Area/Moving platforms room"
+                        "ref": "Rooms/CBA/0x00BF"
                     }
                 ],
                 "map_locations": [
@@ -299,15 +299,15 @@
                 "sections": [
                     {
                         "name": "Yoshi wings room",
-                        "ref": "Map/Cheese Bridge Area/Yoshi wings room"
+                        "ref": "Rooms/CBA/0x20C8"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Cheese Bridge Area/Normal Exit"
+                        "ref": "Exits/CBA/Normal Exit"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Cheese Bridge Area/Dragon Coins"
+                        "ref": "Dragon Coins/CBA/Dragon Coins"
                     }
                 ],
                 "map_locations": [
@@ -323,7 +323,7 @@
                 "sections": [
                     {
                         "name": "Moving platforms room",
-                        "ref": "Map/Cheese Bridge Area/Moving platforms room"
+                        "ref": "Rooms/CBA/0x00BF"
                     }
                 ],
                 "map_locations": [
@@ -339,43 +339,43 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Map/Cheese Bridge Area/Main room"
+                        "ref": "Rooms/CBA/0x000F"
                     },
                     {
                         "name": "Midway Point",
-                        "ref": "Map/Cheese Bridge Area/Midway Point"
+                        "ref": "Midways/CBA/Midway Point"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Cheese Bridge Area/Normal Exit"
+                        "ref": "Exits/CBA/Normal Exit"
                     },
                     {
                         "name": "Secret Exit",
-                        "ref": "Map/Cheese Bridge Area/Secret Exit"
+                        "ref": "Exits/CBA/Secret Exit"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Cheese Bridge Area/Dragon Coins"
+                        "ref": "Dragon Coins/CBA/Dragon Coins"
                     },
                     {
                         "name": "3-Up Moon",
-                        "ref": "Map/Cheese Bridge Area/3-Up Moon"
+                        "ref": "Moons/CBA/3-Up Moon"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Map/Cheese Bridge Area/Powerup Block #1"
+                        "ref": "Blocks/CBA/Powerup Block #1"
                     },
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Map/Cheese Bridge Area/Powerup Block #2"
+                        "ref": "Blocks/CBA/Powerup Block #2"
                     },
                     {
                         "name": "Wings Block #1",
-                        "ref": "Map/Cheese Bridge Area/Wings Block #1"
+                        "ref": "Blocks/CBA/Wings Block #1"
                     },
                     {
                         "name": "Powerup Block #3",
-                        "ref": "Map/Cheese Bridge Area/Powerup Block #3"
+                        "ref": "Blocks/CBA/Powerup Block #3"
                     }
                 ],
                 "map_locations": [

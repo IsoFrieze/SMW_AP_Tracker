@@ -13,7 +13,7 @@
                 "sections": [
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Chocolate Island 5/Normal Exit"
+                        "ref": "Exits/CI5/Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -29,7 +29,7 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Chocolate Island 5/Dragon Coins"
+                        "ref": "Dragon Coins/CI5/Dragon Coins"
                     }
                 ],
                 "map_locations": [
@@ -75,7 +75,7 @@
                 "sections": [
                     {
                         "name": "Yoshi Block #1",
-                        "ref": "Map/Chocolate Island 5/Yoshi Block #1"
+                        "ref": "Blocks/CI5/Yoshi Block #1"
                     }
                 ],
                 "map_locations": [
@@ -91,7 +91,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Map/Chocolate Island 5/Powerup Block #1"
+                        "ref": "Blocks/CI5/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -107,7 +107,7 @@
                 "sections": [
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "ref": "Map/Chocolate Island 5/1-Up Mushroom Block #1"
+                        "ref": "Blocks/CI5/1-Up Mushroom Block #1"
                     }
                 ],
                 "map_locations": [
@@ -123,7 +123,7 @@
                 "sections": [
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Map/Chocolate Island 5/Yellow Switch Palace Block #1"
+                        "ref": "Blocks/CI5/Yellow Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -139,7 +139,7 @@
                 "sections": [
                     {
                         "name": "Midway Point",
-                        "ref": "Map/Chocolate Island 5/Midway Point"
+                        "ref": "Midways/CI5/Midway Point"
                     }
                 ],
                 "map_locations": [
@@ -155,35 +155,35 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Map/Chocolate Island 5/Main room"
+                        "ref": "Rooms/CI5/0x001C"
                     },
                     {
                         "name": "Midway Point",
-                        "ref": "Map/Chocolate Island 5/Midway Point"
+                        "ref": "Midways/CI5/Midway Point"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Chocolate Island 5/Normal Exit"
+                        "ref": "Exits/CI5/Normal Exit"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Chocolate Island 5/Dragon Coins"
+                        "ref": "Dragon Coins/CI5/Dragon Coins"
                     },
                     {
                         "name": "Yoshi Block #1",
-                        "ref": "Map/Chocolate Island 5/Yoshi Block #1"
+                        "ref": "Blocks/CI5/Yoshi Block #1"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Map/Chocolate Island 5/Powerup Block #1"
+                        "ref": "Blocks/CI5/Powerup Block #1"
                     },
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "ref": "Map/Chocolate Island 5/1-Up Mushroom Block #1"
+                        "ref": "Blocks/CI5/1-Up Mushroom Block #1"
                     },
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Map/Chocolate Island 5/Yellow Switch Palace Block #1"
+                        "ref": "Blocks/CI5/Yellow Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -199,11 +199,11 @@
                 "sections": [
                     {
                         "name": "Bubbles room",
-                        "ref": "Map/Chocolate Island 5/Bubbles room"
+                        "ref": "Rooms/CI5/0x00C0"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Chocolate Island 5/Dragon Coins"
+                        "ref": "Dragon Coins/CI5/Dragon Coins"
                     }
                 ],
                 "map_locations": [
@@ -219,7 +219,7 @@
                 "sections": [
                     {
                         "name": "Bonus room",
-                        "ref": "Map/Chocolate Island 5/Bonus room"
+                        "ref": "Rooms/CI5/0x00BD"
                     }
                 ],
                 "map_locations": [
@@ -235,11 +235,11 @@
                 "sections": [
                     {
                         "name": "Bubbles room",
-                        "ref": "Map/Chocolate Island 5/Bubbles room"
+                        "ref": "Rooms/CI5/0x00C0"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Chocolate Island 5/Dragon Coins"
+                        "ref": "Dragon Coins/CI5/Dragon Coins"
                     }
                 ],
                 "map_locations": [
@@ -255,7 +255,7 @@
                 "sections": [
                     {
                         "name": "Bonus room",
-                        "ref": "Map/Chocolate Island 5/Bonus room"
+                        "ref": "Rooms/CI5/0x00BD"
                     }
                 ],
                 "map_locations": [
@@ -271,35 +271,35 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Map/Chocolate Island 5/Main room"
+                        "ref": "Rooms/CI5/0x001C"
                     },
                     {
                         "name": "Midway Point",
-                        "ref": "Map/Chocolate Island 5/Midway Point"
+                        "ref": "Midways/CI5/Midway Point"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Chocolate Island 5/Normal Exit"
+                        "ref": "Exits/CI5/Normal Exit"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Chocolate Island 5/Dragon Coins"
+                        "ref": "Dragon Coins/CI5/Dragon Coins"
                     },
                     {
                         "name": "Yoshi Block #1",
-                        "ref": "Map/Chocolate Island 5/Yoshi Block #1"
+                        "ref": "Blocks/CI5/Yoshi Block #1"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Map/Chocolate Island 5/Powerup Block #1"
+                        "ref": "Blocks/CI5/Powerup Block #1"
                     },
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "ref": "Map/Chocolate Island 5/1-Up Mushroom Block #1"
+                        "ref": "Blocks/CI5/1-Up Mushroom Block #1"
                     },
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Map/Chocolate Island 5/Yellow Switch Palace Block #1"
+                        "ref": "Blocks/CI5/Yellow Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [

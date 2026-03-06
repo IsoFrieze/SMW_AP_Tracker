@@ -13,7 +13,7 @@
                 "sections": [
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Forest of Illusion 1/Normal Exit"
+                        "ref": "Exits/FI1/Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -29,7 +29,7 @@
                 "sections": [
                     {
                         "name": "Secret Exit",
-                        "ref": "Map/Forest of Illusion 1/Secret Exit"
+                        "ref": "Exits/FI1/Secret Exit"
                     }
                 ],
                 "map_locations": [
@@ -45,7 +45,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Map/Forest of Illusion 1/Powerup Block #1"
+                        "ref": "Blocks/FI1/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -61,7 +61,7 @@
                 "sections": [
                     {
                         "name": "Yoshi Block #1",
-                        "ref": "Map/Forest of Illusion 1/Yoshi Block #1"
+                        "ref": "Blocks/FI1/Yoshi Block #1"
                     }
                 ],
                 "map_locations": [
@@ -77,7 +77,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Map/Forest of Illusion 1/Powerup Block #2"
+                        "ref": "Blocks/FI1/Powerup Block #2"
                     }
                 ],
                 "map_locations": [
@@ -93,7 +93,7 @@
                 "sections": [
                     {
                         "name": "Key Block #1",
-                        "ref": "Map/Forest of Illusion 1/Key Block #1"
+                        "ref": "Blocks/FI1/Key Block #1"
                     }
                 ],
                 "map_locations": [
@@ -109,7 +109,7 @@
                 "sections": [
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "ref": "Map/Forest of Illusion 1/1-Up Mushroom Block #1"
+                        "ref": "Blocks/FI1/1-Up Mushroom Block #1"
                     }
                 ],
                 "map_locations": [
@@ -125,7 +125,7 @@
                 "sections": [
                     {
                         "name": "Midway Point",
-                        "ref": "Map/Forest of Illusion 1/Midway Point"
+                        "ref": "Midways/FI1/Midway Point"
                     }
                 ],
                 "map_locations": [
@@ -141,39 +141,39 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Map/Forest of Illusion 1/Main room"
+                        "ref": "Rooms/FI1/0x011E"
                     },
                     {
                         "name": "Midway Point",
-                        "ref": "Map/Forest of Illusion 1/Midway Point"
+                        "ref": "Midways/FI1/Midway Point"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Forest of Illusion 1/Normal Exit"
+                        "ref": "Exits/FI1/Normal Exit"
                     },
                     {
                         "name": "Secret Exit",
-                        "ref": "Map/Forest of Illusion 1/Secret Exit"
+                        "ref": "Exits/FI1/Secret Exit"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Map/Forest of Illusion 1/Powerup Block #1"
+                        "ref": "Blocks/FI1/Powerup Block #1"
                     },
                     {
                         "name": "Yoshi Block #1",
-                        "ref": "Map/Forest of Illusion 1/Yoshi Block #1"
+                        "ref": "Blocks/FI1/Yoshi Block #1"
                     },
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "ref": "Map/Forest of Illusion 1/1-Up Mushroom Block #1"
+                        "ref": "Blocks/FI1/1-Up Mushroom Block #1"
                     },
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Map/Forest of Illusion 1/Powerup Block #2"
+                        "ref": "Blocks/FI1/Powerup Block #2"
                     },
                     {
                         "name": "Key Block #1",
-                        "ref": "Map/Forest of Illusion 1/Key Block #1"
+                        "ref": "Blocks/FI1/Key Block #1"
                     }
                 ],
                 "map_locations": [

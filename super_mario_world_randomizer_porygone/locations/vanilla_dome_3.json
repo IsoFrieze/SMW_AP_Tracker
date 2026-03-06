@@ -13,7 +13,7 @@
                 "sections": [
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Vanilla Dome 3/Normal Exit"
+                        "ref": "Exits/VD3/Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -29,7 +29,7 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Vanilla Dome 3/Dragon Coins"
+                        "ref": "Dragon Coins/VD3/Dragon Coins"
                     }
                 ],
                 "map_locations": [
@@ -70,7 +70,7 @@
                 "sections": [
                     {
                         "name": "3-Up Moon",
-                        "ref": "Map/Vanilla Dome 3/3-Up Moon"
+                        "ref": "Moons/VD3/3-Up Moon"
                     }
                 ],
                 "map_locations": [
@@ -86,7 +86,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #1",
-                        "ref": "Map/Vanilla Dome 3/Coin Block #1"
+                        "ref": "Blocks/VD3/Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -102,7 +102,7 @@
                 "sections": [
                     {
                         "name": "Flying Question Block #1",
-                        "ref": "Map/Vanilla Dome 3/Flying Question Block #1"
+                        "ref": "Blocks/VD3/Flying Question Block #1"
                     }
                 ],
                 "map_locations": [
@@ -118,7 +118,7 @@
                 "sections": [
                     {
                         "name": "Flying Question Block #2",
-                        "ref": "Map/Vanilla Dome 3/Flying Question Block #2"
+                        "ref": "Blocks/VD3/Flying Question Block #2"
                     }
                 ],
                 "map_locations": [
@@ -134,7 +134,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Map/Vanilla Dome 3/Powerup Block #1"
+                        "ref": "Blocks/VD3/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -150,7 +150,7 @@
                 "sections": [
                     {
                         "name": "Flying Question Block #3",
-                        "ref": "Map/Vanilla Dome 3/Flying Question Block #3"
+                        "ref": "Blocks/VD3/Flying Question Block #3"
                     }
                 ],
                 "map_locations": [
@@ -166,7 +166,7 @@
                 "sections": [
                     {
                         "name": "Invisible Coin Block #1",
-                        "ref": "Map/Vanilla Dome 3/Invisible Coin Block #1"
+                        "ref": "Blocks/VD3/Invisible Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -182,7 +182,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Map/Vanilla Dome 3/Powerup Block #2"
+                        "ref": "Blocks/VD3/Powerup Block #2"
                     }
                 ],
                 "map_locations": [
@@ -198,7 +198,7 @@
                 "sections": [
                     {
                         "name": "Multi Coin Block #1",
-                        "ref": "Map/Vanilla Dome 3/Multi Coin Block #1"
+                        "ref": "Blocks/VD3/Multi Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -214,7 +214,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #3",
-                        "ref": "Map/Vanilla Dome 3/Powerup Block #3"
+                        "ref": "Blocks/VD3/Powerup Block #3"
                     }
                 ],
                 "map_locations": [
@@ -230,7 +230,7 @@
                 "sections": [
                     {
                         "name": "Yoshi Block #1",
-                        "ref": "Map/Vanilla Dome 3/Yoshi Block #1"
+                        "ref": "Blocks/VD3/Yoshi Block #1"
                     }
                 ],
                 "map_locations": [
@@ -246,7 +246,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #4",
-                        "ref": "Map/Vanilla Dome 3/Powerup Block #4"
+                        "ref": "Blocks/VD3/Powerup Block #4"
                     }
                 ],
                 "map_locations": [
@@ -262,7 +262,7 @@
                 "sections": [
                     {
                         "name": "P-Switch Coin Block #1",
-                        "ref": "Map/Vanilla Dome 3/P-Switch Coin Block #1"
+                        "ref": "Blocks/VD3/P-Switch Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -278,7 +278,7 @@
                 "sections": [
                     {
                         "name": "P-Switch Coin Block #2",
-                        "ref": "Map/Vanilla Dome 3/P-Switch Coin Block #2"
+                        "ref": "Blocks/VD3/P-Switch Coin Block #2"
                     }
                 ],
                 "map_locations": [
@@ -294,7 +294,7 @@
                 "sections": [
                     {
                         "name": "P-Switch Coin Block #3",
-                        "ref": "Map/Vanilla Dome 3/P-Switch Coin Block #3"
+                        "ref": "Blocks/VD3/P-Switch Coin Block #3"
                     }
                 ],
                 "map_locations": [
@@ -310,7 +310,7 @@
                 "sections": [
                     {
                         "name": "P-Switch Coin Block #4",
-                        "ref": "Map/Vanilla Dome 3/P-Switch Coin Block #4"
+                        "ref": "Blocks/VD3/P-Switch Coin Block #4"
                     }
                 ],
                 "map_locations": [
@@ -326,7 +326,7 @@
                 "sections": [
                     {
                         "name": "P-Switch Coin Block #5",
-                        "ref": "Map/Vanilla Dome 3/P-Switch Coin Block #5"
+                        "ref": "Blocks/VD3/P-Switch Coin Block #5"
                     }
                 ],
                 "map_locations": [
@@ -342,7 +342,7 @@
                 "sections": [
                     {
                         "name": "P-Switch Coin Block #6",
-                        "ref": "Map/Vanilla Dome 3/P-Switch Coin Block #6"
+                        "ref": "Blocks/VD3/P-Switch Coin Block #6"
                     }
                 ],
                 "map_locations": [
@@ -358,7 +358,7 @@
                 "sections": [
                     {
                         "name": "Midway Point",
-                        "ref": "Map/Vanilla Dome 3/Midway Point"
+                        "ref": "Midways/VD3/Midway Point"
                     }
                 ],
                 "map_locations": [
@@ -374,87 +374,87 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Map/Vanilla Dome 3/Main room"
+                        "ref": "Rooms/VD3/0x010A"
                     },
                     {
                         "name": "Midway Point",
-                        "ref": "Map/Vanilla Dome 3/Midway Point"
+                        "ref": "Midways/VD3/Midway Point"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Vanilla Dome 3/Normal Exit"
+                        "ref": "Exits/VD3/Normal Exit"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Vanilla Dome 3/Dragon Coins"
+                        "ref": "Dragon Coins/VD3/Dragon Coins"
                     },
                     {
                         "name": "3-Up Moon",
-                        "ref": "Map/Vanilla Dome 3/3-Up Moon"
+                        "ref": "Moons/VD3/3-Up Moon"
                     },
                     {
                         "name": "Coin Block #1",
-                        "ref": "Map/Vanilla Dome 3/Coin Block #1"
+                        "ref": "Blocks/VD3/Coin Block #1"
                     },
                     {
                         "name": "Flying Question Block #1",
-                        "ref": "Map/Vanilla Dome 3/Flying Question Block #1"
+                        "ref": "Blocks/VD3/Flying Question Block #1"
                     },
                     {
                         "name": "Flying Question Block #2",
-                        "ref": "Map/Vanilla Dome 3/Flying Question Block #2"
+                        "ref": "Blocks/VD3/Flying Question Block #2"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Map/Vanilla Dome 3/Powerup Block #1"
+                        "ref": "Blocks/VD3/Powerup Block #1"
                     },
                     {
                         "name": "Flying Question Block #3",
-                        "ref": "Map/Vanilla Dome 3/Flying Question Block #3"
+                        "ref": "Blocks/VD3/Flying Question Block #3"
                     },
                     {
                         "name": "Invisible Coin Block #1",
-                        "ref": "Map/Vanilla Dome 3/Invisible Coin Block #1"
+                        "ref": "Blocks/VD3/Invisible Coin Block #1"
                     },
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Map/Vanilla Dome 3/Powerup Block #2"
+                        "ref": "Blocks/VD3/Powerup Block #2"
                     },
                     {
                         "name": "Multi Coin Block #1",
-                        "ref": "Map/Vanilla Dome 3/Multi Coin Block #1"
+                        "ref": "Blocks/VD3/Multi Coin Block #1"
                     },
                     {
                         "name": "Yoshi Block #1",
-                        "ref": "Map/Vanilla Dome 3/Yoshi Block #1"
+                        "ref": "Blocks/VD3/Yoshi Block #1"
                     },
                     {
                         "name": "Powerup Block #4",
-                        "ref": "Map/Vanilla Dome 3/Powerup Block #4"
+                        "ref": "Blocks/VD3/Powerup Block #4"
                     },
                     {
                         "name": "P-Switch Coin Block #1",
-                        "ref": "Map/Vanilla Dome 3/P-Switch Coin Block #1"
+                        "ref": "Blocks/VD3/P-Switch Coin Block #1"
                     },
                     {
                         "name": "P-Switch Coin Block #2",
-                        "ref": "Map/Vanilla Dome 3/P-Switch Coin Block #2"
+                        "ref": "Blocks/VD3/P-Switch Coin Block #2"
                     },
                     {
                         "name": "P-Switch Coin Block #3",
-                        "ref": "Map/Vanilla Dome 3/P-Switch Coin Block #3"
+                        "ref": "Blocks/VD3/P-Switch Coin Block #3"
                     },
                     {
                         "name": "P-Switch Coin Block #4",
-                        "ref": "Map/Vanilla Dome 3/P-Switch Coin Block #4"
+                        "ref": "Blocks/VD3/P-Switch Coin Block #4"
                     },
                     {
                         "name": "P-Switch Coin Block #5",
-                        "ref": "Map/Vanilla Dome 3/P-Switch Coin Block #5"
+                        "ref": "Blocks/VD3/P-Switch Coin Block #5"
                     },
                     {
                         "name": "P-Switch Coin Block #6",
-                        "ref": "Map/Vanilla Dome 3/P-Switch Coin Block #6"
+                        "ref": "Blocks/VD3/P-Switch Coin Block #6"
                     }
                 ],
                 "map_locations": [
@@ -470,15 +470,15 @@
                 "sections": [
                     {
                         "name": "Ice cave room",
-                        "ref": "Map/Vanilla Dome 3/Ice cave room"
+                        "ref": "Rooms/VD3/0x01C2"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Vanilla Dome 3/Dragon Coins"
+                        "ref": "Dragon Coins/VD3/Dragon Coins"
                     },
                     {
                         "name": "Powerup Block #3",
-                        "ref": "Map/Vanilla Dome 3/Powerup Block #3"
+                        "ref": "Blocks/VD3/Powerup Block #3"
                     }
                 ],
                 "map_locations": [
@@ -494,7 +494,7 @@
                 "sections": [
                     {
                         "name": "Bonus room",
-                        "ref": "Map/Vanilla Dome 3/Bonus room"
+                        "ref": "Rooms/VD3/0x01F7"
                     }
                 ],
                 "map_locations": [
@@ -510,7 +510,7 @@
                 "sections": [
                     {
                         "name": "Bonus room",
-                        "ref": "Map/Vanilla Dome 3/Bonus room"
+                        "ref": "Rooms/VD3/0x01F7"
                     }
                 ],
                 "map_locations": [
@@ -526,15 +526,15 @@
                 "sections": [
                     {
                         "name": "Ice cave room",
-                        "ref": "Map/Vanilla Dome 3/Ice cave room"
+                        "ref": "Rooms/VD3/0x01C2"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Vanilla Dome 3/Dragon Coins"
+                        "ref": "Dragon Coins/VD3/Dragon Coins"
                     },
                     {
                         "name": "Powerup Block #3",
-                        "ref": "Map/Vanilla Dome 3/Powerup Block #3"
+                        "ref": "Blocks/VD3/Powerup Block #3"
                     }
                 ],
                 "map_locations": [
@@ -550,51 +550,51 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Map/Vanilla Dome 3/Main room"
+                        "ref": "Rooms/VD3/0x010A"
                     },
                     {
                         "name": "Midway Point",
-                        "ref": "Map/Vanilla Dome 3/Midway Point"
+                        "ref": "Midways/VD3/Midway Point"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Vanilla Dome 3/Normal Exit"
+                        "ref": "Exits/VD3/Normal Exit"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Vanilla Dome 3/Dragon Coins"
+                        "ref": "Dragon Coins/VD3/Dragon Coins"
                     },
                     {
                         "name": "Yoshi Block #1",
-                        "ref": "Map/Vanilla Dome 3/Yoshi Block #1"
+                        "ref": "Blocks/VD3/Yoshi Block #1"
                     },
                     {
                         "name": "Powerup Block #4",
-                        "ref": "Map/Vanilla Dome 3/Powerup Block #4"
+                        "ref": "Blocks/VD3/Powerup Block #4"
                     },
                     {
                         "name": "P-Switch Coin Block #1",
-                        "ref": "Map/Vanilla Dome 3/P-Switch Coin Block #1"
+                        "ref": "Blocks/VD3/P-Switch Coin Block #1"
                     },
                     {
                         "name": "P-Switch Coin Block #2",
-                        "ref": "Map/Vanilla Dome 3/P-Switch Coin Block #2"
+                        "ref": "Blocks/VD3/P-Switch Coin Block #2"
                     },
                     {
                         "name": "P-Switch Coin Block #3",
-                        "ref": "Map/Vanilla Dome 3/P-Switch Coin Block #3"
+                        "ref": "Blocks/VD3/P-Switch Coin Block #3"
                     },
                     {
                         "name": "P-Switch Coin Block #4",
-                        "ref": "Map/Vanilla Dome 3/P-Switch Coin Block #4"
+                        "ref": "Blocks/VD3/P-Switch Coin Block #4"
                     },
                     {
                         "name": "P-Switch Coin Block #5",
-                        "ref": "Map/Vanilla Dome 3/P-Switch Coin Block #5"
+                        "ref": "Blocks/VD3/P-Switch Coin Block #5"
                     },
                     {
                         "name": "P-Switch Coin Block #6",
-                        "ref": "Map/Vanilla Dome 3/P-Switch Coin Block #6"
+                        "ref": "Blocks/VD3/P-Switch Coin Block #6"
                     }
                 ],
                 "map_locations": [

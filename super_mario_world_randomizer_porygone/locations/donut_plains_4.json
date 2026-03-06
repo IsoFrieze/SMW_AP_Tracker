@@ -13,7 +13,7 @@
                 "sections": [
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Donut Plains 4/Normal Exit"
+                        "ref": "Exits/DP4/Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -29,7 +29,7 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Donut Plains 4/Dragon Coins"
+                        "ref": "Dragon Coins/DP4/Dragon Coins"
                     }
                 ],
                 "map_locations": [
@@ -65,7 +65,7 @@
                 "sections": [
                     {
                         "name": "3-Up Moon",
-                        "ref": "Map/Donut Plains 4/3-Up Moon"
+                        "ref": "Moons/DP4/3-Up Moon"
                     }
                 ],
                 "map_locations": [
@@ -81,7 +81,7 @@
                 "sections": [
                     {
                         "name": "Hidden 1-Up",
-                        "ref": "Map/Donut Plains 4/Hidden 1-Up"
+                        "ref": "Hidden 1-Ups/DP4/Hidden 1-Up"
                     }
                 ],
                 "map_locations": [
@@ -97,7 +97,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #1",
-                        "ref": "Map/Donut Plains 4/Coin Block #1"
+                        "ref": "Blocks/DP4/Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -113,7 +113,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Map/Donut Plains 4/Powerup Block #1"
+                        "ref": "Blocks/DP4/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -129,7 +129,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #2",
-                        "ref": "Map/Donut Plains 4/Coin Block #2"
+                        "ref": "Blocks/DP4/Coin Block #2"
                     }
                 ],
                 "map_locations": [
@@ -145,7 +145,7 @@
                 "sections": [
                     {
                         "name": "Yoshi Block #1",
-                        "ref": "Map/Donut Plains 4/Yoshi Block #1"
+                        "ref": "Blocks/DP4/Yoshi Block #1"
                     }
                 ],
                 "map_locations": [
@@ -161,7 +161,7 @@
                 "sections": [
                     {
                         "name": "Midway Point",
-                        "ref": "Map/Donut Plains 4/Midway Point"
+                        "ref": "Midways/DP4/Midway Point"
                     }
                 ],
                 "map_locations": [
@@ -177,43 +177,43 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Map/Donut Plains 4/Main room"
+                        "ref": "Rooms/DP4/0x0006"
                     },
                     {
                         "name": "Midway Point",
-                        "ref": "Map/Donut Plains 4/Midway Point"
+                        "ref": "Midways/DP4/Midway Point"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Donut Plains 4/Normal Exit"
+                        "ref": "Exits/DP4/Normal Exit"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Donut Plains 4/Dragon Coins"
+                        "ref": "Dragon Coins/DP4/Dragon Coins"
                     },
                     {
                         "name": "3-Up Moon",
-                        "ref": "Map/Donut Plains 4/3-Up Moon"
+                        "ref": "Moons/DP4/3-Up Moon"
                     },
                     {
                         "name": "Hidden 1-Up",
-                        "ref": "Map/Donut Plains 4/Hidden 1-Up"
+                        "ref": "Hidden 1-Ups/DP4/Hidden 1-Up"
                     },
                     {
                         "name": "Coin Block #1",
-                        "ref": "Map/Donut Plains 4/Coin Block #1"
+                        "ref": "Blocks/DP4/Coin Block #1"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Map/Donut Plains 4/Powerup Block #1"
+                        "ref": "Blocks/DP4/Powerup Block #1"
                     },
                     {
                         "name": "Coin Block #2",
-                        "ref": "Map/Donut Plains 4/Coin Block #2"
+                        "ref": "Blocks/DP4/Coin Block #2"
                     },
                     {
                         "name": "Yoshi Block #1",
-                        "ref": "Map/Donut Plains 4/Yoshi Block #1"
+                        "ref": "Blocks/DP4/Yoshi Block #1"
                     }
                 ],
                 "map_locations": [
@@ -229,7 +229,7 @@
                 "sections": [
                     {
                         "name": "Pipes room",
-                        "ref": "Map/Donut Plains 4/Pipes room"
+                        "ref": "Rooms/DP4/0x00C3"
                     }
                 ],
                 "map_locations": [
@@ -245,11 +245,11 @@
                 "sections": [
                     {
                         "name": "Dragon coin room",
-                        "ref": "Map/Donut Plains 4/Dragon coin room"
+                        "ref": "Rooms/DP4/0x00D2"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Donut Plains 4/Dragon Coins"
+                        "ref": "Dragon Coins/DP4/Dragon Coins"
                     }
                 ],
                 "map_locations": [
@@ -265,7 +265,7 @@
                 "sections": [
                     {
                         "name": "Pipes room",
-                        "ref": "Map/Donut Plains 4/Pipes room"
+                        "ref": "Rooms/DP4/0x00C3"
                     }
                 ],
                 "map_locations": [
@@ -281,11 +281,11 @@
                 "sections": [
                     {
                         "name": "Dragon coin room",
-                        "ref": "Map/Donut Plains 4/Dragon coin room"
+                        "ref": "Rooms/DP4/0x00D2"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Donut Plains 4/Dragon Coins"
+                        "ref": "Dragon Coins/DP4/Dragon Coins"
                     }
                 ],
                 "map_locations": [
@@ -301,43 +301,43 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Map/Donut Plains 4/Main room"
+                        "ref": "Rooms/DP4/0x0006"
                     },
                     {
                         "name": "Midway Point",
-                        "ref": "Map/Donut Plains 4/Midway Point"
+                        "ref": "Midways/DP4/Midway Point"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Donut Plains 4/Normal Exit"
+                        "ref": "Exits/DP4/Normal Exit"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Donut Plains 4/Dragon Coins"
+                        "ref": "Dragon Coins/DP4/Dragon Coins"
                     },
                     {
                         "name": "3-Up Moon",
-                        "ref": "Map/Donut Plains 4/3-Up Moon"
+                        "ref": "Moons/DP4/3-Up Moon"
                     },
                     {
                         "name": "Hidden 1-Up",
-                        "ref": "Map/Donut Plains 4/Hidden 1-Up"
+                        "ref": "Hidden 1-Ups/DP4/Hidden 1-Up"
                     },
                     {
                         "name": "Coin Block #1",
-                        "ref": "Map/Donut Plains 4/Coin Block #1"
+                        "ref": "Blocks/DP4/Coin Block #1"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Map/Donut Plains 4/Powerup Block #1"
+                        "ref": "Blocks/DP4/Powerup Block #1"
                     },
                     {
                         "name": "Coin Block #2",
-                        "ref": "Map/Donut Plains 4/Coin Block #2"
+                        "ref": "Blocks/DP4/Coin Block #2"
                     },
                     {
                         "name": "Yoshi Block #1",
-                        "ref": "Map/Donut Plains 4/Yoshi Block #1"
+                        "ref": "Blocks/DP4/Yoshi Block #1"
                     }
                 ],
                 "map_locations": [

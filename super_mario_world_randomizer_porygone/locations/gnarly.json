@@ -13,7 +13,7 @@
                 "sections": [
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Gnarly/Normal Exit"
+                        "ref": "Exits/SZ1/Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -29,7 +29,7 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Gnarly/Dragon Coins"
+                        "ref": "Dragon Coins/SZ1/Dragon Coins"
                     }
                 ],
                 "map_locations": [
@@ -80,7 +80,7 @@
                 "sections": [
                     {
                         "name": "Hidden 1-Up",
-                        "ref": "Map/Gnarly/Hidden 1-Up"
+                        "ref": "Hidden 1-Ups/SZ1/Hidden 1-Up"
                     }
                 ],
                 "map_locations": [
@@ -96,7 +96,7 @@
                 "sections": [
                     {
                         "name": "Vine Block #1",
-                        "ref": "Map/Gnarly/Vine Block #1"
+                        "ref": "Blocks/SZ1/Vine Block #1"
                     }
                 ],
                 "map_locations": [
@@ -112,7 +112,7 @@
                 "sections": [
                     {
                         "name": "Vine Block #2",
-                        "ref": "Map/Gnarly/Vine Block #2"
+                        "ref": "Blocks/SZ1/Vine Block #2"
                     }
                 ],
                 "map_locations": [
@@ -128,7 +128,7 @@
                 "sections": [
                     {
                         "name": "Vine Block #3",
-                        "ref": "Map/Gnarly/Vine Block #3"
+                        "ref": "Blocks/SZ1/Vine Block #3"
                     }
                 ],
                 "map_locations": [
@@ -144,7 +144,7 @@
                 "sections": [
                     {
                         "name": "Vine Block #4",
-                        "ref": "Map/Gnarly/Vine Block #4"
+                        "ref": "Blocks/SZ1/Vine Block #4"
                     }
                 ],
                 "map_locations": [
@@ -160,7 +160,7 @@
                 "sections": [
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "ref": "Map/Gnarly/1-Up Mushroom Block #1"
+                        "ref": "Blocks/SZ1/1-Up Mushroom Block #1"
                     }
                 ],
                 "map_locations": [
@@ -176,7 +176,7 @@
                 "sections": [
                     {
                         "name": "Vine Block #5",
-                        "ref": "Map/Gnarly/Vine Block #5"
+                        "ref": "Blocks/SZ1/Vine Block #5"
                     }
                 ],
                 "map_locations": [
@@ -192,7 +192,7 @@
                 "sections": [
                     {
                         "name": "Blue P-Switch Block #1",
-                        "ref": "Map/Gnarly/Blue P-Switch Block #1"
+                        "ref": "Blocks/SZ1/Blue P-Switch Block #1"
                     }
                 ],
                 "map_locations": [
@@ -208,7 +208,7 @@
                 "sections": [
                     {
                         "name": "Vine Block #6",
-                        "ref": "Map/Gnarly/Vine Block #6"
+                        "ref": "Blocks/SZ1/Vine Block #6"
                     }
                 ],
                 "map_locations": [
@@ -224,7 +224,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Map/Gnarly/Powerup Block #1"
+                        "ref": "Blocks/SZ1/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -240,7 +240,7 @@
                 "sections": [
                     {
                         "name": "P-Switch Coin Block #1",
-                        "ref": "Map/Gnarly/P-Switch Coin Block #1"
+                        "ref": "Blocks/SZ1/P-Switch Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -256,7 +256,7 @@
                 "sections": [
                     {
                         "name": "P-Switch Coin Block #2",
-                        "ref": "Map/Gnarly/P-Switch Coin Block #2"
+                        "ref": "Blocks/SZ1/P-Switch Coin Block #2"
                     }
                 ],
                 "map_locations": [
@@ -272,7 +272,7 @@
                 "sections": [
                     {
                         "name": "P-Switch Coin Block #3",
-                        "ref": "Map/Gnarly/P-Switch Coin Block #3"
+                        "ref": "Blocks/SZ1/P-Switch Coin Block #3"
                     }
                 ],
                 "map_locations": [
@@ -288,7 +288,7 @@
                 "sections": [
                     {
                         "name": "P-Switch Coin Block #4",
-                        "ref": "Map/Gnarly/P-Switch Coin Block #4"
+                        "ref": "Blocks/SZ1/P-Switch Coin Block #4"
                     }
                 ],
                 "map_locations": [
@@ -304,7 +304,7 @@
                 "sections": [
                     {
                         "name": "P-Switch Coin Block #5",
-                        "ref": "Map/Gnarly/P-Switch Coin Block #5"
+                        "ref": "Blocks/SZ1/P-Switch Coin Block #5"
                     }
                 ],
                 "map_locations": [
@@ -320,7 +320,7 @@
                 "sections": [
                     {
                         "name": "P-Switch Coin Block #6",
-                        "ref": "Map/Gnarly/P-Switch Coin Block #6"
+                        "ref": "Blocks/SZ1/P-Switch Coin Block #6"
                     }
                 ],
                 "map_locations": [
@@ -336,7 +336,7 @@
                 "sections": [
                     {
                         "name": "P-Switch Coin Block #7",
-                        "ref": "Map/Gnarly/P-Switch Coin Block #7"
+                        "ref": "Blocks/SZ1/P-Switch Coin Block #7"
                     }
                 ],
                 "map_locations": [
@@ -352,7 +352,7 @@
                 "sections": [
                     {
                         "name": "P-Switch Coin Block #8",
-                        "ref": "Map/Gnarly/P-Switch Coin Block #8"
+                        "ref": "Blocks/SZ1/P-Switch Coin Block #8"
                     }
                 ],
                 "map_locations": [
@@ -368,7 +368,7 @@
                 "sections": [
                     {
                         "name": "P-Switch Coin Block #9",
-                        "ref": "Map/Gnarly/P-Switch Coin Block #9"
+                        "ref": "Blocks/SZ1/P-Switch Coin Block #9"
                     }
                 ],
                 "map_locations": [
@@ -384,7 +384,7 @@
                 "sections": [
                     {
                         "name": "P-Switch Coin Block #10",
-                        "ref": "Map/Gnarly/P-Switch Coin Block #10"
+                        "ref": "Blocks/SZ1/P-Switch Coin Block #10"
                     }
                 ],
                 "map_locations": [
@@ -400,7 +400,7 @@
                 "sections": [
                     {
                         "name": "P-Switch Coin Block #11",
-                        "ref": "Map/Gnarly/P-Switch Coin Block #11"
+                        "ref": "Blocks/SZ1/P-Switch Coin Block #11"
                     }
                 ],
                 "map_locations": [
@@ -416,7 +416,7 @@
                 "sections": [
                     {
                         "name": "P-Switch Coin Block #12",
-                        "ref": "Map/Gnarly/P-Switch Coin Block #12"
+                        "ref": "Blocks/SZ1/P-Switch Coin Block #12"
                     }
                 ],
                 "map_locations": [
@@ -432,7 +432,7 @@
                 "sections": [
                     {
                         "name": "P-Switch Coin Block #13",
-                        "ref": "Map/Gnarly/P-Switch Coin Block #13"
+                        "ref": "Blocks/SZ1/P-Switch Coin Block #13"
                     }
                 ],
                 "map_locations": [
@@ -448,87 +448,87 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Map/Gnarly/Main room"
+                        "ref": "Rooms/SZ1/0x012A"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Gnarly/Dragon Coins"
+                        "ref": "Dragon Coins/SZ1/Dragon Coins"
                     },
                     {
                         "name": "Hidden 1-Up",
-                        "ref": "Map/Gnarly/Hidden 1-Up"
+                        "ref": "Hidden 1-Ups/SZ1/Hidden 1-Up"
                     },
                     {
                         "name": "Vine Block #1",
-                        "ref": "Map/Gnarly/Vine Block #1"
+                        "ref": "Blocks/SZ1/Vine Block #1"
                     },
                     {
                         "name": "Vine Block #2",
-                        "ref": "Map/Gnarly/Vine Block #2"
+                        "ref": "Blocks/SZ1/Vine Block #2"
                     },
                     {
                         "name": "Vine Block #3",
-                        "ref": "Map/Gnarly/Vine Block #3"
+                        "ref": "Blocks/SZ1/Vine Block #3"
                     },
                     {
                         "name": "Vine Block #4",
-                        "ref": "Map/Gnarly/Vine Block #4"
+                        "ref": "Blocks/SZ1/Vine Block #4"
                     },
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "ref": "Map/Gnarly/1-Up Mushroom Block #1"
+                        "ref": "Blocks/SZ1/1-Up Mushroom Block #1"
                     },
                     {
                         "name": "Vine Block #5",
-                        "ref": "Map/Gnarly/Vine Block #5"
+                        "ref": "Blocks/SZ1/Vine Block #5"
                     },
                     {
                         "name": "Blue P-Switch Block #1",
-                        "ref": "Map/Gnarly/Blue P-Switch Block #1"
+                        "ref": "Blocks/SZ1/Blue P-Switch Block #1"
                     },
                     {
                         "name": "Vine Block #6",
-                        "ref": "Map/Gnarly/Vine Block #6"
+                        "ref": "Blocks/SZ1/Vine Block #6"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Map/Gnarly/Powerup Block #1"
+                        "ref": "Blocks/SZ1/Powerup Block #1"
                     },
                     {
                         "name": "P-Switch Coin Block #1",
-                        "ref": "Map/Gnarly/P-Switch Coin Block #1"
+                        "ref": "Blocks/SZ1/P-Switch Coin Block #1"
                     },
                     {
                         "name": "P-Switch Coin Block #2",
-                        "ref": "Map/Gnarly/P-Switch Coin Block #2"
+                        "ref": "Blocks/SZ1/P-Switch Coin Block #2"
                     },
                     {
                         "name": "P-Switch Coin Block #3",
-                        "ref": "Map/Gnarly/P-Switch Coin Block #3"
+                        "ref": "Blocks/SZ1/P-Switch Coin Block #3"
                     },
                     {
                         "name": "P-Switch Coin Block #4",
-                        "ref": "Map/Gnarly/P-Switch Coin Block #4"
+                        "ref": "Blocks/SZ1/P-Switch Coin Block #4"
                     },
                     {
                         "name": "P-Switch Coin Block #5",
-                        "ref": "Map/Gnarly/P-Switch Coin Block #5"
+                        "ref": "Blocks/SZ1/P-Switch Coin Block #5"
                     },
                     {
                         "name": "P-Switch Coin Block #6",
-                        "ref": "Map/Gnarly/P-Switch Coin Block #6"
+                        "ref": "Blocks/SZ1/P-Switch Coin Block #6"
                     },
                     {
                         "name": "P-Switch Coin Block #7",
-                        "ref": "Map/Gnarly/P-Switch Coin Block #7"
+                        "ref": "Blocks/SZ1/P-Switch Coin Block #7"
                     },
                     {
                         "name": "P-Switch Coin Block #8",
-                        "ref": "Map/Gnarly/P-Switch Coin Block #8"
+                        "ref": "Blocks/SZ1/P-Switch Coin Block #8"
                     },
                     {
                         "name": "P-Switch Coin Block #9",
-                        "ref": "Map/Gnarly/P-Switch Coin Block #9"
+                        "ref": "Blocks/SZ1/P-Switch Coin Block #9"
                     }
                 ],
                 "map_locations": [
@@ -544,31 +544,31 @@
                 "sections": [
                     {
                         "name": "Goal room",
-                        "ref": "Map/Gnarly/Goal room"
+                        "ref": "Rooms/SZ1/0x11C4"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Gnarly/Normal Exit"
+                        "ref": "Exits/SZ1/Normal Exit"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Gnarly/Dragon Coins"
+                        "ref": "Dragon Coins/SZ1/Dragon Coins"
                     },
                     {
                         "name": "P-Switch Coin Block #10",
-                        "ref": "Map/Gnarly/P-Switch Coin Block #10"
+                        "ref": "Blocks/SZ1/P-Switch Coin Block #10"
                     },
                     {
                         "name": "P-Switch Coin Block #11",
-                        "ref": "Map/Gnarly/P-Switch Coin Block #11"
+                        "ref": "Blocks/SZ1/P-Switch Coin Block #11"
                     },
                     {
                         "name": "P-Switch Coin Block #12",
-                        "ref": "Map/Gnarly/P-Switch Coin Block #12"
+                        "ref": "Blocks/SZ1/P-Switch Coin Block #12"
                     },
                     {
                         "name": "P-Switch Coin Block #13",
-                        "ref": "Map/Gnarly/P-Switch Coin Block #13"
+                        "ref": "Blocks/SZ1/P-Switch Coin Block #13"
                     }
                 ],
                 "map_locations": [
@@ -584,31 +584,31 @@
                 "sections": [
                     {
                         "name": "Goal room",
-                        "ref": "Map/Gnarly/Goal room"
+                        "ref": "Rooms/SZ1/0x11C4"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Gnarly/Normal Exit"
+                        "ref": "Exits/SZ1/Normal Exit"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Gnarly/Dragon Coins"
+                        "ref": "Dragon Coins/SZ1/Dragon Coins"
                     },
                     {
                         "name": "P-Switch Coin Block #10",
-                        "ref": "Map/Gnarly/P-Switch Coin Block #10"
+                        "ref": "Blocks/SZ1/P-Switch Coin Block #10"
                     },
                     {
                         "name": "P-Switch Coin Block #11",
-                        "ref": "Map/Gnarly/P-Switch Coin Block #11"
+                        "ref": "Blocks/SZ1/P-Switch Coin Block #11"
                     },
                     {
                         "name": "P-Switch Coin Block #12",
-                        "ref": "Map/Gnarly/P-Switch Coin Block #12"
+                        "ref": "Blocks/SZ1/P-Switch Coin Block #12"
                     },
                     {
                         "name": "P-Switch Coin Block #13",
-                        "ref": "Map/Gnarly/P-Switch Coin Block #13"
+                        "ref": "Blocks/SZ1/P-Switch Coin Block #13"
                     }
                 ],
                 "map_locations": [
@@ -624,27 +624,27 @@
                 "sections": [
                     {
                         "name": "Goal room",
-                        "ref": "Map/Gnarly/Goal room"
+                        "ref": "Rooms/SZ1/0x11C4"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Gnarly/Normal Exit"
+                        "ref": "Exits/SZ1/Normal Exit"
                     },
                     {
                         "name": "P-Switch Coin Block #10",
-                        "ref": "Map/Gnarly/P-Switch Coin Block #10"
+                        "ref": "Blocks/SZ1/P-Switch Coin Block #10"
                     },
                     {
                         "name": "P-Switch Coin Block #11",
-                        "ref": "Map/Gnarly/P-Switch Coin Block #11"
+                        "ref": "Blocks/SZ1/P-Switch Coin Block #11"
                     },
                     {
                         "name": "P-Switch Coin Block #12",
-                        "ref": "Map/Gnarly/P-Switch Coin Block #12"
+                        "ref": "Blocks/SZ1/P-Switch Coin Block #12"
                     },
                     {
                         "name": "P-Switch Coin Block #13",
-                        "ref": "Map/Gnarly/P-Switch Coin Block #13"
+                        "ref": "Blocks/SZ1/P-Switch Coin Block #13"
                     }
                 ],
                 "map_locations": [

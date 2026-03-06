@@ -13,7 +13,7 @@
                 "sections": [
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Valley of Bowser 3/Normal Exit"
+                        "ref": "Exits/VB3/Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -29,7 +29,7 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Valley of Bowser 3/Dragon Coins"
+                        "ref": "Dragon Coins/VB3/Dragon Coins"
                     }
                 ],
                 "map_locations": [
@@ -65,7 +65,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Map/Valley of Bowser 3/Powerup Block #1"
+                        "ref": "Blocks/VB3/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -81,7 +81,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Map/Valley of Bowser 3/Powerup Block #2"
+                        "ref": "Blocks/VB3/Powerup Block #2"
                     }
                 ],
                 "map_locations": [
@@ -97,7 +97,7 @@
                 "sections": [
                     {
                         "name": "Midway Point",
-                        "ref": "Map/Valley of Bowser 3/Midway Point"
+                        "ref": "Midways/VB3/Midway Point"
                     }
                 ],
                 "map_locations": [
@@ -113,27 +113,27 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Map/Valley of Bowser 3/Main room"
+                        "ref": "Rooms/VB3/0x0113"
                     },
                     {
                         "name": "Midway Point",
-                        "ref": "Map/Valley of Bowser 3/Midway Point"
+                        "ref": "Midways/VB3/Midway Point"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Valley of Bowser 3/Normal Exit"
+                        "ref": "Exits/VB3/Normal Exit"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Valley of Bowser 3/Dragon Coins"
+                        "ref": "Dragon Coins/VB3/Dragon Coins"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Map/Valley of Bowser 3/Powerup Block #1"
+                        "ref": "Blocks/VB3/Powerup Block #1"
                     },
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Map/Valley of Bowser 3/Powerup Block #2"
+                        "ref": "Blocks/VB3/Powerup Block #2"
                     }
                 ],
                 "map_locations": [
@@ -149,7 +149,7 @@
                 "sections": [
                     {
                         "name": "Bonus room",
-                        "ref": "Map/Valley of Bowser 3/Bonus room"
+                        "ref": "Rooms/VB3/0x01BB"
                     }
                 ],
                 "map_locations": [
@@ -165,7 +165,7 @@
                 "sections": [
                     {
                         "name": "Bonus room",
-                        "ref": "Map/Valley of Bowser 3/Bonus room"
+                        "ref": "Rooms/VB3/0x01BB"
                     }
                 ],
                 "map_locations": [
@@ -181,27 +181,27 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Map/Valley of Bowser 3/Main room"
+                        "ref": "Rooms/VB3/0x0113"
                     },
                     {
                         "name": "Midway Point",
-                        "ref": "Map/Valley of Bowser 3/Midway Point"
+                        "ref": "Midways/VB3/Midway Point"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Valley of Bowser 3/Normal Exit"
+                        "ref": "Exits/VB3/Normal Exit"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Valley of Bowser 3/Dragon Coins"
+                        "ref": "Dragon Coins/VB3/Dragon Coins"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Map/Valley of Bowser 3/Powerup Block #1"
+                        "ref": "Blocks/VB3/Powerup Block #1"
                     },
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Map/Valley of Bowser 3/Powerup Block #2"
+                        "ref": "Blocks/VB3/Powerup Block #2"
                     }
                 ],
                 "map_locations": [

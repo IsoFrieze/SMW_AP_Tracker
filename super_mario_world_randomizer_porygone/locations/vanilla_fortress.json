@@ -13,7 +13,7 @@
                 "sections": [
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Vanilla Fortress/Normal Exit"
+                        "ref": "Exits/VDF/Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -29,7 +29,7 @@
                 "sections": [
                     {
                         "name": "Hidden 1-Up",
-                        "ref": "Map/Vanilla Fortress/Hidden 1-Up"
+                        "ref": "Hidden 1-Ups/VDF/Hidden 1-Up"
                     }
                 ],
                 "map_locations": [
@@ -45,7 +45,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Map/Vanilla Fortress/Powerup Block #1"
+                        "ref": "Blocks/VDF/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -61,7 +61,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Map/Vanilla Fortress/Powerup Block #2"
+                        "ref": "Blocks/VDF/Powerup Block #2"
                     }
                 ],
                 "map_locations": [
@@ -77,7 +77,7 @@
                 "sections": [
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Map/Vanilla Fortress/Yellow Switch Palace Block #1"
+                        "ref": "Blocks/VDF/Yellow Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -93,11 +93,11 @@
                 "sections": [
                     {
                         "name": "Spikes room",
-                        "ref": "Map/Vanilla Fortress/Spikes room"
+                        "ref": "Rooms/VDF/0x000B"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Map/Vanilla Fortress/Powerup Block #1"
+                        "ref": "Blocks/VDF/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -113,23 +113,23 @@
                 "sections": [
                     {
                         "name": "Thwomp room",
-                        "ref": "Map/Vanilla Fortress/Thwomp room"
+                        "ref": "Rooms/VDF/0x10E0"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Vanilla Fortress/Normal Exit"
+                        "ref": "Exits/VDF/Normal Exit"
                     },
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Map/Vanilla Fortress/Powerup Block #2"
+                        "ref": "Blocks/VDF/Powerup Block #2"
                     },
                     {
                         "name": "Hidden 1-Up",
-                        "ref": "Map/Vanilla Fortress/Hidden 1-Up"
+                        "ref": "Hidden 1-Ups/VDF/Hidden 1-Up"
                     },
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Map/Vanilla Fortress/Yellow Switch Palace Block #1"
+                        "ref": "Blocks/VDF/Yellow Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -145,23 +145,23 @@
                 "sections": [
                     {
                         "name": "Thwomp room",
-                        "ref": "Map/Vanilla Fortress/Thwomp room"
+                        "ref": "Rooms/VDF/0x10E0"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Vanilla Fortress/Normal Exit"
+                        "ref": "Exits/VDF/Normal Exit"
                     },
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Map/Vanilla Fortress/Powerup Block #2"
+                        "ref": "Blocks/VDF/Powerup Block #2"
                     },
                     {
                         "name": "Hidden 1-Up",
-                        "ref": "Map/Vanilla Fortress/Hidden 1-Up"
+                        "ref": "Hidden 1-Ups/VDF/Hidden 1-Up"
                     },
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Map/Vanilla Fortress/Yellow Switch Palace Block #1"
+                        "ref": "Blocks/VDF/Yellow Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [

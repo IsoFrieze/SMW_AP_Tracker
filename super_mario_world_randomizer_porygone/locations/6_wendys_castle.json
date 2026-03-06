@@ -13,7 +13,7 @@
                 "sections": [
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/#6 Wendy's Castle/Normal Exit"
+                        "ref": "Exits/CIC/Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -29,7 +29,7 @@
                 "sections": [
                     {
                         "name": "Hidden 1-Up",
-                        "ref": "Map/#6 Wendy's Castle/Hidden 1-Up"
+                        "ref": "Hidden 1-Ups/CIC/Hidden 1-Up"
                     }
                 ],
                 "map_locations": [
@@ -45,7 +45,7 @@
                 "sections": [
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Map/#6 Wendy's Castle/Yellow Switch Palace Block #1"
+                        "ref": "Blocks/CIC/Yellow Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -61,7 +61,7 @@
                 "sections": [
                     {
                         "name": "Yellow Switch Palace Block #2",
-                        "ref": "Map/#6 Wendy's Castle/Yellow Switch Palace Block #2"
+                        "ref": "Blocks/CIC/Yellow Switch Palace Block #2"
                     }
                 ],
                 "map_locations": [
@@ -77,7 +77,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Map/#6 Wendy's Castle/Green Switch Palace Block #1"
+                        "ref": "Blocks/CIC/Green Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -93,7 +93,7 @@
                 "sections": [
                     {
                         "name": "Midway Point",
-                        "ref": "Map/#6 Wendy's Castle/Midway Point"
+                        "ref": "Midways/CIC/Midway Point"
                     }
                 ],
                 "map_locations": [
@@ -109,19 +109,19 @@
                 "sections": [
                     {
                         "name": "Spikes room",
-                        "ref": "Map/#6 Wendy's Castle/Spikes room"
+                        "ref": "Rooms/CIC/0x001A"
                     },
                     {
                         "name": "Midway Point",
-                        "ref": "Map/#6 Wendy's Castle/Midway Point"
+                        "ref": "Midways/CIC/Midway Point"
                     },
                     {
                         "name": "Hidden 1-Up",
-                        "ref": "Map/#6 Wendy's Castle/Hidden 1-Up"
+                        "ref": "Hidden 1-Ups/CIC/Hidden 1-Up"
                     },
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Map/#6 Wendy's Castle/Yellow Switch Palace Block #1"
+                        "ref": "Blocks/CIC/Yellow Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -137,19 +137,19 @@
                 "sections": [
                     {
                         "name": "Hothead room",
-                        "ref": "Map/#6 Wendy's Castle/Hothead room"
+                        "ref": "Rooms/CIC/0x00D4"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/#6 Wendy's Castle/Normal Exit"
+                        "ref": "Exits/CIC/Normal Exit"
                     },
                     {
                         "name": "Yellow Switch Palace Block #2",
-                        "ref": "Map/#6 Wendy's Castle/Yellow Switch Palace Block #2"
+                        "ref": "Blocks/CIC/Yellow Switch Palace Block #2"
                     },
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Map/#6 Wendy's Castle/Green Switch Palace Block #1"
+                        "ref": "Blocks/CIC/Green Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -165,19 +165,19 @@
                 "sections": [
                     {
                         "name": "Hothead room",
-                        "ref": "Map/#6 Wendy's Castle/Hothead room"
+                        "ref": "Rooms/CIC/0x00D4"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/#6 Wendy's Castle/Normal Exit"
+                        "ref": "Exits/CIC/Normal Exit"
                     },
                     {
                         "name": "Yellow Switch Palace Block #2",
-                        "ref": "Map/#6 Wendy's Castle/Yellow Switch Palace Block #2"
+                        "ref": "Blocks/CIC/Yellow Switch Palace Block #2"
                     },
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Map/#6 Wendy's Castle/Green Switch Palace Block #1"
+                        "ref": "Blocks/CIC/Green Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [

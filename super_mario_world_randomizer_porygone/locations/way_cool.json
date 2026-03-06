@@ -13,7 +13,7 @@
                 "sections": [
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Way Cool/Normal Exit"
+                        "ref": "Exits/SZ3/Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -34,7 +34,7 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Way Cool/Dragon Coins"
+                        "ref": "Dragon Coins/SZ3/Dragon Coins"
                     }
                 ],
                 "map_locations": [
@@ -85,7 +85,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Map/Way Cool/Powerup Block #1"
+                        "ref": "Blocks/SZ3/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -101,7 +101,7 @@
                 "sections": [
                     {
                         "name": "Yoshi Block #1",
-                        "ref": "Map/Way Cool/Yoshi Block #1"
+                        "ref": "Blocks/SZ3/Yoshi Block #1"
                     }
                 ],
                 "map_locations": [
@@ -117,7 +117,7 @@
                 "sections": [
                     {
                         "name": "Wings Block #1",
-                        "ref": "Map/Way Cool/Wings Block #1"
+                        "ref": "Blocks/SZ3/Wings Block #1"
                     }
                 ],
                 "map_locations": [
@@ -133,23 +133,23 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Map/Way Cool/Main room"
+                        "ref": "Rooms/SZ3/0x012C"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Way Cool/Normal Exit"
+                        "ref": "Exits/SZ3/Normal Exit"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Way Cool/Dragon Coins"
+                        "ref": "Dragon Coins/SZ3/Dragon Coins"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Map/Way Cool/Powerup Block #1"
+                        "ref": "Blocks/SZ3/Powerup Block #1"
                     },
                     {
                         "name": "Wings Block #1",
-                        "ref": "Map/Way Cool/Wings Block #1"
+                        "ref": "Blocks/SZ3/Wings Block #1"
                     }
                 ],
                 "map_locations": [
@@ -165,11 +165,11 @@
                 "sections": [
                     {
                         "name": "Yoshi room",
-                        "ref": "Map/Way Cool/Yoshi room"
+                        "ref": "Rooms/SZ3/0x01C9"
                     },
                     {
                         "name": "Yoshi Block #1",
-                        "ref": "Map/Way Cool/Yoshi Block #1"
+                        "ref": "Blocks/SZ3/Yoshi Block #1"
                     }
                 ],
                 "map_locations": [
@@ -185,15 +185,15 @@
                 "sections": [
                     {
                         "name": "Yoshi wings room",
-                        "ref": "Map/Way Cool/Yoshi wings room"
+                        "ref": "Rooms/SZ3/0x21C8"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Way Cool/Normal Exit"
+                        "ref": "Exits/SZ3/Normal Exit"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Way Cool/Dragon Coins"
+                        "ref": "Dragon Coins/SZ3/Dragon Coins"
                     }
                 ],
                 "map_locations": [
@@ -209,11 +209,11 @@
                 "sections": [
                     {
                         "name": "Yoshi room",
-                        "ref": "Map/Way Cool/Yoshi room"
+                        "ref": "Rooms/SZ3/0x01C9"
                     },
                     {
                         "name": "Yoshi Block #1",
-                        "ref": "Map/Way Cool/Yoshi Block #1"
+                        "ref": "Blocks/SZ3/Yoshi Block #1"
                     }
                 ],
                 "map_locations": [
@@ -229,23 +229,23 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Map/Way Cool/Main room"
+                        "ref": "Rooms/SZ3/0x012C"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Way Cool/Normal Exit"
+                        "ref": "Exits/SZ3/Normal Exit"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Way Cool/Dragon Coins"
+                        "ref": "Dragon Coins/SZ3/Dragon Coins"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Map/Way Cool/Powerup Block #1"
+                        "ref": "Blocks/SZ3/Powerup Block #1"
                     },
                     {
                         "name": "Wings Block #1",
-                        "ref": "Map/Way Cool/Wings Block #1"
+                        "ref": "Blocks/SZ3/Wings Block #1"
                     }
                 ],
                 "map_locations": [
@@ -261,15 +261,15 @@
                 "sections": [
                     {
                         "name": "Yoshi wings room",
-                        "ref": "Map/Way Cool/Yoshi wings room"
+                        "ref": "Rooms/SZ3/0x21C8"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Way Cool/Normal Exit"
+                        "ref": "Exits/SZ3/Normal Exit"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Way Cool/Dragon Coins"
+                        "ref": "Dragon Coins/SZ3/Dragon Coins"
                     }
                 ],
                 "map_locations": [

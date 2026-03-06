@@ -13,7 +13,7 @@
                 "sections": [
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Valley Fortress/Normal Exit"
+                        "ref": "Exits/VBF/Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -29,7 +29,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Map/Valley Fortress/Green Switch Palace Block #1"
+                        "ref": "Blocks/VBF/Green Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -45,7 +45,7 @@
                 "sections": [
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Map/Valley Fortress/Yellow Switch Palace Block #1"
+                        "ref": "Blocks/VBF/Yellow Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -61,19 +61,19 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Map/Valley Fortress/Main room"
+                        "ref": "Rooms/VBF/0x0111"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Valley Fortress/Normal Exit"
+                        "ref": "Exits/VBF/Normal Exit"
                     },
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Map/Valley Fortress/Green Switch Palace Block #1"
+                        "ref": "Blocks/VBF/Green Switch Palace Block #1"
                     },
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Map/Valley Fortress/Yellow Switch Palace Block #1"
+                        "ref": "Blocks/VBF/Yellow Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [

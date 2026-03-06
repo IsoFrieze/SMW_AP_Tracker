@@ -13,7 +13,7 @@
                 "sections": [
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Yoshi's Island 4/Normal Exit"
+                        "ref": "Exits/YI4/Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -29,7 +29,7 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Yoshi's Island 4/Dragon Coins"
+                        "ref": "Dragon Coins/YI4/Dragon Coins"
                     }
                 ],
                 "map_locations": [
@@ -65,7 +65,7 @@
                 "sections": [
                     {
                         "name": "Hidden 1-Up",
-                        "ref": "Map/Yoshi's Island 4/Hidden 1-Up"
+                        "ref": "Hidden 1-Ups/YI4/Hidden 1-Up"
                     }
                 ],
                 "map_locations": [
@@ -81,7 +81,7 @@
                 "sections": [
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Map/Yoshi's Island 4/Yellow Switch Palace Block #1"
+                        "ref": "Blocks/YI4/Yellow Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -97,7 +97,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Map/Yoshi's Island 4/Powerup Block #1"
+                        "ref": "Blocks/YI4/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -113,7 +113,7 @@
                 "sections": [
                     {
                         "name": "Multi Coin Block #1",
-                        "ref": "Map/Yoshi's Island 4/Multi Coin Block #1"
+                        "ref": "Blocks/YI4/Multi Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -129,7 +129,7 @@
                 "sections": [
                     {
                         "name": "Star Block #1",
-                        "ref": "Map/Yoshi's Island 4/Star Block #1"
+                        "ref": "Blocks/YI4/Star Block #1"
                     }
                 ],
                 "map_locations": [
@@ -145,27 +145,27 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Map/Yoshi's Island 4/Main room"
+                        "ref": "Rooms/YI4/0x0102"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Yoshi's Island 4/Dragon Coins"
+                        "ref": "Dragon Coins/YI4/Dragon Coins"
                     },
                     {
                         "name": "Hidden 1-Up",
-                        "ref": "Map/Yoshi's Island 4/Hidden 1-Up"
+                        "ref": "Hidden 1-Ups/YI4/Hidden 1-Up"
                     },
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Map/Yoshi's Island 4/Yellow Switch Palace Block #1"
+                        "ref": "Blocks/YI4/Yellow Switch Palace Block #1"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Map/Yoshi's Island 4/Powerup Block #1"
+                        "ref": "Blocks/YI4/Powerup Block #1"
                     },
                     {
                         "name": "Star Block #1",
-                        "ref": "Map/Yoshi's Island 4/Star Block #1"
+                        "ref": "Blocks/YI4/Star Block #1"
                     }
                 ],
                 "map_locations": [
@@ -181,11 +181,11 @@
                 "sections": [
                     {
                         "name": "Pokey room",
-                        "ref": "Map/Yoshi's Island 4/Pokey room"
+                        "ref": "Rooms/YI4/0x01BE"
                     },
                     {
                         "name": "Multi Coin Block #1",
-                        "ref": "Map/Yoshi's Island 4/Multi Coin Block #1"
+                        "ref": "Blocks/YI4/Multi Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -201,11 +201,11 @@
                 "sections": [
                     {
                         "name": "Goal room",
-                        "ref": "Map/Yoshi's Island 4/Goal room"
+                        "ref": "Rooms/YI4/0x01FF"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Yoshi's Island 4/Normal Exit"
+                        "ref": "Exits/YI4/Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -221,11 +221,11 @@
                 "sections": [
                     {
                         "name": "Pokey room",
-                        "ref": "Map/Yoshi's Island 4/Pokey room"
+                        "ref": "Rooms/YI4/0x01BE"
                     },
                     {
                         "name": "Multi Coin Block #1",
-                        "ref": "Map/Yoshi's Island 4/Multi Coin Block #1"
+                        "ref": "Blocks/YI4/Multi Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -241,11 +241,11 @@
                 "sections": [
                     {
                         "name": "Goal room",
-                        "ref": "Map/Yoshi's Island 4/Goal room"
+                        "ref": "Rooms/YI4/0x01FF"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Yoshi's Island 4/Normal Exit"
+                        "ref": "Exits/YI4/Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -261,27 +261,27 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Map/Yoshi's Island 4/Main room"
+                        "ref": "Rooms/YI4/0x0102"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Yoshi's Island 4/Dragon Coins"
+                        "ref": "Dragon Coins/YI4/Dragon Coins"
                     },
                     {
                         "name": "Hidden 1-Up",
-                        "ref": "Map/Yoshi's Island 4/Hidden 1-Up"
+                        "ref": "Hidden 1-Ups/YI4/Hidden 1-Up"
                     },
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Map/Yoshi's Island 4/Yellow Switch Palace Block #1"
+                        "ref": "Blocks/YI4/Yellow Switch Palace Block #1"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Map/Yoshi's Island 4/Powerup Block #1"
+                        "ref": "Blocks/YI4/Powerup Block #1"
                     },
                     {
                         "name": "Star Block #1",
-                        "ref": "Map/Yoshi's Island 4/Star Block #1"
+                        "ref": "Blocks/YI4/Star Block #1"
                     }
                 ],
                 "map_locations": [

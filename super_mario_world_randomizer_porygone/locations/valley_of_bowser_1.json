@@ -13,7 +13,7 @@
                 "sections": [
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Valley of Bowser 1/Normal Exit"
+                        "ref": "Exits/VB1/Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -29,7 +29,7 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Valley of Bowser 1/Dragon Coins"
+                        "ref": "Dragon Coins/VB1/Dragon Coins"
                     }
                 ],
                 "map_locations": [
@@ -65,7 +65,7 @@
                 "sections": [
                     {
                         "name": "3-Up Moon",
-                        "ref": "Map/Valley of Bowser 1/3-Up Moon"
+                        "ref": "Moons/VB1/3-Up Moon"
                     }
                 ],
                 "map_locations": [
@@ -81,7 +81,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Map/Valley of Bowser 1/Green Switch Palace Block #1"
+                        "ref": "Blocks/VB1/Green Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -97,7 +97,7 @@
                 "sections": [
                     {
                         "name": "Invisible Coin Block #1",
-                        "ref": "Map/Valley of Bowser 1/Invisible Coin Block #1"
+                        "ref": "Blocks/VB1/Invisible Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -113,7 +113,7 @@
                 "sections": [
                     {
                         "name": "Invisible Coin Block #2",
-                        "ref": "Map/Valley of Bowser 1/Invisible Coin Block #2"
+                        "ref": "Blocks/VB1/Invisible Coin Block #2"
                     }
                 ],
                 "map_locations": [
@@ -129,7 +129,7 @@
                 "sections": [
                     {
                         "name": "Invisible Coin Block #3",
-                        "ref": "Map/Valley of Bowser 1/Invisible Coin Block #3"
+                        "ref": "Blocks/VB1/Invisible Coin Block #3"
                     }
                 ],
                 "map_locations": [
@@ -145,7 +145,7 @@
                 "sections": [
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Map/Valley of Bowser 1/Yellow Switch Palace Block #1"
+                        "ref": "Blocks/VB1/Yellow Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -161,7 +161,7 @@
                 "sections": [
                     {
                         "name": "Yellow Switch Palace Block #2",
-                        "ref": "Map/Valley of Bowser 1/Yellow Switch Palace Block #2"
+                        "ref": "Blocks/VB1/Yellow Switch Palace Block #2"
                     }
                 ],
                 "map_locations": [
@@ -177,7 +177,7 @@
                 "sections": [
                     {
                         "name": "Yellow Switch Palace Block #3",
-                        "ref": "Map/Valley of Bowser 1/Yellow Switch Palace Block #3"
+                        "ref": "Blocks/VB1/Yellow Switch Palace Block #3"
                     }
                 ],
                 "map_locations": [
@@ -193,7 +193,7 @@
                 "sections": [
                     {
                         "name": "Yellow Switch Palace Block #4",
-                        "ref": "Map/Valley of Bowser 1/Yellow Switch Palace Block #4"
+                        "ref": "Blocks/VB1/Yellow Switch Palace Block #4"
                     }
                 ],
                 "map_locations": [
@@ -209,7 +209,7 @@
                 "sections": [
                     {
                         "name": "Vine Block #1",
-                        "ref": "Map/Valley of Bowser 1/Vine Block #1"
+                        "ref": "Blocks/VB1/Vine Block #1"
                     }
                 ],
                 "map_locations": [
@@ -225,7 +225,7 @@
                 "sections": [
                     {
                         "name": "Midway Point",
-                        "ref": "Map/Valley of Bowser 1/Midway Point"
+                        "ref": "Midways/VB1/Midway Point"
                     }
                 ],
                 "map_locations": [
@@ -241,55 +241,55 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Map/Valley of Bowser 1/Main room"
+                        "ref": "Rooms/VB1/0x0116"
                     },
                     {
                         "name": "Midway Point",
-                        "ref": "Map/Valley of Bowser 1/Midway Point"
+                        "ref": "Midways/VB1/Midway Point"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Valley of Bowser 1/Dragon Coins"
+                        "ref": "Dragon Coins/VB1/Dragon Coins"
                     },
                     {
                         "name": "3-Up Moon",
-                        "ref": "Map/Valley of Bowser 1/3-Up Moon"
+                        "ref": "Moons/VB1/3-Up Moon"
                     },
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Map/Valley of Bowser 1/Green Switch Palace Block #1"
+                        "ref": "Blocks/VB1/Green Switch Palace Block #1"
                     },
                     {
                         "name": "Invisible Coin Block #1",
-                        "ref": "Map/Valley of Bowser 1/Invisible Coin Block #1"
+                        "ref": "Blocks/VB1/Invisible Coin Block #1"
                     },
                     {
                         "name": "Invisible Coin Block #2",
-                        "ref": "Map/Valley of Bowser 1/Invisible Coin Block #2"
+                        "ref": "Blocks/VB1/Invisible Coin Block #2"
                     },
                     {
                         "name": "Invisible Coin Block #3",
-                        "ref": "Map/Valley of Bowser 1/Invisible Coin Block #3"
+                        "ref": "Blocks/VB1/Invisible Coin Block #3"
                     },
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Map/Valley of Bowser 1/Yellow Switch Palace Block #1"
+                        "ref": "Blocks/VB1/Yellow Switch Palace Block #1"
                     },
                     {
                         "name": "Yellow Switch Palace Block #2",
-                        "ref": "Map/Valley of Bowser 1/Yellow Switch Palace Block #2"
+                        "ref": "Blocks/VB1/Yellow Switch Palace Block #2"
                     },
                     {
                         "name": "Yellow Switch Palace Block #3",
-                        "ref": "Map/Valley of Bowser 1/Yellow Switch Palace Block #3"
+                        "ref": "Blocks/VB1/Yellow Switch Palace Block #3"
                     },
                     {
                         "name": "Yellow Switch Palace Block #4",
-                        "ref": "Map/Valley of Bowser 1/Yellow Switch Palace Block #4"
+                        "ref": "Blocks/VB1/Yellow Switch Palace Block #4"
                     },
                     {
                         "name": "Vine Block #1",
-                        "ref": "Map/Valley of Bowser 1/Vine Block #1"
+                        "ref": "Blocks/VB1/Vine Block #1"
                     }
                 ],
                 "map_locations": [
@@ -305,11 +305,11 @@
                 "sections": [
                     {
                         "name": "Goal room",
-                        "ref": "Map/Valley of Bowser 1/Goal room"
+                        "ref": "Rooms/VB1/0x01E5"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Valley of Bowser 1/Normal Exit"
+                        "ref": "Exits/VB1/Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -325,7 +325,7 @@
                 "sections": [
                     {
                         "name": "Bonus room",
-                        "ref": "Map/Valley of Bowser 1/Bonus room"
+                        "ref": "Rooms/VB1/0x01E4"
                     }
                 ],
                 "map_locations": [
@@ -341,11 +341,11 @@
                 "sections": [
                     {
                         "name": "Goal room",
-                        "ref": "Map/Valley of Bowser 1/Goal room"
+                        "ref": "Rooms/VB1/0x01E5"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Valley of Bowser 1/Normal Exit"
+                        "ref": "Exits/VB1/Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -361,7 +361,7 @@
                 "sections": [
                     {
                         "name": "Bonus room",
-                        "ref": "Map/Valley of Bowser 1/Bonus room"
+                        "ref": "Rooms/VB1/0x01E4"
                     }
                 ],
                 "map_locations": [
@@ -377,55 +377,55 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Map/Valley of Bowser 1/Main room"
+                        "ref": "Rooms/VB1/0x0116"
                     },
                     {
                         "name": "Midway Point",
-                        "ref": "Map/Valley of Bowser 1/Midway Point"
+                        "ref": "Midways/VB1/Midway Point"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Valley of Bowser 1/Dragon Coins"
+                        "ref": "Dragon Coins/VB1/Dragon Coins"
                     },
                     {
                         "name": "3-Up Moon",
-                        "ref": "Map/Valley of Bowser 1/3-Up Moon"
+                        "ref": "Moons/VB1/3-Up Moon"
                     },
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Map/Valley of Bowser 1/Green Switch Palace Block #1"
+                        "ref": "Blocks/VB1/Green Switch Palace Block #1"
                     },
                     {
                         "name": "Invisible Coin Block #1",
-                        "ref": "Map/Valley of Bowser 1/Invisible Coin Block #1"
+                        "ref": "Blocks/VB1/Invisible Coin Block #1"
                     },
                     {
                         "name": "Invisible Coin Block #2",
-                        "ref": "Map/Valley of Bowser 1/Invisible Coin Block #2"
+                        "ref": "Blocks/VB1/Invisible Coin Block #2"
                     },
                     {
                         "name": "Invisible Coin Block #3",
-                        "ref": "Map/Valley of Bowser 1/Invisible Coin Block #3"
+                        "ref": "Blocks/VB1/Invisible Coin Block #3"
                     },
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Map/Valley of Bowser 1/Yellow Switch Palace Block #1"
+                        "ref": "Blocks/VB1/Yellow Switch Palace Block #1"
                     },
                     {
                         "name": "Yellow Switch Palace Block #2",
-                        "ref": "Map/Valley of Bowser 1/Yellow Switch Palace Block #2"
+                        "ref": "Blocks/VB1/Yellow Switch Palace Block #2"
                     },
                     {
                         "name": "Yellow Switch Palace Block #3",
-                        "ref": "Map/Valley of Bowser 1/Yellow Switch Palace Block #3"
+                        "ref": "Blocks/VB1/Yellow Switch Palace Block #3"
                     },
                     {
                         "name": "Yellow Switch Palace Block #4",
-                        "ref": "Map/Valley of Bowser 1/Yellow Switch Palace Block #4"
+                        "ref": "Blocks/VB1/Yellow Switch Palace Block #4"
                     },
                     {
                         "name": "Vine Block #1",
-                        "ref": "Map/Valley of Bowser 1/Vine Block #1"
+                        "ref": "Blocks/VB1/Vine Block #1"
                     }
                 ],
                 "map_locations": [

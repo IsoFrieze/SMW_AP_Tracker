@@ -13,7 +13,7 @@
                 "sections": [
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Vanilla Dome 2/Normal Exit"
+                        "ref": "Exits/VD2/Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -29,7 +29,7 @@
                 "sections": [
                     {
                         "name": "Secret Exit",
-                        "ref": "Map/Vanilla Dome 2/Secret Exit"
+                        "ref": "Exits/VD2/Secret Exit"
                     }
                 ],
                 "map_locations": [
@@ -45,7 +45,7 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Vanilla Dome 2/Dragon Coins"
+                        "ref": "Dragon Coins/VD2/Dragon Coins"
                     }
                 ],
                 "map_locations": [
@@ -81,7 +81,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #1",
-                        "ref": "Map/Vanilla Dome 2/Coin Block #1"
+                        "ref": "Blocks/VD2/Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -97,7 +97,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Map/Vanilla Dome 2/Powerup Block #1"
+                        "ref": "Blocks/VD2/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -113,7 +113,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #2",
-                        "ref": "Map/Vanilla Dome 2/Coin Block #2"
+                        "ref": "Blocks/VD2/Coin Block #2"
                     }
                 ],
                 "map_locations": [
@@ -129,7 +129,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #3",
-                        "ref": "Map/Vanilla Dome 2/Coin Block #3"
+                        "ref": "Blocks/VD2/Coin Block #3"
                     }
                 ],
                 "map_locations": [
@@ -145,7 +145,7 @@
                 "sections": [
                     {
                         "name": "Vine Block #1",
-                        "ref": "Map/Vanilla Dome 2/Vine Block #1"
+                        "ref": "Blocks/VD2/Vine Block #1"
                     }
                 ],
                 "map_locations": [
@@ -161,7 +161,7 @@
                 "sections": [
                     {
                         "name": "Invisible 1-Up Mushroom Block #1",
-                        "ref": "Map/Vanilla Dome 2/Invisible 1-Up Mushroom Block #1"
+                        "ref": "Blocks/VD2/Invisible 1-Up Mushroom Block #1"
                     }
                 ],
                 "map_locations": [
@@ -177,7 +177,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #4",
-                        "ref": "Map/Vanilla Dome 2/Coin Block #4"
+                        "ref": "Blocks/VD2/Coin Block #4"
                     }
                 ],
                 "map_locations": [
@@ -193,7 +193,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #5",
-                        "ref": "Map/Vanilla Dome 2/Coin Block #5"
+                        "ref": "Blocks/VD2/Coin Block #5"
                     }
                 ],
                 "map_locations": [
@@ -209,7 +209,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Map/Vanilla Dome 2/Powerup Block #2"
+                        "ref": "Blocks/VD2/Powerup Block #2"
                     }
                 ],
                 "map_locations": [
@@ -225,7 +225,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #3",
-                        "ref": "Map/Vanilla Dome 2/Powerup Block #3"
+                        "ref": "Blocks/VD2/Powerup Block #3"
                     }
                 ],
                 "map_locations": [
@@ -241,7 +241,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #4",
-                        "ref": "Map/Vanilla Dome 2/Powerup Block #4"
+                        "ref": "Blocks/VD2/Powerup Block #4"
                     }
                 ],
                 "map_locations": [
@@ -257,7 +257,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #5",
-                        "ref": "Map/Vanilla Dome 2/Powerup Block #5"
+                        "ref": "Blocks/VD2/Powerup Block #5"
                     }
                 ],
                 "map_locations": [
@@ -273,7 +273,7 @@
                 "sections": [
                     {
                         "name": "Multi Coin Block #1",
-                        "ref": "Map/Vanilla Dome 2/Multi Coin Block #1"
+                        "ref": "Blocks/VD2/Multi Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -289,7 +289,7 @@
                 "sections": [
                     {
                         "name": "Multi Coin Block #2",
-                        "ref": "Map/Vanilla Dome 2/Multi Coin Block #2"
+                        "ref": "Blocks/VD2/Multi Coin Block #2"
                     }
                 ],
                 "map_locations": [
@@ -305,7 +305,7 @@
                 "sections": [
                     {
                         "name": "Midway Point",
-                        "ref": "Map/Vanilla Dome 2/Midway Point"
+                        "ref": "Midways/VD2/Midway Point"
                     }
                 ],
                 "map_locations": [
@@ -321,75 +321,75 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Map/Vanilla Dome 2/Main room"
+                        "ref": "Rooms/VD2/0x0118"
                     },
                     {
                         "name": "Midway Point",
-                        "ref": "Map/Vanilla Dome 2/Midway Point"
+                        "ref": "Midways/VD2/Midway Point"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Vanilla Dome 2/Normal Exit"
+                        "ref": "Exits/VD2/Normal Exit"
                     },
                     {
                         "name": "Secret Exit",
-                        "ref": "Map/Vanilla Dome 2/Secret Exit"
+                        "ref": "Exits/VD2/Secret Exit"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Vanilla Dome 2/Dragon Coins"
+                        "ref": "Dragon Coins/VD2/Dragon Coins"
                     },
                     {
                         "name": "Coin Block #1",
-                        "ref": "Map/Vanilla Dome 2/Coin Block #1"
+                        "ref": "Blocks/VD2/Coin Block #1"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Map/Vanilla Dome 2/Powerup Block #1"
+                        "ref": "Blocks/VD2/Powerup Block #1"
                     },
                     {
                         "name": "Coin Block #2",
-                        "ref": "Map/Vanilla Dome 2/Coin Block #2"
+                        "ref": "Blocks/VD2/Coin Block #2"
                     },
                     {
                         "name": "Coin Block #3",
-                        "ref": "Map/Vanilla Dome 2/Coin Block #3"
+                        "ref": "Blocks/VD2/Coin Block #3"
                     },
                     {
                         "name": "Vine Block #1",
-                        "ref": "Map/Vanilla Dome 2/Vine Block #1"
+                        "ref": "Blocks/VD2/Vine Block #1"
                     },
                     {
                         "name": "Invisible 1-Up Mushroom Block #1",
-                        "ref": "Map/Vanilla Dome 2/Invisible 1-Up Mushroom Block #1"
+                        "ref": "Blocks/VD2/Invisible 1-Up Mushroom Block #1"
                     },
                     {
                         "name": "Coin Block #4",
-                        "ref": "Map/Vanilla Dome 2/Coin Block #4"
+                        "ref": "Blocks/VD2/Coin Block #4"
                     },
                     {
                         "name": "Coin Block #5",
-                        "ref": "Map/Vanilla Dome 2/Coin Block #5"
+                        "ref": "Blocks/VD2/Coin Block #5"
                     },
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Map/Vanilla Dome 2/Powerup Block #2"
+                        "ref": "Blocks/VD2/Powerup Block #2"
                     },
                     {
                         "name": "Powerup Block #3",
-                        "ref": "Map/Vanilla Dome 2/Powerup Block #3"
+                        "ref": "Blocks/VD2/Powerup Block #3"
                     },
                     {
                         "name": "Powerup Block #4",
-                        "ref": "Map/Vanilla Dome 2/Powerup Block #4"
+                        "ref": "Blocks/VD2/Powerup Block #4"
                     },
                     {
                         "name": "Powerup Block #5",
-                        "ref": "Map/Vanilla Dome 2/Powerup Block #5"
+                        "ref": "Blocks/VD2/Powerup Block #5"
                     },
                     {
                         "name": "Multi Coin Block #2",
-                        "ref": "Map/Vanilla Dome 2/Multi Coin Block #2"
+                        "ref": "Blocks/VD2/Multi Coin Block #2"
                     }
                 ],
                 "map_locations": [
@@ -405,11 +405,11 @@
                 "sections": [
                     {
                         "name": "Ice cave room",
-                        "ref": "Map/Vanilla Dome 2/Ice cave room"
+                        "ref": "Rooms/VD2/0x01C3"
                     },
                     {
                         "name": "Multi Coin Block #1",
-                        "ref": "Map/Vanilla Dome 2/Multi Coin Block #1"
+                        "ref": "Blocks/VD2/Multi Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -425,11 +425,11 @@
                 "sections": [
                     {
                         "name": "Ice cave room",
-                        "ref": "Map/Vanilla Dome 2/Ice cave room"
+                        "ref": "Rooms/VD2/0x01C3"
                     },
                     {
                         "name": "Multi Coin Block #1",
-                        "ref": "Map/Vanilla Dome 2/Multi Coin Block #1"
+                        "ref": "Blocks/VD2/Multi Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -445,75 +445,75 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Map/Vanilla Dome 2/Main room"
+                        "ref": "Rooms/VD2/0x0118"
                     },
                     {
                         "name": "Midway Point",
-                        "ref": "Map/Vanilla Dome 2/Midway Point"
+                        "ref": "Midways/VD2/Midway Point"
                     },
                     {
                         "name": "Normal Exit",
-                        "ref": "Map/Vanilla Dome 2/Normal Exit"
+                        "ref": "Exits/VD2/Normal Exit"
                     },
                     {
                         "name": "Secret Exit",
-                        "ref": "Map/Vanilla Dome 2/Secret Exit"
+                        "ref": "Exits/VD2/Secret Exit"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Map/Vanilla Dome 2/Dragon Coins"
+                        "ref": "Dragon Coins/VD2/Dragon Coins"
                     },
                     {
                         "name": "Coin Block #1",
-                        "ref": "Map/Vanilla Dome 2/Coin Block #1"
+                        "ref": "Blocks/VD2/Coin Block #1"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Map/Vanilla Dome 2/Powerup Block #1"
+                        "ref": "Blocks/VD2/Powerup Block #1"
                     },
                     {
                         "name": "Coin Block #2",
-                        "ref": "Map/Vanilla Dome 2/Coin Block #2"
+                        "ref": "Blocks/VD2/Coin Block #2"
                     },
                     {
                         "name": "Coin Block #3",
-                        "ref": "Map/Vanilla Dome 2/Coin Block #3"
+                        "ref": "Blocks/VD2/Coin Block #3"
                     },
                     {
                         "name": "Vine Block #1",
-                        "ref": "Map/Vanilla Dome 2/Vine Block #1"
+                        "ref": "Blocks/VD2/Vine Block #1"
                     },
                     {
                         "name": "Invisible 1-Up Mushroom Block #1",
-                        "ref": "Map/Vanilla Dome 2/Invisible 1-Up Mushroom Block #1"
+                        "ref": "Blocks/VD2/Invisible 1-Up Mushroom Block #1"
                     },
                     {
                         "name": "Coin Block #4",
-                        "ref": "Map/Vanilla Dome 2/Coin Block #4"
+                        "ref": "Blocks/VD2/Coin Block #4"
                     },
                     {
                         "name": "Coin Block #5",
-                        "ref": "Map/Vanilla Dome 2/Coin Block #5"
+                        "ref": "Blocks/VD2/Coin Block #5"
                     },
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Map/Vanilla Dome 2/Powerup Block #2"
+                        "ref": "Blocks/VD2/Powerup Block #2"
                     },
                     {
                         "name": "Powerup Block #3",
-                        "ref": "Map/Vanilla Dome 2/Powerup Block #3"
+                        "ref": "Blocks/VD2/Powerup Block #3"
                     },
                     {
                         "name": "Powerup Block #4",
-                        "ref": "Map/Vanilla Dome 2/Powerup Block #4"
+                        "ref": "Blocks/VD2/Powerup Block #4"
                     },
                     {
                         "name": "Powerup Block #5",
-                        "ref": "Map/Vanilla Dome 2/Powerup Block #5"
+                        "ref": "Blocks/VD2/Powerup Block #5"
                     },
                     {
                         "name": "Multi Coin Block #2",
-                        "ref": "Map/Vanilla Dome 2/Multi Coin Block #2"
+                        "ref": "Blocks/VD2/Multi Coin Block #2"
                     }
                 ],
                 "map_locations": [

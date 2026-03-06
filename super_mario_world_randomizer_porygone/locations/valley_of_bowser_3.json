@@ -89,10 +89,40 @@
                 ]
             },
             {
+                "name": "Valley of Bowser 3 - Midway Point",
+                "sections": [
+                    {
+                        "ref": "Map/Valley of Bowser 3/Midway Point"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vob3_main",
+                        "x": 104,
+                        "y": 664
+                    }
+                ]
+            },
+            {
                 "name": "Valley of Bowser 3 - Main room",
                 "sections": [
                     {
                         "ref": "Map/Valley of Bowser 3/Main room"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 3/Midway Point"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 3/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 3/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 3/Powerup Block #1"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 3/Powerup Block #2"
                     }
                 ],
                 "map_locations": [
@@ -100,16 +130,6 @@
                         "map": "vob3_main",
                         "x": 16,
                         "y": 16
-                    },
-                    {
-                        "map": "vob3_zbonus",
-                        "x": 200,
-                        "y": 64
-                    },
-                    {
-                        "map": "vob3_zbonus",
-                        "x": 24,
-                        "y": 384
                     }
                 ]
             },
@@ -125,7 +145,17 @@
                         "map": "vob3_zbonus",
                         "x": 16,
                         "y": 16
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Valley of Bowser 3 - Pipe to Bonus room",
+                "sections": [
+                    {
+                        "ref": "Map/Valley of Bowser 3/Bonus room"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "vob3_main",
                         "x": 1728,
@@ -134,17 +164,37 @@
                 ]
             },
             {
-                "name": "Valley of Bowser 3 - Midway Point",
+                "name": "Valley of Bowser 3 - Pipe to Main room",
                 "sections": [
                     {
+                        "ref": "Map/Valley of Bowser 3/Main room"
+                    },
+                    {
                         "ref": "Map/Valley of Bowser 3/Midway Point"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 3/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 3/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 3/Powerup Block #1"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 3/Powerup Block #2"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "vob3_main",
-                        "x": 104,
-                        "y": 664
+                        "map": "vob3_zbonus",
+                        "x": 200,
+                        "y": 64
+                    },
+                    {
+                        "map": "vob3_zbonus",
+                        "x": 24,
+                        "y": 384
                     }
                 ]
             }

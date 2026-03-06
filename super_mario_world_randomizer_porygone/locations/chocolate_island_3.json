@@ -209,46 +209,6 @@
                 ]
             },
             {
-                "name": "Chocolate Island 3 - Main room",
-                "sections": [
-                    {
-                        "ref": "Map/Chocolate Island 3/Main room"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "ci3_main",
-                        "x": 16,
-                        "y": 16
-                    },
-                    {
-                        "map": "ci3_sub",
-                        "x": 480,
-                        "y": 344
-                    }
-                ]
-            },
-            {
-                "name": "Chocolate Island 3 - Coin room",
-                "sections": [
-                    {
-                        "ref": "Map/Chocolate Island 3/Coin room"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "ci3_sub",
-                        "x": 16,
-                        "y": 16
-                    },
-                    {
-                        "map": "ci3_main",
-                        "x": 1520,
-                        "y": 728
-                    }
-                ]
-            },
-            {
                 "name": "Chocolate Island 3 - Midway Point",
                 "sections": [
                     {
@@ -260,6 +220,150 @@
                         "map": "ci3_main",
                         "x": 504,
                         "y": 696
+                    }
+                ]
+            },
+            {
+                "name": "Chocolate Island 3 - Main room",
+                "sections": [
+                    {
+                        "ref": "Map/Chocolate Island 3/Main room"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 3/Midway Point"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 3/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 3/Secret Exit"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 3/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 3/1-Up from Bonus Block"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 3/Powerup Block #1"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 3/Powerup Block #2"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 3/Powerup Block #3"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 3/Green Switch Palace Block #1"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 3/Vine Block #1"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 3/1-Up Mushroom Block #1"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 3/1-Up Mushroom Block #2"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 3/1-Up Mushroom Block #3"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ci3_main",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Chocolate Island 3 - Coin room",
+                "sections": [
+                    {
+                        "ref": "Map/Chocolate Island 3/Coin room"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 3/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ci3_sub",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Chocolate Island 3 - Pipe to Coin room",
+                "sections": [
+                    {
+                        "ref": "Map/Chocolate Island 3/Coin room"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 3/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ci3_main",
+                        "x": 1936,
+                        "y": 232
+                    }
+                ]
+            },
+            {
+                "name": "Chocolate Island 3 - Pipe to Main room",
+                "sections": [
+                    {
+                        "ref": "Map/Chocolate Island 3/Main room"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 3/Midway Point"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 3/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 3/Secret Exit"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 3/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 3/1-Up from Bonus Block"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 3/Powerup Block #1"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 3/Powerup Block #2"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 3/Powerup Block #3"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 3/Green Switch Palace Block #1"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 3/Vine Block #1"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 3/1-Up Mushroom Block #1"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 3/1-Up Mushroom Block #2"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 3/1-Up Mushroom Block #3"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ci3_sub",
+                        "x": 480,
+                        "y": 344
                     }
                 ]
             }

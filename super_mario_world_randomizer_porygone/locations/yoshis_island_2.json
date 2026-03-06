@@ -299,10 +299,64 @@
                 ]
             },
             {
+                "name": "Yoshi's Island 2 - Midway Point",
+                "sections": [
+                    {
+                        "ref": "Map/Yoshi's Island 2/Midway Point"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "yi2_main",
+                        "x": 538,
+                        "y": 808
+                    }
+                ]
+            },
+            {
                 "name": "Yoshi's Island 2 - Main room",
                 "sections": [
                     {
                         "ref": "Map/Yoshi's Island 2/Main room"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 2/Midway Point"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 2/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 2/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 2/Coin Block #1"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 2/Yellow Switch Palace Block #1"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 2/Coin Block #2"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 2/Coin Block #3"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 2/Yoshi Block #1"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 2/Coin Block #4"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 2/Yoshi Block #2"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 2/Coin Block #5"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 2/Vine Block #1"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 2/Yellow Switch Palace Block #2"
                     }
                 ],
                 "map_locations": [
@@ -310,11 +364,6 @@
                         "map": "yi2_main",
                         "x": 16,
                         "y": 16
-                    },
-                    {
-                        "map": "yi2_sub_1",
-                        "x": 456,
-                        "y": 368
                     }
                 ]
             },
@@ -332,6 +381,52 @@
                         "y": 16
                     },
                     {
+                        "ref": "Map/Yoshi's Island 2/Flying Question Block #1"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 2/Flying Question Block #2"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 2/Flying Question Block #3"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 2/Flying Question Block #4"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 2/Flying Question Block #5"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 2/Flying Question Block #6"
+                    }
+                ]
+            },
+            {
+                "name": "Yoshi's Island 2 - Pipe to Flying block room",
+                "sections": [
+                    {
+                        "ref": "Map/Yoshi's Island 2/Flying block room"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 2/Flying Question Block #1"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 2/Flying Question Block #2"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 2/Flying Question Block #3"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 2/Flying Question Block #4"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 2/Flying Question Block #5"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 2/Flying Question Block #6"
+                    }
+                ],
+                "map_locations": [
+                    {
                         "map": "yi2_main",
                         "x": 1840,
                         "y": 792
@@ -339,17 +434,56 @@
                 ]
             },
             {
-                "name": "Yoshi's Island 2 - Midway Point",
+                "name": "Yoshi's Island 2 - Pipe to Main room",
                 "sections": [
                     {
+                        "ref": "Map/Yoshi's Island 2/Main room"
+                    },
+                    {
                         "ref": "Map/Yoshi's Island 2/Midway Point"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 2/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 2/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 2/Coin Block #1"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 2/Yellow Switch Palace Block #1"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 2/Coin Block #2"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 2/Coin Block #3"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 2/Yoshi Block #1"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 2/Coin Block #4"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 2/Yoshi Block #2"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 2/Coin Block #5"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 2/Vine Block #1"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 2/Yellow Switch Palace Block #2"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "yi2_main",
-                        "x": 538,
-                        "y": 808
+                        "map": "yi2_sub_1",
+                        "x": 456,
+                        "y": 368
                     }
                 ]
             }

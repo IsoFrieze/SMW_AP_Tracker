@@ -1424,46 +1424,6 @@
                 ]
             },
             {
-                "name": "Yoshi's Island 3 - Main room",
-                "sections": [
-                    {
-                        "ref": "Map/Yoshi's Island 3/Main room"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "yi3_main",
-                        "x": 16,
-                        "y": 16
-                    },
-                    {
-                        "map": "yi3_sub_1",
-                        "x": 472,
-                        "y": 368
-                    }
-                ]
-            },
-            {
-                "name": "Yoshi's Island 3 - Lava room",
-                "sections": [
-                    {
-                        "ref": "Map/Yoshi's Island 3/Lava room"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "yi3_sub_1",
-                        "x": 16,
-                        "y": 16
-                    },
-                    {
-                        "map": "yi3_main",
-                        "x": 1760,
-                        "y": 344
-                    }
-                ]
-            },
-            {
                 "name": "Yoshi's Island 3 - Midway Point",
                 "sections": [
                     {
@@ -1475,6 +1435,636 @@
                         "map": "yi3_main",
                         "x": 392,
                         "y": 808
+                    }
+                ]
+            },
+            {
+                "name": "Yoshi's Island 3 - Main room",
+                "sections": [
+                    {
+                        "ref": "Map/Yoshi's Island 3/Main room"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Midway Point"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/1-Up from Bonus Block"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #1"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #2"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #3"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #4"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #5"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #6"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #7"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #8"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #9"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #10"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #11"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #12"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #13"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #14"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #15"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #16"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #17"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #18"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #19"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #20"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #21"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #22"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #23"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #24"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #25"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #26"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #27"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #28"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #29"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Coin Block #1"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yoshi Block #1"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #30"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #31"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #32"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #33"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #34"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #35"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #36"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #37"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #38"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #39"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #40"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #41"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #42"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #43"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #44"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #45"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #46"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #47"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #48"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #49"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #50"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #51"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Coin Block #2"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Powerup Block #1"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #52"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #53"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #54"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #55"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #56"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #57"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #58"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #59"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #60"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #61"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #62"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #63"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #64"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #65"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #66"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #67"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #68"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #69"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #70"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #71"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #72"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #73"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #74"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #75"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #76"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #77"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #78"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #79"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #80"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #81"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #82"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #83"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #84"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #85"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #86"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "yi3_main",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Yoshi's Island 3 - Lava room",
+                "sections": [
+                    {
+                        "ref": "Map/Yoshi's Island 3/Lava room"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "yi3_sub_1",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Yoshi's Island 3 - Pipe to Lava room",
+                "sections": [
+                    {
+                        "ref": "Map/Yoshi's Island 3/Lava room"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "yi3_main",
+                        "x": 1760,
+                        "y": 344
+                    }
+                ]
+            },
+            {
+                "name": "Yoshi's Island 3 - Pipe to Main room",
+                "sections": [
+                    {
+                        "ref": "Map/Yoshi's Island 3/Main room"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Midway Point"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/1-Up from Bonus Block"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #1"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #2"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #3"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #4"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #5"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #6"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #7"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #8"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #9"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #10"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #11"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #12"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #13"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #14"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #15"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #16"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #17"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #18"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #19"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #20"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #21"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #22"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #23"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #24"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #25"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #26"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #27"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #28"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #29"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Coin Block #1"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yoshi Block #1"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #30"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #31"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #32"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #33"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #34"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #35"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #36"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #37"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #38"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #39"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #40"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #41"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #42"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #43"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #44"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #45"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #46"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #47"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #48"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #49"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #50"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #51"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Coin Block #2"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Powerup Block #1"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #52"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #53"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #54"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #55"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #56"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #57"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #58"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #59"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #60"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #61"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #62"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #63"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #64"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #65"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #66"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #67"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #68"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #69"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #70"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #71"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #72"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #73"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #74"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #75"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #76"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #77"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #78"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #79"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #80"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #81"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #82"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #83"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #84"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #85"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 3/Yellow Switch Palace Block #86"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "yi3_sub_1",
+                        "x": 472,
+                        "y": 368
                     }
                 ]
             }

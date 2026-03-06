@@ -138,6 +138,21 @@
                 "sections": [
                     {
                         "ref": "Map/Yoshi's Island 4/Main room"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 4/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 4/Hidden 1-Up"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 4/Yellow Switch Palace Block #1"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 4/Powerup Block #1"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 4/Star Block #1"
                     }
                 ],
                 "map_locations": [
@@ -145,11 +160,6 @@
                         "map": "yi4_main",
                         "x": 16,
                         "y": 16
-                    },
-                    {
-                        "map": "yi4_sub_1",
-                        "x": 976,
-                        "y": 344
                     }
                 ]
             },
@@ -158,6 +168,9 @@
                 "sections": [
                     {
                         "ref": "Map/Yoshi's Island 4/Pokey room"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 4/Multi Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -165,11 +178,6 @@
                         "map": "yi4_sub_1",
                         "x": 16,
                         "y": 16
-                    },
-                    {
-                        "map": "yi4_main",
-                        "x": 816,
-                        "y": 376
                     }
                 ]
             },
@@ -178,6 +186,9 @@
                 "sections": [
                     {
                         "ref": "Map/Yoshi's Island 4/Goal room"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 4/Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -185,11 +196,72 @@
                         "map": "yi4_sub_2",
                         "x": 16,
                         "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Yoshi's Island 4 - Pipe to Pokey room",
+                "sections": [
+                    {
+                        "ref": "Map/Yoshi's Island 4/Pokey room"
                     },
+                    {
+                        "ref": "Map/Yoshi's Island 4/Multi Coin Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "yi4_main",
+                        "x": 816,
+                        "y": 376
+                    }
+                ]
+            },
+            {
+                "name": "Yoshi's Island 4 - Pipe to Goal room",
+                "sections": [
+                    {
+                        "ref": "Map/Yoshi's Island 4/Goal room"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 4/Normal Exit"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "yi4_main",
                         "x": 1208,
                         "y": 784
+                    }
+                ]
+            },
+            {
+                "name": "Yoshi's Island 4 - Pipe to Main room",
+                "sections": [
+                    {
+                        "ref": "Map/Yoshi's Island 4/Main room"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 4/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 4/Hidden 1-Up"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 4/Yellow Switch Palace Block #1"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 4/Powerup Block #1"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 4/Star Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "yi4_sub_1",
+                        "x": 976,
+                        "y": 344
                     }
                 ]
             }

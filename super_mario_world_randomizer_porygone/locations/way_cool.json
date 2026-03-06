@@ -20,6 +20,11 @@
                         "map": "sw3_main",
                         "x": 744,
                         "y": 1240
+                    },
+                    {
+                        "map": "sw3_sub_2",
+                        "x": 1224,
+                        "y": 392
                     }
                 ]
             },
@@ -123,6 +128,18 @@
                 "sections": [
                     {
                         "ref": "Map/Way Cool/Main room"
+                    },
+                    {
+                        "ref": "Map/Way Cool/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Way Cool/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Way Cool/Powerup Block #1"
+                    },
+                    {
+                        "ref": "Map/Way Cool/Wings Block #1"
                     }
                 ],
                 "map_locations": [
@@ -130,11 +147,6 @@
                         "map": "sw3_main",
                         "x": 16,
                         "y": 16
-                    },
-                    {
-                        "map": "sw3_sub_1",
-                        "x": 224,
-                        "y": 328
                     }
                 ]
             },
@@ -143,6 +155,9 @@
                 "sections": [
                     {
                         "ref": "Map/Way Cool/Yoshi room"
+                    },
+                    {
+                        "ref": "Map/Way Cool/Yoshi Block #1"
                     }
                 ],
                 "map_locations": [
@@ -150,11 +165,6 @@
                         "map": "sw3_sub_1",
                         "x": 16,
                         "y": 16
-                    },
-                    {
-                        "map": "sw3_main",
-                        "x": 1616,
-                        "y": 88
                     }
                 ]
             },
@@ -163,6 +173,12 @@
                 "sections": [
                     {
                         "ref": "Map/Way Cool/Yoshi wings room"
+                    },
+                    {
+                        "ref": "Map/Way Cool/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Way Cool/Dragon Coins"
                     }
                 ],
                 "map_locations": [
@@ -170,7 +186,68 @@
                         "map": "sw3_sub_2",
                         "x": 16,
                         "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Way Cool - Pipe to Yoshi room",
+                "sections": [
+                    {
+                        "ref": "Map/Way Cool/Yoshi room"
                     },
+                    {
+                        "ref": "Map/Way Cool/Yoshi Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "sw3_main",
+                        "x": 1616,
+                        "y": 88
+                    }
+                ]
+            },
+            {
+                "name": "Way Cool - Pipe to Main room",
+                "sections": [
+                    {
+                        "ref": "Map/Way Cool/Main room"
+                    },
+                    {
+                        "ref": "Map/Way Cool/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Way Cool/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Way Cool/Powerup Block #1"
+                    },
+                    {
+                        "ref": "Map/Way Cool/Wings Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "sw3_sub_1",
+                        "x": 224,
+                        "y": 328
+                    }
+                ]
+            },
+            {
+                "name": "Way Cool - Transition to Yoshi wings room",
+                "sections": [
+                    {
+                        "ref": "Map/Way Cool/Yoshi wings room"
+                    },
+                    {
+                        "ref": "Map/Way Cool/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Way Cool/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "sw3_main",
                         "x": 600,

@@ -9,10 +9,10 @@
         ],
         "children": [
             {
-                "name": "#5 Roy's Castle - Goal",
+                "name": "#5 Roy's Castle - Boss battle",
                 "sections": [
                     {
-                        "ref": "Map/#5 Roy's Castle/Goal"
+                        "ref": "Map/#5 Roy's Castle/Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -78,6 +78,15 @@
                 "sections": [
                     {
                         "ref": "Map/#5 Roy's Castle/Main room"
+                    },
+                    {
+                        "ref": "Map/#5 Roy's Castle/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/#5 Roy's Castle/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/#5 Roy's Castle/Green Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [

@@ -633,6 +633,126 @@
                 "sections": [
                     {
                         "ref": "Map/Mondo/Main room"
+                    },
+                    {
+                        "ref": "Map/Mondo/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Mondo/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Mondo/Powerup Block #1"
+                    },
+                    {
+                        "ref": "Map/Mondo/Coin Block #1"
+                    },
+                    {
+                        "ref": "Map/Mondo/Coin Block #2"
+                    },
+                    {
+                        "ref": "Map/Mondo/Yoshi Block #1"
+                    },
+                    {
+                        "ref": "Map/Mondo/1-Up Mushroom Block #1"
+                    },
+                    {
+                        "ref": "Map/Mondo/Multi Coin Block #1"
+                    },
+                    {
+                        "ref": "Map/Mondo/Coin Block #3"
+                    },
+                    {
+                        "ref": "Map/Mondo/Coin Block #4"
+                    },
+                    {
+                        "ref": "Map/Mondo/Coin Block #5"
+                    },
+                    {
+                        "ref": "Map/Mondo/Coin Block #6"
+                    },
+                    {
+                        "ref": "Map/Mondo/Coin Block #7"
+                    },
+                    {
+                        "ref": "Map/Mondo/Coin Block #8"
+                    },
+                    {
+                        "ref": "Map/Mondo/Coin Block #9"
+                    },
+                    {
+                        "ref": "Map/Mondo/Coin Block #10"
+                    },
+                    {
+                        "ref": "Map/Mondo/Coin Block #11"
+                    },
+                    {
+                        "ref": "Map/Mondo/Coin Block #12"
+                    },
+                    {
+                        "ref": "Map/Mondo/Coin Block #13"
+                    },
+                    {
+                        "ref": "Map/Mondo/Coin Block #14"
+                    },
+                    {
+                        "ref": "Map/Mondo/Coin Block #15"
+                    },
+                    {
+                        "ref": "Map/Mondo/Coin Block #16"
+                    },
+                    {
+                        "ref": "Map/Mondo/Coin Block #18"
+                    },
+                    {
+                        "ref": "Map/Mondo/Coin Block #19"
+                    },
+                    {
+                        "ref": "Map/Mondo/Coin Block #19"
+                    },
+                    {
+                        "ref": "Map/Mondo/Coin Block #20"
+                    },
+                    {
+                        "ref": "Map/Mondo/Coin Block #21"
+                    },
+                    {
+                        "ref": "Map/Mondo/Coin Block #22"
+                    },
+                    {
+                        "ref": "Map/Mondo/Coin Block #23"
+                    },
+                    {
+                        "ref": "Map/Mondo/Coin Block #24"
+                    },
+                    {
+                        "ref": "Map/Mondo/Coin Block #25"
+                    },
+                    {
+                        "ref": "Map/Mondo/Coin Block #26"
+                    },
+                    {
+                        "ref": "Map/Mondo/Coin Block #27"
+                    },
+                    {
+                        "ref": "Map/Mondo/Coin Block #28"
+                    },
+                    {
+                        "ref": "Map/Mondo/Powerup Block #2"
+                    },
+                    {
+                        "ref": "Map/Mondo/Coin Block #29"
+                    },
+                    {
+                        "ref": "Map/Mondo/Coin Block #30"
+                    },
+                    {
+                        "ref": "Map/Mondo/Coin Block #31"
+                    },
+                    {
+                        "ref": "Map/Mondo/Coin Block #32"
+                    },
+                    {
+                        "ref": "Map/Mondo/Coin Block #33"
                     }
                 ],
                 "map_locations": [
@@ -640,11 +760,6 @@
                         "map": "sw6_main",
                         "x": 16,
                         "y": 16
-                    },
-                    {
-                        "map": "sw6_sub_1",
-                        "x": 1248,
-                        "y": 344
                     }
                 ]
             },
@@ -653,6 +768,9 @@
                 "sections": [
                     {
                         "ref": "Map/Mondo/Slide room"
+                    },
+                    {
+                        "ref": "Map/Mondo/Dragon Coins"
                     }
                 ],
                 "map_locations": [
@@ -660,11 +778,6 @@
                         "map": "sw6_sub_1",
                         "x": 16,
                         "y": 16
-                    },
-                    {
-                        "map": "sw6_main",
-                        "x": 1936,
-                        "y": 344
                     }
                 ]
             },
@@ -673,6 +786,9 @@
                 "sections": [
                     {
                         "ref": "Map/Mondo/Goal room"
+                    },
+                    {
+                        "ref": "Map/Mondo/Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -680,7 +796,170 @@
                         "map": "sw6_sub_2",
                         "x": 16,
                         "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Mondo - Pipe to Slide room",
+                "sections": [
+                    {
+                        "ref": "Map/Mondo/Slide room"
                     },
+                    {
+                        "ref": "Map/Mondo/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "sw6_main",
+                        "x": 1936,
+                        "y": 344
+                    }
+                ]
+            },
+            {
+                "name": "Mondo - Pipe to Main room",
+                "sections": [
+                    {
+                        "ref": "Map/Mondo/Main room"
+                    },
+                    {
+                        "ref": "Map/Mondo/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Mondo/Powerup Block #1"
+                    },
+                    {
+                        "ref": "Map/Mondo/Coin Block #1"
+                    },
+                    {
+                        "ref": "Map/Mondo/Coin Block #2"
+                    },
+                    {
+                        "ref": "Map/Mondo/Yoshi Block #1"
+                    },
+                    {
+                        "ref": "Map/Mondo/1-Up Mushroom Block #1"
+                    },
+                    {
+                        "ref": "Map/Mondo/Multi Coin Block #1"
+                    },
+                    {
+                        "ref": "Map/Mondo/Coin Block #3"
+                    },
+                    {
+                        "ref": "Map/Mondo/Coin Block #4"
+                    },
+                    {
+                        "ref": "Map/Mondo/Coin Block #5"
+                    },
+                    {
+                        "ref": "Map/Mondo/Coin Block #6"
+                    },
+                    {
+                        "ref": "Map/Mondo/Coin Block #7"
+                    },
+                    {
+                        "ref": "Map/Mondo/Coin Block #8"
+                    },
+                    {
+                        "ref": "Map/Mondo/Coin Block #9"
+                    },
+                    {
+                        "ref": "Map/Mondo/Coin Block #10"
+                    },
+                    {
+                        "ref": "Map/Mondo/Coin Block #11"
+                    },
+                    {
+                        "ref": "Map/Mondo/Coin Block #12"
+                    },
+                    {
+                        "ref": "Map/Mondo/Coin Block #13"
+                    },
+                    {
+                        "ref": "Map/Mondo/Coin Block #14"
+                    },
+                    {
+                        "ref": "Map/Mondo/Coin Block #15"
+                    },
+                    {
+                        "ref": "Map/Mondo/Coin Block #16"
+                    },
+                    {
+                        "ref": "Map/Mondo/Coin Block #17"
+                    },
+                    {
+                        "ref": "Map/Mondo/Coin Block #18"
+                    },
+                    {
+                        "ref": "Map/Mondo/Coin Block #19"
+                    },
+                    {
+                        "ref": "Map/Mondo/Coin Block #20"
+                    },
+                    {
+                        "ref": "Map/Mondo/Coin Block #21"
+                    },
+                    {
+                        "ref": "Map/Mondo/Coin Block #22"
+                    },
+                    {
+                        "ref": "Map/Mondo/Coin Block #23"
+                    },
+                    {
+                        "ref": "Map/Mondo/Coin Block #24"
+                    },
+                    {
+                        "ref": "Map/Mondo/Coin Block #25"
+                    },
+                    {
+                        "ref": "Map/Mondo/Coin Block #26"
+                    },
+                    {
+                        "ref": "Map/Mondo/Coin Block #27"
+                    },
+                    {
+                        "ref": "Map/Mondo/Coin Block #28"
+                    },
+                    {
+                        "ref": "Map/Mondo/Powerup Block #2"
+                    },
+                    {
+                        "ref": "Map/Mondo/Coin Block #29"
+                    },
+                    {
+                        "ref": "Map/Mondo/Coin Block #30"
+                    },
+                    {
+                        "ref": "Map/Mondo/Coin Block #31"
+                    },
+                    {
+                        "ref": "Map/Mondo/Coin Block #32"
+                    },
+                    {
+                        "ref": "Map/Mondo/Coin Block #33"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "sw6_sub_1",
+                        "x": 1248,
+                        "y": 344
+                    }
+                ]
+            },
+            {
+                "name": "Mondo - Pipe to Goal room",
+                "sections": [
+                    {
+                        "ref": "Map/Mondo/Goal room"
+                    },
+                    {
+                        "ref": "Map/Mondo/Normal Exit"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "sw6_main",
                         "x": 1736,

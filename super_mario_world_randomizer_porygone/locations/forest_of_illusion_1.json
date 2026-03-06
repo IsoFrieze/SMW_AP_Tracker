@@ -114,21 +114,6 @@
                 ]
             },
             {
-                "name": "Forest of Illusion 1 - Main room",
-                "sections": [
-                    {
-                        "ref": "Map/Forest of Illusion 1/Main room"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "foi1_main",
-                        "x": 16,
-                        "y": 16
-                    }
-                ]
-            },
-            {
                 "name": "Forest of Illusion 1 - Midway Point",
                 "sections": [
                     {
@@ -140,6 +125,45 @@
                         "map": "foi1_main",
                         "x": 408,
                         "y": 760
+                    }
+                ]
+            },
+            {
+                "name": "Forest of Illusion 1 - Main room",
+                "sections": [
+                    {
+                        "ref": "Map/Forest of Illusion 1/Main room"
+                    },
+                    {
+                        "ref": "Map/Forest of Illusion 1/Midway Point"
+                    },
+                    {
+                        "ref": "Map/Forest of Illusion 1/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Forest of Illusion 1/Secret Exit"
+                    },
+                    {
+                        "ref": "Map/Forest of Illusion 1/Powerup Block #1"
+                    },
+                    {
+                        "ref": "Map/Forest of Illusion 1/Yoshi Block #1"
+                    },
+                    {
+                        "ref": "Map/Forest of Illusion 1/1-Up Mushroom Block #1"
+                    },
+                    {
+                        "ref": "Map/Forest of Illusion 1/Powerup Block #2"
+                    },
+                    {
+                        "ref": "Map/Forest of Illusion 1/Key Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "foi1_main",
+                        "x": 16,
+                        "y": 16
                     }
                 ]
             }

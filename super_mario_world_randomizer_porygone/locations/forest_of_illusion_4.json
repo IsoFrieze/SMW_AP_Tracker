@@ -269,10 +269,73 @@
                 ]
             },
             {
+                "name": "Forest of Illusion 4 - Midway Point",
+                "sections": [
+                    {
+                        "ref": "Map/Forest of Illusion 4/Midway Point"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "foi4_main",
+                        "x": 472,
+                        "y": 696
+                    }
+                ]
+            },
+            {
                 "name": "Forest of Illusion 4 - Main room",
                 "sections": [
                     {
                         "ref": "Map/Forest of Illusion 4/Main room"
+                    },
+                    {
+                        "ref": "Map/Forest of Illusion 4/Midway Point"
+                    },
+                    {
+                        "ref": "Map/Forest of Illusion 4/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Forest of Illusion 4/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Forest of Illusion 4/Multi Coin Block #1"
+                    },
+                    {
+                        "ref": "Map/Forest of Illusion 4/Coin Block #1"
+                    },
+                    {
+                        "ref": "Map/Forest of Illusion 4/Coin Block #2"
+                    },
+                    {
+                        "ref": "Map/Forest of Illusion 4/Coin Block #3"
+                    },
+                    {
+                        "ref": "Map/Forest of Illusion 4/Coin Block #4"
+                    },
+                    {
+                        "ref": "Map/Forest of Illusion 4/Powerup Block #1"
+                    },
+                    {
+                        "ref": "Map/Forest of Illusion 4/Coin Block #5"
+                    },
+                    {
+                        "ref": "Map/Forest of Illusion 4/Coin Block #6"
+                    },
+                    {
+                        "ref": "Map/Forest of Illusion 4/Coin Block #7"
+                    },
+                    {
+                        "ref": "Map/Forest of Illusion 4/Powerup Block #2"
+                    },
+                    {
+                        "ref": "Map/Forest of Illusion 4/Coin Block #8"
+                    },
+                    {
+                        "ref": "Map/Forest of Illusion 4/Coin Block #9"
+                    },
+                    {
+                        "ref": "Map/Forest of Illusion 4/Coin Block #10"
                     }
                 ],
                 "map_locations": [
@@ -280,11 +343,6 @@
                         "map": "foi4_main",
                         "x": 16,
                         "y": 16
-                    },
-                    {
-                        "map": "foi4_sub_2",
-                        "x": 32,
-                        "y": 312
                     }
                 ]
             },
@@ -293,6 +351,9 @@
                 "sections": [
                     {
                         "ref": "Map/Forest of Illusion 4/Keyhole room"
+                    },
+                    {
+                        "ref": "Map/Forest of Illusion 4/Secret Exit"
                     }
                 ],
                 "map_locations": [
@@ -300,11 +361,6 @@
                         "map": "foi4_sub_1",
                         "x": 16,
                         "y": 16
-                    },
-                    {
-                        "map": "foi4_main",
-                        "x": 944,
-                        "y": 728
                     }
                 ]
             },
@@ -320,7 +376,35 @@
                         "map": "foi4_sub_2",
                         "x": 16,
                         "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Forest of Illusion 4 - Pipe to Keyhole room",
+                "sections": [
+                    {
+                        "ref": "Map/Forest of Illusion 4/Keyhole room"
                     },
+                    {
+                        "ref": "Map/Forest of Illusion 4/Secret Exit"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "foi4_main",
+                        "x": 944,
+                        "y": 728
+                    }
+                ]
+            },
+            {
+                "name": "Forest of Illusion 4 - Pipe to Blurp room",
+                "sections": [
+                    {
+                        "ref": "Map/Forest of Illusion 4/Blurp room"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "foi4_main",
                         "x": 1424,
@@ -329,17 +413,65 @@
                 ]
             },
             {
-                "name": "Forest of Illusion 4 - Midway Point",
+                "name": "Forest of Illusion 4 - Pipe to Main room",
                 "sections": [
                     {
+                        "ref": "Map/Forest of Illusion 4/Main room"
+                    },
+                    {
                         "ref": "Map/Forest of Illusion 4/Midway Point"
+                    },
+                    {
+                        "ref": "Map/Forest of Illusion 4/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Forest of Illusion 4/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Forest of Illusion 4/Multi Coin Block #1"
+                    },
+                    {
+                        "ref": "Map/Forest of Illusion 4/Coin Block #1"
+                    },
+                    {
+                        "ref": "Map/Forest of Illusion 4/Coin Block #2"
+                    },
+                    {
+                        "ref": "Map/Forest of Illusion 4/Coin Block #3"
+                    },
+                    {
+                        "ref": "Map/Forest of Illusion 4/Coin Block #4"
+                    },
+                    {
+                        "ref": "Map/Forest of Illusion 4/Powerup Block #1"
+                    },
+                    {
+                        "ref": "Map/Forest of Illusion 4/Coin Block #5"
+                    },
+                    {
+                        "ref": "Map/Forest of Illusion 4/Coin Block #6"
+                    },
+                    {
+                        "ref": "Map/Forest of Illusion 4/Coin Block #7"
+                    },
+                    {
+                        "ref": "Map/Forest of Illusion 4/Powerup Block #2"
+                    },
+                    {
+                        "ref": "Map/Forest of Illusion 4/Coin Block #8"
+                    },
+                    {
+                        "ref": "Map/Forest of Illusion 4/Coin Block #9"
+                    },
+                    {
+                        "ref": "Map/Forest of Illusion 4/Coin Block #10"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "foi4_main",
-                        "x": 472,
-                        "y": 696
+                        "map": "foi4_sub_2",
+                        "x": 32,
+                        "y": 312
                     }
                 ]
             }

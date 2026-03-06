@@ -153,6 +153,24 @@
                 "sections": [
                     {
                         "ref": "Map/Vanilla Ghost House/Main room"
+                    },
+                    {
+                        "ref": "Map/Vanilla Ghost House/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Vanilla Ghost House/Hidden 1-Up"
+                    },
+                    {
+                        "ref": "Map/Vanilla Ghost House/Powerup Block #1"
+                    },
+                    {
+                        "ref": "Map/Vanilla Ghost House/Vine Block #1"
+                    },
+                    {
+                        "ref": "Map/Vanilla Ghost House/Powerup Block #2"
+                    },
+                    {
+                        "ref": "Map/Vanilla Ghost House/Multi Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -160,11 +178,6 @@
                         "map": "vdgh_main",
                         "x": 16,
                         "y": 16
-                    },
-                    {
-                        "map": "vdgh_sub_1",
-                        "x": 1752,
-                        "y": 368
                     }
                 ]
             },
@@ -173,6 +186,12 @@
                 "sections": [
                     {
                         "ref": "Map/Vanilla Ghost House/Gas bubbles room"
+                    },
+                    {
+                        "ref": "Map/Vanilla Ghost House/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Vanilla Ghost House/Blue P-Switch Block #1"
                     }
                 ],
                 "map_locations": [
@@ -180,11 +199,6 @@
                         "map": "vdgh_sub_1",
                         "x": 16,
                         "y": 16
-                    },
-                    {
-                        "map": "vdgh_main",
-                        "x": 1224,
-                        "y": 800
                     }
                 ]
             },
@@ -193,6 +207,9 @@
                 "sections": [
                     {
                         "ref": "Map/Vanilla Ghost House/Goal room"
+                    },
+                    {
+                        "ref": "Map/Vanilla Ghost House/Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -200,10 +217,80 @@
                         "map": "vdgh_sub_2",
                         "x": 16,
                         "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Vanilla Ghost House - Door to Gas bubbles room",
+                "sections": [
+                    {
+                        "ref": "Map/Vanilla Ghost House/Gas bubbles room"
                     },
+                    {
+                        "ref": "Map/Vanilla Ghost House/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Vanilla Ghost House/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Vanilla Ghost House/Blue P-Switch Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vdgh_main",
+                        "x": 1224,
+                        "y": 800
+                    }
+                ]
+            },
+            {
+                "name": "Vanilla Ghost House - Door to Goal room",
+                "sections": [
+                    {
+                        "ref": "Map/Vanilla Ghost House/Goal room"
+                    },
+                    {
+                        "ref": "Map/Vanilla Ghost House/Normal Exit"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "vdgh_sub_1",
                         "x": 1992,
+                        "y": 368
+                    }
+                ]
+            },
+            {
+                "name": "Vanilla Ghost House - Door to Main room",
+                "sections": [
+                    {
+                        "ref": "Map/Vanilla Ghost House/Main room"
+                    },
+                    {
+                        "ref": "Map/Vanilla Ghost House/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Vanilla Ghost House/Hidden 1-Up"
+                    },
+                    {
+                        "ref": "Map/Vanilla Ghost House/Powerup Block #1"
+                    },
+                    {
+                        "ref": "Map/Vanilla Ghost House/Vine Block #1"
+                    },
+                    {
+                        "ref": "Map/Vanilla Ghost House/Powerup Block #2"
+                    },
+                    {
+                        "ref": "Map/Vanilla Ghost House/Multi Coin Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vdgh_sub_1",
+                        "x": 1752,
                         "y": 368
                     }
                 ]

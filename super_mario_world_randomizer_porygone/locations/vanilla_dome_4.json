@@ -239,46 +239,6 @@
                 ]
             },
             {
-                "name": "Vanilla Dome 4 - Main room",
-                "sections": [
-                    {
-                        "ref": "Map/Vanilla Dome 4/Main room"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "vd4_main",
-                        "x": 16,
-                        "y": 16
-                    },
-                    {
-                        "map": "vd4_sub_1",
-                        "x": 1464,
-                        "y": 368
-                    }
-                ]
-            },
-            {
-                "name": "Vanilla Dome 4 - Lava room",
-                "sections": [
-                    {
-                        "ref": "Map/Vanilla Dome 4/Lava room"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "vd4_sub_1",
-                        "x": 16,
-                        "y": 16
-                    },
-                    {
-                        "map": "vd4_main",
-                        "x": 800,
-                        "y": 824
-                    }
-                ]
-            },
-            {
                 "name": "Vanilla Dome 4 - Midway Point",
                 "sections": [
                     {
@@ -290,6 +250,162 @@
                         "map": "vd4_main",
                         "x": 472,
                         "y": 696
+                    }
+                ]
+            },
+            {
+                "name": "Vanilla Dome 4 - Main room",
+                "sections": [
+                    {
+                        "ref": "Map/Vanilla Dome 4/Main room"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 4/Midway Point"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 4/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 4/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 4/Hidden 1-Up"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 4/Powerup Block #1"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 4/Powerup Block #2"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 4/Coin Block #1"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 4/Coin Block #2"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 4/Coin Block #3"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 4/1-Up Mushroom Block #1"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 4/Coin Block #4"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 4/Coin Block #5"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 4/Coin Block #6"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 4/Coin Block #7"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 4/Coin Block #8"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vd4_main",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Vanilla Dome 4 - Lava room",
+                "sections": [
+                    {
+                        "ref": "Map/Vanilla Dome 4/Lava room"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 4/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vd4_sub_1",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Vanilla Dome 4 - Pipe to Lava room",
+                "sections": [
+                    {
+                        "ref": "Map/Vanilla Dome 4/Lava room"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 4/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vd4_main",
+                        "x": 800,
+                        "y": 824
+                    }
+                ]
+            },
+            {
+                "name": "Vanilla Dome 4 - Pipe to Main room",
+                "sections": [
+                    {
+                        "ref": "Map/Vanilla Dome 4/Main room"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 4/Midway Point"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 4/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 4/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 4/Hidden 1-Up"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 4/Powerup Block #1"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 4/Powerup Block #2"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 4/Coin Block #1"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 4/Coin Block #2"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 4/Coin Block #3"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 4/1-Up Mushroom Block #1"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 4/Coin Block #4"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 4/Coin Block #5"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 4/Coin Block #6"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 4/Coin Block #7"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 4/Coin Block #8"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vd4_sub_1",
+                        "x": 1464,
+                        "y": 368
                     }
                 ]
             }

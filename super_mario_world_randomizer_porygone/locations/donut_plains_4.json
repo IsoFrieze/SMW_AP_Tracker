@@ -149,10 +149,52 @@
                 ]
             },
             {
+                "name": "Donut Plains 4 - Midway Point",
+                "sections": [
+                    {
+                        "ref": "Map/Donut Plains 4/Midway Point"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dp4_main",
+                        "x": 408,
+                        "y": 776
+                    }
+                ]
+            },
+            {
                 "name": "Donut Plains 4 - Main room",
                 "sections": [
                     {
                         "ref": "Map/Donut Plains 4/Main room"
+                    },
+                    {
+                        "ref": "Map/Donut Plains 4/Midway Point"
+                    },
+                    {
+                        "ref": "Map/Donut Plains 4/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Donut Plains 4/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Donut Plains 4/3-Up Moon"
+                    },
+                    {
+                        "ref": "Map/Donut Plains 4/Hidden 1-Up"
+                    },
+                    {
+                        "ref": "Map/Donut Plains 4/Coin Block #1"
+                    },
+                    {
+                        "ref": "Map/Donut Plains 4/Powerup Block #1"
+                    },
+                    {
+                        "ref": "Map/Donut Plains 4/Coin Block #2"
+                    },
+                    {
+                        "ref": "Map/Donut Plains 4/Yoshi Block #1"
                     }
                 ],
                 "map_locations": [
@@ -160,16 +202,6 @@
                         "map": "dp4_main",
                         "x": 16,
                         "y": 16
-                    },
-                    {
-                        "map": "dp4_sub_1",
-                        "x": 976,
-                        "y": 344
-                    },
-                    {
-                        "map": "dp4_sub_2",
-                        "x": 472,
-                        "y": 368
                     }
                 ]
             },
@@ -185,11 +217,6 @@
                         "map": "dp4_sub_1",
                         "x": 16,
                         "y": 16
-                    },
-                    {
-                        "map": "dp4_main",
-                        "x": 912,
-                        "y": 344
                     }
                 ]
             },
@@ -198,6 +225,9 @@
                 "sections": [
                     {
                         "ref": "Map/Donut Plains 4/Dragon coin room"
+                    },
+                    {
+                        "ref": "Map/Donut Plains 4/Dragon Coins"
                     }
                 ],
                 "map_locations": [
@@ -205,7 +235,35 @@
                         "map": "dp4_sub_2",
                         "x": 16,
                         "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Donut Plains 4 - Pipe to Pipes room",
+                "sections": [
+                    {
+                        "ref": "Map/Donut Plains 4/Pipes room"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dp4_main",
+                        "x": 912,
+                        "y": 344
+                    }
+                ]
+            },
+            {
+                "name": "Donut Plains 4 - Pipe to Dragon coin room",
+                "sections": [
+                    {
+                        "ref": "Map/Donut Plains 4/Dragon coin room"
                     },
+                    {
+                        "ref": "Map/Donut Plains 4/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "dp4_main",
                         "x": 1856,
@@ -214,17 +272,49 @@
                 ]
             },
             {
-                "name": "Donut Plains 4 - Midway Point",
+                "name": "Donut Plains 4 - Pipe to Main room",
                 "sections": [
                     {
+                        "ref": "Map/Donut Plains 4/Main room"
+                    },
+                    {
                         "ref": "Map/Donut Plains 4/Midway Point"
+                    },
+                    {
+                        "ref": "Map/Donut Plains 4/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Donut Plains 4/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Donut Plains 4/3-Up Moon"
+                    },
+                    {
+                        "ref": "Map/Donut Plains 4/Hidden 1-Up"
+                    },
+                    {
+                        "ref": "Map/Donut Plains 4/Coin Block #1"
+                    },
+                    {
+                        "ref": "Map/Donut Plains 4/Powerup Block #1"
+                    },
+                    {
+                        "ref": "Map/Donut Plains 4/Coin Block #2"
+                    },
+                    {
+                        "ref": "Map/Donut Plains 4/Yoshi Block #1"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "dp4_main",
-                        "x": 408,
-                        "y": 776
+                        "map": "dp4_sub_1",
+                        "x": 976,
+                        "y": 344
+                    },
+                    {
+                        "map": "dp4_sub_2",
+                        "x": 472,
+                        "y": 368
                     }
                 ]
             }

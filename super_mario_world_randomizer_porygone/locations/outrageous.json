@@ -138,6 +138,27 @@
                 "sections": [
                     {
                         "ref": "Map/Outrageous/Main room"
+                    },
+                    {
+                        "ref": "Map/Outrageous/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Outrageous/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Outrageous/Powerup Block #1"
+                    },
+                    {
+                        "ref": "Map/Outrageous/Yoshi Block #1"
+                    },
+                    {
+                        "ref": "Map/Outrageous/Coin Block #1"
+                    },
+                    {
+                        "ref": "Map/Outrageous/Powerup Block #2"
+                    },
+                    {
+                        "ref": "Map/Outrageous/Coin Block #2"
                     }
                 ],
                 "map_locations": [

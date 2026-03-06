@@ -108,6 +108,21 @@
                 "sections": [
                     {
                         "ref": "Map/Chocolate Island 4/Main room"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 4/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 4/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 4/Yellow Switch Palace Block #1"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 4/Blue P-Switch Block #1"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 4/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -115,7 +130,68 @@
                         "map": "ci4_main",
                         "x": 16,
                         "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Chocolate Island 4 - Vertical bonus room",
+                "sections": [
+                    {
+                        "ref": "Map/Chocolate Island 4/Vertical bonus room"
                     },
+                    {
+                        "ref": "Map/Chocolate Island 4/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ci4_sub_vert",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Chocolate Island 4 - Pipe to Vertical bonus room",
+                "sections": [
+                    {
+                        "ref": "Map/Chocolate Island 4/Vertical bonus room"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 4/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ci4_main",
+                        "x": 224,
+                        "y": 824
+                    }
+                ]
+            },
+            {
+                "name": "Chocolate Island 4 - Pipe to Main room",
+                "sections": [
+                    {
+                        "ref": "Map/Chocolate Island 4/Main room"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 4/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 4/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 4/Yellow Switch Palace Block #1"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 4/Blue P-Switch Block #1"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 4/Powerup Block #1"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "ci4_sub_vert",
                         "x": 472,
@@ -175,26 +251,6 @@
                         "map": "ci4_sub_vert",
                         "x": 2008,
                         "y": 704
-                    }
-                ]
-            },
-            {
-                "name": "Chocolate Island 4 - Vertical bonus room",
-                "sections": [
-                    {
-                        "ref": "Map/Chocolate Island 4/Vertical bonus room"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "ci4_sub_vert",
-                        "x": 16,
-                        "y": 16
-                    },
-                    {
-                        "map": "ci4_main",
-                        "x": 224,
-                        "y": 824
                     }
                 ]
             }

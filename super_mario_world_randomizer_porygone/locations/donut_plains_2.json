@@ -89,10 +89,10 @@
                 ]
             },
             {
-                "name": "Donut Plains 2 - Blocksanity - Coin Block #2",
+                "name": "Donut Plains 2 - Blocksanity - Multi Coin Block #1",
                 "sections": [
                     {
-                        "ref": "Map/Donut Plains 2/Coin Block #2"
+                        "ref": "Map/Donut Plains 2/Multi Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -104,10 +104,10 @@
                 ]
             },
             {
-                "name": "Donut Plains 2 - Blocksanity - Coin Block #3",
+                "name": "Donut Plains 2 - Blocksanity - Coin Block #2",
                 "sections": [
                     {
-                        "ref": "Map/Donut Plains 2/Coin Block #3"
+                        "ref": "Map/Donut Plains 2/Coin Block #2"
                     }
                 ],
                 "map_locations": [
@@ -149,10 +149,10 @@
                 ]
             },
             {
-                "name": "Donut Plains 2 - Blocksanity - Multi Coin Block #1",
+                "name": "Donut Plains 2 - Blocksanity - Multi Coin Block #2",
                 "sections": [
                     {
-                        "ref": "Map/Donut Plains 2/Multi Coin Block #1"
+                        "ref": "Map/Donut Plains 2/Multi Coin Block #2"
                     }
                 ],
                 "map_locations": [
@@ -228,6 +228,33 @@
                 "sections": [
                     {
                         "ref": "Map/Donut Plains 2/Main room"
+                    },
+                    {
+                        "ref": "Map/Donut Plains 2/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Donut Plains 2/Coin Block #1"
+                    },
+                    {
+                        "ref": "Map/Donut Plains 2/Multi Coin Block #1"
+                    },
+                    {
+                        "ref": "Map/Donut Plains 2/Coin Block #2"
+                    },
+                    {
+                        "ref": "Map/Donut Plains 2/Yellow Switch Palace Block #1"
+                    },
+                    {
+                        "ref": "Map/Donut Plains 2/Powerup Block #1"
+                    },
+                    {
+                        "ref": "Map/Donut Plains 2/Multi Coin Block #2"
+                    },
+                    {
+                        "ref": "Map/Donut Plains 2/Green Switch Palace Block #1"
+                    },
+                    {
+                        "ref": "Map/Donut Plains 2/Flying Question Block #1"
                     }
                 ],
                 "map_locations": [
@@ -243,6 +270,15 @@
                 "sections": [
                     {
                         "ref": "Map/Donut Plains 2/Keyhole room"
+                    },
+                    {
+                        "ref": "Map/Donut Plains 2/Secret Exit"
+                    },
+                    {
+                        "ref": "Map/Donut Plains 2/Yellow Switch Palace Block #2"
+                    },
+                    {
+                        "ref": "Map/Donut Plains 2/Vine Block #1"
                     }
                 ],
                 "map_locations": [
@@ -250,11 +286,6 @@
                         "map": "dp2_sub_1",
                         "x": 16,
                         "y": 16
-                    },
-                    {
-                        "map": "dp2_main",
-                        "x": 1488,
-                        "y": 120
                     }
                 ]
             },
@@ -263,6 +294,9 @@
                 "sections": [
                     {
                         "ref": "Map/Donut Plains 2/Goal room"
+                    },
+                    {
+                        "ref": "Map/Donut Plains 2/Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -270,7 +304,50 @@
                         "map": "dp2_sub_2",
                         "x": 16,
                         "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Donut Plains 2 - Pipe to Keyhole room",
+                "sections": [
+                    {
+                        "ref": "Map/Donut Plains 2/Keyhole room"
                     },
+                    {
+                        "ref": "Map/Donut Plains 2/Goal room"
+                    },
+                    {
+                        "ref": "Map/Donut Plains 2/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Donut Plains 2/Secret Exit"
+                    },
+                    {
+                        "ref": "Map/Donut Plains 2/Yellow Switch Palace Block #2"
+                    },
+                    {
+                        "ref": "Map/Donut Plains 2/Vine Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dp2_main",
+                        "x": 1488,
+                        "y": 120
+                    }
+                ]
+            },
+            {
+                "name": "Donut Plains 2 - Pipe to Goal room",
+                "sections": [
+                    {
+                        "ref": "Map/Donut Plains 2/Goal room"
+                    },
+                    {
+                        "ref": "Map/Donut Plains 2/Normal Exit"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "dp2_main",
                         "x": 1208,

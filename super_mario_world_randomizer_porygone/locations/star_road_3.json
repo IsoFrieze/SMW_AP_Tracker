@@ -58,6 +58,15 @@
                 "sections": [
                     {
                         "ref": "Map/Star Road 3/Main room"
+                    },
+                    {
+                        "ref": "Map/Star Road 3/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Star Road 3/Secret Exit"
+                    },
+                    {
+                        "ref": "Map/Star Road 3/Key Block #1"
                     }
                 ],
                 "map_locations": [

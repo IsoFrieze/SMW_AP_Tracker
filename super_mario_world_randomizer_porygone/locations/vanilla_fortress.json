@@ -88,6 +88,9 @@
                 "sections": [
                     {
                         "ref": "Map/Vanilla Fortress/Spikes room"
+                    },
+                    {
+                        "ref": "Map/Vanilla Fortress/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -103,6 +106,18 @@
                 "sections": [
                     {
                         "ref": "Map/Vanilla Fortress/Thwomp room"
+                    },
+                    {
+                        "ref": "Map/Vanilla Fortress/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Vanilla Fortress/Powerup Block #2"
+                    },
+                    {
+                        "ref": "Map/Vanilla Fortress/Hidden 1-Up"
+                    },
+                    {
+                        "ref": "Map/Vanilla Fortress/Yellow Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -110,7 +125,29 @@
                         "map": "vdf_sub_1",
                         "x": 16,
                         "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Vanilla Fortress - Pipe to Thwomp room",
+                "sections": [
+                    {
+                        "ref": "Map/Vanilla Fortress/Thwomp room"
                     },
+                    {
+                        "ref": "Map/Vanilla Fortress/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Vanilla Fortress/Powerup Block #2"
+                    },
+                    {
+                        "ref": "Map/Vanilla Fortress/Hidden 1-Up"
+                    },
+                    {
+                        "ref": "Map/Vanilla Fortress/Yellow Switch Palace Block #1"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "vdf_main",
                         "x": 904,

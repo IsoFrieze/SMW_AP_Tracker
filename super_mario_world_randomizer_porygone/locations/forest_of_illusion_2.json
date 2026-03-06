@@ -183,6 +183,36 @@
                 "sections": [
                     {
                         "ref": "Map/Forest of Illusion 2/Main room"
+                    },
+                    {
+                        "ref": "Map/Forest of Illusion 2/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Forest of Illusion 2/Secret Exit"
+                    },
+                    {
+                        "ref": "Map/Forest of Illusion 2/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Forest of Illusion 2/Green Switch Palace Block #1"
+                    },
+                    {
+                        "ref": "Map/Forest of Illusion 2/Powerup Block #1"
+                    },
+                    {
+                        "ref": "Map/Forest of Illusion 2/Invisible Coin Block #1"
+                    },
+                    {
+                        "ref": "Map/Forest of Illusion 2/Invisible Coin Block #2"
+                    },
+                    {
+                        "ref": "Map/Forest of Illusion 2/Invisible 1-Up Mushroom Block #1"
+                    },
+                    {
+                        "ref": "Map/Forest of Illusion 2/Invisible Coin Block #3"
+                    },
+                    {
+                        "ref": "Map/Forest of Illusion 2/Yellow Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [

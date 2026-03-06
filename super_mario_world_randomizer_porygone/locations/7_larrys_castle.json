@@ -9,10 +9,10 @@
         ],
         "children": [
             {
-                "name": "#7 Larry's Castle - Goal",
+                "name": "#7 Larry's Castle - Boss battle",
                 "sections": [
                     {
-                        "ref": "Map/#7 Larry's Castle/Goal"
+                        "ref": "Map/#7 Larry's Castle/Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -119,10 +119,37 @@
                 ]
             },
             {
+                "name": "#7 Larry's Castle - Midway Point",
+                "sections": [
+                    {
+                        "ref": "Map/#7 Larry's Castle/Midway Point"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vobc_main",
+                        "x": 1816,
+                        "y": 376
+                    }
+                ]
+            },
+            {
                 "name": "#7 Larry's Castle - Snake block room",
                 "sections": [
                     {
                         "ref": "Map/#7 Larry's Castle/Snake block room"
+                    },
+                    {
+                        "ref": "Map/#7 Larry's Castle/Midway Point"
+                    },
+                    {
+                        "ref": "Map/#7 Larry's Castle/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/#7 Larry's Castle/Hidden 1-Up"
+                    },
+                    {
+                        "ref": "Map/#7 Larry's Castle/Yellow Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -138,6 +165,15 @@
                 "sections": [
                     {
                         "ref": "Map/#7 Larry's Castle/Magikoopa room"
+                    },
+                    {
+                        "ref": "Map/#7 Larry's Castle/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/#7 Larry's Castle/Yellow Switch Palace Block #2"
+                    },
+                    {
+                        "ref": "Map/#7 Larry's Castle/Green Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -145,7 +181,26 @@
                         "map": "vobc_sub",
                         "x": 16,
                         "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "#7 Larry's Castle - Door to Magikoopa room",
+                "sections": [
+                    {
+                        "ref": "Map/#7 Larry's Castle/Magikoopa room"
                     },
+                    {
+                        "ref": "Map/#7 Larry's Castle/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/#7 Larry's Castle/Yellow Switch Palace Block #2"
+                    },
+                    {
+                        "ref": "Map/#7 Larry's Castle/Green Switch Palace Block #1"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "vobc_main",
                         "x": 1784,
@@ -155,21 +210,6 @@
                         "map": "vobc_main",
                         "x": 1992,
                         "y": 368
-                    }
-                ]
-            },
-            {
-                "name": "#7 Larry's Castle - Midway Point",
-                "sections": [
-                    {
-                        "ref": "Map/#7 Larry's Castle/Midway Point"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "vobc_main",
-                        "x": 1816,
-                        "y": 376
                     }
                 ]
             }

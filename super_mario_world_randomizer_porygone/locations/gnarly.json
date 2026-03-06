@@ -423,6 +423,66 @@
                 "sections": [
                     {
                         "ref": "Map/Gnarly/Main room"
+                    },
+                    {
+                        "ref": "Map/Gnarly/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Gnarly/Hidden 1-Up"
+                    },
+                    {
+                        "ref": "Map/Gnarly/Vine Block #1"
+                    },
+                    {
+                        "ref": "Map/Gnarly/Vine Block #2"
+                    },
+                    {
+                        "ref": "Map/Gnarly/Vine Block #3"
+                    },
+                    {
+                        "ref": "Map/Gnarly/Vine Block #4"
+                    },
+                    {
+                        "ref": "Map/Gnarly/1-Up Mushroom Block #1"
+                    },
+                    {
+                        "ref": "Map/Gnarly/Vine Block #5"
+                    },
+                    {
+                        "ref": "Map/Gnarly/Blue P-Switch Block #1"
+                    },
+                    {
+                        "ref": "Map/Gnarly/Vine Block #6"
+                    },
+                    {
+                        "ref": "Map/Gnarly/Powerup Block #1"
+                    },
+                    {
+                        "ref": "Map/Gnarly/P-Switch Coin Block #1"
+                    },
+                    {
+                        "ref": "Map/Gnarly/P-Switch Coin Block #2"
+                    },
+                    {
+                        "ref": "Map/Gnarly/P-Switch Coin Block #3"
+                    },
+                    {
+                        "ref": "Map/Gnarly/P-Switch Coin Block #4"
+                    },
+                    {
+                        "ref": "Map/Gnarly/P-Switch Coin Block #5"
+                    },
+                    {
+                        "ref": "Map/Gnarly/P-Switch Coin Block #6"
+                    },
+                    {
+                        "ref": "Map/Gnarly/P-Switch Coin Block #7"
+                    },
+                    {
+                        "ref": "Map/Gnarly/P-Switch Coin Block #8"
+                    },
+                    {
+                        "ref": "Map/Gnarly/P-Switch Coin Block #9"
                     }
                 ],
                 "map_locations": [
@@ -438,6 +498,24 @@
                 "sections": [
                     {
                         "ref": "Map/Gnarly/Goal room"
+                    },
+                    {
+                        "ref": "Map/Gnarly/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Gnarly/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Gnarly/P-Switch Coin Block #10"
+                    },
+                    {
+                        "ref": "Map/Gnarly/P-Switch Coin Block #11"
+                    },
+                    {
+                        "ref": "Map/Gnarly/P-Switch Coin Block #12"
+                    },
+                    {
+                        "ref": "Map/Gnarly/P-Switch Coin Block #13"
                     }
                 ],
                 "map_locations": [
@@ -445,12 +523,65 @@
                         "map": "sw1_sub",
                         "x": 16,
                         "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Gnarly - Pipe 1 to Goal room",
+                "sections": [
+                    {
+                        "ref": "Map/Gnarly/Goal room"
                     },
+                    {
+                        "ref": "Map/Gnarly/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Gnarly/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Gnarly/P-Switch Coin Block #10"
+                    },
+                    {
+                        "ref": "Map/Gnarly/P-Switch Coin Block #11"
+                    },
+                    {
+                        "ref": "Map/Gnarly/P-Switch Coin Block #12"
+                    },
+                    {
+                        "ref": "Map/Gnarly/P-Switch Coin Block #13"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "sw1_main_vert",
                         "x": 488,
                         "y": 400
+                    }
+                ]
+            },
+            {
+                "name": "Gnarly - Pipe 2 to Goal room",
+                "sections": [
+                    {
+                        "ref": "Map/Gnarly/Goal room"
                     },
+                    {
+                        "ref": "Map/Gnarly/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Gnarly/P-Switch Coin Block #10"
+                    },
+                    {
+                        "ref": "Map/Gnarly/P-Switch Coin Block #11"
+                    },
+                    {
+                        "ref": "Map/Gnarly/P-Switch Coin Block #12"
+                    },
+                    {
+                        "ref": "Map/Gnarly/P-Switch Coin Block #13"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "sw1_main_vert",
                         "x": 1000,

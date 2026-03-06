@@ -43,6 +43,9 @@
                 "sections": [
                     {
                         "ref": "Map/Blue Switch Palace/Button room"
+                    },
+                    {
+                        "ref": "Map/Blue Switch Palace/Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -50,7 +53,20 @@
                         "map": "foiz_sub_1",
                         "x": 16,
                         "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Blue Switch Palace - Pipe to Button room",
+                "sections": [
+                    {
+                        "ref": "Map/Blue Switch Palace/Button room"
                     },
+                    {
+                        "ref": "Map/Blue Switch Palace/Normal Exit"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "foiz_main",
                         "x": 728,

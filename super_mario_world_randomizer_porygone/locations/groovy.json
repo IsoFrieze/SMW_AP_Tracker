@@ -78,6 +78,15 @@
                 "sections": [
                     {
                         "ref": "Map/Groovy/Main room"
+                    },
+                    {
+                        "ref": "Map/Groovy/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Groovy/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Groovy/Yoshi Block #1"
                     }
                 ],
                 "map_locations": [

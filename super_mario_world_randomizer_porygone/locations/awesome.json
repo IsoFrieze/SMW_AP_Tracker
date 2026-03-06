@@ -93,6 +93,18 @@
                 "sections": [
                     {
                         "ref": "Map/Awesome/Main room"
+                    },
+                    {
+                        "ref": "Map/Awesome/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Awesome/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Awesome/Powerup Block #1"
+                    },
+                    {
+                        "ref": "Map/Awesome/Star Block #1"
                     }
                 ],
                 "map_locations": [

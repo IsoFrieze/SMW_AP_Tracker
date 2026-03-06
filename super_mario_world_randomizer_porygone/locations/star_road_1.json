@@ -78,6 +78,12 @@
                 "sections": [
                     {
                         "ref": "Map/Star Road 1/Main room"
+                    },
+                    {
+                        "ref": "Map/Star Road 1/Secret Exit"
+                    },
+                    {
+                        "ref": "Map/Star Road 1/Dragon Coins"
                     }
                 ],
                 "map_locations": [
@@ -93,6 +99,9 @@
                 "sections": [
                     {
                         "ref": "Map/Star Road 1/Goal room"
+                    },
+                    {
+                        "ref": "Map/Star Road 1/Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -100,7 +109,20 @@
                         "map": "sr1_sub",
                         "x": 16,
                         "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Star Road 1 - Pipe to Goal room",
+                "sections": [
+                    {
+                        "ref": "Map/Star Road 1/Goal room"
                     },
+                    {
+                        "ref": "Map/Star Road 1/Normal Exit"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "sr1_main_vert",
                         "x": 2008,

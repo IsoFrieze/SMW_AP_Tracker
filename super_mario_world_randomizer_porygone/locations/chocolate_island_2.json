@@ -348,6 +348,18 @@
                 "sections": [
                     {
                         "ref": "Map/Chocolate Island 2/Main room"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Multi Coin Block #1"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Invisible Coin Block #1"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Yoshi Block #1"
                     }
                 ],
                 "map_locations": [
@@ -359,7 +371,7 @@
                 ]
             },
             {
-                "name": "Chocolate Island 2 - Group A rooms",
+                "name": "Chocolate Island 2 - Group A Parakoopa room",
                 "sections": [
                     {
                         "ref": "Map/Chocolate Island 2/Group A rooms"
@@ -370,7 +382,299 @@
                         "map": "ci2_sub_1",
                         "x": 16,
                         "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Chocolate Island 2 - Group A Rex room",
+                "sections": [
+                    {
+                        "ref": "Map/Chocolate Island 2/Group A rooms"
                     },
+                    {
+                        "ref": "Map/Chocolate Island 2/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Hidden 1-Up"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Coin Block #1"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Coin Block #2"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Multi Coin Block #2"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Powerup Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ci2_sub_1",
+                        "x": 16,
+                        "y": 448
+                    }
+                ]
+            },
+            {
+                "name": "Chocolate Island 2 - Group A Flying room",
+                "sections": [
+                    {
+                        "ref": "Map/Chocolate Island 2/Group A rooms"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ci2_sub_1",
+                        "x": 16,
+                        "y": 880
+                    }
+                ]
+            },
+            {
+                "name": "Chocolate Island 2 - Group B Bubble room",
+                "sections": [
+                    {
+                        "ref": "Map/Chocolate Island 2/Group B rooms"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ci2_sub_2",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Chocolate Island 2 - Group B Dino room",
+                "sections": [
+                    {
+                        "ref": "Map/Chocolate Island 2/Group B rooms"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ci2_sub_2",
+                        "x": 16,
+                        "y": 448
+                    }
+                ]
+            },
+            {
+                "name": "Chocolate Island 2 - Group B Key room",
+                "sections": [
+                    {
+                        "ref": "Map/Chocolate Island 2/Group B rooms"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Secret Exit"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Yellow Switch Palace Block #1"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Yellow Switch Palace Block #2"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Green Switch Palace Block #1"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Green Switch Palace Block #2"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Green Switch Palace Block #3"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Green Switch Palace Block #4"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Green Switch Palace Block #5"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Green Switch Palace Block #6"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ci2_sub_2",
+                        "x": 16,
+                        "y": 880
+                    }
+                ]
+            },
+            {
+                "name": "Chocolate Island 2 - Group C Rex room",
+                "sections": [
+                    {
+                        "ref": "Map/Chocolate Island 2/Group C rooms"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Normal Exit"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ci2_sub_3",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Chocolate Island 2 - Group C Dragon coin room",
+                "sections": [
+                    {
+                        "ref": "Map/Chocolate Island 2/Group C rooms"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Blue P-Switch Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ci2_sub_3",
+                        "x": 16,
+                        "y": 448
+                    }
+                ]
+            },
+            {
+                "name": "Chocolate Island 2 - Pipe to Group A Parakoopa room",
+                "sections": [
+                    {
+                        "ref": "Map/Chocolate Island 2/Group A rooms"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Group B rooms"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Group C rooms"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Secret Exit"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Yellow Switch Palace Block #1"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Yellow Switch Palace Block #2"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Green Switch Palace Block #1"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Green Switch Palace Block #2"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Green Switch Palace Block #3"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Green Switch Palace Block #4"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Green Switch Palace Block #5"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Green Switch Palace Block #6"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Blue P-Switch Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ci2_main",
+                        "x": 984,
+                        "y": 336
+                    }
+                ]
+            },
+            {
+                "name": "Chocolate Island 2 - Pipe to Group A Rex room",
+                "sections": [                    
+                    {
+                        "ref": "Map/Chocolate Island 2/Group A rooms"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Group B rooms"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Group C rooms"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Secret Exit"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Hidden 1-Up"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Coin Block #1"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Coin Block #2"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Multi Coin Block #2"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Powerup Block #1"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Yellow Switch Palace Block #1"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Yellow Switch Palace Block #2"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Green Switch Palace Block #1"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Green Switch Palace Block #2"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Green Switch Palace Block #3"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Green Switch Palace Block #4"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Green Switch Palace Block #5"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Green Switch Palace Block #6"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Blue P-Switch Block #1"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "ci2_main",
                         "x": 984,
@@ -379,18 +683,113 @@
                 ]
             },
             {
-                "name": "Chocolate Island 2 - Group B rooms",
+                "name": "Chocolate Island 2 - Pipe to Group A Flying room",
                 "sections": [
                     {
+                        "ref": "Map/Chocolate Island 2/Group A rooms"
+                    },
+                    {
                         "ref": "Map/Chocolate Island 2/Group B rooms"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Group C rooms"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Secret Exit"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Yellow Switch Palace Block #1"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Yellow Switch Palace Block #2"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Green Switch Palace Block #1"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Green Switch Palace Block #2"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Green Switch Palace Block #3"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Green Switch Palace Block #4"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Green Switch Palace Block #5"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Green Switch Palace Block #6"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Blue P-Switch Block #1"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "ci2_sub_2",
-                        "x": 16,
-                        "y": 16
+                        "map": "ci2_main",
+                        "x": 984,
+                        "y": 400
+                    }
+                ]
+            },
+            {
+                "name": "Chocolate Island 2 - Pipe to Group B Bubble room",
+                "sections": [
+                    {
+                        "ref": "Map/Chocolate Island 2/Group B rooms"
                     },
+                    {
+                        "ref": "Map/Chocolate Island 2/Group C rooms"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Blue P-Switch Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ci2_sub_1",
+                        "x": 1752,
+                        "y": 336
+                    },
+                    {
+                        "map": "ci2_sub_1",
+                        "x": 1752,
+                        "y": 768
+                    },
+                    {
+                        "map": "ci2_sub_1",
+                        "x": 1752,
+                        "y": 1200
+                    }
+                ]
+            },
+            {
+                "name": "Chocolate Island 2 - Pipe to Group B Dino room",
+                "sections": [
+                    {
+                        "ref": "Map/Chocolate Island 2/Group B rooms"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Group C rooms"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Blue P-Switch Block #1"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "ci2_sub_1",
                         "x": 1752,
@@ -409,18 +808,97 @@
                 ]
             },
             {
-                "name": "Chocolate Island 2 - Group C rooms",
+                "name": "Chocolate Island 2 - Pipe to Group B Key room",
                 "sections": [
                     {
-                        "ref": "Map/Chocolate Island 2/Group C rooms"
+                        "ref": "Map/Chocolate Island 2/Group B rooms"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Secret Exit"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Yellow Switch Palace Block #1"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Yellow Switch Palace Block #2"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Green Switch Palace Block #1"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Green Switch Palace Block #2"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Green Switch Palace Block #3"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Green Switch Palace Block #4"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Green Switch Palace Block #5"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Green Switch Palace Block #6"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "ci2_sub_3",
-                        "x": 16,
-                        "y": 16
+                        "map": "ci2_sub_1",
+                        "x": 1752,
+                        "y": 400
                     },
+                    {
+                        "map": "ci2_sub_1",
+                        "x": 1752,
+                        "y": 832
+                    },
+                    {
+                        "map": "ci2_sub_1",
+                        "x": 1752,
+                        "y": 1264
+                    }
+                ]
+            },
+            {
+                "name": "Chocolate Island 2 - Pipe to Group C Rex room",
+                "sections": [
+                    {
+                        "ref": "Map/Chocolate Island 2/Group C rooms"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Normal Exit"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ci2_sub_2",
+                        "x": 984,
+                        "y": 336
+                    },
+                    {
+                        "map": "ci2_sub_2",
+                        "x": 984,
+                        "y": 784
+                    }
+                ]
+            },
+            {
+                "name": "Chocolate Island 2 - Pipe to Group C Dragon coin room",
+                "sections": [
+                    {
+                        "ref": "Map/Chocolate Island 2/Group C rooms"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 2/Blue P-Switch Block #1"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "ci2_sub_2",
                         "x": 984,

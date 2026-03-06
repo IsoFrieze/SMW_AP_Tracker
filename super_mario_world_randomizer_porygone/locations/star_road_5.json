@@ -688,6 +688,141 @@
                 "sections": [
                     {
                         "ref": "Map/Star Road 5/Main room"
+                    },
+                    {
+                        "ref": "Map/Star Road 5/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Star Road 5/Secret Exit"
+                    },
+                    {
+                        "ref": "Map/Star Road 5/Directional Coin Block #1"
+                    },
+                    {
+                        "ref": "Map/Star Road 5/1-Up Mushroom Block #1"
+                    },
+                    {
+                        "ref": "Map/Star Road 5/Vine Block #1"
+                    },
+                    {
+                        "ref": "Map/Star Road 5/Yellow Switch Palace Block #1"
+                    },
+                    {
+                        "ref": "Map/Star Road 5/Yellow Switch Palace Block #2"
+                    },
+                    {
+                        "ref": "Map/Star Road 5/Yellow Switch Palace Block #3"
+                    },
+                    {
+                        "ref": "Map/Star Road 5/Yellow Switch Palace Block #4"
+                    },
+                    {
+                        "ref": "Map/Star Road 5/Yellow Switch Palace Block #5"
+                    },
+                    {
+                        "ref": "Map/Star Road 5/Yellow Switch Palace Block #6"
+                    },
+                    {
+                        "ref": "Map/Star Road 5/Yellow Switch Palace Block #7"
+                    },
+                    {
+                        "ref": "Map/Star Road 5/Yellow Switch Palace Block #8"
+                    },
+                    {
+                        "ref": "Map/Star Road 5/Yellow Switch Palace Block #9"
+                    },
+                    {
+                        "ref": "Map/Star Road 5/Yellow Switch Palace Block #10"
+                    },
+                    {
+                        "ref": "Map/Star Road 5/Yellow Switch Palace Block #11"
+                    },
+                    {
+                        "ref": "Map/Star Road 5/Yellow Switch Palace Block #12"
+                    },
+                    {
+                        "ref": "Map/Star Road 5/Yellow Switch Palace Block #13"
+                    },
+                    {
+                        "ref": "Map/Star Road 5/Yellow Switch Palace Block #14"
+                    },
+                    {
+                        "ref": "Map/Star Road 5/Yellow Switch Palace Block #15"
+                    },
+                    {
+                        "ref": "Map/Star Road 5/Yellow Switch Palace Block #16"
+                    },
+                    {
+                        "ref": "Map/Star Road 5/Yellow Switch Palace Block #17"
+                    },
+                    {
+                        "ref": "Map/Star Road 5/Yellow Switch Palace Block #18"
+                    },
+                    {
+                        "ref": "Map/Star Road 5/Yellow Switch Palace Block #19"
+                    },
+                    {
+                        "ref": "Map/Star Road 5/Yellow Switch Palace Block #20"
+                    },
+                    {
+                        "ref": "Map/Star Road 5/Green Switch Palace Block #1"
+                    },
+                    {
+                        "ref": "Map/Star Road 5/Green Switch Palace Block #2"
+                    },
+                    {
+                        "ref": "Map/Star Road 5/Green Switch Palace Block #3"
+                    },
+                    {
+                        "ref": "Map/Star Road 5/Green Switch Palace Block #4"
+                    },
+                    {
+                        "ref": "Map/Star Road 5/Green Switch Palace Block #5"
+                    },
+                    {
+                        "ref": "Map/Star Road 5/Green Switch Palace Block #6"
+                    },
+                    {
+                        "ref": "Map/Star Road 5/Green Switch Palace Block #7"
+                    },
+                    {
+                        "ref": "Map/Star Road 5/Green Switch Palace Block #8"
+                    },
+                    {
+                        "ref": "Map/Star Road 5/Green Switch Palace Block #9"
+                    },
+                    {
+                        "ref": "Map/Star Road 5/Green Switch Palace Block #10"
+                    },
+                    {
+                        "ref": "Map/Star Road 5/Green Switch Palace Block #11"
+                    },
+                    {
+                        "ref": "Map/Star Road 5/Green Switch Palace Block #12"
+                    },
+                    {
+                        "ref": "Map/Star Road 5/Green Switch Palace Block #13"
+                    },
+                    {
+                        "ref": "Map/Star Road 5/Green Switch Palace Block #14"
+                    },
+                    {
+                        "ref": "Map/Star Road 5/Green Switch Palace Block #15"
+                    },
+                    {
+                        "ref": "Map/Star Road 5/Green Switch Palace Block #16"
+                    },
+                    {
+                        "ref": "Map/Star Road 5/Green Switch Palace Block #17"
+                    },
+                    {
+                        "ref": "Map/Star Road 5/Green Switch Palace Block #18"
+                    },
+                    {
+                        "ref": "Map/Star Road 5/Green Switch Palace Block #19"
+                    },
+                    {
+                        "ref": "Map/Star Road 5/Green Switch Palace Block #20"
                     }
                 ],
                 "map_locations": [

@@ -224,46 +224,6 @@
                 ]
             },
             {
-                "name": "Vanilla Dome 1 - Main room",
-                "sections": [
-                    {
-                        "ref": "Map/Vanilla Dome 1/Main room"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "vd1_main",
-                        "x": 16,
-                        "y": 16
-                    },
-                    {
-                        "map": "vd1_sub_1",
-                        "x": 1496,
-                        "y": 336
-                    }
-                ]
-            },
-            {
-                "name": "Vanilla Dome 1 - Sinking rock room",
-                "sections": [
-                    {
-                        "ref": "Map/Vanilla Dome 1/Sinking rock room"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "vd1_sub_1",
-                        "x": 16,
-                        "y": 16
-                    },
-                    {
-                        "map": "vd1_main",
-                        "x": 2152,
-                        "y": 368
-                    }
-                ]
-            },
-            {
                 "name": "Vanilla Dome 1 - Midway Point",
                 "sections": [
                     {
@@ -275,6 +235,150 @@
                         "map": "vd1_main",
                         "x": 1752,
                         "y": 696
+                    }
+                ]
+            },
+            {
+                "name": "Vanilla Dome 1 - Main room",
+                "sections": [
+                    {
+                        "ref": "Map/Vanilla Dome 1/Main room"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 1/Midway Point"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 1/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 1/Secret Exit"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 1/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 1/Flying Question Block #1"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 1/Powerup Block #1"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 1/Powerup Block #2"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 1/Coin Block #1"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 1/1-Up Mushroom Block #1"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 1/Powerup Block #3"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 1/Vine Block #1"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 1/Powerup Block #4"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 1/Coin Block #2"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vd1_main",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Vanilla Dome 1 - Sinking rock room",
+                "sections": [
+                    {
+                        "ref": "Map/Vanilla Dome 1/Sinking rock room"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 1/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 1/Star Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vd1_sub_1",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Vanilla Dome 1 - Pipe to Sinking rock room",
+                "sections": [
+                    {
+                        "ref": "Map/Vanilla Dome 1/Sinking rock room"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 1/Midway Point"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 1/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 1/Secret Exit"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 1/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 1/Star Block #1"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 1/Powerup Block #4"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 1/Coin Block #2"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vd1_main",
+                        "x": 2152,
+                        "y": 368
+                    }
+                ]
+            },
+            {
+                "name": "Vanilla Dome 1 - Pipe to Main room",
+                "sections": [
+                    {
+                        "ref": "Map/Vanilla Dome 1/Main room"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 1/Midway Point"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 1/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 1/Secret Exit"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 1/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 1/Powerup Block #4"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 1/Coin Block #2"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vd1_sub_1",
+                        "x": 1496,
+                        "y": 336
                     }
                 ]
             }

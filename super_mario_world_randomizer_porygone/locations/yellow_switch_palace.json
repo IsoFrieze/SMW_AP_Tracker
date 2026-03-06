@@ -43,6 +43,9 @@
                 "sections": [
                     {
                         "ref": "Map/Yellow Switch Palace/Button room"
+                    },
+                    {
+                        "ref": "Map/Yellow Switch Palace/Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -50,7 +53,20 @@
                         "map": "ysp_sub_1",
                         "x": 16,
                         "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Yellow Switch Palace - Pipe to Button room",
+                "sections": [
+                    {
+                        "ref": "Map/Yellow Switch Palace/Button room"
                     },
+                    {
+                        "ref": "Map/Yellow Switch Palace/Normal Exit"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "ysp_main",
                         "x": 728,

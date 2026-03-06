@@ -93,6 +93,9 @@
                 "sections": [
                     {
                         "ref": "Map/Sunken Ghost Ship/Ship entrance"
+                    },
+                    {
+                        "ref": "Map/Sunken Ghost Ship/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -115,11 +118,6 @@
                         "map": "ciship_sub_1",
                         "x": 16,
                         "y": 16
-                    },
-                    {
-                        "map": "ciship_main",
-                        "x": 704,
-                        "y": 200
                     }
                 ]
             },
@@ -128,6 +126,15 @@
                 "sections": [
                     {
                         "ref": "Map/Sunken Ghost Ship/Falling room"
+                    },
+                    {
+                        "ref": "Map/Sunken Ghost Ship/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Sunken Ghost Ship/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Sunken Ghost Ship/Star Block #1"
                     }
                 ],
                 "map_locations": [
@@ -135,7 +142,53 @@
                         "map": "ciship_sub_2_vert",
                         "x": 16,
                         "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Sunken Ghost Ship - Pipe to Reappearing ghosts",
+                "sections": [
+                    {
+                        "ref": "Map/Sunken Ghost Ship/Reappearing ghosts"
                     },
+                    {
+                        "ref": "Map/Sunken Ghost Ship/Falling room"
+                    },
+                    {
+                        "ref": "Map/Sunken Ghost Ship/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Sunken Ghost Ship/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Sunken Ghost Ship/Star Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ciship_main",
+                        "x": 704,
+                        "y": 200
+                    }
+                ]
+            },
+            {
+                "name": "Sunken Ghost Ship - Pipe to Falling room",
+                "sections": [
+                    {
+                        "ref": "Map/Sunken Ghost Ship/Falling room"
+                    },
+                    {
+                        "ref": "Map/Sunken Ghost Ship/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Sunken Ghost Ship/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Sunken Ghost Ship/Star Block #1"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "ciship_sub_1",
                         "x": 2000,

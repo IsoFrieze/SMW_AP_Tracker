@@ -284,46 +284,6 @@
                 ]
             },
             {
-                "name": "Vanilla Dome 2 - Main room",
-                "sections": [
-                    {
-                        "ref": "Map/Vanilla Dome 2/Main room"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "vd2_main",
-                        "x": 16,
-                        "y": 16
-                    },
-                    {
-                        "map": "vd2_sub_1",
-                        "x": 976,
-                        "y": 312
-                    }
-                ]
-            },
-            {
-                "name": "Vanilla Dome 2 - Ice cave room",
-                "sections": [
-                    {
-                        "ref": "Map/Vanilla Dome 2/Ice cave room"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "vd2_sub_1",
-                        "x": 16,
-                        "y": 16
-                    },
-                    {
-                        "map": "vd2_main",
-                        "x": 1488,
-                        "y": 776
-                    }
-                ]
-            },
-            {
                 "name": "Vanilla Dome 2 - Midway Point",
                 "sections": [
                     {
@@ -335,6 +295,174 @@
                         "map": "vd2_main",
                         "x": 616,
                         "y": 512
+                    }
+                ]
+            },
+            {
+                "name": "Vanilla Dome 2 - Main room",
+                "sections": [
+                    {
+                        "ref": "Map/Vanilla Dome 2/Main room"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 2/Midway Point"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 2/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 2/Secret Exit"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 2/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 2/Coin Block #1"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 2/Powerup Block #1"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 2/Coin Block #2"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 2/Coin Block #3"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 2/Vine Block #1"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 2/Invisible 1-Up Mushroom Block #1"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 2/Coin Block #4"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 2/Coin Block #5"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 2/Powerup Block #2"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 2/Powerup Block #3"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 2/Powerup Block #4"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 2/Powerup Block #5"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 2/Multi Coin Block #2"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vd2_main",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Vanilla Dome 2 - Ice cave room",
+                "sections": [
+                    {
+                        "ref": "Map/Vanilla Dome 2/Ice cave room"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 2/Multi Coin Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vd2_sub_1",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Vanilla Dome 2 - Pipe to Ice cave room",
+                "sections": [
+                    {
+                        "ref": "Map/Vanilla Dome 2/Ice cave room"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 2/Multi Coin Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vd2_main",
+                        "x": 1488,
+                        "y": 776
+                    }
+                ]
+            },
+            {
+                "name": "Vanilla Dome 2 - Pipe to Main room",
+                "sections": [
+                    {
+                        "ref": "Map/Vanilla Dome 2/Main room"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 2/Midway Point"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 2/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 2/Secret Exit"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 2/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 2/Coin Block #1"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 2/Powerup Block #1"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 2/Coin Block #2"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 2/Coin Block #3"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 2/Vine Block #1"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 2/Invisible 1-Up Mushroom Block #1"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 2/Coin Block #4"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 2/Coin Block #5"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 2/Powerup Block #2"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 2/Powerup Block #3"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 2/Powerup Block #4"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 2/Powerup Block #5"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 2/Multi Coin Block #2"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vd2_sub_1",
+                        "x": 976,
+                        "y": 312
                     }
                 ]
             }

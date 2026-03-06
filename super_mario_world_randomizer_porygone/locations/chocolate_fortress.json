@@ -99,10 +99,31 @@
                 ]
             },
             {
+                "name": "Chocolate Fortress - Midway Point",
+                "sections": [
+                    {
+                        "ref": "Map/Chocolate Fortress/Midway Point"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "cif_main",
+                        "x": 2168,
+                        "y": 376
+                    }
+                ]
+            },
+            {
                 "name": "Chocolate Fortress - Wooden spike room",
                 "sections": [
                     {
                         "ref": "Map/Chocolate Fortress/Wooden spike room"
+                    },
+                    {
+                        "ref": "Map/Chocolate Fortress/Midway Point"
+                    },
+                    {
+                        "ref": "Map/Chocolate Fortress/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -118,6 +139,21 @@
                 "sections": [
                     {
                         "ref": "Map/Chocolate Fortress/Thwomp room"
+                    },
+                    {
+                        "ref": "Map/Chocolate Fortress/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Chocolate Fortress/Powerup Block #2"
+                    },
+                    {
+                        "ref": "Map/Chocolate Fortress/Coin Block #1"
+                    },
+                    {
+                        "ref": "Map/Chocolate Fortress/Coin Block #2"
+                    },
+                    {
+                        "ref": "Map/Chocolate Fortress/Green Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -125,26 +161,36 @@
                         "map": "cif_sub",
                         "x": 16,
                         "y": 16
-                    },
-                    {
-                        "map": "cif_main",
-                        "x": 2248,
-                        "y": 368
                     }
                 ]
             },
             {
-                "name": "Chocolate Fortress - Midway Point",
+                "name": "Chocolate Fortress - Door to Thwomp room",
                 "sections": [
                     {
-                        "ref": "Map/Chocolate Fortress/Midway Point"
+                        "ref": "Map/Chocolate Fortress/Thwomp room"
+                    },
+                    {
+                        "ref": "Map/Chocolate Fortress/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Chocolate Fortress/Powerup Block #2"
+                    },
+                    {
+                        "ref": "Map/Chocolate Fortress/Coin Block #1"
+                    },
+                    {
+                        "ref": "Map/Chocolate Fortress/Coin Block #2"
+                    },
+                    {
+                        "ref": "Map/Chocolate Fortress/Green Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "cif_main",
-                        "x": 2168,
-                        "y": 376
+                        "x": 2248,
+                        "y": 368
                     }
                 ]
             }

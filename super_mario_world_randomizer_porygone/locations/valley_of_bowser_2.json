@@ -20,6 +20,11 @@
                         "map": "vob2_sub_2",
                         "x": 2024,
                         "y": 376
+                    },
+                    {
+                        "map": "vob2_sub_3",
+                        "x": 1224,
+                        "y": 392
                     }
                 ]
             },
@@ -164,10 +169,37 @@
                 ]
             },
             {
+                "name": "Valley of Bowser 2 - Midway Point",
+                "sections": [
+                    {
+                        "ref": "Map/Valley of Bowser 2/Midway Point"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vob2_main",
+                        "x": 1944,
+                        "y": 296
+                    }
+                ]
+            },
+            {
                 "name": "Valley of Bowser 2 - Main room",
                 "sections": [
                     {
                         "ref": "Map/Valley of Bowser 2/Main room"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 2/Midway Point"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 2/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 2/Powerup Block #1"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 2/Yellow Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -183,6 +215,18 @@
                 "sections": [
                     {
                         "ref": "Map/Valley of Bowser 2/Moving rocks room"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 2/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 2/Hidden 1-Up"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 2/Powerup Block #2"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 2/Wings Block #1"
                     }
                 ],
                 "map_locations": [
@@ -190,11 +234,6 @@
                         "map": "vob2_sub_1",
                         "x": 16,
                         "y": 16
-                    },
-                    {
-                        "map": "vob2_main",
-                        "x": 2008,
-                        "y": 288
                     }
                 ]
             },
@@ -203,6 +242,12 @@
                 "sections": [
                     {
                         "ref": "Map/Valley of Bowser 2/Rising rocks room"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 2/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 2/Secret Exit"
                     }
                 ],
                 "map_locations": [
@@ -210,7 +255,77 @@
                         "map": "vob2_sub_2",
                         "x": 16,
                         "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Valley of Bowser 2 - Yoshi wings room",
+                "sections": [
+                    {
+                        "ref": "Map/Valley of Bowser 2/Dragon Coins"
                     },
+                    {
+                        "ref": "Map/Valley of Bowser 2/Normal Exit"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vob2_sub_3",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Valley of Bowser 2 - Pipe to Moving rocks room",
+                "sections": [
+                    {
+                        "ref": "Map/Valley of Bowser 2/Moving rocks room"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 2/Rising rocks room"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 2/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 2/Secret Exit"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 2/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 2/Hidden 1-Up"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 2/Powerup Block #2"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 2/Wings Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vob2_main",
+                        "x": 2008,
+                        "y": 288
+                    }
+                ]
+            },
+            {
+                "name": "Valley of Bowser 2 - Pipe to Rising rocks room",
+                "sections": [
+                    {
+                        "ref": "Map/Valley of Bowser 2/Rising rocks room"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 2/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 2/Secret Exit"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "vob2_sub_1",
                         "x": 984,
@@ -219,18 +334,21 @@
                 ]
             },
             {
-                "name": "Valley of Bowser 2 - Midway Point",
+                "name": "Valley of Bowser 2 - Transition to Yoshi wings room",
                 "sections": [
                     {
-                        "ref": "Map/Valley of Bowser 2/Midway Point"
+                        "ref": "Map/Valley of Bowser 2/Dragon Coins",
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 2/Normal Exit",
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "vob2_main",
-                        "x": 1944,
+                        "map": "vob2_sub_1",
+                        "x": 216,
                         "y": 296
-                    }
+                    },
                 ]
             }
         ]

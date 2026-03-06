@@ -114,10 +114,43 @@
                 ]
             },
             {
+                "name": "#1 Iggy's Castle - Midway Point",
+                "sections": [
+                    {
+                        "ref": "Map/#1 Iggy's Castle/Midway Point"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "yic_main",
+                        "x": 1912,
+                        "y": 376
+                    }
+                ]
+            },
+            {
                 "name": "#1 Iggy's Castle - Net room",
                 "sections": [
                     {
                         "ref": "Map/#1 Iggy's Castle/Net room"
+                    },
+                    {
+                        "ref": "Map/#1 Iggy's Castle/Midway Point"
+                    },
+                    {
+                        "ref": "Map/#1 Iggy's Castle/Coin Block #1"
+                    },
+                    {
+                        "ref": "Map/#1 Iggy's Castle/Coin Block #2"
+                    },
+                    {
+                        "ref": "Map/#1 Iggy's Castle/Powerup Block #1"
+                    },
+                    {
+                        "ref": "Map/#1 Iggy's Castle/Coin Block #3"
+                    },
+                    {
+                        "ref": "Map/#1 Iggy's Castle/Coin Block #4"
                     }
                 ],
                 "map_locations": [
@@ -133,6 +166,12 @@
                 "sections": [
                     {
                         "ref": "Map/#1 Iggy's Castle/Smashers room"
+                    },
+                    {
+                        "ref": "Map/#1 Iggy's Castle/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/#1 Iggy's Castle/Flying Question Block #1"
                     }
                 ],
                 "map_locations": [
@@ -140,26 +179,27 @@
                         "map": "yic_sub_1",
                         "x": 16,
                         "y": 16
-                    },
-                    {
-                        "map": "yic_main",
-                        "x": 1976,
-                        "y": 368
                     }
                 ]
             },
             {
-                "name": "#1 Iggy's Castle - Midway Point",
+                "name": "#1 Iggy's Castle - Door to Smashers room",
                 "sections": [
                     {
-                        "ref": "Map/#1 Iggy's Castle/Midway Point"
+                        "ref": "Map/#1 Iggy's Castle/Smashers room"
+                    },
+                    {
+                        "ref": "Map/#1 Iggy's Castle/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/#1 Iggy's Castle/Flying Question Block #1"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "yic_main",
-                        "x": 1912,
-                        "y": 376
+                        "x": 1976,
+                        "y": 368
                     }
                 ]
             }

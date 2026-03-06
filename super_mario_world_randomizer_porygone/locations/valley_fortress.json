@@ -58,6 +58,15 @@
                 "sections": [
                     {
                         "ref": "Map/Valley Fortress/Main room"
+                    },
+                    {
+                        "ref": "Map/Valley Fortress/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Valley Fortress/Green Switch Palace Block #1"
+                    },
+                    {
+                        "ref": "Map/Valley Fortress/Yellow Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [

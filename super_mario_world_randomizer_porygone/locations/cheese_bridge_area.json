@@ -20,6 +20,11 @@
                         "map": "tb3_main",
                         "x": 744,
                         "y": 1208
+                    },
+                    {
+                        "map": "tb3_sub_1",
+                        "x": 1464,
+                        "y": 392
                     }
                 ]
             },
@@ -174,10 +179,52 @@
                 ]
             },
             {
+                "name": "Cheese Bridge Area - Midway Point",
+                "sections": [
+                    {
+                        "ref": "Map/Cheese Bridge Area/Midway Point"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "tb3_main",
+                        "x": 472,
+                        "y": 696
+                    }
+                ]
+            },
+            {
                 "name": "Cheese Bridge Area - Main room",
                 "sections": [
                     {
                         "ref": "Map/Cheese Bridge Area/Main room"
+                    },
+                    {
+                        "ref": "Map/Cheese Bridge Area/Midway Point"
+                    },
+                    {
+                        "ref": "Map/Cheese Bridge Area/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Cheese Bridge Area/Secret Exit"
+                    },
+                    {
+                        "ref": "Map/Cheese Bridge Area/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Cheese Bridge Area/3-Up Moon"
+                    },
+                    {
+                        "ref": "Map/Cheese Bridge Area/Powerup Block #1"
+                    },
+                    {
+                        "ref": "Map/Cheese Bridge Area/Powerup Block #2"
+                    },
+                    {
+                        "ref": "Map/Cheese Bridge Area/Wings Block #1"
+                    },
+                    {
+                        "ref": "Map/Cheese Bridge Area/Powerup Block #3"
                     }
                 ],
                 "map_locations": [
@@ -185,12 +232,7 @@
                         "map": "tb3_main",
                         "x": 16,
                         "y": 16
-                    },
-                    {
-                        "map": "tb3_sub_2",
-                        "x": 976,
-                        "y": 296
-                    },
+                    }
                 ]
             },
             {
@@ -198,6 +240,12 @@
                 "sections": [
                     {
                         "ref": "Map/Cheese Bridge Area/Yoshi wings room"
+                    },
+                    {
+                        "ref": "Map/Cheese Bridge Area/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Cheese Bridge Area/Dragon Coins"
                     }
                 ],
                 "map_locations": [
@@ -205,11 +253,6 @@
                         "map": "tb3_sub_1",
                         "x": 16,
                         "y": 16
-                    },
-                    {
-                        "map": "tb3_main",
-                        "x": 536,
-                        "y": 728
                     }
                 ]
             },
@@ -225,7 +268,38 @@
                         "map": "tb3_sub_2",
                         "x": 16,
                         "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Cheese Bridge Area - Transition to Yoshi wings room",
+                "sections": [
+                    {
+                        "ref": "Map/Cheese Bridge Area/Yoshi wings room"
                     },
+                    {
+                        "ref": "Map/Cheese Bridge Area/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Cheese Bridge Area/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "tb3_main",
+                        "x": 536,
+                        "y": 728
+                    }
+                ]
+            },
+            {
+                "name": "Cheese Bridge Area - Pipe to Moving platforms room",
+                "sections": [
+                    {
+                        "ref": "Map/Cheese Bridge Area/Moving platforms room"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "tb3_main",
                         "x": 992,
@@ -234,18 +308,45 @@
                 ]
             },
             {
-                "name": "Cheese Bridge Area - Midway Point",
+                "name": "Cheese Bridge Area - Pipe to Main room",
                 "sections": [
                     {
+                        "ref": "Map/Cheese Bridge Area/Main room"
+                    },
+                    {
                         "ref": "Map/Cheese Bridge Area/Midway Point"
+                    },
+                    {
+                        "ref": "Map/Cheese Bridge Area/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Cheese Bridge Area/Secret Exit"
+                    },
+                    {
+                        "ref": "Map/Cheese Bridge Area/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Cheese Bridge Area/3-Up Moon"
+                    },
+                    {
+                        "ref": "Map/Cheese Bridge Area/Powerup Block #1"
+                    },
+                    {
+                        "ref": "Map/Cheese Bridge Area/Powerup Block #2"
+                    },
+                    {
+                        "ref": "Map/Cheese Bridge Area/Wings Block #1"
+                    },
+                    {
+                        "ref": "Map/Cheese Bridge Area/Powerup Block #3"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "tb3_main",
-                        "x": 472,
-                        "y": 696
-                    }
+                        "map": "tb3_sub_2",
+                        "x": 976,
+                        "y": 296
+                    },
                 ]
             }
         ]

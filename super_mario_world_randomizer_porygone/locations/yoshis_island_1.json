@@ -134,46 +134,6 @@
                 ]
             },
             {
-                "name": "Yoshi's Island 1 - Main room",
-                "sections": [
-                    {
-                        "ref": "Map/Yoshi's Island 1/Main room"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "yi1_main",
-                        "x": 16,
-                        "y": 16
-                    },
-                    {
-                        "map": "yi1_sub_1",
-                        "x": 456,
-                        "y": 368
-                    }
-                ]
-            },
-            {
-                "name": "Yoshi's Island 1 - Dragon coin room",
-                "sections": [
-                    {
-                        "ref": "Map/Yoshi's Island 1/Dragon coin room"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "yi1_sub_1",
-                        "x": 16,
-                        "y": 16
-                    },
-                    {
-                        "map": "yi1_main",
-                        "x": 1936,
-                        "y": 360
-                    }
-                ]
-            },
-            {
                 "name": "Yoshi's Island 1 - Midway Point",
                 "sections": [
                     {
@@ -185,6 +145,120 @@
                         "map": "yi1_main",
                         "x": 376,
                         "y": 776
+                    }
+                ]
+            },
+            {
+                "name": "Yoshi's Island 1 - Main room",
+                "sections": [
+                    {
+                        "ref": "Map/Yoshi's Island 1/Main room"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 1/Midway Point"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 1/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 1/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 1/3-Up Moon"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 1/Flying Question Block #1"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 1/Yellow Switch Palace Block #1"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 1/1-Up Mushroom Block #1"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 1/Powerup Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "yi1_main",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Yoshi's Island 1 - Dragon coin room",
+                "sections": [
+                    {
+                        "ref": "Map/Yoshi's Island 1/Dragon coin room"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 1/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "yi1_sub_1",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Yoshi's Island 1 - Pipe to Dragon coin room",
+                "sections": [
+                    {
+                        "ref": "Map/Yoshi's Island 1/Dragon coin room"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 1/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "yi1_main",
+                        "x": 1936,
+                        "y": 360
+                    }
+                ]
+            },
+            {
+                "name": "Yoshi's Island 1 - Pipe to Main room",
+                "sections": [
+                    {
+                        "ref": "Map/Yoshi's Island 1/Main room"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 1/Midway Point"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 1/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 1/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 1/3-Up Moon"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 1/Flying Question Block #1"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 1/Yellow Switch Palace Block #1"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 1/1-Up Mushroom Block #1"
+                    },
+                    {
+                        "ref": "Map/Yoshi's Island 1/Powerup Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "yi1_sub_1",
+                        "x": 456,
+                        "y": 368
                     }
                 ]
             }

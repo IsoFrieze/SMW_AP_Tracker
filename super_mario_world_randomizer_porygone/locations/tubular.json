@@ -218,6 +218,42 @@
                 "sections": [
                     {
                         "ref": "Map/Tubular/Main room"
+                    },
+                    {
+                        "ref": "Map/Tubular/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Tubular/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Tubular/Powerup Block #1"
+                    },
+                    {
+                        "ref": "Map/Tubular/Coin Block #1"
+                    },
+                    {
+                        "ref": "Map/Tubular/Coin Block #2"
+                    },
+                    {
+                        "ref": "Map/Tubular/Powerup Block #2"
+                    },
+                    {
+                        "ref": "Map/Tubular/Coin Block #3"
+                    },
+                    {
+                        "ref": "Map/Tubular/Coin Block #4"
+                    },
+                    {
+                        "ref": "Map/Tubular/Powerup Block #3"
+                    },
+                    {
+                        "ref": "Map/Tubular/Multi Coin Block #1"
+                    },
+                    {
+                        "ref": "Map/Tubular/Coin Block #5"
+                    },
+                    {
+                        "ref": "Map/Tubular/Coin Block #6"
                     }
                 ],
                 "map_locations": [

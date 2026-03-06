@@ -84,10 +84,34 @@
                 ]
             },
             {
+                "name": "#6 Wendy's Castle - Midway Point",
+                "sections": [
+                    {
+                        "ref": "Map/#6 Wendy's Castle/Midway Point"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "cic_main",
+                        "x": 1160,
+                        "y": 808
+                    }
+                ]
+            },
+            {
                 "name": "#6 Wendy's Castle - Spikes room",
                 "sections": [
                     {
                         "ref": "Map/#6 Wendy's Castle/Spikes room"
+                    },
+                    {
+                        "ref": "Map/#6 Wendy's Castle/Midway Point"
+                    },
+                    {
+                        "ref": "Map/#6 Wendy's Castle/Hidden 1-Up"
+                    },
+                    {
+                        "ref": "Map/#6 Wendy's Castle/Yellow Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -103,6 +127,15 @@
                 "sections": [
                     {
                         "ref": "Map/#6 Wendy's Castle/Hothead room"
+                    },
+                    {
+                        "ref": "Map/#6 Wendy's Castle/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/#6 Wendy's Castle/Yellow Switch Palace Block #2"
+                    },
+                    {
+                        "ref": "Map/#6 Wendy's Castle/Green Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -110,26 +143,30 @@
                         "map": "cic_sub",
                         "x": 16,
                         "y": 16
-                    },
-                    {
-                        "map": "cic_main",
-                        "x": 1224,
-                        "y": 800
                     }
                 ]
             },
             {
-                "name": "#6 Wendy's Castle - Midway Point",
+                "name": "#6 Wendy's Castle - Door to Hothead room",
                 "sections": [
                     {
-                        "ref": "Map/#6 Wendy's Castle/Midway Point"
+                        "ref": "Map/#6 Wendy's Castle/Hothead room"
+                    },
+                    {
+                        "ref": "Map/#6 Wendy's Castle/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/#6 Wendy's Castle/Yellow Switch Palace Block #2"
+                    },
+                    {
+                        "ref": "Map/#6 Wendy's Castle/Green Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "cic_main",
-                        "x": 1160,
-                        "y": 808
+                        "x": 1224,
+                        "y": 800
                     }
                 ]
             }

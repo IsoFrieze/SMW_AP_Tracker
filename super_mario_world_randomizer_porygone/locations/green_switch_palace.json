@@ -43,6 +43,9 @@
                 "sections": [
                     {
                         "ref": "Map/Green Switch Palace/Button room"
+                    },
+                    {
+                        "ref": "Map/Green Switch Palace/Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -50,7 +53,20 @@
                         "map": "dpz_sub_1",
                         "x": 16,
                         "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Green Switch Palace - Pipe to Button room",
+                "sections": [
+                    {
+                        "ref": "Map/Green Switch Palace/Button room"
                     },
+                    {
+                        "ref": "Map/Green Switch Palace/Normal Exit"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "dpz_main",
                         "x": 728,

@@ -143,6 +143,12 @@
                 "sections": [
                     {
                         "ref": "Map/Valley Ghost House/Main room"
+                    },
+                    {
+                        "ref": "Map/Valley Ghost House/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Valley Ghost House/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -150,16 +156,6 @@
                         "map": "vobgh_main",
                         "x": 16,
                         "y": 16
-                    },
-                    {
-                        "map": "vobgh_sub_1",
-                        "x": 904,
-                        "y": 320
-                    },
-                    {
-                        "map": "vobgh_sub_1",
-                        "x": 232,
-                        "y": 800
                     }
                 ]
             },
@@ -168,6 +164,15 @@
                 "sections": [
                     {
                         "ref": "Map/Valley Ghost House/P-Switch room"
+                    },
+                    {
+                        "ref": "Map/Valley Ghost House/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Valley Ghost House/P-Switch Coin Block #1"
+                    },
+                    {
+                        "ref": "Map/Valley Ghost House/Multi Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -175,7 +180,83 @@
                         "map": "vobgh_sub_1",
                         "x": 16,
                         "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Valley Ghost House - Directional coin room",
+                "sections": [
+                    {
+                        "ref": "Map/Valley Ghost House/Directional coin room"
                     },
+                    {
+                        "ref": "Map/Valley Ghost House/Secret Exit"
+                    },
+                    {
+                        "ref": "Map/Valley Ghost House/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Valley Ghost House/Directional Coin Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vobgh_sub_2",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Valley Ghost House - Goal room",
+                "sections": [
+                    {
+                        "ref": "Map/Valley Ghost House/Goal room"
+                    },
+                    {
+                        "ref": "Map/Valley Ghost House/Normal Exit"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vobgh_sub_3",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Valley Ghost House - Door to P-Switch room",
+                "sections": [
+                    {
+                        "ref": "Map/Valley Ghost House/P-Switch room"
+                    },
+                    {
+                        "ref": "Map/Valley Ghost House/Directional coin room"
+                    },
+                    {
+                        "ref": "Map/Valley Ghost House/Goal room"
+                    },
+                    {
+                        "ref": "Map/Valley Ghost House/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Valley Ghost House/Secret Exit"
+                    },
+                    {
+                        "ref": "Map/Valley Ghost House/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Valley Ghost House/P-Switch Coin Block #1"
+                    },
+                    {
+                        "ref": "Map/Valley Ghost House/Multi Coin Block #1"
+                    },
+                    {
+                        "ref": "Map/Valley Ghost House/Directional Coin Block #1"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "vobgh_main",
                         "x": 1000,
@@ -189,18 +270,48 @@
                 ]
             },
             {
-                "name": "Valley Ghost House - Directional coin room",
+                "name": "Valley Ghost House - Door to Main room",
                 "sections": [
                     {
-                        "ref": "Map/Valley Ghost House/Directional coin room"
+                        "ref": "Map/Valley Ghost House/Main room"
+                    },
+                    {
+                        "ref": "Map/Valley Ghost House/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Valley Ghost House/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "vobgh_sub_2",
-                        "x": 16,
-                        "y": 16
+                        "map": "vobgh_sub_1",
+                        "x": 904,
+                        "y": 320
                     },
+                    {
+                        "map": "vobgh_sub_1",
+                        "x": 232,
+                        "y": 800
+                    }
+                ]
+            },
+            {
+                "name": "Valley Ghost House - Door to Directional coin room",
+                "sections": [
+                    {
+                        "ref": "Map/Valley Ghost House/Directional coin room"
+                    },
+                    {
+                        "ref": "Map/Valley Ghost House/Secret Exit"
+                    },
+                    {
+                        "ref": "Map/Valley Ghost House/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Valley Ghost House/Directional Coin Block #1"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "vobgh_sub_1",
                         "x": 40,
@@ -219,18 +330,16 @@
                 ]
             },
             {
-                "name": "Valley Ghost House - Goal room",
+                "name": "Valley Ghost House - Door to Goal room",
                 "sections": [
                     {
                         "ref": "Map/Valley Ghost House/Goal room"
+                    },
+                    {
+                        "ref": "Map/Valley Ghost House/Normal Exit"
                     }
                 ],
                 "map_locations": [
-                    {
-                        "map": "vobgh_sub_3",
-                        "x": 16,
-                        "y": 16
-                    },
                     {
                         "map": "vobgh_sub_1",
                         "x": 600,

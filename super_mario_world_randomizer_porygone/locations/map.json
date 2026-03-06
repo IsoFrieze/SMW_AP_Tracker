@@ -2518,7 +2518,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Coin Block #2",
+                        "name": "Multi Coin Block #1",
                         "access_rules": [
                             ""
                         ],
@@ -2530,7 +2530,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Coin Block #3",
+                        "name": "Coin Block #2",
                         "access_rules": [
                             ""
                         ],
@@ -2566,7 +2566,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Multi Coin Block #1",
+                        "name": "Multi Coin Block #2",
                         "access_rules": [
                             ""
                         ],

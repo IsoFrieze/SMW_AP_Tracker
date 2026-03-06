@@ -334,10 +334,85 @@
                 ]
             },
             {
+                "name": "Vanilla Dome 3 - Midway Point",
+                "sections": [
+                    {
+                        "ref": "Map/Vanilla Dome 3/Midway Point"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vd3_main",
+                        "x": 1448,
+                        "y": 808
+                    }
+                ]
+            },
+            {
                 "name": "Vanilla Dome 3 - Main room",
                 "sections": [
                     {
                         "ref": "Map/Vanilla Dome 3/Main room"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 3/Midway Point"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 3/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 3/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 3/3-Up Moon"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 3/Coin Block #1"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 3/Flying Question Block #1"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 3/Flying Question Block #2"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 3/Powerup Block #1"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 3/Flying Question Block #3"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 3/Invisible Coin Block #1"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 3/Powerup Block #2"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 3/Multi Coin Block #1"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 3/Yoshi Block #1"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 3/Powerup Block #4"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 3/P-Switch Coin Block #1"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 3/P-Switch Coin Block #2"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 3/P-Switch Coin Block #3"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 3/P-Switch Coin Block #4"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 3/P-Switch Coin Block #5"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 3/P-Switch Coin Block #6"
                     }
                 ],
                 "map_locations": [
@@ -345,21 +420,6 @@
                         "map": "vd3_main",
                         "x": 16,
                         "y": 16
-                    },
-                    {
-                        "map": "vd3_zbonus",
-                        "x": 200,
-                        "y": 64
-                    },
-                    {
-                        "map": "vd3_zbonus",
-                        "x": 24,
-                        "y": 384
-                    },
-                    {
-                        "map": "vd3_sub_1",
-                        "x": 944,
-                        "y": 312
                     }
                 ]
             },
@@ -368,6 +428,12 @@
                 "sections": [
                     {
                         "ref": "Map/Vanilla Dome 3/Ice cave room"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 3/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 3/Powerup Block #3"
                     }
                 ],
                 "map_locations": [
@@ -375,11 +441,6 @@
                         "map": "vd3_sub_1",
                         "x": 16,
                         "y": 16
-                    },
-                    {
-                        "map": "vd3_main",
-                        "x": 976,
-                        "y": 792
                     }
                 ]
             },
@@ -395,7 +456,17 @@
                         "map": "vd3_zbonus",
                         "x": 16,
                         "y": 16
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Vanilla Dome 3 - Pipe to Bonus room",
+                "sections": [
+                    {
+                        "ref": "Map/Vanilla Dome 3/Bonus room"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "vd3_main",
                         "x": 216,
@@ -404,17 +475,81 @@
                 ]
             },
             {
-                "name": "Vanilla Dome 3 - Midway Point",
+                "name": "Vanilla Dome 3 - Pipe to Ice cave room",
                 "sections": [
                     {
-                        "ref": "Map/Vanilla Dome 3/Midway Point"
+                        "ref": "Map/Vanilla Dome 3/Ice cave room"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 3/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 3/Powerup Block #3"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "vd3_main",
-                        "x": 1448,
-                        "y": 808
+                        "x": 976,
+                        "y": 792
+                    }
+                ]
+            },
+            {
+                "name": "Vanilla Dome 3 - Pipe to Main room",
+                "sections": [
+                    {
+                        "ref": "Map/Vanilla Dome 3/Main room"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 3/Midway Point"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 3/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 3/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 3/Yoshi Block #1"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 3/Powerup Block #4"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 3/P-Switch Coin Block #1"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 3/P-Switch Coin Block #2"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 3/P-Switch Coin Block #3"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 3/P-Switch Coin Block #4"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 3/P-Switch Coin Block #5"
+                    },
+                    {
+                        "ref": "Map/Vanilla Dome 3/P-Switch Coin Block #6"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vd3_zbonus",
+                        "x": 200,
+                        "y": 64
+                    },
+                    {
+                        "map": "vd3_zbonus",
+                        "x": 24,
+                        "y": 384
+                    },
+                    {
+                        "map": "vd3_sub_1",
+                        "x": 944,
+                        "y": 312
                     }
                 ]
             }

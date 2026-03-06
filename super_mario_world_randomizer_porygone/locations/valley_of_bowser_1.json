@@ -209,10 +209,61 @@
                 ]
             },
             {
+                "name": "Valley of Bowser 1 - Midway Point",
+                "sections": [
+                    {
+                        "ref": "Map/Valley of Bowser 1/Midway Point"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vob1_main",
+                        "x": 2440,
+                        "y": 168
+                    }
+                ]
+            },
+            {
                 "name": "Valley of Bowser 1 - Main room",
                 "sections": [
                     {
                         "ref": "Map/Valley of Bowser 1/Main room"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 1/Midway Point"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 1/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 1/3-Up Moon"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 1/Green Switch Palace Block #1"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 1/Invisible Coin Block #1"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 1/Invisible Coin Block #2"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 1/Invisible Coin Block #3"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 1/Yellow Switch Palace Block #1"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 1/Yellow Switch Palace Block #2"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 1/Yellow Switch Palace Block #3"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 1/Yellow Switch Palace Block #4"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 1/Vine Block #1"
                     }
                 ],
                 "map_locations": [
@@ -220,16 +271,6 @@
                         "map": "vob1_main",
                         "x": 16,
                         "y": 16
-                    },
-                    {
-                        "map": "vob1_zbonus",
-                        "x": 200,
-                        "y": 64
-                    },
-                    {
-                        "map": "vob1_zbonus",
-                        "x": 24,
-                        "y": 384
                     }
                 ]
             },
@@ -238,6 +279,9 @@
                 "sections": [
                     {
                         "ref": "Map/Valley of Bowser 1/Goal room"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 1/Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -245,11 +289,6 @@
                         "map": "vob1_sub",
                         "x": 16,
                         "y": 16
-                    },
-                    {
-                        "map": "vob1_main",
-                        "x": 1704,
-                        "y": 784
                     }
                 ]
             },
@@ -265,7 +304,35 @@
                         "map": "vob1_zbonus",
                         "x": 16,
                         "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Valley of Bowser 1 - Pipe to Goal room",
+                "sections": [
+                    {
+                        "ref": "Map/Valley of Bowser 1/Goal room"
                     },
+                    {
+                        "ref": "Map/Valley of Bowser 1/Normal Exit"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vob1_main",
+                        "x": 1704,
+                        "y": 784
+                    }
+                ]
+            },
+            {
+                "name": "Valley of Bowser 1 - Pipe to Bonus room",
+                "sections": [
+                    {
+                        "ref": "Map/Valley of Bowser 1/Bonus room"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "vob1_main",
                         "x": 1504,
@@ -274,17 +341,58 @@
                 ]
             },
             {
-                "name": "Valley of Bowser 1 - Midway Point",
+                "name": "Valley of Bowser 1 - Pipe to Main room",
                 "sections": [
                     {
+                        "ref": "Map/Valley of Bowser 1/Main room"
+                    },
+                    {
                         "ref": "Map/Valley of Bowser 1/Midway Point"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 1/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 1/3-Up Moon"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 1/Green Switch Palace Block #1"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 1/Invisible Coin Block #1"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 1/Invisible Coin Block #2"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 1/Invisible Coin Block #3"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 1/Yellow Switch Palace Block #1"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 1/Yellow Switch Palace Block #2"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 1/Yellow Switch Palace Block #3"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 1/Yellow Switch Palace Block #4"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 1/Vine Block #1"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "vob1_main",
-                        "x": 2440,
-                        "y": 168
+                        "map": "vob1_zbonus",
+                        "x": 200,
+                        "y": 64
+                    },
+                    {
+                        "map": "vob1_zbonus",
+                        "x": 24,
+                        "y": 384
                     }
                 ]
             }

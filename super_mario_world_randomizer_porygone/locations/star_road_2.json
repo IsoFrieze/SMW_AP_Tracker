@@ -58,6 +58,12 @@
                 "sections": [
                     {
                         "ref": "Map/Star Road 2/Main room"
+                    },
+                    {
+                        "ref": "Map/Star Road 2/Secret Exit"
+                    },
+                    {
+                        "ref": "Map/Star Road 2/Star Block #1"
                     }
                 ],
                 "map_locations": [
@@ -73,6 +79,9 @@
                 "sections": [
                     {
                         "ref": "Map/Star Road 2/Goal room"
+                    },
+                    {
+                        "ref": "Map/Star Road 2/Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -80,7 +89,20 @@
                         "map": "sr2_sub",
                         "x": 16,
                         "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Star Road 2 - Pipe to Goal room",
+                "sections": [
+                    {
+                        "ref": "Map/Star Road 2/Goal room"
                     },
+                    {
+                        "ref": "Map/Star Road 2/Normal Exit"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "sr2_main",
                         "x": 696,

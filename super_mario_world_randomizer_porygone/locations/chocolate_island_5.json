@@ -129,10 +129,46 @@
                 ]
             },
             {
+                "name": "Chocolate Island 5 - Midway Point",
+                "sections": [
+                    {
+                        "ref": "Map/Chocolate Island 5/Midway Point"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ci5_main",
+                        "x": 504,
+                        "y": 680
+                    }
+                ]
+            },
+            {
                 "name": "Chocolate Island 5 - Main room",
                 "sections": [
                     {
                         "ref": "Map/Chocolate Island 5/Main room"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 5/Midway Point"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 5/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 5/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 5/Yoshi Block #1"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 5/Powerup Block #1"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 5/1-Up Mushroom Block #1"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 5/Yellow Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -140,21 +176,6 @@
                         "map": "ci5_main",
                         "x": 16,
                         "y": 16
-                    },
-                    {
-                        "map": "ci5_zbonus",
-                        "x": 200,
-                        "y": 64
-                    },
-                    {
-                        "map": "ci5_zbonus",
-                        "x": 24,
-                        "y": 384
-                    },
-                    {
-                        "map": "ci5_sub",
-                        "x": 992,
-                        "y": 296
                     }
                 ]
             },
@@ -163,6 +184,9 @@
                 "sections": [
                     {
                         "ref": "Map/Chocolate Island 5/Bubbles room"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 5/Dragon Coins"
                     }
                 ],
                 "map_locations": [
@@ -170,11 +194,6 @@
                         "map": "ci5_sub",
                         "x": 16,
                         "y": 16
-                    },
-                    {
-                        "map": "ci5_main",
-                        "x": 1584,
-                        "y": 344
                     }
                 ]
             },
@@ -190,7 +209,35 @@
                         "map": "ci5_zbonus",
                         "x": 16,
                         "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Chocolate Island 5 - Pipe to Bubbles room",
+                "sections": [
+                    {
+                        "ref": "Map/Chocolate Island 5/Bubbles room"
                     },
+                    {
+                        "ref": "Map/Chocolate Island 5/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ci5_main",
+                        "x": 1584,
+                        "y": 344
+                    }
+                ]
+            },
+            {
+                "name": "Chocolate Island 5 - Pipe to Bonus room",
+                "sections": [
+                    {
+                        "ref": "Map/Chocolate Island 5/Bonus room"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "ci5_main",
                         "x": 576,
@@ -199,17 +246,48 @@
                 ]
             },
             {
-                "name": "Chocolate Island 5 - Midway Point",
+                "name": "Chocolate Island 5 - Pipe to Main room",
                 "sections": [
                     {
+                        "ref": "Map/Chocolate Island 5/Main room"
+                    },
+                    {
                         "ref": "Map/Chocolate Island 5/Midway Point"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 5/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 5/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 5/Yoshi Block #1"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 5/Powerup Block #1"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 5/1-Up Mushroom Block #1"
+                    },
+                    {
+                        "ref": "Map/Chocolate Island 5/Yellow Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "ci5_main",
-                        "x": 504,
-                        "y": 680
+                        "map": "ci5_zbonus",
+                        "x": 200,
+                        "y": 64
+                    },
+                    {
+                        "map": "ci5_zbonus",
+                        "x": 24,
+                        "y": 384
+                    },
+                    {
+                        "map": "ci5_sub",
+                        "x": 992,
+                        "y": 296
                     }
                 ]
             }

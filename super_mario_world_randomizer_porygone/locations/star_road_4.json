@@ -178,6 +178,39 @@
                 "sections": [
                     {
                         "ref": "Map/Star Road 4/Main room"
+                    },
+                    {
+                        "ref": "Map/Star Road 4/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Star Road 4/Secret Exit"
+                    },
+                    {
+                        "ref": "Map/Star Road 4/Powerup Block #1"
+                    },
+                    {
+                        "ref": "Map/Star Road 4/Green Switch Palace Block #1"
+                    },
+                    {
+                        "ref": "Map/Star Road 4/Green Switch Palace Block #2"
+                    },
+                    {
+                        "ref": "Map/Star Road 4/Green Switch Palace Block #3"
+                    },
+                    {
+                        "ref": "Map/Star Road 4/Green Switch Palace Block #4"
+                    },
+                    {
+                        "ref": "Map/Star Road 4/Green Switch Palace Block #5"
+                    },
+                    {
+                        "ref": "Map/Star Road 4/Green Switch Palace Block #6"
+                    },
+                    {
+                        "ref": "Map/Star Road 4/Green Switch Palace Block #7"
+                    },
+                    {
+                        "ref": "Map/Star Road 4/Key Block #1"
                     }
                 ],
                 "map_locations": [

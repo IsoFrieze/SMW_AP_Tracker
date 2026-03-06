@@ -129,46 +129,6 @@
                 ]
             },
             {
-                "name": "Valley of Bowser 4 - Main room",
-                "sections": [
-                    {
-                        "ref": "Map/Valley of Bowser 4/Main room"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "vob4_main",
-                        "x": 16,
-                        "y": 16
-                    },
-                    {
-                        "map": "vob4_sub",
-                        "x": 80,
-                        "y": 312
-                    }
-                ]
-            },
-            {
-                "name": "Valley of Bowser 4 - Ice cave room",
-                "sections": [
-                    {
-                        "ref": "Map/Valley of Bowser 4/Ice cave room"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "vob4_sub",
-                        "x": 16,
-                        "y": 16
-                    },
-                    {
-                        "map": "vob4_main",
-                        "x": 1424,
-                        "y": 328
-                    }
-                ]
-            },
-            {
                 "name": "Valley of Bowser 4 - Midway Point",
                 "sections": [
                     {
@@ -180,6 +140,120 @@
                         "map": "vob4_main",
                         "x": 536,
                         "y": 744
+                    }
+                ]
+            },
+            {
+                "name": "Valley of Bowser 4 - Main room",
+                "sections": [
+                    {
+                        "ref": "Map/Valley of Bowser 4/Main room"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 4/Midway Point"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 4/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 4/Secret Exit"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 4/Yellow Switch Palace Block #1"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 4/Vine Block #1"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 4/Yoshi Block #1"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 4/1-Up Mushroom Block #1"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 4/Powerup Block #2"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vob4_main",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Valley of Bowser 4 - Ice cave room",
+                "sections": [
+                    {
+                        "ref": "Map/Valley of Bowser 4/Ice cave room"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 4/Powerup Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vob4_sub",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Valley of Bowser 4 - Pipe to Ice cave room",
+                "sections": [
+                    {
+                        "ref": "Map/Valley of Bowser 4/Ice cave room"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 4/Powerup Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vob4_main",
+                        "x": 1424,
+                        "y": 328
+                    }
+                ]
+            },
+            {
+                "name": "Valley of Bowser 4 - Pipe to Main room",
+                "sections": [
+                    {
+                        "ref": "Map/Valley of Bowser 4/Main room"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 4/Midway Point"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 4/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 4/Secret Exit"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 4/Yellow Switch Palace Block #1"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 4/Vine Block #1"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 4/Yoshi Block #1"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 4/1-Up Mushroom Block #1"
+                    },
+                    {
+                        "ref": "Map/Valley of Bowser 4/Powerup Block #2"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "vob4_sub",
+                        "x": 80,
+                        "y": 312
                     }
                 ]
             }

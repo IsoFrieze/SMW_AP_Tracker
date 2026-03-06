@@ -104,46 +104,6 @@
                 ]
             },
             {
-                "name": "Butter Bridge 2 - Main room",
-                "sections": [
-                    {
-                        "ref": "Map/Butter Bridge 2/Main room"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "tb2_main",
-                        "x": 16,
-                        "y": 16
-                    },
-                    {
-                        "map": "tb2_sub_1",
-                        "x": 992,
-                        "y": 328
-                    }
-                ]
-            },
-            {
-                "name": "Butter Bridge 2 - Dragon coin room",
-                "sections": [
-                    {
-                        "ref": "Map/Butter Bridge 2/Dragon coin room"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "tb2_sub_1",
-                        "x": 16,
-                        "y": 16
-                    },
-                    {
-                        "map": "tb2_main",
-                        "x": 960,
-                        "y": 824
-                    }
-                ]
-            },
-            {
                 "name": "Butter Bridge 2 - Midway Point",
                 "sections": [
                     {
@@ -155,6 +115,108 @@
                         "map": "tb2_main",
                         "x": 408,
                         "y": 744
+                    }
+                ]
+            },
+            {
+                "name": "Butter Bridge 2 - Main room",
+                "sections": [
+                    {
+                        "ref": "Map/Butter Bridge 2/Main room"
+                    },
+                    {
+                        "ref": "Map/Butter Bridge 2/Midway Point"
+                    },
+                    {
+                        "ref": "Map/Butter Bridge 2/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Butter Bridge 2/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Butter Bridge 2/Powerup Block #1"
+                    },
+                    {
+                        "ref": "Map/Butter Bridge 2/Green Switch Palace Block #1"
+                    },
+                    {
+                        "ref": "Map/Butter Bridge 2/Yoshi Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "tb2_main",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Butter Bridge 2 - Dragon coin room",
+                "sections": [
+                    {
+                        "ref": "Map/Butter Bridge 2/Dragon coin room"
+                    },
+                    {
+                        "ref": "Map/Butter Bridge 2/Dragon Coins"
+                    },
+                ],
+                "map_locations": [
+                    {
+                        "map": "tb2_sub_1",
+                        "x": 16,
+                        "y": 16
+                    }
+                ]
+            },
+            {
+                "name": "Butter Bridge 2 - Pipe to Dragon coin room",
+                "sections": [
+                    {
+                        "ref": "Map/Butter Bridge 2/Dragon coin room"
+                    },
+                    {
+                        "ref": "Map/Butter Bridge 2/Dragon Coins"
+                    },
+                ],
+                "map_locations": [
+                    {
+                        "map": "tb2_main",
+                        "x": 960,
+                        "y": 824
+                    }
+                ]
+            },
+            {
+                "name": "Butter Bridge 2 - Pipe to Main room",
+                "sections": [
+                    {
+                        "ref": "Map/Butter Bridge 2/Main room"
+                    },
+                    {
+                        "ref": "Map/Butter Bridge 2/Midway Point"
+                    },
+                    {
+                        "ref": "Map/Butter Bridge 2/Normal Exit"
+                    },
+                    {
+                        "ref": "Map/Butter Bridge 2/Dragon Coins"
+                    },
+                    {
+                        "ref": "Map/Butter Bridge 2/Powerup Block #1"
+                    },
+                    {
+                        "ref": "Map/Butter Bridge 2/Green Switch Palace Block #1"
+                    },
+                    {
+                        "ref": "Map/Butter Bridge 2/Yoshi Block #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "tb2_sub_1",
+                        "x": 992,
+                        "y": 328
                     }
                 ]
             }

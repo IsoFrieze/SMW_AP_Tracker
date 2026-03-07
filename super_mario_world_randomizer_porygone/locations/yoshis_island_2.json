@@ -406,13 +406,6 @@
                     {
                         "name": "Flying block room",
                         "ref": "Map/Yoshi's Island 2/Flying block room"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "yi2_sub_1",
-                        "x": 16,
-                        "y": 16
                     },
                     {
                         "name": "Flying Question Block #1",
@@ -437,6 +430,13 @@
                     {
                         "name": "Flying Question Block #6",
                         "ref": "Map/Yoshi's Island 2/Flying Question Block #6"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "yi2_sub_1",
+                        "x": 16,
+                        "y": 16
                     }
                 ]
             },

@@ -41,8 +41,12 @@
                 ]
             },
             {
-                "name": "Chocolate Island 3 - Dragon Coins",
+                "name": "Chocolate Island 3 - Dragon Coin #1",
                 "sections": [
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/CI3/Dragon Coin #1"
+                    },
                     {
                         "name": "Dragon Coins",
                         "ref": "Dragon Coins/CI3/Dragon Coins"
@@ -53,22 +57,82 @@
                         "map": "ci3_main",
                         "x": 680,
                         "y": 240
+                    }
+                ]
+            },
+            {
+                "name": "Chocolate Island 3 - Dragon Coin #2",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/CI3/Dragon Coin #2"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/CI3/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "ci3_main",
                         "x": 1784,
                         "y": 384
+                    }
+                ]
+            },
+            {
+                "name": "Chocolate Island 3 - Dragon Coin #3",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/CI3/Dragon Coin #3"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/CI3/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "ci3_sub",
                         "x": 392,
                         "y": 176
+                    }
+                ]
+            },
+            {
+                "name": "Chocolate Island 3 - Dragon Coin #4",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/CI3/Dragon Coin #4"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/CI3/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "ci3_main",
                         "x": 1976,
                         "y": 752
+                    }
+                ]
+            },
+            {
+                "name": "Chocolate Island 3 - Dragon Coin #5",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/CI3/Dragon Coin #5"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/CI3/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "ci3_main",
                         "x": 280,
@@ -241,7 +305,7 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Rooms/CI3/0x0022"
+                        "ref": "Rooms/CI3/Room 0x0022"
                     },
                     {
                         "name": "Midway Point",
@@ -254,6 +318,22 @@
                     {
                         "name": "Secret Exit",
                         "ref": "Exits/CI3/Secret Exit"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/CI3/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/CI3/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/CI3/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/CI3/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",
@@ -309,7 +389,11 @@
                 "sections": [
                     {
                         "name": "Coin room",
-                        "ref": "Rooms/CI3/0x00D7"
+                        "ref": "Rooms/CI3/Room 0x00D7"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/CI3/Dragon Coin #3"
                     },
                     {
                         "name": "Dragon Coins",
@@ -329,7 +413,11 @@
                 "sections": [
                     {
                         "name": "Coin room",
-                        "ref": "Rooms/CI3/0x00D7"
+                        "ref": "Rooms/CI3/Room 0x00D7"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/CI3/Dragon Coin #3"
                     },
                     {
                         "name": "Dragon Coins",
@@ -349,7 +437,7 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Rooms/CI3/0x0022"
+                        "ref": "Rooms/CI3/Room 0x0022"
                     },
                     {
                         "name": "Midway Point",
@@ -362,6 +450,22 @@
                     {
                         "name": "Secret Exit",
                         "ref": "Exits/CI3/Secret Exit"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/CI3/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/CI3/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/CI3/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/CI3/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",

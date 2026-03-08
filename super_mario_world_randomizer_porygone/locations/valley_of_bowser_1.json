@@ -25,8 +25,12 @@
                 ]
             },
             {
-                "name": "Valley of Bowser 1 - Dragon Coins",
+                "name": "Valley of Bowser 1 - Dragon Coin #1",
                 "sections": [
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/VB1/Dragon Coin #1"
+                    },
                     {
                         "name": "Dragon Coins",
                         "ref": "Dragon Coins/VB1/Dragon Coins"
@@ -37,22 +41,82 @@
                         "map": "vob1_main",
                         "x": 1032,
                         "y": 304
+                    }
+                ]
+            },
+            {
+                "name": "Valley of Bowser 1 - Dragon Coin #2",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/VB1/Dragon Coin #2"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/VB1/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "vob1_main",
                         "x": 1384,
                         "y": 96
+                    }
+                ]
+            },
+            {
+                "name": "Valley of Bowser 1 - Dragon Coin #3",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/VB1/Dragon Coin #3"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/VB1/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "vob1_main",
                         "x": 824,
                         "y": 592
+                    }
+                ]
+            },
+            {
+                "name": "Valley of Bowser 1 - Dragon Coin #4",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/VB1/Dragon Coin #4"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/VB1/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "vob1_main",
                         "x": 1000,
                         "y": 752
+                    }
+                ]
+            },
+            {
+                "name": "Valley of Bowser 1 - Dragon Coin #5",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/VB1/Dragon Coin #5"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/VB1/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "vob1_main",
                         "x": 2008,
@@ -241,11 +305,31 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Rooms/VB1/0x0116"
+                        "ref": "Rooms/VB1/Room 0x0116"
                     },
                     {
                         "name": "Midway Point",
                         "ref": "Midways/VB1/Midway Point"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/VB1/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/VB1/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/VB1/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/VB1/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/VB1/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",
@@ -305,7 +389,7 @@
                 "sections": [
                     {
                         "name": "Goal room",
-                        "ref": "Rooms/VB1/0x01E5"
+                        "ref": "Rooms/VB1/Room 0x01E5"
                     },
                     {
                         "name": "Normal Exit",
@@ -325,7 +409,7 @@
                 "sections": [
                     {
                         "name": "Bonus room",
-                        "ref": "Rooms/VB1/0x01E4"
+                        "ref": "Rooms/VB1/Room 0x01E4"
                     }
                 ],
                 "map_locations": [
@@ -341,7 +425,7 @@
                 "sections": [
                     {
                         "name": "Goal room",
-                        "ref": "Rooms/VB1/0x01E5"
+                        "ref": "Rooms/VB1/Room 0x01E5"
                     },
                     {
                         "name": "Normal Exit",
@@ -361,7 +445,7 @@
                 "sections": [
                     {
                         "name": "Bonus room",
-                        "ref": "Rooms/VB1/0x01E4"
+                        "ref": "Rooms/VB1/Room 0x01E4"
                     }
                 ],
                 "map_locations": [
@@ -377,11 +461,31 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Rooms/VB1/0x0116"
+                        "ref": "Rooms/VB1/Room 0x0116"
                     },
                     {
                         "name": "Midway Point",
                         "ref": "Midways/VB1/Midway Point"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/VB1/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/VB1/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/VB1/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/VB1/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/VB1/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",

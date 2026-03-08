@@ -61,7 +61,7 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Rooms/SR2/0x0130"
+                        "ref": "Rooms/SR2/Room 0x0130"
                     },
                     {
                         "name": "Secret Exit",
@@ -85,7 +85,7 @@
                 "sections": [
                     {
                         "name": "Goal room",
-                        "ref": "Rooms/SR2/0x01D5"
+                        "ref": "Rooms/SR2/Room 0x01D5"
                     },
                     {
                         "name": "Normal Exit",
@@ -105,7 +105,7 @@
                 "sections": [
                     {
                         "name": "Goal room",
-                        "ref": "Rooms/SR2/0x01D5"
+                        "ref": "Rooms/SR2/Room 0x01D5"
                     },
                     {
                         "name": "Normal Exit",

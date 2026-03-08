@@ -46,8 +46,12 @@
                 ]
             },
             {
-                "name": "Cheese Bridge Area - Dragon Coins",
+                "name": "Cheese Bridge Area - Dragon Coin #1",
                 "sections": [
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/CBA/Dragon Coin #1"
+                    },
                     {
                         "name": "Dragon Coins",
                         "ref": "Dragon Coins/CBA/Dragon Coins"
@@ -58,47 +62,182 @@
                         "map": "tb3_main",
                         "x": 1160,
                         "y": 336
+                    }
+                ]
+            },
+            {
+                "name": "Cheese Bridge Area - Dragon Coin #2",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/CBA/Dragon Coin #2"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/CBA/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "tb3_main",
                         "x": 1544,
                         "y": 240
+                    }
+                ]
+            },
+            {
+                "name": "Cheese Bridge Area - Dragon Coin #3",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/CBA/Dragon Coin #3"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/CBA/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "tb3_main",
                         "x": 56,
                         "y": 800
+                    }
+                ]
+            },
+            {
+                "name": "Cheese Bridge Area - Dragon Coin #4",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/CBA/Dragon Coin #4"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/CBA/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "tb3_main",
                         "x": 968,
                         "y": 736
+                    }
+                ]
+            },
+            {
+                "name": "Cheese Bridge Area - Dragon Coin #5",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/CBA/Dragon Coin #5"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/CBA/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "tb3_main",
                         "x": 184,
                         "y": 1152
+                    }
+                ]
+            },
+            {
+                "name": "Cheese Bridge Area - Dragon Coin #6",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #6",
+                        "ref": "Dragon Coins/CBA/Dragon Coin #6"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/CBA/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "tb3_sub_1",
                         "x": 376,
                         "y": 224
+                    }
+                ]
+            },
+            {
+                "name": "Cheese Bridge Area - Dragon Coin #7",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #7",
+                        "ref": "Dragon Coins/CBA/Dragon Coin #7"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/CBA/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "tb3_sub_1",
                         "x": 552,
                         "y": 240
+                    }
+                ]
+            },
+            {
+                "name": "Cheese Bridge Area - Dragon Coin #8",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #8",
+                        "ref": "Dragon Coins/CBA/Dragon Coin #8"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/CBA/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "tb3_sub_1",
                         "x": 888,
                         "y": 144
+                    }
+                ]
+            },
+            {
+                "name": "Cheese Bridge Area - Dragon Coin #9",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #9",
+                        "ref": "Dragon Coins/CBA/Dragon Coin #9"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/CBA/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "tb3_sub_1",
                         "x": 1016,
                         "y": 192
+                    }
+                ]
+            },
+            {
+                "name": "Cheese Bridge Area - Dragon Coin #10",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #10",
+                        "ref": "Dragon Coins/CBA/Dragon Coin #10"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/CBA/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "tb3_sub_1",
                         "x": 1080,
@@ -207,7 +346,7 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Rooms/CBA/0x000F"
+                        "ref": "Rooms/CBA/Room 0x000F"
                     },
                     {
                         "name": "Midway Point",
@@ -220,6 +359,26 @@
                     {
                         "name": "Secret Exit",
                         "ref": "Exits/CBA/Secret Exit"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/CBA/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/CBA/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/CBA/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/CBA/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/CBA/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",
@@ -259,11 +418,31 @@
                 "sections": [
                     {
                         "name": "Yoshi wings room",
-                        "ref": "Rooms/CBA/0x20C8"
+                        "ref": "Rooms/CBA/Room 0x20C8"
                     },
                     {
                         "name": "Normal Exit",
                         "ref": "Exits/CBA/Normal Exit"
+                    },
+                    {
+                        "name": "Dragon Coin #6",
+                        "ref": "Dragon Coins/CBA/Dragon Coin #6"
+                    },
+                    {
+                        "name": "Dragon Coin #7",
+                        "ref": "Dragon Coins/CBA/Dragon Coin #7"
+                    },
+                    {
+                        "name": "Dragon Coin #8",
+                        "ref": "Dragon Coins/CBA/Dragon Coin #8"
+                    },
+                    {
+                        "name": "Dragon Coin #9",
+                        "ref": "Dragon Coins/CBA/Dragon Coin #9"
+                    },
+                    {
+                        "name": "Dragon Coin #10",
+                        "ref": "Dragon Coins/CBA/Dragon Coin #10"
                     },
                     {
                         "name": "Dragon Coins",
@@ -283,7 +462,7 @@
                 "sections": [
                     {
                         "name": "Moving platforms room",
-                        "ref": "Rooms/CBA/0x00BF"
+                        "ref": "Rooms/CBA/Room 0x00BF"
                     }
                 ],
                 "map_locations": [
@@ -299,11 +478,31 @@
                 "sections": [
                     {
                         "name": "Yoshi wings room",
-                        "ref": "Rooms/CBA/0x20C8"
+                        "ref": "Rooms/CBA/Room 0x20C8"
                     },
                     {
                         "name": "Normal Exit",
                         "ref": "Exits/CBA/Normal Exit"
+                    },
+                    {
+                        "name": "Dragon Coin #6",
+                        "ref": "Dragon Coins/CBA/Dragon Coin #6"
+                    },
+                    {
+                        "name": "Dragon Coin #7",
+                        "ref": "Dragon Coins/CBA/Dragon Coin #7"
+                    },
+                    {
+                        "name": "Dragon Coin #8",
+                        "ref": "Dragon Coins/CBA/Dragon Coin #8"
+                    },
+                    {
+                        "name": "Dragon Coin #9",
+                        "ref": "Dragon Coins/CBA/Dragon Coin #9"
+                    },
+                    {
+                        "name": "Dragon Coin #10",
+                        "ref": "Dragon Coins/CBA/Dragon Coin #10"
                     },
                     {
                         "name": "Dragon Coins",
@@ -323,7 +522,7 @@
                 "sections": [
                     {
                         "name": "Moving platforms room",
-                        "ref": "Rooms/CBA/0x00BF"
+                        "ref": "Rooms/CBA/Room 0x00BF"
                     }
                 ],
                 "map_locations": [
@@ -339,7 +538,7 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Rooms/CBA/0x000F"
+                        "ref": "Rooms/CBA/Room 0x000F"
                     },
                     {
                         "name": "Midway Point",
@@ -352,6 +551,26 @@
                     {
                         "name": "Secret Exit",
                         "ref": "Exits/CBA/Secret Exit"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/CBA/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/CBA/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/CBA/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/CBA/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/CBA/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",

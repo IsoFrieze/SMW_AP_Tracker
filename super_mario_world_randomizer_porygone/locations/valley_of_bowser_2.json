@@ -46,8 +46,12 @@
                 ]
             },
             {
-                "name": "Valley of Bowser 2 - Dragon Coins",
+                "name": "Valley of Bowser 2 - Dragon Coin #1",
                 "sections": [
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/VB2/Dragon Coin #1"
+                    },
                     {
                         "name": "Dragon Coins",
                         "ref": "Dragon Coins/VB2/Dragon Coins"
@@ -58,32 +62,122 @@
                         "map": "vob2_main",
                         "x": 1752,
                         "y": 224
+                    }
+                ]
+            },
+            {
+                "name": "Valley of Bowser 2 - Dragon Coin #2",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/VB2/Dragon Coin #2"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/VB2/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "vob2_sub_1",
                         "x": 840,
                         "y": 368
+                    }
+                ]
+            },
+            {
+                "name": "Valley of Bowser 2 - Dragon Coin #3",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/VB2/Dragon Coin #3"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/VB2/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "vob2_sub_1",
                         "x": 1128,
                         "y": 240
+                    }
+                ]
+            },
+            {
+                "name": "Valley of Bowser 2 - Dragon Coin #4",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/VB2/Dragon Coin #4"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/VB2/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "vob2_sub_3",
                         "x": 232,
                         "y": 304
+                    }
+                ]
+            },
+            {
+                "name": "Valley of Bowser 2 - Dragon Coin #5",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/VB2/Dragon Coin #5"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/VB2/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "vob2_sub_3",
                         "x": 488,
                         "y": 368
+                    }
+                ]
+            },
+            {
+                "name": "Valley of Bowser 2 - Dragon Coin #6",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #6",
+                        "ref": "Dragon Coins/VB2/Dragon Coin #6"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/VB2/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "vob2_sub_3",
                         "x": 840,
                         "y": 224
+                    }
+                ]
+            },
+            {
+                "name": "Valley of Bowser 2 - Dragon Coin #7",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #7",
+                        "ref": "Dragon Coins/VB2/Dragon Coin #7"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/VB2/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "vob2_sub_3",
                         "x": 1144,
@@ -197,11 +291,15 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Rooms/VB2/0x0115"
+                        "ref": "Rooms/VB2/Room 0x0115"
                     },
                     {
                         "name": "Midway Point",
                         "ref": "Midways/VB2/Midway Point"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/VB2/Dragon Coin #1"
                     },
                     {
                         "name": "Dragon Coins",
@@ -229,7 +327,15 @@
                 "sections": [
                     {
                         "name": "Moving rocks room",
-                        "ref": "Rooms/VB2/0x01E3"
+                        "ref": "Rooms/VB2/Room 0x01E3"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/VB2/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/VB2/Dragon Coin #3"
                     },
                     {
                         "name": "Dragon Coins",
@@ -261,7 +367,7 @@
                 "sections": [
                     {
                         "name": "Rising rocks room",
-                        "ref": "Rooms/VB2/0x01E2"
+                        "ref": "Rooms/VB2/Room 0x01E2"
                     },
                     {
                         "name": "Normal Exit",
@@ -284,6 +390,22 @@
                 "name": "Valley of Bowser 2 - Yoshi wings room",
                 "sections": [
                     {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/VB2/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/VB2/Dragon Coin #5"
+                    },
+                    {
+                        "name": "Dragon Coin #6",
+                        "ref": "Dragon Coins/VB2/Dragon Coin #6"
+                    },
+                    {
+                        "name": "Dragon Coin #7",
+                        "ref": "Dragon Coins/VB2/Dragon Coin #7"
+                    },
+                    {
                         "name": "Dragon Coins",
                         "ref": "Dragon Coins/VB2/Dragon Coins"
                     },
@@ -305,11 +427,11 @@
                 "sections": [
                     {
                         "name": "Moving rocks room",
-                        "ref": "Rooms/VB2/0x01E3"
+                        "ref": "Rooms/VB2/Room 0x01E3"
                     },
                     {
                         "name": "Rising rocks room",
-                        "ref": "Rooms/VB2/0x01E2"
+                        "ref": "Rooms/VB2/Room 0x01E2"
                     },
                     {
                         "name": "Normal Exit",
@@ -318,6 +440,22 @@
                     {
                         "name": "Secret Exit",
                         "ref": "Exits/VB2/Secret Exit"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/VB2/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/VB2/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/VB2/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/VB2/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",
@@ -349,7 +487,7 @@
                 "sections": [
                     {
                         "name": "Rising rocks room",
-                        "ref": "Rooms/VB2/0x01E2"
+                        "ref": "Rooms/VB2/Room 0x01E2"
                     },
                     {
                         "name": "Normal Exit",
@@ -371,6 +509,22 @@
             {
                 "name": "Valley of Bowser 2 - Transition to Yoshi wings room",
                 "sections": [
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/VB2/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/VB2/Dragon Coin #5"
+                    },
+                    {
+                        "name": "Dragon Coin #6",
+                        "ref": "Dragon Coins/VB2/Dragon Coin #6"
+                    },
+                    {
+                        "name": "Dragon Coin #7",
+                        "ref": "Dragon Coins/VB2/Dragon Coin #7"
+                    },
                     {
                         "name": "Dragon Coins",
                         "ref": "Dragon Coins/VB2/Dragon Coins"

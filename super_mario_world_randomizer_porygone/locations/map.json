@@ -12,15 +12,35 @@
                     },
                     {
                         "name": "Main room",
-                        "ref": "Rooms/YI1/0x0105"
+                        "ref": "Rooms/YI1/Room 0x0105"
                     },
                     {
                         "name": "Dragon coin room",
-                        "ref": "Rooms/YI1/0x01CB"
+                        "ref": "Rooms/YI1/Room 0x01CB"
                     },
                     {
                         "name": "Midway Point",
                         "ref": "Midways/YI1/Midway Point"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/YI1/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/YI1/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/YI1/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/YI1/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/YI1/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",
@@ -65,15 +85,35 @@
                     },
                     {
                         "name": "Main room",
-                        "ref": "Rooms/YI2/0x0106"
+                        "ref": "Rooms/YI2/Room 0x0106"
                     },
                     {
                         "name": "Flying block room",
-                        "ref": "Rooms/YI2/0x01CA"
+                        "ref": "Rooms/YI2/Room 0x01CA"
                     },
                     {
                         "name": "Midway Point",
                         "ref": "Midways/YI2/Midway Point"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/YI2/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/YI2/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/YI2/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/YI2/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/YI2/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",
@@ -162,15 +202,35 @@
                     },
                     {
                         "name": "Main room",
-                        "ref": "Rooms/YI3/0x0103"
+                        "ref": "Rooms/YI3/Room 0x0103"
                     },
                     {
                         "name": "Lava room",
-                        "ref": "Rooms/YI3/0x01FD"
+                        "ref": "Rooms/YI3/Room 0x01FD"
                     },
                     {
                         "name": "Midway Point",
                         "ref": "Midways/YI3/Midway Point"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/YI3/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/YI3/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/YI3/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/YI3/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/YI3/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",
@@ -559,15 +619,35 @@
                     },
                     {
                         "name": "Main room",
-                        "ref": "Rooms/YI4/0x0102"
+                        "ref": "Rooms/YI4/Room 0x0102"
                     },
                     {
                         "name": "Pokey room",
-                        "ref": "Rooms/YI4/0x01BE"
+                        "ref": "Rooms/YI4/Room 0x01BE"
                     },
                     {
                         "name": "Goal room",
-                        "ref": "Rooms/YI4/0x01FF"
+                        "ref": "Rooms/YI4/Room 0x01FF"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/YI4/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/YI4/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/YI4/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/YI4/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/YI4/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",
@@ -612,11 +692,11 @@
                     },
                     {
                         "name": "Net room",
-                        "ref": "Rooms/YIC/0x0101"
+                        "ref": "Rooms/YIC/Room 0x0101"
                     },
                     {
                         "name": "Smashers room",
-                        "ref": "Rooms/YIC/0x01FC"
+                        "ref": "Rooms/YIC/Room 0x01FC"
                     },
                     {
                         "name": "Midway Point",
@@ -665,11 +745,11 @@
                     },
                     {
                         "name": "Bonus room",
-                        "ref": "Rooms/YSP/0x0014"
+                        "ref": "Rooms/YSP/Room 0x0014"
                     },
                     {
                         "name": "Button room",
-                        "ref": "Rooms/YSP/0x00CA"
+                        "ref": "Rooms/YSP/Room 0x00CA"
                     }
                 ],
                 "map_locations": [
@@ -694,19 +774,39 @@
                     },
                     {
                         "name": "Main room",
-                        "ref": "Rooms/DP1/0x0015"
+                        "ref": "Rooms/DP1/Room 0x0015"
                     },
                     {
                         "name": "Flying room",
-                        "ref": "Rooms/DP1/0x00E3"
+                        "ref": "Rooms/DP1/Room 0x00E3"
                     },
                     {
                         "name": "Bonus room",
-                        "ref": "Rooms/DP1/0x00FD"
+                        "ref": "Rooms/DP1/Room 0x00FD"
                     },
                     {
                         "name": "Midway Point",
                         "ref": "Midways/DP1/Midway Point"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/DP1/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/DP1/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/DP1/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/DP1/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/DP1/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",
@@ -831,15 +931,35 @@
                     },
                     {
                         "name": "Main room",
-                        "ref": "Rooms/DP2/0x0009"
+                        "ref": "Rooms/DP2/Room 0x0009"
                     },
                     {
                         "name": "Keyhole room",
-                        "ref": "Rooms/DP2/0x00E9"
+                        "ref": "Rooms/DP2/Room 0x00E9"
                     },
                     {
                         "name": "Goal room",
-                        "ref": "Rooms/DP2/0x00FF"
+                        "ref": "Rooms/DP2/Room 0x00FF"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/DP2/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/DP2/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/DP2/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/DP2/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/DP2/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",
@@ -904,15 +1024,35 @@
                     },
                     {
                         "name": "Main room",
-                        "ref": "Rooms/DP3/0x0005"
+                        "ref": "Rooms/DP3/Room 0x0005"
                     },
                     {
                         "name": "Bonus room",
-                        "ref": "Rooms/DP3/0x00F4"
+                        "ref": "Rooms/DP3/Room 0x00F4"
                     },
                     {
                         "name": "Midway Point",
                         "ref": "Midways/DP3/Midway Point"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/DP3/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/DP3/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/DP3/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/DP3/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/DP3/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",
@@ -961,19 +1101,39 @@
                     },
                     {
                         "name": "Main room",
-                        "ref": "Rooms/DP4/0x0006"
+                        "ref": "Rooms/DP4/Room 0x0006"
                     },
                     {
                         "name": "Pipes room",
-                        "ref": "Rooms/DP4/0x00C3"
+                        "ref": "Rooms/DP4/Room 0x00C3"
                     },
                     {
                         "name": "Dragon coin room",
-                        "ref": "Rooms/DP4/0x00D2"
+                        "ref": "Rooms/DP4/Room 0x00D2"
                     },
                     {
                         "name": "Midway Point",
                         "ref": "Midways/DP4/Midway Point"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/DP4/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/DP4/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/DP4/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/DP4/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/DP4/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",
@@ -1026,11 +1186,39 @@
                     },
                     {
                         "name": "Main room",
-                        "ref": "Rooms/DS1/0x000A"
+                        "ref": "Rooms/DS1/Room 0x000A"
                     },
                     {
                         "name": "P-Balloon room",
-                        "ref": "Rooms/DS1/0x00C2"
+                        "ref": "Rooms/DS1/Room 0x00C2"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/DS1/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/DS1/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/DS1/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/DS1/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/DS1/Dragon Coin #5"
+                    },
+                    {
+                        "name": "Dragon Coin #6",
+                        "ref": "Dragon Coins/DS1/Dragon Coin #6"
+                    },
+                    {
+                        "name": "Dragon Coin #7",
+                        "ref": "Dragon Coins/DS1/Dragon Coin #7"
                     },
                     {
                         "name": "Dragon Coins",
@@ -1095,11 +1283,31 @@
                     },
                     {
                         "name": "Main room",
-                        "ref": "Rooms/DS2/0x010B"
+                        "ref": "Rooms/DS2/Room 0x010B"
                     },
                     {
                         "name": "P-Balloon room",
-                        "ref": "Rooms/DS2/0x01C6"
+                        "ref": "Rooms/DS2/Room 0x01C6"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/DS2/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/DS2/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/DS2/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/DS2/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/DS2/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",
@@ -1148,27 +1356,27 @@
                     },
                     {
                         "name": "Ghost ceiling room",
-                        "ref": "Rooms/DGH/0x0004"
+                        "ref": "Rooms/DGH/Room 0x0004"
                     },
                     {
                         "name": "Stairs room #1",
-                        "ref": "Rooms/DGH/0x00F9"
+                        "ref": "Rooms/DGH/Room 0x00F9"
                     },
                     {
                         "name": "Stairs room #2",
-                        "ref": "Rooms/DGH/0x00FE"
+                        "ref": "Rooms/DGH/Room 0x00FE"
                     },
                     {
                         "name": "Directional coin room",
-                        "ref": "Rooms/DGH/0x00FA"
+                        "ref": "Rooms/DGH/Room 0x00FA"
                     },
                     {
                         "name": "Secret goal room",
-                        "ref": "Rooms/DGH/0x00EB"
+                        "ref": "Rooms/DGH/Room 0x00EB"
                     },
                     {
                         "name": "Normal goal room",
-                        "ref": "Rooms/DGH/0x00C4"
+                        "ref": "Rooms/DGH/Room 0x00C4"
                     },
                     {
                         "name": "Vine|P-Switch Block #1",
@@ -1217,23 +1425,23 @@
                     },
                     {
                         "name": "Big boo room",
-                        "ref": "Rooms/DSH/0x0007"
+                        "ref": "Rooms/DSH/Room 0x0007"
                     },
                     {
                         "name": "Puzzle room",
-                        "ref": "Rooms/DSH/0x00E8"
+                        "ref": "Rooms/DSH/Room 0x00E8"
                     },
                     {
                         "name": "Goal room",
-                        "ref": "Rooms/DSH/0x00E7"
+                        "ref": "Rooms/DSH/Room 0x00E7"
                     },
                     {
                         "name": "Directional coin room",
-                        "ref": "Rooms/DSH/0x00E5"
+                        "ref": "Rooms/DSH/Room 0x00E5"
                     },
                     {
                         "name": "Boss room",
-                        "ref": "Rooms/DSH/0x00E6"
+                        "ref": "Rooms/DSH/Room 0x00E6"
                     },
                     {
                         "name": "Powerup Block #1",
@@ -1274,19 +1482,19 @@
                     },
                     {
                         "name": "Stairs room",
-                        "ref": "Rooms/DPC/0x0007"
+                        "ref": "Rooms/DPC/Room 0x0007"
                     },
                     {
                         "name": "Thwomp room",
-                        "ref": "Rooms/DPC/0x00E8"
+                        "ref": "Rooms/DPC/Room 0x00E8"
                     },
                     {
                         "name": "Moving stones room",
-                        "ref": "Rooms/DPC/0x00E7"
+                        "ref": "Rooms/DPC/Room 0x00E7"
                     },
                     {
                         "name": "Bonus room",
-                        "ref": "Rooms/DPC/0x00E6"
+                        "ref": "Rooms/DPC/Room 0x00E6"
                     },
                     {
                         "name": "Hidden 1-Up",
@@ -1347,15 +1555,15 @@
                 "sections": [
                     {
                         "name": "Normal Exit",
-                        "ref": "Exits/BSP/Normal Exit"
+                        "ref": "Exits/GSP/Normal Exit"
                     },
                     {
                         "name": "Bonus room",
-                        "ref": "Rooms/BSP/0x0008"
+                        "ref": "Rooms/GSP/Room 0x0008"
                     },
                     {
                         "name": "Button room",
-                        "ref": "Rooms/BSP/0x00C9"
+                        "ref": "Rooms/GSP/Room 0x00C9"
                     }
                 ],
                 "map_locations": [
@@ -1380,15 +1588,35 @@
                     },
                     {
                         "name": "Main room",
-                        "ref": "Rooms/VD1/0x011A"
+                        "ref": "Rooms/VD1/Room 0x011A"
                     },
                     {
                         "name": "Sinking rock room",
-                        "ref": "Rooms/VD1/0x01EF"
+                        "ref": "Rooms/VD1/Room 0x01EF"
                     },
                     {
                         "name": "Midway Point",
                         "ref": "Midways/VD1/Midway Point"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/VD1/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/VD1/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/VD1/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/VD1/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/VD1/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",
@@ -1457,15 +1685,35 @@
                     },
                     {
                         "name": "Main room",
-                        "ref": "Rooms/VD2/0x0118"
+                        "ref": "Rooms/VD2/Room 0x0118"
                     },
                     {
                         "name": "Ice cave room",
-                        "ref": "Rooms/VD2/0x01C3"
+                        "ref": "Rooms/VD2/Room 0x01C3"
                     },
                     {
                         "name": "Midway Point",
                         "ref": "Midways/VD2/Midway Point"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/VD2/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/VD2/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/VD2/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/VD2/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/VD2/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",
@@ -1546,19 +1794,43 @@
                     },
                     {
                         "name": "Main room",
-                        "ref": "Rooms/VD3/0x010A"
+                        "ref": "Rooms/VD3/Room 0x010A"
                     },
                     {
                         "name": "Ice cave room",
-                        "ref": "Rooms/VD3/0x01C2"
+                        "ref": "Rooms/VD3/Room 0x01C2"
                     },
                     {
                         "name": "Bonus room",
-                        "ref": "Rooms/VD3/0x01F7"
+                        "ref": "Rooms/VD3/Room 0x01F7"
                     },
                     {
                         "name": "Midway Point",
                         "ref": "Midways/VD3/Midway Point"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/VD3/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/VD3/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/VD3/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/VD3/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/VD3/Dragon Coin #5"
+                    },
+                    {
+                        "name": "Dragon Coin #6",
+                        "ref": "Dragon Coins/VD3/Dragon Coin #6"
                     },
                     {
                         "name": "Dragon Coins",
@@ -1655,15 +1927,35 @@
                     },
                     {
                         "name": "Main room",
-                        "ref": "Rooms/VD4/0x0119"
+                        "ref": "Rooms/VD4/Room 0x0119"
                     },
                     {
                         "name": "Lava room",
-                        "ref": "Rooms/VD4/0x01F5"
+                        "ref": "Rooms/VD4/Room 0x01F5"
                     },
                     {
                         "name": "Midway Point",
                         "ref": "Midways/VD4/Midway Point"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/VD4/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/VD4/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/VD4/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/VD4/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/VD4/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",
@@ -1740,15 +2032,35 @@
                     },
                     {
                         "name": "Main room",
-                        "ref": "Rooms/VS1/0x0109"
+                        "ref": "Rooms/VS1/Room 0x0109"
                     },
                     {
                         "name": "Secret goal room",
-                        "ref": "Rooms/VS1/0x01F0"
+                        "ref": "Rooms/VS1/Room 0x01F0"
                     },
                     {
                         "name": "Normal goal room",
-                        "ref": "Rooms/VS1/0x01F1"
+                        "ref": "Rooms/VS1/Room 0x01F1"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/VS1/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/VS1/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/VS1/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/VS1/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/VS1/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",
@@ -1805,15 +2117,35 @@
                     },
                     {
                         "name": "Main room",
-                        "ref": "Rooms/VS2/0x0001"
+                        "ref": "Rooms/VS2/Room 0x0001"
                     },
                     {
                         "name": "Lava room",
-                        "ref": "Rooms/VS2/0x00D8"
+                        "ref": "Rooms/VS2/Room 0x00D8"
                     },
                     {
                         "name": "Midway Point",
                         "ref": "Midways/VS2/Midway Point"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/VS2/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/VS2/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/VS2/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/VS2/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/VS2/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",
@@ -1886,15 +2218,35 @@
                     },
                     {
                         "name": "Main room",
-                        "ref": "Rooms/VS3/0x0002"
+                        "ref": "Rooms/VS3/Room 0x0002"
                     },
                     {
                         "name": "Goal room",
-                        "ref": "Rooms/VS3/0x00CB"
+                        "ref": "Rooms/VS3/Room 0x00CB"
                     },
                     {
                         "name": "Midway Point",
                         "ref": "Midways/VS3/Midway Point"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/VS3/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/VS3/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/VS3/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/VS3/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/VS3/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",
@@ -1927,15 +2279,35 @@
                     },
                     {
                         "name": "Main room",
-                        "ref": "Rooms/VDH/0x0107"
+                        "ref": "Rooms/VDH/Room 0x0107"
                     },
                     {
                         "name": "Gas bubbles room",
-                        "ref": "Rooms/VDH/0x01EA"
+                        "ref": "Rooms/VDH/Room 0x01EA"
                     },
                     {
                         "name": "Goal room",
-                        "ref": "Rooms/VDH/0x01F9"
+                        "ref": "Rooms/VDH/Room 0x01F9"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/VDH/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/VDH/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/VDH/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/VDH/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/VDH/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",
@@ -1984,11 +2356,11 @@
                     },
                     {
                         "name": "Spikes room",
-                        "ref": "Rooms/VDF/0x000B"
+                        "ref": "Rooms/VDF/Room 0x000B"
                     },
                     {
                         "name": "Thwomp room",
-                        "ref": "Rooms/VDF/0x10E0"
+                        "ref": "Rooms/VDF/Room 0x10E0"
                     },
                     {
                         "name": "Hidden 1-Up",
@@ -2025,15 +2397,15 @@
                     },
                     {
                         "name": "Main room",
-                        "ref": "Rooms/VDC/0x011C"
+                        "ref": "Rooms/VDC/Room 0x011C"
                     },
                     {
                         "name": "Midway point room",
-                        "ref": "Rooms/VDC/0x01F4"
+                        "ref": "Rooms/VDC/Room 0x01F4"
                     },
                     {
                         "name": "Lava room",
-                        "ref": "Rooms/VDC/0x01F3"
+                        "ref": "Rooms/VDC/Room 0x01F3"
                     },
                     {
                         "name": "Midway Point",
@@ -2078,11 +2450,11 @@
                     },
                     {
                         "name": "Bonus room",
-                        "ref": "Rooms/RSP/0x011B"
+                        "ref": "Rooms/RSP/Room 0x011B"
                     },
                     {
                         "name": "Button room",
-                        "ref": "Rooms/RSP/0x01D8"
+                        "ref": "Rooms/RSP/Room 0x01D8"
                     }
                 ],
                 "map_locations": [
@@ -2103,11 +2475,31 @@
                     },
                     {
                         "name": "Main room",
-                        "ref": "Rooms/BB1/0x000C"
+                        "ref": "Rooms/BB1/Room 0x000C"
                     },
                     {
                         "name": "Goal room",
-                        "ref": "Rooms/BB1/0x00F3"
+                        "ref": "Rooms/BB1/Room 0x00F3"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/BB1/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/BB1/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/BB1/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/BB1/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/BB1/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",
@@ -2156,15 +2548,35 @@
                     },
                     {
                         "name": "Main room",
-                        "ref": "Rooms/BB2/0x000D"
+                        "ref": "Rooms/BB2/Room 0x000D"
                     },
                     {
                         "name": "Dragon coin room",
-                        "ref": "Rooms/BB2/0x00DD"
+                        "ref": "Rooms/BB2/Room 0x00DD"
                     },
                     {
                         "name": "Midway Point",
                         "ref": "Midways/BB2/Midway Point"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/BB2/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/BB2/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/BB2/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/BB2/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/BB2/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",
@@ -2205,19 +2617,59 @@
                     },
                     {
                         "name": "Main room",
-                        "ref": "Rooms/CBA/0x000F"
+                        "ref": "Rooms/CBA/Room 0x000F"
                     },
                     {
                         "name": "Yoshi wings room",
-                        "ref": "Rooms/CBA/0x20C8"
+                        "ref": "Rooms/CBA/Room 0x20C8"
                     },
                     {
                         "name": "Moving platforms room",
-                        "ref": "Rooms/CBA/0x00BF"
+                        "ref": "Rooms/CBA/Room 0x00BF"
                     },
                     {
                         "name": "Midway Point",
                         "ref": "Midways/CBA/Midway Point"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/CBA/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/CBA/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/CBA/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/CBA/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/CBA/Dragon Coin #5"
+                    },
+                    {
+                        "name": "Dragon Coin #6",
+                        "ref": "Dragon Coins/CBA/Dragon Coin #6"
+                    },
+                    {
+                        "name": "Dragon Coin #7",
+                        "ref": "Dragon Coins/CBA/Dragon Coin #7"
+                    },
+                    {
+                        "name": "Dragon Coin #8",
+                        "ref": "Dragon Coins/CBA/Dragon Coin #8"
+                    },
+                    {
+                        "name": "Dragon Coin #9",
+                        "ref": "Dragon Coins/CBA/Dragon Coin #9"
+                    },
+                    {
+                        "name": "Dragon Coin #10",
+                        "ref": "Dragon Coins/CBA/Dragon Coin #10"
                     },
                     {
                         "name": "Dragon Coins",
@@ -2262,15 +2714,35 @@
                     },
                     {
                         "name": "Main room",
-                        "ref": "Rooms/COM/0x0010"
+                        "ref": "Rooms/COM/Room 0x0010"
                     },
                     {
                         "name": "River room",
-                        "ref": "Rooms/COM/0x00C1"
+                        "ref": "Rooms/COM/Room 0x00C1"
                     },
                     {
                         "name": "Midway Point",
                         "ref": "Midways/COM/Midway Point"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/COM/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/COM/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/COM/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/COM/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/COM/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",
@@ -2439,11 +2911,31 @@
                     },
                     {
                         "name": "Main room",
-                        "ref": "Rooms/SOL/0x0011"
+                        "ref": "Rooms/SOL/Room 0x0011"
                     },
                     {
                         "name": "Goal room",
-                        "ref": "Rooms/SOL/0x00C6"
+                        "ref": "Rooms/SOL/Room 0x00C6"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/SOL/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/SOL/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/SOL/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/SOL/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/SOL/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",
@@ -2472,19 +2964,19 @@
                     },
                     {
                         "name": "Orange wall room",
-                        "ref": "Rooms/TWC/0x000E"
+                        "ref": "Rooms/TWC/Room 0x000E"
                     },
                     {
                         "name": "Falling ceiling room",
-                        "ref": "Rooms/TWC/0x00DC"
+                        "ref": "Rooms/TWC/Room 0x00DC"
                     },
                     {
                         "name": "Net room",
-                        "ref": "Rooms/TWC/0x00DB"
+                        "ref": "Rooms/TWC/Room 0x00DB"
                     },
                     {
                         "name": "Bonus room",
-                        "ref": "Rooms/TWC/0x00DA"
+                        "ref": "Rooms/TWC/Room 0x00DA"
                     },
                     {
                         "name": "Powerup Block #1",
@@ -2513,7 +3005,7 @@
                     },
                     {
                         "name": "Main room",
-                        "ref": "Rooms/FI1/0x011E"
+                        "ref": "Rooms/FI1/Room 0x011E"
                     },
                     {
                         "name": "Midway Point",
@@ -2562,7 +3054,27 @@
                     },
                     {
                         "name": "Main room",
-                        "ref": "Rooms/FI2/0x0120"
+                        "ref": "Rooms/FI2/Room 0x0120"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/FI2/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/FI2/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/FI2/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/FI2/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/FI2/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",
@@ -2619,19 +3131,39 @@
                     },
                     {
                         "name": "Main room",
-                        "ref": "Rooms/FI3/0x0123"
+                        "ref": "Rooms/FI3/Room 0x0123"
                     },
                     {
                         "name": "Keyhole room",
-                        "ref": "Rooms/FI3/0x01F8"
+                        "ref": "Rooms/FI3/Room 0x01F8"
                     },
                     {
                         "name": "Bonus room",
-                        "ref": "Rooms/FI3/0x01BC"
+                        "ref": "Rooms/FI3/Room 0x01BC"
                     },
                     {
                         "name": "Midway Point",
                         "ref": "Midways/FI3/Midway Point"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/FI3/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/FI3/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/FI3/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/FI3/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/FI3/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",
@@ -2772,19 +3304,39 @@
                     },
                     {
                         "name": "Main room",
-                        "ref": "Rooms/FI4/0x011F"
+                        "ref": "Rooms/FI4/Room 0x011F"
                     },
                     {
                         "name": "Keyhole room",
-                        "ref": "Rooms/FI4/0x01DF"
+                        "ref": "Rooms/FI4/Room 0x01DF"
                     },
                     {
                         "name": "Blurp room",
-                        "ref": "Rooms/FI4/0x01C1"
+                        "ref": "Rooms/FI4/Room 0x01C1"
                     },
                     {
                         "name": "Midway Point",
                         "ref": "Midways/FI4/Midway Point"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/FI4/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/FI4/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/FI4/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/FI4/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/FI4/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",
@@ -2865,19 +3417,39 @@
                     },
                     {
                         "name": "Main room",
-                        "ref": "Rooms/FGH/0x011D"
+                        "ref": "Rooms/FGH/Room 0x011D"
                     },
                     {
                         "name": "Ghost ceiling room",
-                        "ref": "Rooms/FGH/0x01FA"
+                        "ref": "Rooms/FGH/Room 0x01FA"
                     },
                     {
                         "name": "Normal goal room",
-                        "ref": "Rooms/FGH/0x01E7"
+                        "ref": "Rooms/FGH/Room 0x01E7"
                     },
                     {
                         "name": "Secret goal room",
-                        "ref": "Rooms/FGH/0x01E6"
+                        "ref": "Rooms/FGH/Room 0x01E6"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/FGH/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/FGH/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/FGH/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/FGH/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/FGH/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",
@@ -2926,7 +3498,27 @@
                     },
                     {
                         "name": "Main room",
-                        "ref": "Rooms/FSA/0x0122"
+                        "ref": "Rooms/FSA/Room 0x0122"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/FSA/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/FSA/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/FSA/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/FSA/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/FSA/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",
@@ -2963,11 +3555,11 @@
                     },
                     {
                         "name": "Smashers room",
-                        "ref": "Rooms/FIF/0x001F"
+                        "ref": "Rooms/FIF/Room 0x001F"
                     },
                     {
                         "name": "Lava pool room",
-                        "ref": "Rooms/FIF/0x00D6"
+                        "ref": "Rooms/FIF/Room 0x00D6"
                     },
                     {
                         "name": "Yellow Switch Palace Block #1",
@@ -3032,7 +3624,27 @@
                     },
                     {
                         "name": "Main room",
-                        "ref": "Rooms/FIC/0x0020"
+                        "ref": "Rooms/FIC/Room 0x0020"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/FIC/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/FIC/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/FIC/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/FIC/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/FIC/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",
@@ -3061,11 +3673,11 @@
                     },
                     {
                         "name": "Bonus room",
-                        "ref": "Rooms/BSP/0x0121"
+                        "ref": "Rooms/BSP/Room 0x0121"
                     },
                     {
                         "name": "Button room",
-                        "ref": "Rooms/BSP/0x01D7"
+                        "ref": "Rooms/BSP/Room 0x01D7"
                     }
                 ],
                 "map_locations": [
@@ -3082,51 +3694,71 @@
                 "sections": [
                     {
                         "name": "Normal Exit",
-                        "ref": "Exits/CI3/Normal Exit"
+                        "ref": "Exits/CI1/Normal Exit"
                     },
                     {
                         "name": "Main room",
-                        "ref": "Rooms/CI3/0x0022"
+                        "ref": "Rooms/CI1/Room 0x0022"
                     },
                     {
                         "name": "Copy of main room",
-                        "ref": "Rooms/CI3/0x0022"
+                        "ref": "Rooms/CI1/Room 0x0022"
                     },
                     {
                         "name": "Porcupuffer room",
-                        "ref": "Rooms/CI3/0x00BE"
+                        "ref": "Rooms/CI1/Room 0x00BE"
                     },
                     {
                         "name": "Midway Point",
-                        "ref": "Midways/CI3/Midway Point"
+                        "ref": "Midways/CI1/Midway Point"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/CI1/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/CI1/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/CI1/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/CI1/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/CI1/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",
-                        "ref": "Dragon Coins/CI3/Dragon Coins"
+                        "ref": "Dragon Coins/CI1/Dragon Coins"
                     },
                     {
                         "name": "3-Up Moon",
-                        "ref": "Moons/CI3/3-Up Moon"
+                        "ref": "Moons/CI1/3-Up Moon"
                     },
                     {
                         "name": "Flying Question Block #1",
-                        "ref": "Blocks/CI3/Flying Question Block #1"
+                        "ref": "Blocks/CI1/Flying Question Block #1"
                     },
                     {
                         "name": "Flying Question Block #2",
-                        "ref": "Blocks/CI3/Flying Question Block #2"
+                        "ref": "Blocks/CI1/Flying Question Block #2"
                     },
                     {
                         "name": "Yoshi Block #1",
-                        "ref": "Blocks/CI3/Yoshi Block #1"
+                        "ref": "Blocks/CI1/Yoshi Block #1"
                     },
                     {
                         "name": "Green|Yellow Switch Palace Block #1",
-                        "ref": "Blocks/CI3/Green|Yellow Switch Palace Block #1"
+                        "ref": "Blocks/CI1/Green|Yellow Switch Palace Block #1"
                     },
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "ref": "Blocks/CI3/1-Up Mushroom Block #1"
+                        "ref": "Blocks/CI1/1-Up Mushroom Block #1"
                     }
                 ],
                 "map_locations": [
@@ -3151,19 +3783,47 @@
                     },
                     {
                         "name": "Main room",
-                        "ref": "Rooms/CI2/0x0024"
+                        "ref": "Rooms/CI2/Room 0x0024"
                     },
                     {
                         "name": "Group A rooms",
-                        "ref": "Rooms/CI2/0x00CF"
+                        "ref": "Rooms/CI2/Room 0x00CF"
                     },
                     {
                         "name": "Group B rooms",
-                        "ref": "Rooms/CI2/0x00CE"
+                        "ref": "Rooms/CI2/Room 0x00CE"
                     },
                     {
                         "name": "Group C rooms",
-                        "ref": "Rooms/CI2/0x00CD"
+                        "ref": "Rooms/CI2/Room 0x00CD"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/CI2/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/CI2/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/CI2/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/CI2/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/CI2/Dragon Coin #5"
+                    },
+                    {
+                        "name": "Dragon Coin #6",
+                        "ref": "Dragon Coins/CI2/Dragon Coin #6"
+                    },
+                    {
+                        "name": "Dragon Coin #7",
+                        "ref": "Dragon Coins/CI2/Dragon Coin #7"
                     },
                     {
                         "name": "Dragon Coins",
@@ -3260,15 +3920,35 @@
                     },
                     {
                         "name": "Main room",
-                        "ref": "Rooms/CI3/0x0023"
+                        "ref": "Rooms/CI3/Room 0x0023"
                     },
                     {
                         "name": "Coin room",
-                        "ref": "Rooms/CI3/0x00D7"
+                        "ref": "Rooms/CI3/Room 0x00D7"
                     },
                     {
                         "name": "Midway Point",
                         "ref": "Midways/CI3/Midway Point"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/CI3/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/CI3/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/CI3/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/CI3/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/CI3/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",
@@ -3329,11 +4009,31 @@
                     },
                     {
                         "name": "Main room",
-                        "ref": "Rooms/CI4/0x001D"
+                        "ref": "Rooms/CI4/Room 0x001D"
                     },
                     {
                         "name": "Vertical bonus room",
-                        "ref": "Rooms/CI4/0x00EA"
+                        "ref": "Rooms/CI4/Room 0x00EA"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/CI4/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/CI4/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/CI4/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/CI4/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/CI4/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",
@@ -3370,19 +4070,47 @@
                     },
                     {
                         "name": "Main room",
-                        "ref": "Rooms/CI5/0x001C"
+                        "ref": "Rooms/CI5/Room 0x001C"
                     },
                     {
                         "name": "Bubbles room",
-                        "ref": "Rooms/CI5/0x00C0"
+                        "ref": "Rooms/CI5/Room 0x00C0"
                     },
                     {
                         "name": "Bonus room",
-                        "ref": "Rooms/CI5/0x00BD"
+                        "ref": "Rooms/CI5/Room 0x00BD"
                     },
                     {
                         "name": "Midway Point",
                         "ref": "Midways/CI5/Midway Point"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/CI5/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/CI5/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/CI5/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/CI5/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/CI5/Dragon Coin #5"
+                    },
+                    {
+                        "name": "Dragon Coin #6",
+                        "ref": "Dragon Coins/CI5/Dragon Coin #6"
+                    },
+                    {
+                        "name": "Dragon Coin #7",
+                        "ref": "Dragon Coins/CI5/Dragon Coin #7"
                     },
                     {
                         "name": "Dragon Coins",
@@ -3423,15 +4151,15 @@
                     },
                     {
                         "name": "Fishing boo room",
-                        "ref": "Rooms/CGH/0x0021"
+                        "ref": "Rooms/CGH/Room 0x0021"
                     },
                     {
                         "name": "Boo stream room",
-                        "ref": "Rooms/CGH/0x00FC"
+                        "ref": "Rooms/CGH/Room 0x00FC"
                     },
                     {
                         "name": "Goal room",
-                        "ref": "Rooms/CGH/0x00FB"
+                        "ref": "Rooms/CGH/Room 0x00FB"
                     },
                     {
                         "name": "Powerup Block #1",
@@ -3464,23 +4192,23 @@
                     },
                     {
                         "name": "Chuck room",
-                        "ref": "Rooms/CSA/0x0117"
+                        "ref": "Rooms/CSA/Room 0x0117"
                     },
                     {
                         "name": "Hammer bro room",
-                        "ref": "Rooms/CSA/0x01C0"
+                        "ref": "Rooms/CSA/Room 0x01C0"
                     },
                     {
                         "name": "Sliding room",
-                        "ref": "Rooms/CSA/0x01ED"
+                        "ref": "Rooms/CSA/Room 0x01ED"
                     },
                     {
                         "name": "Sinking rocks room",
-                        "ref": "Rooms/CSA/0x01EC"
+                        "ref": "Rooms/CSA/Room 0x01EC"
                     },
                     {
                         "name": "Goal room",
-                        "ref": "Rooms/CSA/0x01EE"
+                        "ref": "Rooms/CSA/Room 0x01EE"
                     },
                     {
                         "name": "Midway Point",
@@ -3513,11 +4241,11 @@
                     },
                     {
                         "name": "Wooden spike room",
-                        "ref": "Rooms/CIF/0x001B"
+                        "ref": "Rooms/CIF/Room 0x001B"
                     },
                     {
                         "name": "Thwomp room",
-                        "ref": "Rooms/CIF/0x00EF"
+                        "ref": "Rooms/CIF/Room 0x00EF"
                     },
                     {
                         "name": "Midway Point",
@@ -3562,11 +4290,11 @@
                     },
                     {
                         "name": "Spikes room",
-                        "ref": "Rooms/CIC/0x001A"
+                        "ref": "Rooms/CIC/Room 0x001A"
                     },
                     {
                         "name": "Hothead room",
-                        "ref": "Rooms/CIC/0x00D4"
+                        "ref": "Rooms/CIC/Room 0x00D4"
                     },
                     {
                         "name": "Midway Point",
@@ -3607,15 +4335,35 @@
                     },
                     {
                         "name": "Ship entrance",
-                        "ref": "Rooms/SGS/0x0018"
+                        "ref": "Rooms/SGS/Room 0x0018"
                     },
                     {
                         "name": "Reappearing ghosts",
-                        "ref": "Rooms/SGS/0x00F8"
+                        "ref": "Rooms/SGS/Room 0x00F8"
                     },
                     {
                         "name": "Falling room",
-                        "ref": "Rooms/SGS/0x00F7"
+                        "ref": "Rooms/SGS/Room 0x00F7"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/SGS/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/SGS/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/SGS/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/SGS/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/SGS/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",
@@ -3648,19 +4396,39 @@
                     },
                     {
                         "name": "Main room",
-                        "ref": "Rooms/VB1/0x0116"
+                        "ref": "Rooms/VB1/Room 0x0116"
                     },
                     {
                         "name": "Goal room",
-                        "ref": "Rooms/VB1/0x01E5"
+                        "ref": "Rooms/VB1/Room 0x01E5"
                     },
                     {
                         "name": "Bonus room",
-                        "ref": "Rooms/VB1/0x01E4"
+                        "ref": "Rooms/VB1/Room 0x01E4"
                     },
                     {
                         "name": "Midway Point",
                         "ref": "Midways/VB1/Midway Point"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/VB1/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/VB1/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/VB1/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/VB1/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/VB1/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",
@@ -3729,19 +4497,47 @@
                     },
                     {
                         "name": "Main room",
-                        "ref": "Rooms/VB2/0x0115"
+                        "ref": "Rooms/VB2/Room 0x0115"
                     },
                     {
                         "name": "Moving rocks room",
-                        "ref": "Rooms/VB2/0x01E3"
+                        "ref": "Rooms/VB2/Room 0x01E3"
                     },
                     {
                         "name": "Rising rocks room",
-                        "ref": "Rooms/VB2/0x01E2"
+                        "ref": "Rooms/VB2/Room 0x01E2"
                     },
                     {
                         "name": "Midway Point",
                         "ref": "Midways/VB2/Midway Point"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/VB2/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/VB2/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/VB2/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/VB2/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/VB2/Dragon Coin #5"
+                    },
+                    {
+                        "name": "Dragon Coin #6",
+                        "ref": "Dragon Coins/CI5/Dragon Coin #6"
+                    },
+                    {
+                        "name": "Dragon Coin #7",
+                        "ref": "Dragon Coins/CI5/Dragon Coin #7"
                     },
                     {
                         "name": "Dragon Coins",
@@ -3786,15 +4582,35 @@
                     },
                     {
                         "name": "Main room",
-                        "ref": "Rooms/VB3/0x0113"
+                        "ref": "Rooms/VB3/Room 0x0113"
                     },
                     {
                         "name": "Bonus room",
-                        "ref": "Rooms/VB3/0x01BB"
+                        "ref": "Rooms/VB3/Room 0x01BB"
                     },
                     {
                         "name": "Midway Point",
                         "ref": "Midways/VB3/Midway Point"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/VB3/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/VB3/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/VB3/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/VB3/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/VB3/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",
@@ -3831,11 +4647,11 @@
                     },
                     {
                         "name": "Main room",
-                        "ref": "Rooms/VB4/0x010F"
+                        "ref": "Rooms/VB4/Room 0x010F"
                     },
                     {
                         "name": "Ice cave room",
-                        "ref": "Rooms/VB4/0x01BF"
+                        "ref": "Rooms/VB4/Room 0x01BF"
                     },
                     {
                         "name": "Midway Point",
@@ -3888,19 +4704,43 @@
                     },
                     {
                         "name": "Main room",
-                        "ref": "Rooms/VBH/0x0114"
+                        "ref": "Rooms/VBH/Room 0x0114"
                     },
                     {
                         "name": "P-Switch room",
-                        "ref": "Rooms/VBH/0x01DD"
+                        "ref": "Rooms/VBH/Room 0x01DD"
                     },
                     {
                         "name": "Directional coin room",
-                        "ref": "Rooms/VBH/0x11DB"
+                        "ref": "Rooms/VBH/Room 0x11DB"
                     },
                     {
                         "name": "Goal room",
-                        "ref": "Rooms/VBH/0x01DA"
+                        "ref": "Rooms/VBH/Room 0x01DA"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/VBH/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/VBH/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/VBH/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/VBH/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/VBH/Dragon Coin #5"
+                    },
+                    {
+                        "name": "Dragon Coin #6",
+                        "ref": "Dragon Coins/CI5/Dragon Coin #6"
                     },
                     {
                         "name": "Dragon Coins",
@@ -3941,7 +4781,7 @@
                     },
                     {
                         "name": "Main room",
-                        "ref": "Rooms/VBF/0x0111"
+                        "ref": "Rooms/VBF/Room 0x0111"
                     },
                     {
                         "name": "Green Switch Palace Block #1",
@@ -3970,15 +4810,35 @@
                     },
                     {
                         "name": "Snake block room",
-                        "ref": "Rooms/VBC/0x0110"
+                        "ref": "Rooms/VBC/Room 0x0110"
                     },
                     {
                         "name": "Magikoopa room",
-                        "ref": "Rooms/VBC/0x01FE"
+                        "ref": "Rooms/VBC/Room 0x01FE"
                     },
                     {
                         "name": "Midway Point",
                         "ref": "Midways/VBC/Midway Point"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/VBC/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/VBC/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/VBC/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/VBC/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/VBC/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",
@@ -4023,11 +4883,31 @@
                     },
                     {
                         "name": "Main room",
-                        "ref": "Rooms/SR1/0x0134"
+                        "ref": "Rooms/SR1/Room 0x0134"
                     },
                     {
                         "name": "Goal room",
-                        "ref": "Rooms/SR1/0x01D6"
+                        "ref": "Rooms/SR1/Room 0x01D6"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/SR1/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/SR1/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/SR1/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/SR1/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/SR1/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",
@@ -4056,11 +4936,11 @@
                     },
                     {
                         "name": "Main room",
-                        "ref": "Rooms/SR2/0x0130"
+                        "ref": "Rooms/SR2/Room 0x0130"
                     },
                     {
                         "name": "Goal room",
-                        "ref": "Rooms/SR2/0x01D5"
+                        "ref": "Rooms/SR2/Room 0x01D5"
                     },
                     {
                         "name": "Star Block #1",
@@ -4089,7 +4969,7 @@
                     },
                     {
                         "name": "Main room",
-                        "ref": "Rooms/SR3/0x0132"
+                        "ref": "Rooms/SR3/Room 0x0132"
                     },
                     {
                         "name": "Key Block #1",
@@ -4118,7 +4998,7 @@
                     },
                     {
                         "name": "Main room",
-                        "ref": "Rooms/SR4/0x0135"
+                        "ref": "Rooms/SR4/Room 0x0135"
                     },
                     {
                         "name": "Powerup Block #1",
@@ -4179,7 +5059,7 @@
                     },
                     {
                         "name": "Main room",
-                        "ref": "Rooms/SR5/0x0136"
+                        "ref": "Rooms/SR5/Room 0x0136"
                     },
                     {
                         "name": "Directional Coin Block #1",
@@ -4372,11 +5252,43 @@
                     },
                     {
                         "name": "Main room",
-                        "ref": "Rooms/SZ1/0x012A"
+                        "ref": "Rooms/SZ1/Room 0x012A"
                     },
                     {
                         "name": "Goal room",
-                        "ref": "Rooms/SZ1/0x11C4"
+                        "ref": "Rooms/SZ1/Room 0x11C4"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/SZ1/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/SZ1/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/SZ1/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/SZ1/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/SZ1/Dragon Coin #5"
+                    },
+                    {
+                        "name": "Dragon Coin #6",
+                        "ref": "Dragon Coins/CI5/Dragon Coin #6"
+                    },
+                    {
+                        "name": "Dragon Coin #7",
+                        "ref": "Dragon Coins/CI5/Dragon Coin #7"
+                    },
+                    {
+                        "name": "Dragon Coin #8",
+                        "ref": "Dragon Coins/CI5/Dragon Coin #8"
                     },
                     {
                         "name": "Dragon Coins",
@@ -4493,7 +5405,27 @@
                     },
                     {
                         "name": "Main room",
-                        "ref": "Rooms/SZ2/0x012B"
+                        "ref": "Rooms/SZ2/Room 0x012B"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/SZ2/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/SZ2/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/SZ2/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/SZ2/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/SZ2/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",
@@ -4558,15 +5490,47 @@
                     },
                     {
                         "name": "Main room",
-                        "ref": "Rooms/SZ3/0x012C"
+                        "ref": "Rooms/SZ3/Room 0x012C"
                     },
                     {
                         "name": "Yoshi room",
-                        "ref": "Rooms/SZ3/0x01C9"
+                        "ref": "Rooms/SZ3/Room 0x01C9"
                     },
                     {
                         "name": "Yoshi wings room",
-                        "ref": "Rooms/SZ3/0x21C8"
+                        "ref": "Rooms/SZ3/Room 0x21C8"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/SZ3/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/SZ3/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/SZ3/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/SZ3/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/SZ3/Dragon Coin #5"
+                    },
+                    {
+                        "name": "Dragon Coin #6",
+                        "ref": "Dragon Coins/CI5/Dragon Coin #6"
+                    },
+                    {
+                        "name": "Dragon Coin #7",
+                        "ref": "Dragon Coins/CI5/Dragon Coin #7"
+                    },
+                    {
+                        "name": "Dragon Coin #8",
+                        "ref": "Dragon Coins/CI5/Dragon Coin #8"
                     },
                     {
                         "name": "Dragon Coins",
@@ -4603,7 +5567,27 @@
                     },
                     {
                         "name": "Main room",
-                        "ref": "Rooms/SZ4/0x012D"
+                        "ref": "Rooms/SZ4/Room 0x012D"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/SZ4/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/SZ4/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/SZ4/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/SZ4/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/SZ4/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",
@@ -4636,7 +5620,27 @@
                     },
                     {
                         "name": "Main room",
-                        "ref": "Rooms/SZ5/0x0128"
+                        "ref": "Rooms/SZ5/Room 0x0128"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/SZ5/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/SZ5/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/SZ5/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/SZ5/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/SZ5/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",
@@ -4665,15 +5669,35 @@
                     },
                     {
                         "name": "Main room",
-                        "ref": "Rooms/SZ6/0x0127"
+                        "ref": "Rooms/SZ6/Room 0x0127"
                     },
                     {
                         "name": "Slide room",
-                        "ref": "Rooms/SZ6/0x01E0"
+                        "ref": "Rooms/SZ6/Room 0x01E0"
                     },
                     {
                         "name": "Goal room",
-                        "ref": "Rooms/SZ6/0x01E1"
+                        "ref": "Rooms/SZ6/Room 0x01E1"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/SZ6/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/SZ6/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/SZ6/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/SZ6/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/SZ6/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",
@@ -4850,7 +5874,27 @@
                     },
                     {
                         "name": "Main room",
-                        "ref": "Rooms/SZ7/0x0126"
+                        "ref": "Rooms/SZ7/Room 0x0126"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/SZ7/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/SZ7/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/SZ7/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/SZ7/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/SZ7/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",
@@ -4895,7 +5939,27 @@
                     },
                     {
                         "name": "Main room",
-                        "ref": "Rooms/SZ8/0x0125"
+                        "ref": "Rooms/SZ8/Room 0x0125"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/SZ8/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/SZ8/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/SZ8/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/SZ8/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/SZ8/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",

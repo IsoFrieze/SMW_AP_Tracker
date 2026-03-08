@@ -141,7 +141,7 @@
                 "sections": [
                     {
                         "name": "Net room",
-                        "ref": "Rooms/YIC/0x0101"
+                        "ref": "Rooms/YIC/Room 0x0101"
                     },
                     {
                         "name": "Midway Point",
@@ -181,7 +181,7 @@
                 "sections": [
                     {
                         "name": "Smashers room",
-                        "ref": "Rooms/YIC/0x01FC"
+                        "ref": "Rooms/YIC/Room 0x01FC"
                     },
                     {
                         "name": "Normal Exit",
@@ -205,7 +205,7 @@
                 "sections": [
                     {
                         "name": "Smashers room",
-                        "ref": "Rooms/YIC/0x01FC"
+                        "ref": "Rooms/YIC/Room 0x01FC"
                     },
                     {
                         "name": "Normal Exit",

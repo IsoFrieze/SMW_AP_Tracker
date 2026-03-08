@@ -25,8 +25,12 @@
                 ]
             },
             {
-                "name": "#5 Roy's Castle - Dragon Coins",
+                "name": "#5 Roy's Castle - Dragon Coin #1",
                 "sections": [
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/FIC/Dragon Coin #1"
+                    },
                     {
                         "name": "Dragon Coins",
                         "ref": "Dragon Coins/FIC/Dragon Coins"
@@ -37,22 +41,82 @@
                         "map": "foic_main",
                         "x": 632,
                         "y": 320
+                    }
+                ]
+            },
+            {
+                "name": "#5 Roy's Castle - Dragon Coin #2",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/FIC/Dragon Coin #2"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/FIC/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "foic_main",
                         "x": 1896,
                         "y": 304
+                    }
+                ]
+            },
+            {
+                "name": "#5 Roy's Castle - Dragon Coin #3",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/FIC/Dragon Coin #3"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/FIC/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "foic_main",
                         "x": 24,
                         "y": 736
+                    }
+                ]
+            },
+            {
+                "name": "#5 Roy's Castle - Dragon Coin #4",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/FIC/Dragon Coin #4"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/FIC/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "foic_main",
                         "x": 184,
                         "y": 736
+                    }
+                ]
+            },
+            {
+                "name": "#5 Roy's Castle - Dragon Coin #5",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/FIC/Dragon Coin #5"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/FIC/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "foic_main",
                         "x": 1320,
@@ -81,11 +145,31 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Rooms/FIC/0x0020"
+                        "ref": "Rooms/FIC/Room 0x0020"
                     },
                     {
                         "name": "Normal Exit",
                         "ref": "Exits/FIC/Normal Exit"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/FIC/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/FIC/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/FIC/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/FIC/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/FIC/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",

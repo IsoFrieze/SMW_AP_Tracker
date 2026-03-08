@@ -93,6 +93,13 @@
         "codes": "show_all_levels"
     },
     {
+        "name": "Individual Dragon Coin Checks",
+        "type": "toggle",
+        "img": "images/items/dragon_coin_multiple.png",
+        "disabled_img": "images/items/dragon_coin_multiple.png",
+        "codes": "individual_dragon_coins"
+    },
+    {
         "name": "Current Level",
         "type": "progressive",
         "img": "",

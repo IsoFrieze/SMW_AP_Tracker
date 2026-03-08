@@ -41,8 +41,12 @@
                 ]
             },
             {
-                "name": "Forest of Illusion 4 - Dragon Coins",
+                "name": "Forest of Illusion 4 - Dragon Coin #1",
                 "sections": [
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/FI4/Dragon Coin #1"
+                    },
                     {
                         "name": "Dragon Coins",
                         "ref": "Dragon Coins/FI4/Dragon Coins"
@@ -53,22 +57,82 @@
                         "map": "foi4_main",
                         "x": 664,
                         "y": 240
+                    }
+                ]
+            },
+            {
+                "name": "Forest of Illusion 4 - Dragon Coin #2",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/FI4/Dragon Coin #2"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/FI4/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "foi4_main",
                         "x": 1560,
                         "y": 368
+                    }
+                ]
+            },
+            {
+                "name": "Forest of Illusion 4 - Dragon Coin #3",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/FI4/Dragon Coin #3"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/FI4/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "foi4_main",
                         "x": 24,
                         "y": 672
+                    }
+                ]
+            },
+            {
+                "name": "Forest of Illusion 4 - Dragon Coin #4",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/FI4/Dragon Coin #4"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/FI4/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "foi4_main",
                         "x": 1704,
                         "y": 512
+                    }
+                ]
+            },
+            {
+                "name": "Forest of Illusion 4 - Dragon Coin #5",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/FI4/Dragon Coin #5"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/FI4/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "foi4_main",
                         "x": 504,
@@ -305,7 +369,7 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Rooms/FI4/0x011F"
+                        "ref": "Rooms/FI4/Room 0x011F"
                     },
                     {
                         "name": "Midway Point",
@@ -314,6 +378,26 @@
                     {
                         "name": "Normal Exit",
                         "ref": "Exits/FI4/Normal Exit"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/FI4/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/FI4/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/FI4/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/FI4/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/FI4/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",
@@ -385,7 +469,7 @@
                 "sections": [
                     {
                         "name": "Keyhole room",
-                        "ref": "Rooms/FI4/0x01DF"
+                        "ref": "Rooms/FI4/Room 0x01DF"
                     },
                     {
                         "name": "Secret Exit",
@@ -405,7 +489,7 @@
                 "sections": [
                     {
                         "name": "Blurp room",
-                        "ref": "Rooms/FI4/0x01C1"
+                        "ref": "Rooms/FI4/Room 0x01C1"
                     }
                 ],
                 "map_locations": [
@@ -421,7 +505,7 @@
                 "sections": [
                     {
                         "name": "Keyhole room",
-                        "ref": "Rooms/FI4/0x01DF"
+                        "ref": "Rooms/FI4/Room 0x01DF"
                     },
                     {
                         "name": "Secret Exit",
@@ -441,7 +525,7 @@
                 "sections": [
                     {
                         "name": "Blurp room",
-                        "ref": "Rooms/FI4/0x01C1"
+                        "ref": "Rooms/FI4/Room 0x01C1"
                     }
                 ],
                 "map_locations": [
@@ -457,7 +541,7 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Rooms/FI4/0x011F"
+                        "ref": "Rooms/FI4/Room 0x011F"
                     },
                     {
                         "name": "Midway Point",
@@ -466,6 +550,26 @@
                     {
                         "name": "Normal Exit",
                         "ref": "Exits/FI4/Normal Exit"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/FI4/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/FI4/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/FI4/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/FI4/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/FI4/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",

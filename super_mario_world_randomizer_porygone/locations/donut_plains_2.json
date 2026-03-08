@@ -41,8 +41,12 @@
                 ]
             },
             {
-                "name": "Donut Plains 2 - Dragon Coins",
+                "name": "Donut Plains 2 - Dragon Coin #1",
                 "sections": [
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/DP2/Dragon Coin #1"
+                    },
                     {
                         "name": "Dragon Coins",
                         "ref": "Dragon Coins/DP2/Dragon Coins"
@@ -53,22 +57,82 @@
                         "map": "dp2_main",
                         "x": 584,
                         "y": 192
+                    }
+                ]
+            },
+            {
+                "name": "Donut Plains 2 - Dragon Coin #2",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/DP2/Dragon Coin #2"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/DP2/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "dp2_main",
                         "x": 1576,
                         "y": 224
+                    }
+                ]
+            },
+            {
+                "name": "Donut Plains 2 - Dragon Coin #3",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/DP2/Dragon Coin #3"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/DP2/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "dp2_main",
                         "x": 24,
                         "y": 640
+                    }
+                ]
+            },
+            {
+                "name": "Donut Plains 2 - Dragon Coin #4",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/DP2/Dragon Coin #4"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/DP2/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "dp2_main",
                         "x": 648,
                         "y": 624
+                    }
+                ]
+            },
+            {
+                "name": "Donut Plains 2 - Dragon Coin #5",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/DP2/Dragon Coin #5"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/DP2/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "dp2_main",
                         "x": 936,
@@ -241,7 +305,27 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Rooms/DP2/0x0009"
+                        "ref": "Rooms/DP2/Room 0x0009"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/DP2/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/DP2/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/DP2/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/DP2/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/DP2/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",
@@ -293,7 +377,7 @@
                 "sections": [
                     {
                         "name": "Keyhole room",
-                        "ref": "Rooms/DP2/0x00E9"
+                        "ref": "Rooms/DP2/Room 0x00E9"
                     },
                     {
                         "name": "Secret Exit",
@@ -321,7 +405,7 @@
                 "sections": [
                     {
                         "name": "Goal room",
-                        "ref": "Rooms/DP2/0x00FF"
+                        "ref": "Rooms/DP2/Room 0x00FF"
                     },
                     {
                         "name": "Normal Exit",
@@ -341,11 +425,11 @@
                 "sections": [
                     {
                         "name": "Keyhole room",
-                        "ref": "Rooms/DP2/0x00E9"
+                        "ref": "Rooms/DP2/Room 0x00E9"
                     },
                     {
                         "name": "Goal room",
-                        "ref": "Rooms/DP2/0x00FF"
+                        "ref": "Rooms/DP2/Room 0x00FF"
                     },
                     {
                         "name": "Normal Exit",
@@ -377,7 +461,7 @@
                 "sections": [
                     {
                         "name": "Goal room",
-                        "ref": "Rooms/DP2/0x00FF"
+                        "ref": "Rooms/DP2/Room 0x00FF"
                     },
                     {
                         "name": "Normal Exit",

@@ -46,8 +46,12 @@
                 ]
             },
             {
-                "name": "Chocolate Island 2 - Dragon Coins",
+                "name": "Chocolate Island 2 - Dragon Coin #1",
                 "sections": [
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/CI2/Dragon Coin #1"
+                    },
                     {
                         "name": "Dragon Coins",
                         "ref": "Dragon Coins/CI2/Dragon Coins"
@@ -58,32 +62,122 @@
                         "map": "ci2_main",
                         "x": 536,
                         "y": 96
+                    }
+                ]
+            },
+            {
+                "name": "Chocolate Island 2 - Dragon Coin #2",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/CI2/Dragon Coin #2"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/CI2/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "ci2_main",
                         "x": 792,
                         "y": 112
+                    }
+                ]
+            },
+            {
+                "name": "Chocolate Island 2 - Dragon Coin #3",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/CI2/Dragon Coin #3"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/CI2/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "ci2_sub_1",
                         "x": 744,
                         "y": 928
+                    }
+                ]
+            },
+            {
+                "name": "Chocolate Island 2 - Dragon Coin #4",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/CI2/Dragon Coin #4"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/CI2/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "ci2_sub_1",
                         "x": 1192,
                         "y": 672
+                    }
+                ]
+            },
+            {
+                "name": "Chocolate Island 2 - Dragon Coin #5",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/CI2/Dragon Coin #5"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/CI2/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "ci2_sub_2",
                         "x": 584,
                         "y": 352
+                    }
+                ]
+            },
+            {
+                "name": "Chocolate Island 2 - Dragon Coin #6",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #6",
+                        "ref": "Dragon Coins/CI2/Dragon Coin #6"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/CI2/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "ci2_sub_2",
                         "x": 488,
                         "y": 720
+                    }
+                ]
+            },
+            {
+                "name": "Chocolate Island 2 - Dragon Coin #7",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #7",
+                        "ref": "Dragon Coins/CI2/Dragon Coin #7"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/CI2/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "ci2_sub_3",
                         "x": 600,
@@ -368,7 +462,15 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Rooms/CI2/0x0024"
+                        "ref": "Rooms/CI2/Room 0x0024"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/CI2/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/CI2/Dragon Coin #2"
                     },
                     {
                         "name": "Dragon Coins",
@@ -400,7 +502,7 @@
                 "sections": [
                     {
                         "name": "Group A rooms",
-                        "ref": "Rooms/CI2/0x00CF"
+                        "ref": "Rooms/CI2/Room 0x00CF"
                     }
                 ],
                 "map_locations": [
@@ -416,7 +518,11 @@
                 "sections": [
                     {
                         "name": "Group A rooms",
-                        "ref": "Rooms/CI2/0x00CF"
+                        "ref": "Rooms/CI2/Room 0x00CF"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/CI2/Dragon Coin #4"
                     },
                     {
                         "name": "Dragon Coins",
@@ -456,7 +562,11 @@
                 "sections": [
                     {
                         "name": "Group A rooms",
-                        "ref": "Rooms/CI2/0x00CF"
+                        "ref": "Rooms/CI2/Room 0x00CF"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/CI2/Dragon Coin #3"
                     },
                     {
                         "name": "Dragon Coins",
@@ -476,7 +586,11 @@
                 "sections": [
                     {
                         "name": "Group B rooms",
-                        "ref": "Rooms/CI2/0x00CE"
+                        "ref": "Rooms/CI2/Room 0x00CE"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/CI2/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",
@@ -496,7 +610,11 @@
                 "sections": [
                     {
                         "name": "Group B rooms",
-                        "ref": "Rooms/CI2/0x00CE"
+                        "ref": "Rooms/CI2/Room 0x00CE"
+                    },
+                    {
+                        "name": "Dragon Coin #6",
+                        "ref": "Dragon Coins/CI2/Dragon Coin #6"
                     },
                     {
                         "name": "Dragon Coins",
@@ -516,7 +634,7 @@
                 "sections": [
                     {
                         "name": "Group B rooms",
-                        "ref": "Rooms/CI2/0x00CE"
+                        "ref": "Rooms/CI2/Room 0x00CE"
                     },
                     {
                         "name": "Secret Exit",
@@ -568,7 +686,7 @@
                 "sections": [
                     {
                         "name": "Group C rooms",
-                        "ref": "Rooms/CI2/0x00CD"
+                        "ref": "Rooms/CI2/Room 0x00CD"
                     },
                     {
                         "name": "Normal Exit",
@@ -588,7 +706,11 @@
                 "sections": [
                     {
                         "name": "Group C rooms",
-                        "ref": "Rooms/CI2/0x00CD"
+                        "ref": "Rooms/CI2/Room 0x00CD"
+                    },
+                    {
+                        "name": "Dragon Coin #7",
+                        "ref": "Dragon Coins/CI2/Dragon Coin #7"
                     },
                     {
                         "name": "Dragon Coins",
@@ -616,15 +738,15 @@
                 "sections": [
                     {
                         "name": "Group A rooms",
-                        "ref": "Rooms/CI2/0x00CF"
+                        "ref": "Rooms/CI2/Room 0x00CF"
                     },
                     {
                         "name": "Group B rooms",
-                        "ref": "Rooms/CI2/0x00CE"
+                        "ref": "Rooms/CI2/Room 0x00CE"
                     },
                     {
                         "name": "Group C rooms",
-                        "ref": "Rooms/CI2/0x00CD"
+                        "ref": "Rooms/CI2/Room 0x00CD"
                     },
                     {
                         "name": "Normal Exit",
@@ -633,6 +755,18 @@
                     {
                         "name": "Secret Exit",
                         "ref": "Exits/CI2/Secret Exit"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/CI2/Dragon Coin #5"
+                    },
+                    {
+                        "name": "Dragon Coin #6",
+                        "ref": "Dragon Coins/CI2/Dragon Coin #6"
+                    },
+                    {
+                        "name": "Dragon Coin #7",
+                        "ref": "Dragon Coins/CI2/Dragon Coin #7"
                     },
                     {
                         "name": "Yellow Switch Palace Block #1",
@@ -684,15 +818,31 @@
                 "sections": [                    
                     {
                         "name": "Group A rooms",
-                        "ref": "Rooms/CI2/0x00CF"
+                        "ref": "Rooms/CI2/Room 0x00CF"
                     },
                     {
                         "name": "Group B rooms",
-                        "ref": "Rooms/CI2/0x00CE"
+                        "ref": "Rooms/CI2/Room 0x00CE"
                     },
                     {
                         "name": "Group C rooms",
-                        "ref": "Rooms/CI2/0x00CD"
+                        "ref": "Rooms/CI2/Room 0x00CD"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/CI2/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/CI2/Dragon Coin #5"
+                    },
+                    {
+                        "name": "Dragon Coin #6",
+                        "ref": "Dragon Coins/CI2/Dragon Coin #6"
+                    },
+                    {
+                        "name": "Dragon Coin #7",
+                        "ref": "Dragon Coins/CI2/Dragon Coin #7"
                     },
                     {
                         "name": "Dragon Coins",
@@ -776,15 +926,15 @@
                 "sections": [
                     {
                         "name": "Group A rooms",
-                        "ref": "Rooms/CI2/0x00CF"
+                        "ref": "Rooms/CI2/Room 0x00CF"
                     },
                     {
                         "name": "Group B rooms",
-                        "ref": "Rooms/CI2/0x00CE"
+                        "ref": "Rooms/CI2/Room 0x00CE"
                     },
                     {
                         "name": "Group C rooms",
-                        "ref": "Rooms/CI2/0x00CD"
+                        "ref": "Rooms/CI2/Room 0x00CD"
                     },
                     {
                         "name": "Normal Exit",
@@ -793,6 +943,22 @@
                     {
                         "name": "Secret Exit",
                         "ref": "Exits/CI2/Secret Exit"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/CI2/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/CI2/Dragon Coin #5"
+                    },
+                    {
+                        "name": "Dragon Coin #6",
+                        "ref": "Dragon Coins/CI2/Dragon Coin #6"
+                    },
+                    {
+                        "name": "Dragon Coin #7",
+                        "ref": "Dragon Coins/CI2/Dragon Coin #7"
                     },
                     {
                         "name": "Yellow Switch Palace Block #1",
@@ -844,15 +1010,23 @@
                 "sections": [
                     {
                         "name": "Group B rooms",
-                        "ref": "Rooms/CI2/0x00CE"
+                        "ref": "Rooms/CI2/Room 0x00CE"
                     },
                     {
                         "name": "Group C rooms",
-                        "ref": "Rooms/CI2/0x00CD"
+                        "ref": "Rooms/CI2/Room 0x00CD"
                     },
                     {
                         "name": "Normal Exit",
                         "ref": "Exits/CI2/Normal Exit"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/CI2/Dragon Coin #5"
+                    },
+                    {
+                        "name": "Dragon Coin #7",
+                        "ref": "Dragon Coins/CI2/Dragon Coin #7"
                     },
                     {
                         "name": "Blue P-Switch Block #1",
@@ -882,11 +1056,19 @@
                 "sections": [
                     {
                         "name": "Group B rooms",
-                        "ref": "Rooms/CI2/0x00CE"
+                        "ref": "Rooms/CI2/Room 0x00CE"
                     },
                     {
                         "name": "Group C rooms",
-                        "ref": "Rooms/CI2/0x00CD"
+                        "ref": "Rooms/CI2/Room 0x00CD"
+                    },
+                    {
+                        "name": "Dragon Coin #6",
+                        "ref": "Dragon Coins/CI2/Dragon Coin #6"
+                    },
+                    {
+                        "name": "Dragon Coin #7",
+                        "ref": "Dragon Coins/CI2/Dragon Coin #7"
                     },
                     {
                         "name": "Dragon Coins",
@@ -924,7 +1106,7 @@
                 "sections": [
                     {
                         "name": "Group B rooms",
-                        "ref": "Rooms/CI2/0x00CE"
+                        "ref": "Rooms/CI2/Room 0x00CE"
                     },
                     {
                         "name": "Secret Exit",
@@ -986,7 +1168,7 @@
                 "sections": [
                     {
                         "name": "Group C rooms",
-                        "ref": "Rooms/CI2/0x00CD"
+                        "ref": "Rooms/CI2/Room 0x00CD"
                     },
                     {
                         "name": "Normal Exit",
@@ -1011,7 +1193,11 @@
                 "sections": [
                     {
                         "name": "Group C rooms",
-                        "ref": "Rooms/CI2/0x00CD"
+                        "ref": "Rooms/CI2/Room 0x00CD"
+                    },
+                    {
+                        "name": "Dragon Coin #7",
+                        "ref": "Dragon Coins/CI2/Dragon Coin #7"
                     },
                     {
                         "name": "Dragon Coins",

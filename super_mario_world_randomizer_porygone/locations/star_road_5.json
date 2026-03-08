@@ -733,7 +733,7 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Rooms/SR5/0x0136"
+                        "ref": "Rooms/SR5/Room 0x0136"
                     },
                     {
                         "name": "Normal Exit",

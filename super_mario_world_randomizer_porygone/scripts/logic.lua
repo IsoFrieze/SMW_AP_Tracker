@@ -28,8 +28,14 @@ function CanGet5DragonCoins(levelname, num)
         i = i - 1
     end
     local needed = 5 - gray
-    if needed <= 0 then return AccessibilityLevel.Cleared end
+    if needed <= 0 then return AccessibilityLevel.Inspect end
     if green >= needed then return AccessibilityLevel.Normal end
     if green + yellow >= needed then return AccessibilityLevel.SequenceBreak end
     return AccessibilityLevel.None
+end
+
+function Not(code)
+    local val = Tracker:ProviderCountForCode(code)
+    if val == 0 then return 1 end
+    return 0
 end

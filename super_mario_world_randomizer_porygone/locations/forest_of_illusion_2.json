@@ -41,8 +41,12 @@
                 ]
             },
             {
-                "name": "Forest of Illusion 2 - Dragon Coins",
+                "name": "Forest of Illusion 2 - Dragon Coin #1",
                 "sections": [
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/FI2/Dragon Coin #1"
+                    },
                     {
                         "name": "Dragon Coins",
                         "ref": "Dragon Coins/FI2/Dragon Coins"
@@ -53,22 +57,82 @@
                         "map": "foi2_main",
                         "x": 504,
                         "y": 176
+                    }
+                ]
+            },
+            {
+                "name": "Forest of Illusion 2 - Dragon Coin #2",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/FI2/Dragon Coin #2"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/FI2/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "foi2_main",
                         "x": 1736,
                         "y": 352
+                    }
+                ]
+            },
+            {
+                "name": "Forest of Illusion 2 - Dragon Coin #3",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/FI2/Dragon Coin #3"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/FI2/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "foi2_main",
                         "x": 1576,
                         "y": 64
+                    }
+                ]
+            },
+            {
+                "name": "Forest of Illusion 2 - Dragon Coin #4",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/FI2/Dragon Coin #4"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/FI2/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "foi2_main",
                         "x": 136,
                         "y": 608
+                    }
+                ]
+            },
+            {
+                "name": "Forest of Illusion 2 - Dragon Coin #5",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/FI2/Dragon Coin #5"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/FI2/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "foi2_main",
                         "x": 872,
@@ -193,7 +257,7 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Rooms/FI2/0x0120"
+                        "ref": "Rooms/FI2/Room 0x0120"
                     },
                     {
                         "name": "Normal Exit",
@@ -202,6 +266,26 @@
                     {
                         "name": "Secret Exit",
                         "ref": "Exits/FI2/Secret Exit"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/FI2/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/FI2/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/FI2/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/FI2/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/FI2/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",

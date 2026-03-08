@@ -41,8 +41,12 @@
                 ]
             },
             {
-                "name": "Valley Ghost House - Dragon Coins",
+                "name": "Valley Ghost House - Dragon Coin #1",
                 "sections": [
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/VBH/Dragon Coin #1"
+                    },
                     {
                         "name": "Dragon Coins",
                         "ref": "Dragon Coins/VBH/Dragon Coins"
@@ -53,27 +57,102 @@
                         "map": "vobgh_main",
                         "x": 312,
                         "y": 240
+                    }
+                ]
+            },
+            {
+                "name": "Valley Ghost House - Dragon Coin #2",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/VBH/Dragon Coin #2"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/VBH/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "vobgh_sub_1",
                         "x": 904,
                         "y": 208
+                    }
+                ]
+            },
+            {
+                "name": "Valley Ghost House - Dragon Coin #3",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/VBH/Dragon Coin #3"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/VBH/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "vobgh_sub_1",
                         "x": 344,
                         "y": 208
+                    }
+                ]
+            },
+            {
+                "name": "Valley Ghost House - Dragon Coin #4",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/VBH/Dragon Coin #4"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/VBH/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "vobgh_sub_1",
                         "x": 1208,
                         "y": 240
+                    }
+                ]
+            },
+            {
+                "name": "Valley Ghost House - Dragon Coin #5",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/VBH/Dragon Coin #5"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/VBH/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "vobgh_sub_2",
                         "x": 248,
                         "y": 368
+                    }
+                ]
+            },
+            {
+                "name": "Valley Ghost House - Dragon Coin #6",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #6",
+                        "ref": "Dragon Coins/VBH/Dragon Coin #6"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/VBH/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "vobgh_sub_2",
                         "x": 504,
@@ -150,7 +229,11 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Rooms/VBH/0x0114"
+                        "ref": "Rooms/VBH/Room 0x0114"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/VBH/Dragon Coin #1"
                     },
                     {
                         "name": "Dragon Coins",
@@ -174,7 +257,19 @@
                 "sections": [
                     {
                         "name": "P-Switch room",
-                        "ref": "Rooms/VBH/0x01DD"
+                        "ref": "Rooms/VBH/Room 0x01DD"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/VBH/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/VBH/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/VBH/Dragon Coin #4"
                     },
                     {
                         "name": "Dragon Coins",
@@ -202,11 +297,19 @@
                 "sections": [
                     {
                         "name": "Directional coin room",
-                        "ref": "Rooms/VBH/0x11DB"
+                        "ref": "Rooms/VBH/Room 0x11DB"
                     },
                     {
                         "name": "Secret Exit",
                         "ref": "Exits/VBH/Secret Exit"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/VBH/Dragon Coin #5"
+                    },
+                    {
+                        "name": "Dragon Coin #6",
+                        "ref": "Dragon Coins/VBH/Dragon Coin #6"
                     },
                     {
                         "name": "Dragon Coins",
@@ -230,7 +333,7 @@
                 "sections": [
                     {
                         "name": "Goal room",
-                        "ref": "Rooms/VBH/0x01DA"
+                        "ref": "Rooms/VBH/Room 0x01DA"
                     },
                     {
                         "name": "Normal Exit",
@@ -250,15 +353,15 @@
                 "sections": [
                     {
                         "name": "P-Switch room",
-                        "ref": "Rooms/VBH/0x01DD"
+                        "ref": "Rooms/VBH/Room 0x01DD"
                     },
                     {
                         "name": "Directional coin room",
-                        "ref": "Rooms/VBH/0x11DB"
+                        "ref": "Rooms/VBH/Room 0x11DB"
                     },
                     {
                         "name": "Goal room",
-                        "ref": "Rooms/VBH/0x01DA"
+                        "ref": "Rooms/VBH/Room 0x01DA"
                     },
                     {
                         "name": "Normal Exit",
@@ -267,6 +370,22 @@
                     {
                         "name": "Secret Exit",
                         "ref": "Exits/VBH/Secret Exit"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/VBH/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/VBH/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/VBH/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/VBH/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",
@@ -303,7 +422,11 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Rooms/VBH/0x0114"
+                        "ref": "Rooms/VBH/Room 0x0114"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/VBH/Dragon Coin #1"
                     },
                     {
                         "name": "Dragon Coins",
@@ -328,15 +451,19 @@
                 ]
             },
             {
-                "name": "Valley Ghost House - Door to Directional coin room",
+                "name": "Valley Ghost House - Door 1 to Directional coin room",
                 "sections": [
                     {
                         "name": "Directional coin room",
-                        "ref": "Rooms/VBH/0x11DB"
+                        "ref": "Rooms/VBH/Room 0x11DB"
                     },
                     {
                         "name": "Secret Exit",
                         "ref": "Exits/VBH/Secret Exit"
+                    },
+                    {
+                        "name": "Dragon Coin #6",
+                        "ref": "Dragon Coins/VBH/Dragon Coin #6"
                     },
                     {
                         "name": "Dragon Coins",
@@ -357,7 +484,38 @@
                         "map": "vobgh_sub_1",
                         "x": 440,
                         "y": 800
+                    }
+                ]
+            },
+            {
+                "name": "Valley Ghost House - Door 2 to Directional coin room",
+                "sections": [
+                    {
+                        "name": "Directional coin room",
+                        "ref": "Rooms/VBH/Room 0x11DB"
                     },
+                    {
+                        "name": "Secret Exit",
+                        "ref": "Exits/VBH/Secret Exit"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/VBH/Dragon Coin #5"
+                    },
+                    {
+                        "name": "Dragon Coin #6",
+                        "ref": "Dragon Coins/VBH/Dragon Coin #6"
+                    },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/VBH/Dragon Coins"
+                    },
+                    {
+                        "name": "Directional Coin Block #1",
+                        "ref": "Blocks/VBH/Directional Coin Block #1"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "vobgh_sub_1",
                         "x": 968,
@@ -370,7 +528,7 @@
                 "sections": [
                     {
                         "name": "Goal room",
-                        "ref": "Rooms/VBH/0x01DA"
+                        "ref": "Rooms/VBH/Room 0x01DA"
                     },
                     {
                         "name": "Normal Exit",

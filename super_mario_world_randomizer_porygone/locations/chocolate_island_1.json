@@ -30,8 +30,12 @@
                 ]
             },
             {
-                "name": "Chocolate Island 1 - Dragon Coins",
+                "name": "Chocolate Island 1 - Dragon Coin #1",
                 "sections": [
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/CI1/Dragon Coin #1"
+                    },
                     {
                         "name": "Dragon Coins",
                         "ref": "Dragon Coins/CI1/Dragon Coins"
@@ -42,22 +46,82 @@
                         "map": "ci1_main",
                         "x": 1672,
                         "y": 272
+                    }
+                ]
+            },
+            {
+                "name": "Chocolate Island 1 - Dragon Coin #2",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/CI1/Dragon Coin #2"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/CI1/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "ci1_main",
                         "x": 568,
                         "y": 1200
+                    }
+                ]
+            },
+            {
+                "name": "Chocolate Island 1 - Dragon Coin #3",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/CI1/Dragon Coin #3"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/CI1/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "ci1_main_alt",
                         "x": 888,
                         "y": 672
+                    }
+                ]
+            },
+            {
+                "name": "Chocolate Island 1 - Dragon Coin #4",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/CI1/Dragon Coin #4"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/CI1/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "ci1_main_alt",
                         "x": 1496,
                         "y": 672
+                    }
+                ]
+            },
+            {
+                "name": "Chocolate Island 1 - Dragon Coin #5",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/CI1/Dragon Coin #5"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/CI1/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "ci1_main_alt",
                         "x": 1800,
@@ -209,6 +273,14 @@
                         "ref": "Exits/CI1/Normal Exit"
                     },
                     {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/CI1/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/CI1/Dragon Coin #5"
+                    },
+                    {
                         "name": "Dragon Coins",
                         "ref": "Dragon Coins/CI1/Dragon Coins"
                     },
@@ -251,6 +323,18 @@
                     {
                         "name": "Normal Exit",
                         "ref": "Exits/CI1/Normal Exit"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/CI1/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/CI1/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/CI1/Dragon Coin #4"
                     },
                     {
                         "name": "Dragon Coins",
@@ -321,6 +405,18 @@
                         "ref": "Exits/CI1/Normal Exit"
                     },
                     {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/CI1/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/CI1/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/CI1/Dragon Coin #4"
+                    },
+                    {
                         "name": "Dragon Coins",
                         "ref": "Dragon Coins/CI1/Dragon Coins"
                     },
@@ -352,6 +448,14 @@
                     {
                         "name": "Normal Exit",
                         "ref": "Exits/CI1/Normal Exit"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/CI1/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/CI1/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",

@@ -45,7 +45,7 @@
                 "sections": [
                     {
                         "name": "Orange wall room",
-                        "ref": "Rooms/TWC/0x000E"
+                        "ref": "Rooms/TWC/Room 0x000E"
                     }
                 ],
                 "map_locations": [
@@ -61,7 +61,7 @@
                 "sections": [
                     {
                         "name": "Falling ceiling room",
-                        "ref": "Rooms/TWC/0x00DC"
+                        "ref": "Rooms/TWC/Room 0x00DC"
                     }
                 ],
                 "map_locations": [
@@ -77,7 +77,7 @@
                 "sections": [
                     {
                         "name": "Net room",
-                        "ref": "Rooms/TWC/0x00DB"
+                        "ref": "Rooms/TWC/Room 0x00DB"
                     },
                     {
                         "name": "Normal Exit",
@@ -101,7 +101,7 @@
                 "sections": [
                     {
                         "name": "Bonus room",
-                        "ref": "Rooms/TWC/0x00DA"
+                        "ref": "Rooms/TWC/Room 0x00DA"
                     }
                 ],
                 "map_locations": [
@@ -117,11 +117,11 @@
                 "sections": [
                     {
                         "name": "Falling ceiling room",
-                        "ref": "Rooms/TWC/0x00DC"
+                        "ref": "Rooms/TWC/Room 0x00DC"
                     },
                     {
                         "name": "Net room",
-                        "ref": "Rooms/TWC/0x00DB"
+                        "ref": "Rooms/TWC/Room 0x00DB"
                     },
                     {
                         "name": "Normal Exit",
@@ -155,7 +155,7 @@
                 "sections": [
                     {
                         "name": "Net room",
-                        "ref": "Rooms/TWC/0x00DB"
+                        "ref": "Rooms/TWC/Room 0x00DB"
                     },
                     {
                         "name": "Normal Exit",
@@ -179,7 +179,7 @@
                 "sections": [
                     {
                         "name": "Bonus room",
-                        "ref": "Rooms/TWC/0x00DA"
+                        "ref": "Rooms/TWC/Room 0x00DA"
                     }
                 ],
                 "map_locations": [

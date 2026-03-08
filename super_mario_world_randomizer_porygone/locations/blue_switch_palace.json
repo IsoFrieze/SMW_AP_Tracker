@@ -29,7 +29,7 @@
                 "sections": [
                     {
                         "name": "Bonus room",
-                        "ref": "Rooms/BSP/0x0121"
+                        "ref": "Rooms/BSP/Room 0x0121"
                     }
                 ],
                 "map_locations": [
@@ -45,7 +45,7 @@
                 "sections": [
                     {
                         "name": "Button room",
-                        "ref": "Rooms/BSP/0x01D7"
+                        "ref": "Rooms/BSP/Room 0x01D7"
                     },
                     {
                         "name": "Normal Exit",
@@ -65,7 +65,7 @@
                 "sections": [
                     {
                         "name": "Button room",
-                        "ref": "Rooms/BSP/0x01D7"
+                        "ref": "Rooms/BSP/Room 0x01D7"
                     },
                     {
                         "name": "Normal Exit",

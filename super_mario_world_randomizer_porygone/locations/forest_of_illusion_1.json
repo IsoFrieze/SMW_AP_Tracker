@@ -141,7 +141,7 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Rooms/FI1/0x011E"
+                        "ref": "Rooms/FI1/Room 0x011E"
                     },
                     {
                         "name": "Midway Point",

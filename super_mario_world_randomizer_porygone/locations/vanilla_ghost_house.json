@@ -25,8 +25,12 @@
                 ]
             },
             {
-                "name": "Vanilla Ghost House - Dragon Coins",
+                "name": "Vanilla Ghost House - Dragon Coin #1",
                 "sections": [
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/VDH/Dragon Coin #1"
+                    },
                     {
                         "name": "Dragon Coins",
                         "ref": "Dragon Coins/VDH/Dragon Coins"
@@ -37,22 +41,82 @@
                         "map": "vdgh_main",
                         "x": 520,
                         "y": 368
+                    }
+                ]
+            },
+            {
+                "name": "Vanilla Ghost House - Dragon Coin #2",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/VDH/Dragon Coin #2"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/VDH/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "vdgh_main",
                         "x": 1384,
                         "y": 240
+                    }
+                ]
+            },
+            {
+                "name": "Vanilla Ghost House - Dragon Coin #3",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/VDH/Dragon Coin #3"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/VDH/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "vdgh_main",
                         "x": 600,
                         "y": 480
+                    }
+                ]
+            },
+            {
+                "name": "Vanilla Ghost House - Dragon Coin #4",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/VDH/Dragon Coin #4"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/VDH/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "vdgh_main",
                         "x": 1032,
                         "y": 672
+                    }
+                ]
+            },
+            {
+                "name": "Vanilla Ghost House - Dragon Coin #5",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/VDH/Dragon Coin #5"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/VDH/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "vdgh_sub_1",
                         "x": 1880,
@@ -161,7 +225,23 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Rooms/VDH/0x0107"
+                        "ref": "Rooms/VDH/Room 0x0107"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/VDH/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/VDH/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/VDH/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/VDH/Dragon Coin #4"
                     },
                     {
                         "name": "Dragon Coins",
@@ -201,7 +281,11 @@
                 "sections": [
                     {
                         "name": "Gas bubbles room",
-                        "ref": "Rooms/VDH/0x01EA"
+                        "ref": "Rooms/VDH/Room 0x01EA"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/VDH/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",
@@ -225,7 +309,7 @@
                 "sections": [
                     {
                         "name": "Goal room",
-                        "ref": "Rooms/VDH/0x01F9"
+                        "ref": "Rooms/VDH/Room 0x01F9"
                     },
                     {
                         "name": "Normal Exit",
@@ -245,11 +329,15 @@
                 "sections": [
                     {
                         "name": "Gas bubbles room",
-                        "ref": "Rooms/VDH/0x01EA"
+                        "ref": "Rooms/VDH/Room 0x01EA"
                     },
                     {
                         "name": "Normal Exit",
                         "ref": "Exits/VDH/Normal Exit"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/VDH/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",
@@ -273,7 +361,7 @@
                 "sections": [
                     {
                         "name": "Goal room",
-                        "ref": "Rooms/VDH/0x01F9"
+                        "ref": "Rooms/VDH/Room 0x01F9"
                     },
                     {
                         "name": "Normal Exit",
@@ -293,7 +381,23 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Rooms/VDH/0x0107"
+                        "ref": "Rooms/VDH/Room 0x0107"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/VDH/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/VDH/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/VDH/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/VDH/Dragon Coin #4"
                     },
                     {
                         "name": "Dragon Coins",

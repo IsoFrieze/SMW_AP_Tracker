@@ -41,8 +41,12 @@
                 ]
             },
             {
-                "name": "Vanilla Dome 1 - Dragon Coins",
+                "name": "Vanilla Dome 1 - Dragon Coin #1",
                 "sections": [
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/VD1/Dragon Coin #1"
+                    },
                     {
                         "name": "Dragon Coins",
                         "ref": "Dragon Coins/VD1/Dragon Coins"
@@ -53,22 +57,82 @@
                         "map": "vd1_main",
                         "x": 1160,
                         "y": 272
+                    }
+                ]
+            },
+            {
+                "name": "Vanilla Dome 1 - Dragon Coin #2",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/VD1/Dragon Coin #2"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/VD1/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "vd1_sub_1",
                         "x": 1320,
                         "y": 320
+                    }
+                ]
+            },
+            {
+                "name": "Vanilla Dome 1 - Dragon Coin #3",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/VD1/Dragon Coin #3"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/VD1/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "vd1_main",
                         "x": 168,
                         "y": 1104
+                    }
+                ]
+            },
+            {
+                "name": "Vanilla Dome 1 - Dragon Coin #4",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/VD1/Dragon Coin #4"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/VD1/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "vd1_main",
                         "x": 808,
                         "y": 1104
+                    }
+                ]
+            },
+            {
+                "name": "Vanilla Dome 1 - Dragon Coin #5",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/VD1/Dragon Coin #5"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/VD1/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "vd1_main",
                         "x": 1672,
@@ -257,7 +321,7 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Rooms/VD1/0x011A"
+                        "ref": "Rooms/VD1/Room 0x011A"
                     },
                     {
                         "name": "Midway Point",
@@ -270,6 +334,22 @@
                     {
                         "name": "Secret Exit",
                         "ref": "Exits/VD1/Secret Exit"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/VD1/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/VD1/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/VD1/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/VD1/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",
@@ -325,7 +405,11 @@
                 "sections": [
                     {
                         "name": "Sinking rock room",
-                        "ref": "Rooms/VD1/0x01EF"
+                        "ref": "Rooms/VD1/Room 0x01EF"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/VD1/Dragon Coin #2"
                     },
                     {
                         "name": "Dragon Coins",
@@ -349,7 +433,7 @@
                 "sections": [
                     {
                         "name": "Sinking rock room",
-                        "ref": "Rooms/VD1/0x01EF"
+                        "ref": "Rooms/VD1/Room 0x01EF"
                     },
                     {
                         "name": "Midway Point",
@@ -362,6 +446,22 @@
                     {
                         "name": "Secret Exit",
                         "ref": "Exits/VD1/Secret Exit"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/VD1/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/VD1/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/VD1/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/VD1/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",
@@ -393,7 +493,7 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Rooms/VD1/0x011A"
+                        "ref": "Rooms/VD1/Room 0x011A"
                     },
                     {
                         "name": "Midway Point",
@@ -406,6 +506,18 @@
                     {
                         "name": "Secret Exit",
                         "ref": "Exits/VD1/Secret Exit"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/VD1/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/VD1/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/VD1/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",

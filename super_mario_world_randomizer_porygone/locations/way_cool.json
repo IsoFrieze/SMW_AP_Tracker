@@ -30,8 +30,12 @@
                 ]
             },
             {
-                "name": "Way Cool - Dragon Coins",
+                "name": "Way Cool - Dragon Coin #1",
                 "sections": [
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/SZ3/Dragon Coin #1"
+                    },
                     {
                         "name": "Dragon Coins",
                         "ref": "Dragon Coins/SZ3/Dragon Coins"
@@ -42,37 +46,142 @@
                         "map": "sw3_main",
                         "x": 584,
                         "y": 352
+                    }
+                ]
+            },
+            {
+                "name": "Way Cool - Dragon Coin #2",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/SZ3/Dragon Coin #2"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/SZ3/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "sw3_main",
                         "x": 1672,
                         "y": 192
+                    }
+                ]
+            },
+            {
+                "name": "Way Cool - Dragon Coin #3",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/SZ3/Dragon Coin #3"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/SZ3/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "sw3_main",
                         "x": 184,
                         "y": 624
+                    }
+                ]
+            },
+            {
+                "name": "Way Cool - Dragon Coin #4",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/SZ3/Dragon Coin #4"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/SZ3/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "sw3_main",
                         "x": 1416,
                         "y": 768
+                    }
+                ]
+            },
+            {
+                "name": "Way Cool - Dragon Coin #5",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/SZ3/Dragon Coin #5"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/SZ3/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "sw3_sub_2",
                         "x": 232,
                         "y": 304
+                    }
+                ]
+            },
+            {
+                "name": "Way Cool - Dragon Coin #6",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #6",
+                        "ref": "Dragon Coins/SZ3/Dragon Coin #6"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/SZ3/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "sw3_sub_2",
                         "x": 488,
                         "y": 368
+                    }
+                ]
+            },
+            {
+                "name": "Way Cool - Dragon Coin #7",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #7",
+                        "ref": "Dragon Coins/SZ3/Dragon Coin #7"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/SZ3/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "sw3_sub_2",
                         "x": 840,
                         "y": 224
+                    }
+                ]
+            },
+            {
+                "name": "Way Cool - Dragon Coin #8",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #8",
+                        "ref": "Dragon Coins/SZ3/Dragon Coin #8"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/SZ3/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "sw3_sub_2",
                         "x": 1144,
@@ -133,11 +242,27 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Rooms/SZ3/0x012C"
+                        "ref": "Rooms/SZ3/Room 0x012C"
                     },
                     {
                         "name": "Normal Exit",
                         "ref": "Exits/SZ3/Normal Exit"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/SZ3/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/SZ3/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/SZ3/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/SZ3/Dragon Coin #4"
                     },
                     {
                         "name": "Dragon Coins",
@@ -165,7 +290,7 @@
                 "sections": [
                     {
                         "name": "Yoshi room",
-                        "ref": "Rooms/SZ3/0x01C9"
+                        "ref": "Rooms/SZ3/Room 0x01C9"
                     },
                     {
                         "name": "Yoshi Block #1",
@@ -185,11 +310,27 @@
                 "sections": [
                     {
                         "name": "Yoshi wings room",
-                        "ref": "Rooms/SZ3/0x21C8"
+                        "ref": "Rooms/SZ3/Room 0x21C8"
                     },
                     {
                         "name": "Normal Exit",
                         "ref": "Exits/SZ3/Normal Exit"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/SZ3/Dragon Coin #5"
+                    },
+                    {
+                        "name": "Dragon Coin #6",
+                        "ref": "Dragon Coins/SZ3/Dragon Coin #6"
+                    },
+                    {
+                        "name": "Dragon Coin #7",
+                        "ref": "Dragon Coins/SZ3/Dragon Coin #7"
+                    },
+                    {
+                        "name": "Dragon Coin #8",
+                        "ref": "Dragon Coins/SZ3/Dragon Coin #8"
                     },
                     {
                         "name": "Dragon Coins",
@@ -209,7 +350,7 @@
                 "sections": [
                     {
                         "name": "Yoshi room",
-                        "ref": "Rooms/SZ3/0x01C9"
+                        "ref": "Rooms/SZ3/Room 0x01C9"
                     },
                     {
                         "name": "Yoshi Block #1",
@@ -229,11 +370,27 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Rooms/SZ3/0x012C"
+                        "ref": "Rooms/SZ3/Room 0x012C"
                     },
                     {
                         "name": "Normal Exit",
                         "ref": "Exits/SZ3/Normal Exit"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/SZ3/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/SZ3/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/SZ3/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/SZ3/Dragon Coin #4"
                     },
                     {
                         "name": "Dragon Coins",
@@ -261,11 +418,27 @@
                 "sections": [
                     {
                         "name": "Yoshi wings room",
-                        "ref": "Rooms/SZ3/0x21C8"
+                        "ref": "Rooms/SZ3/Room 0x21C8"
                     },
                     {
                         "name": "Normal Exit",
                         "ref": "Exits/SZ3/Normal Exit"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/SZ3/Dragon Coin #5"
+                    },
+                    {
+                        "name": "Dragon Coin #6",
+                        "ref": "Dragon Coins/SZ3/Dragon Coin #6"
+                    },
+                    {
+                        "name": "Dragon Coin #7",
+                        "ref": "Dragon Coins/SZ3/Dragon Coin #7"
+                    },
+                    {
+                        "name": "Dragon Coin #8",
+                        "ref": "Dragon Coins/SZ3/Dragon Coin #8"
                     },
                     {
                         "name": "Dragon Coins",

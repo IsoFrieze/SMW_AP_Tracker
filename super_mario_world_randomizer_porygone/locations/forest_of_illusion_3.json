@@ -41,8 +41,12 @@
                 ]
             },
             {
-                "name": "Forest of Illusion 3 - Dragon Coins",
+                "name": "Forest of Illusion 3 - Dragon Coin #1",
                 "sections": [
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/FI3/Dragon Coin #1"
+                    },
                     {
                         "name": "Dragon Coins",
                         "ref": "Dragon Coins/FI3/Dragon Coins"
@@ -53,22 +57,82 @@
                         "map": "foi3_main",
                         "x": 392,
                         "y": 368
+                    }
+                ]
+            },
+            {
+                "name": "Forest of Illusion 3 - Dragon Coin #2",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/FI3/Dragon Coin #2"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/FI3/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "foi3_main",
                         "x": 1784,
                         "y": 272
+                    }
+                ]
+            },
+            {
+                "name": "Forest of Illusion 3 - Dragon Coin #3",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/FI3/Dragon Coin #3"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/FI3/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "foi3_main",
                         "x": 664,
                         "y": 704
+                    }
+                ]
+            },
+            {
+                "name": "Forest of Illusion 3 - Dragon Coin #4",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/FI3/Dragon Coin #4"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/FI3/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "foi3_main",
                         "x": 1720,
                         "y": 704
+                    }
+                ]
+            },
+            {
+                "name": "Forest of Illusion 3 - Dragon Coin #5",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/FI3/Dragon Coin #5"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/FI3/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "foi3_main",
                         "x": 504,
@@ -545,7 +609,7 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Rooms/FI3/0x0123"
+                        "ref": "Rooms/FI3/Room 0x0123"
                     },
                     {
                         "name": "Midway Point",
@@ -554,6 +618,26 @@
                     {
                         "name": "Normal Exit",
                         "ref": "Exits/FI3/Normal Exit"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/FI3/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/FI3/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/FI3/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/FI3/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/FI3/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",
@@ -685,7 +769,7 @@
                 "sections": [
                     {
                         "name": "Keyhole room",
-                        "ref": "Rooms/FI3/0x01F8"
+                        "ref": "Rooms/FI3/Room 0x01F8"
                     },
                     {
                         "name": "Secret Exit",
@@ -705,7 +789,7 @@
                 "sections": [
                     {
                         "name": "Bonus room",
-                        "ref": "Rooms/FI3/0x01BC"
+                        "ref": "Rooms/FI3/Room 0x01BC"
                     }
                 ],
                 "map_locations": [
@@ -721,7 +805,7 @@
                 "sections": [
                     {
                         "name": "Keyhole room",
-                        "ref": "Rooms/FI3/0x01F8"
+                        "ref": "Rooms/FI3/Room 0x01F8"
                     },
                     {
                         "name": "Secret Exit",
@@ -741,7 +825,7 @@
                 "sections": [
                     {
                         "name": "Bonus room",
-                        "ref": "Rooms/FI3/0x01BC"
+                        "ref": "Rooms/FI3/Room 0x01BC"
                     }
                 ],
                 "map_locations": [
@@ -757,7 +841,7 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Rooms/FI3/0x0123"
+                        "ref": "Rooms/FI3/Room 0x0123"
                     },
                     {
                         "name": "Midway Point",
@@ -766,6 +850,26 @@
                     {
                         "name": "Normal Exit",
                         "ref": "Exits/FI3/Normal Exit"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/FI3/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/FI3/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/FI3/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/FI3/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/FI3/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",

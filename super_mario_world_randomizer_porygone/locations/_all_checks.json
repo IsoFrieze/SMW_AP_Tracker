@@ -2433,26 +2433,32 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "access_rules": [ "$CanGet5DragonCoins|YI1|5" ]
+                        "visibility_rules": [ "$Not|individual_dragon_coins" ],
+                        "access_rules": [ "^$CanGet5DragonCoins|YI1|5" ]
                     },
                     {
                         "name": "Dragon Coin #1",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #2",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #3",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "powerup_1, spin_jump" ]
                     },
                     {
                         "name": "Dragon Coin #4",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #5",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     }
                 ]
@@ -2463,22 +2469,27 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "access_rules": [ "$CanGet5DragonCoins|YI2|5" ]
+                        "visibility_rules": [ "$Not|individual_dragon_coins" ],
+                        "access_rules": [ "^$CanGet5DragonCoins|YI2|5" ]
                     },
                     {
                         "name": "Dragon Coin #1",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #2",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #3",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #4",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
                             "climb",
                             "yoshi"
@@ -2486,6 +2497,7 @@
                     },
                     {
                         "name": "Dragon Coin #5",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     }
                 ]
@@ -2496,26 +2508,32 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "access_rules": [ "$CanGet5DragonCoins|YI3|5" ]
+                        "visibility_rules": [ "$Not|individual_dragon_coins" ],
+                        "access_rules": [ "^$CanGet5DragonCoins|YI3|5" ]
                     },
                     {
                         "name": "Dragon Coin #1",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #2",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "p_switch" ]
                     },
                     {
                         "name": "Dragon Coin #3",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #4",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #5",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     }
                 ]
@@ -2526,22 +2544,27 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "access_rules": [ "$CanGet5DragonCoins|YI4|5" ]
+                        "visibility_rules": [ "$Not|individual_dragon_coins" ],
+                        "access_rules": [ "^$CanGet5DragonCoins|YI4|5" ]
                     },
                     {
                         "name": "Dragon Coin #1",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #2",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #3",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #4",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
                             "yoshi",
                             "swim",
@@ -2550,6 +2573,7 @@
                     },
                     {
                         "name": "Dragon Coin #5",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     }
                 ]
@@ -2560,18 +2584,22 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "access_rules": [ "$CanGet5DragonCoins|DP1|5" ]
+                        "visibility_rules": [ "$Not|individual_dragon_coins" ],
+                        "access_rules": [ "^$CanGet5DragonCoins|DP1|5" ]
                     },
                     {
                         "name": "Dragon Coin #1",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #2",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #3",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
                             "climb",
                             "yoshi",
@@ -2580,10 +2608,12 @@
                     },
                     {
                         "name": "Dragon Coin #4",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #5",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     }
                 ]
@@ -2594,26 +2624,32 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "access_rules": [ "$CanGet5DragonCoins|DP2|5" ]
+                        "visibility_rules": [ "$Not|individual_dragon_coins" ],
+                        "access_rules": [ "^$CanGet5DragonCoins|DP2|5" ]
                     },
                     {
                         "name": "Dragon Coin #1",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #2",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #3",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #4",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #5",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     }
                 ]
@@ -2624,14 +2660,17 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "access_rules": [ "$CanGet5DragonCoins|DP3|5" ]
+                        "visibility_rules": [ "$Not|individual_dragon_coins" ],
+                        "access_rules": [ "^$CanGet5DragonCoins|DP3|5" ]
                     },
                     {
                         "name": "Dragon Coin #1",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #2",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
                             "[spin_jump], [powerup_1], climb",
                             "yoshi",
@@ -2640,14 +2679,17 @@
                     },
                     {
                         "name": "Dragon Coin #3",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #4",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #5",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     }
                 ]
@@ -2658,26 +2700,32 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "access_rules": [ "$CanGet5DragonCoins|DP4|5" ]
+                        "visibility_rules": [ "$Not|individual_dragon_coins" ],
+                        "access_rules": [ "^$CanGet5DragonCoins|DP4|5" ]
                     },
                     {
                         "name": "Dragon Coin #1",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #2",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #3",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #4",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #5",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     }
                 ]
@@ -2688,34 +2736,42 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "access_rules": [ "$CanGet5DragonCoins|DS1|7" ]
+                        "visibility_rules": [ "$Not|individual_dragon_coins" ],
+                        "access_rules": [ "^$CanGet5DragonCoins|DS1|7" ]
                     },
                     {
                         "name": "Dragon Coin #1",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "swim" ]
                     },
                     {
                         "name": "Dragon Coin #2",
-                        "access_rules": [ "swim, pballoon" ]
+                        "visibility_rules": [ "individual_dragon_coins" ],
+                        "access_rules": [ "swim, p_balloon" ]
                     },
                     {
                         "name": "Dragon Coin #3",
-                        "access_rules": [ "swim, pballoon" ]
+                        "visibility_rules": [ "individual_dragon_coins" ],
+                        "access_rules": [ "swim, p_balloon" ]
                     },
                     {
                         "name": "Dragon Coin #4",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "swim" ]
                     },
                     {
                         "name": "Dragon Coin #5",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "swim" ]
                     },
                     {
                         "name": "Dragon Coin #6",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "swim" ]
                     },
                     {
                         "name": "Dragon Coin #7",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "swim" ]
                     }
                 ]
@@ -2726,14 +2782,17 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "access_rules": [ "$CanGet5DragonCoins|DS2|5" ]
+                        "visibility_rules": [ "$Not|individual_dragon_coins" ],
+                        "access_rules": [ "^$CanGet5DragonCoins|DS2|5" ]
                     },
                     {
                         "name": "Dragon Coin #1",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #2",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
                             "run, powerup_3, [climb]",
                             "run, powerup_3, [yoshi]",
@@ -2743,14 +2802,17 @@
                     },
                     {
                         "name": "Dragon Coin #3",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #4",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #5",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     }
                 ]
@@ -2761,14 +2823,17 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "access_rules": [ "$CanGet5DragonCoins|VD1|5" ]
+                        "visibility_rules": [ "$Not|individual_dragon_coins" ],
+                        "access_rules": [ "^$CanGet5DragonCoins|VD1|5" ]
                     },
                     {
                         "name": "Dragon Coin #1",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #2",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
                             "carry, [run], [star]",
                             "carry, [run], [powerup_1]"
@@ -2776,6 +2841,7 @@
                     },
                     {
                         "name": "Dragon Coin #3",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
                             "carry, [run], [star]",
                             "carry, [run], [powerup_1]"
@@ -2783,6 +2849,7 @@
                     },
                     {
                         "name": "Dragon Coin #4",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
                             "carry, [run], [star]",
                             "carry, [run], [powerup_1]"
@@ -2790,6 +2857,7 @@
                     },
                     {
                         "name": "Dragon Coin #5",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
                             "carry, [run], [star]",
                             "carry, [run], [powerup_1]"
@@ -2803,10 +2871,12 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "access_rules": [ "$CanGet5DragonCoins|VD2|5" ]
+                        "visibility_rules": [ "$Not|individual_dragon_coins" ],
+                        "access_rules": [ "^$CanGet5DragonCoins|VD2|5" ]
                     },
                     {
                         "name": "Dragon Coin #1",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
                             "swim, p_switch, climb",
                             "swim, p_switch, yoshi"
@@ -2814,6 +2884,7 @@
                     },
                     {
                         "name": "Dragon Coin #2",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
                             "swim, climb",
                             "swim, yoshi"
@@ -2821,6 +2892,7 @@
                     },
                     {
                         "name": "Dragon Coin #3",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
                             "swim, climb",
                             "swim, yoshi"
@@ -2828,6 +2900,7 @@
                     },
                     {
                         "name": "Dragon Coin #4",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
                             "swim, climb",
                             "swim, yoshi"
@@ -2835,6 +2908,7 @@
                     },
                     {
                         "name": "Dragon Coin #5",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
                             "swim, climb",
                             "swim, yoshi"
@@ -2848,30 +2922,37 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "access_rules": [ "$CanGet5DragonCoins|VD3|6" ]
+                        "visibility_rules": [ "$Not|individual_dragon_coins" ],
+                        "access_rules": [ "^$CanGet5DragonCoins|VD3|6" ]
                     },
                     {
                         "name": "Dragon Coin #1",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #2",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #3",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #4",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #5",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #6",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "run, powerup_3" ]
                     }
                 ]
@@ -2882,26 +2963,32 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "access_rules": [ "$CanGet5DragonCoins|VD4|5" ]
+                        "visibility_rules": [ "$Not|individual_dragon_coins" ],
+                        "access_rules": [ "^$CanGet5DragonCoins|VD4|5" ]
                     },
                     {
                         "name": "Dragon Coin #1",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #2",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #3",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #4",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #5",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     }
                 ]
@@ -2912,14 +2999,17 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "access_rules": [ "$CanGet5DragonCoins|VS1|5" ]
+                        "visibility_rules": [ "$Not|individual_dragon_coins" ],
+                        "access_rules": [ "^$CanGet5DragonCoins|VS1|5" ]
                     },
                     {
                         "name": "Dragon Coin #1",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #2",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
                             "climb",
                             "yoshi",
@@ -2928,6 +3018,7 @@
                     },
                     {
                         "name": "Dragon Coin #3",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
                             "climb",
                             "run, powerup_3"
@@ -2935,6 +3026,7 @@
                     },
                     {
                         "name": "Dragon Coin #4",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
                             "climb, carry",
                             "run, powerup_3"
@@ -2942,6 +3034,7 @@
                     },
                     {
                         "name": "Dragon Coin #5",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
                             "climb, carry",
                             "run, powerup_3"
@@ -2955,26 +3048,32 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "access_rules": [ "$CanGet5DragonCoins|VS2|5" ]
+                        "visibility_rules": [ "$Not|individual_dragon_coins" ],
+                        "access_rules": [ "^$CanGet5DragonCoins|VS2|5" ]
                     },
                     {
                         "name": "Dragon Coin #1",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "[powerup_3], [run]" ]
                     },
                     {
                         "name": "Dragon Coin #2",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #3",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #4",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #5",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     }
                 ]
@@ -2985,26 +3084,32 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "access_rules": [ "$CanGet5DragonCoins|VS3|5" ]
+                        "visibility_rules": [ "$Not|individual_dragon_coins" ],
+                        "access_rules": [ "^$CanGet5DragonCoins|VS3|5" ]
                     },
                     {
                         "name": "Dragon Coin #1",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "[swim]" ]
                     },
                     {
                         "name": "Dragon Coin #2",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "[swim]" ]
                     },
                     {
                         "name": "Dragon Coin #3",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "[swim]" ]
                     },
                     {
                         "name": "Dragon Coin #4",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "[swim]" ]
                     },
                     {
                         "name": "Dragon Coin #5",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "[swim]" ]
                     }
                 ]
@@ -3015,18 +3120,22 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "access_rules": [ "$CanGet5DragonCoins|VDH|5" ]
+                        "visibility_rules": [ "$Not|individual_dragon_coins" ],
+                        "access_rules": [ "^$CanGet5DragonCoins|VDH|5" ]
                     },
                     {
                         "name": "Dragon Coin #1",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #2",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #3",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
                             "climb",
                             "[climb], spin_jump"
@@ -3034,10 +3143,12 @@
                     },
                     {
                         "name": "Dragon Coin #4",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #5",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     }
                 ]
@@ -3048,26 +3159,32 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "access_rules": [ "$CanGet5DragonCoins|BB1|5" ]
+                        "visibility_rules": [ "$Not|individual_dragon_coins" ],
+                        "access_rules": [ "^$CanGet5DragonCoins|BB1|5" ]
                     },
                     {
                         "name": "Dragon Coin #1",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #2",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #3",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #4",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #5",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     }
                 ]
@@ -3078,26 +3195,32 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "access_rules": [ "$CanGet5DragonCoins|BB2|5" ]
+                        "visibility_rules": [ "$Not|individual_dragon_coins" ],
+                        "access_rules": [ "^$CanGet5DragonCoins|BB2|5" ]
                     },
                     {
                         "name": "Dragon Coin #1",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "powerup_3, run" ]
                     },
                     {
                         "name": "Dragon Coin #2",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "powerup_1", "yoshi" ]
                     },
                     {
                         "name": "Dragon Coin #3",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #4",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #5",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     }
                 ]
@@ -3108,46 +3231,57 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "access_rules": [ "$CanGet5DragonCoins|CBA|10" ]
+                        "visibility_rules": [ "$Not|individual_dragon_coins" ],
+                        "access_rules": [ "^$CanGet5DragonCoins|CBA|10" ]
                     },
                     {
                         "name": "Dragon Coin #1",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #2",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #3",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #4",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #5",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "climb" ]
                     },
                     {
                         "name": "Dragon Coin #6",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "yoshi" ]
                     },
                     {
                         "name": "Dragon Coin #7",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "yoshi" ]
                     },
                     {
                         "name": "Dragon Coin #8",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "yoshi" ]
                     },
                     {
                         "name": "Dragon Coin #9",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "yoshi" ]
                     },
                     {
                         "name": "Dragon Coin #10",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "yoshi" ]
                     }
                 ]
@@ -3158,18 +3292,22 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "access_rules": [ "$CanGet5DragonCoins|COM|5" ]
+                        "visibility_rules": [ "$Not|individual_dragon_coins" ],
+                        "access_rules": [ "^$CanGet5DragonCoins|COM|5" ]
                     },
                     {
                         "name": "Dragon Coin #1",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #2",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #3",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
                             "yoshi",
                             "climb",
@@ -3179,10 +3317,12 @@
                     },
                     {
                         "name": "Dragon Coin #4",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #5",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     }
                 ]
@@ -3193,26 +3333,32 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "access_rules": [ "$CanGet5DragonCoins|SOL|5" ]
+                        "visibility_rules": [ "$Not|individual_dragon_coins" ],
+                        "access_rules": [ "^$CanGet5DragonCoins|SOL|5" ]
                     },
                     {
                         "name": "Dragon Coin #1",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "swim" ]
                     },
                     {
                         "name": "Dragon Coin #2",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "swim" ]
                     },
                     {
                         "name": "Dragon Coin #3",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "swim" ]
                     },
                     {
                         "name": "Dragon Coin #4",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "swim" ]
                     },
                     {
                         "name": "Dragon Coin #5",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "swim" ]
                     }
                 ]
@@ -3223,26 +3369,32 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "access_rules": [ "$CanGet5DragonCoins|FI2|5" ]
+                        "visibility_rules": [ "$Not|individual_dragon_coins" ],
+                        "access_rules": [ "^$CanGet5DragonCoins|FI2|5" ]
                     },
                     {
                         "name": "Dragon Coin #1",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "swim" ]
                     },
                     {
                         "name": "Dragon Coin #2",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "swim" ]
                     },
                     {
                         "name": "Dragon Coin #3",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "swim" ]
                     },
                     {
                         "name": "Dragon Coin #4",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "swim" ]
                     },
                     {
                         "name": "Dragon Coin #5",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "swim" ]
                     }
                 ]
@@ -3253,14 +3405,17 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "access_rules": [ "$CanGet5DragonCoins|FI3|5" ]
+                        "visibility_rules": [ "$Not|individual_dragon_coins" ],
+                        "access_rules": [ "^$CanGet5DragonCoins|FI3|5" ]
                     },
                     {
                         "name": "Dragon Coin #1",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #2",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
                             "carry",
                             "yoshi",
@@ -3270,6 +3425,7 @@
                     },
                     {
                         "name": "Dragon Coin #3",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
                             "carry",
                             "yoshi",
@@ -3279,6 +3435,7 @@
                     },
                     {
                         "name": "Dragon Coin #4",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
                             "carry",
                             "yoshi",
@@ -3288,6 +3445,7 @@
                     },
                     {
                         "name": "Dragon Coin #5",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
                             "carry",
                             "yoshi",
@@ -3303,22 +3461,27 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "access_rules": [ "$CanGet5DragonCoins|FI4|5" ]
+                        "visibility_rules": [ "$Not|individual_dragon_coins" ],
+                        "access_rules": [ "^$CanGet5DragonCoins|FI4|5" ]
                     },
                     {
                         "name": "Dragon Coin #1",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #2",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #3",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #4",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
                             "yoshi",
                             "carry",
@@ -3328,6 +3491,7 @@
                     },
                     {
                         "name": "Dragon Coin #5",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     }
                 ]
@@ -3338,26 +3502,32 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "access_rules": [ "$CanGet5DragonCoins|FGH|5" ]
+                        "visibility_rules": [ "$Not|individual_dragon_coins" ],
+                        "access_rules": [ "^$CanGet5DragonCoins|FGH|5" ]
                     },
                     {
                         "name": "Dragon Coin #1",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #2",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #3",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #4",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #5",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "p_switch" ]
                     }
                 ]
@@ -3368,26 +3538,32 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "access_rules": [ "$CanGet5DragonCoins|FSA|5" ]
+                        "visibility_rules": [ "$Not|individual_dragon_coins" ],
+                        "access_rules": [ "^$CanGet5DragonCoins|FSA|5" ]
                     },
                     {
                         "name": "Dragon Coin #1",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #2",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #3",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #4",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #5",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     }
                 ]
@@ -3398,26 +3574,32 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "access_rules": [ "$CanGet5DragonCoins|FIC|5" ]
+                        "visibility_rules": [ "$Not|individual_dragon_coins" ],
+                        "access_rules": [ "^$CanGet5DragonCoins|FIC|5" ]
                     },
                     {
                         "name": "Dragon Coin #1",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #2",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #3",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #4",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #5",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     }
                 ]
@@ -3428,14 +3610,17 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "access_rules": [ "$CanGet5DragonCoins|CI1|5" ]
+                        "visibility_rules": [ "$Not|individual_dragon_coins" ],
+                        "access_rules": [ "^$CanGet5DragonCoins|CI1|5" ]
                     },
                     {
                         "name": "Dragon Coin #1",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #2",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
                             "p_switch",
                             "[p_switch], powerup_1",
@@ -3444,6 +3629,7 @@
                     },
                     {
                         "name": "Dragon Coin #3",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
                             "p_switch",
                             "[p_switch], powerup_1",
@@ -3452,6 +3638,7 @@
                     },
                     {
                         "name": "Dragon Coin #4",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
                             "p_switch",
                             "[p_switch], powerup_1",
@@ -3460,6 +3647,7 @@
                     },
                     {
                         "name": "Dragon Coin #5",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
                             "p_switch",
                             "[p_switch], powerup_1",
@@ -3474,34 +3662,42 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "access_rules": [ "$CanGet5DragonCoins|CI2|7" ]
+                        "visibility_rules": [ "$Not|individual_dragon_coins" ],
+                        "access_rules": [ "^$CanGet5DragonCoins|CI2|7" ]
                     },
                     {
                         "name": "Dragon Coin #1",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #2",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #3",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #4",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "run", "powerup_3" ]
                     },
                     {
                         "name": "Dragon Coin #5",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "swim", "yoshi" ]
                     },
                     {
                         "name": "Dragon Coin #6",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #7",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
                             "bsp, p_switch",
                             "bsp, gsp",
@@ -3522,26 +3718,32 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "access_rules": [ "$CanGet5DragonCoins|CI3|5" ]
+                        "visibility_rules": [ "$Not|individual_dragon_coins" ],
+                        "access_rules": [ "^$CanGet5DragonCoins|CI3|5" ]
                     },
                     {
                         "name": "Dragon Coin #1",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #2",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #3",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #4",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #5",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     }
                 ]
@@ -3552,26 +3754,32 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "access_rules": [ "$CanGet5DragonCoins|CI4|5" ]
+                        "visibility_rules": [ "$Not|individual_dragon_coins" ],
+                        "access_rules": [ "^$CanGet5DragonCoins|CI4|5" ]
                     },
                     {
                         "name": "Dragon Coin #1",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #2",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #3",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "p_switch" ]
                     },
                     {
                         "name": "Dragon Coin #4",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #5",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "p_switch, [powerup_3]" ]
                     }
                 ]
@@ -3582,37 +3790,45 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "access_rules": [ "$CanGet5DragonCoins|CI5|7" ]
+                        "visibility_rules": [ "$Not|individual_dragon_coins" ],
+                        "access_rules": [ "^$CanGet5DragonCoins|CI5|7" ]
                     },
                     {
                         "name": "Dragon Coin #1",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #2",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "carry, p_switch" ]
                     },
                     {
                         "name": "Dragon Coin #3",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #4",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #5",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
-                            "pswitch",
+                            "p_switch",
                             "swim"
                         ]
                     },
                     {
                         "name": "Dragon Coin #6",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #7",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     }
                 ]
@@ -3623,26 +3839,32 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "access_rules": [ "$CanGet5DragonCoins|SGS|5" ]
+                        "visibility_rules": [ "$Not|individual_dragon_coins" ],
+                        "access_rules": [ "^$CanGet5DragonCoins|SGS|5" ]
                     },
                     {
                         "name": "Dragon Coin #1",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "swim, star, powerup_3" ]
                     },
                     {
                         "name": "Dragon Coin #2",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "swim, star, powerup_3" ]
                     },
                     {
                         "name": "Dragon Coin #3",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "swim, star, powerup_3" ]
                     },
                     {
                         "name": "Dragon Coin #4",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "swim, star, powerup_3" ]
                     },
                     {
                         "name": "Dragon Coin #5",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "swim, star, powerup_3" ]
                     }
                 ]
@@ -3653,26 +3875,32 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "access_rules": [ "$CanGet5DragonCoins|VB1|5" ]
+                        "visibility_rules": [ "$Not|individual_dragon_coins" ],
+                        "access_rules": [ "^$CanGet5DragonCoins|VB1|5" ]
                     },
                     {
                         "name": "Dragon Coin #1",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #2",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #3",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #4",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #5",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     }
                 ]
@@ -3683,34 +3911,42 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "access_rules": [ "$CanGet5DragonCoins|VB2|7" ]
+                        "visibility_rules": [ "$Not|individual_dragon_coins" ],
+                        "access_rules": [ "^$CanGet5DragonCoins|VB2|7" ]
                     },
                     {
                         "name": "Dragon Coin #1",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #2",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #3",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #4",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "yoshi" ]
                     },
                     {
                         "name": "Dragon Coin #5",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "yoshi" ]
                     },
                     {
                         "name": "Dragon Coin #6",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "yoshi" ]
                     },
                     {
                         "name": "Dragon Coin #7",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "yoshi" ]
                     }
                 ]
@@ -3721,26 +3957,32 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "access_rules": [ "$CanGet5DragonCoins|VB3|5" ]
+                        "visibility_rules": [ "$Not|individual_dragon_coins" ],
+                        "access_rules": [ "^$CanGet5DragonCoins|VB3|5" ]
                     },
                     {
                         "name": "Dragon Coin #1",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #2",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #3",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #4",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #5",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     }
                 ]
@@ -3751,31 +3993,38 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "access_rules": [ "$CanGet5DragonCoins|VBH|6" ]
+                        "visibility_rules": [ "$Not|individual_dragon_coins" ],
+                        "access_rules": [ "^$CanGet5DragonCoins|VBH|6" ]
                     },
                     {
                         "name": "Dragon Coin #1",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #2",
-                        "access_rules": [ "pswitch" ]
+                        "visibility_rules": [ "individual_dragon_coins" ],
+                        "access_rules": [ "p_switch" ]
                     },
                     {
                         "name": "Dragon Coin #3",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #4",
-                        "access_rules": [ "pswitch" ]
+                        "visibility_rules": [ "individual_dragon_coins" ],
+                        "access_rules": [ "p_switch" ]
                     },
                     {
                         "name": "Dragon Coin #5",
-                        "access_rules": [ "pswitch, [run]" ]
+                        "visibility_rules": [ "individual_dragon_coins" ],
+                        "access_rules": [ "p_switch, [run]" ]
                     },
                     {
                         "name": "Dragon Coin #6",
-                        "access_rules": [ "pswitch" ]
+                        "visibility_rules": [ "individual_dragon_coins" ],
+                        "access_rules": [ "p_switch" ]
                     }
                 ]
             },
@@ -3785,26 +4034,32 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "access_rules": [ "$CanGet5DragonCoins|VBC|5" ]
+                        "visibility_rules": [ "$Not|individual_dragon_coins" ],
+                        "access_rules": [ "^$CanGet5DragonCoins|VBC|5" ]
                     },
                     {
                         "name": "Dragon Coin #1",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #2",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #3",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #4",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #5",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     }
                 ]
@@ -3815,26 +4070,32 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "access_rules": [ "$CanGet5DragonCoins|SR1|5" ]
+                        "visibility_rules": [ "$Not|individual_dragon_coins" ],
+                        "access_rules": [ "^$CanGet5DragonCoins|SR1|5" ]
                     },
                     {
                         "name": "Dragon Coin #1",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "powerup_1, spin_jump" ]
                     },
                     {
                         "name": "Dragon Coin #2",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "powerup_1, spin_jump" ]
                     },
                     {
                         "name": "Dragon Coin #3",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "powerup_1, spin_jump" ]
                     },
                     {
                         "name": "Dragon Coin #4",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "powerup_1, spin_jump" ]
                     },
                     {
                         "name": "Dragon Coin #5",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "powerup_1, spin_jump" ]
                     }
                 ]
@@ -3845,38 +4106,47 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "access_rules": [ "$CanGet5DragonCoins|SZ1|8" ]
+                        "visibility_rules": [ "$Not|individual_dragon_coins" ],
+                        "access_rules": [ "^$CanGet5DragonCoins|SZ1|8" ]
                     },
                     {
                         "name": "Dragon Coin #1",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "climb" ]
                     },
                     {
                         "name": "Dragon Coin #2",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "climb" ]
                     },
                     {
                         "name": "Dragon Coin #3",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "climb" ]
                     },
                     {
                         "name": "Dragon Coin #4",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "climb" ]
                     },
                     {
                         "name": "Dragon Coin #5",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "climb" ]
                     },
                     {
                         "name": "Dragon Coin #6",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "climb, p_switch" ]
                     },
                     {
                         "name": "Dragon Coin #7",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "climb, p_switch" ]
                     },
                     {
                         "name": "Dragon Coin #8",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "climb, p_switch" ]
                     }
                 ]
@@ -3887,27 +4157,33 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "access_rules": [ "$CanGet5DragonCoins|SZ2|5" ]
+                        "visibility_rules": [ "$Not|individual_dragon_coins" ],
+                        "access_rules": [ "^$CanGet5DragonCoins|SZ2|5" ]
                     },
                     {
                         "name": "Dragon Coin #1",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #2",
-                        "access_rules": [ "pballoon" ]
+                        "visibility_rules": [ "individual_dragon_coins" ],
+                        "access_rules": [ "p_balloon" ]
                     },
                     {
                         "name": "Dragon Coin #3",
-                        "access_rules": [ "pballoon" ]
+                        "visibility_rules": [ "individual_dragon_coins" ],
+                        "access_rules": [ "p_balloon" ]
                     },
                     {
                         "name": "Dragon Coin #4",
-                        "access_rules": [ "pballoon" ]
+                        "visibility_rules": [ "individual_dragon_coins" ],
+                        "access_rules": [ "p_balloon" ]
                     },
                     {
                         "name": "Dragon Coin #5",
-                        "access_rules": [ "pballoon" ]
+                        "visibility_rules": [ "individual_dragon_coins" ],
+                        "access_rules": [ "p_balloon" ]
                     }
                 ]
             },
@@ -3917,38 +4193,47 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "access_rules": [ "$CanGet5DragonCoins|SZ3|8" ]
+                        "visibility_rules": [ "$Not|individual_dragon_coins" ],
+                        "access_rules": [ "^$CanGet5DragonCoins|SZ3|8" ]
                     },
                     {
                         "name": "Dragon Coin #1",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #2",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #3",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #4",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "climb" ]
                     },
                     {
                         "name": "Dragon Coin #5",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "yoshi" ]
                     },
                     {
                         "name": "Dragon Coin #6",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "yoshi" ]
                     },
                     {
                         "name": "Dragon Coin #7",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "yoshi" ]
                     },
                     {
                         "name": "Dragon Coin #8",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "yoshi" ]
                     }
                 ]
@@ -3959,18 +4244,22 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "access_rules": [ "$CanGet5DragonCoins|SZ4|5" ]
+                        "visibility_rules": [ "$Not|individual_dragon_coins" ],
+                        "access_rules": [ "^$CanGet5DragonCoins|SZ4|5" ]
                     },
                     {
                         "name": "Dragon Coin #1",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #2",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #3",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
                             "[powerup_2]",
                             "star"
@@ -3978,6 +4267,7 @@
                     },
                     {
                         "name": "Dragon Coin #4",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
                             "[powerup_2]",
                             "star"
@@ -3985,6 +4275,7 @@
                     },
                     {
                         "name": "Dragon Coin #5",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
                             "[powerup_2]",
                             "star"
@@ -3998,26 +4289,32 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "access_rules": [ "$CanGet5DragonCoins|SZ5|5" ]
+                        "visibility_rules": [ "$Not|individual_dragon_coins" ],
+                        "access_rules": [ "^$CanGet5DragonCoins|SZ5|5" ]
                     },
                     {
                         "name": "Dragon Coin #1",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #2",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #3",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #4",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "[powerup_1]" ]
                     },
                     {
                         "name": "Dragon Coin #5",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "[powerup_1]" ]
                     }
                 ]
@@ -4028,26 +4325,32 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "access_rules": [ "$CanGet5DragonCoins|SZ6|5" ]
+                        "visibility_rules": [ "$Not|individual_dragon_coins" ],
+                        "access_rules": [ "^$CanGet5DragonCoins|SZ6|5" ]
                     },
                     {
                         "name": "Dragon Coin #1",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "[swim]" ]
                     },
                     {
                         "name": "Dragon Coin #2",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "[swim]" ]
                     },
                     {
                         "name": "Dragon Coin #3",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "[swim]" ]
                     },
                     {
                         "name": "Dragon Coin #4",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "[swim]" ]
                     },
                     {
                         "name": "Dragon Coin #5",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "[swim]" ]
                     }
                 ]
@@ -4058,26 +4361,32 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "access_rules": [ "$CanGet5DragonCoins|SZ7|5" ]
+                        "visibility_rules": [ "$Not|individual_dragon_coins" ],
+                        "access_rules": [ "^$CanGet5DragonCoins|SZ7|5" ]
                     },
                     {
                         "name": "Dragon Coin #1",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #2",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "[powerup_1]" ]
                     },
                     {
                         "name": "Dragon Coin #3",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "[powerup_1]" ]
                     },
                     {
                         "name": "Dragon Coin #4",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "carry, [powerup_1]" ]
                     },
                     {
                         "name": "Dragon Coin #5",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [ "carry, [powerup_1]" ]
                     }
                 ]
@@ -4088,14 +4397,17 @@
                 "sections": [
                     {
                         "name": "Dragon Coins",
-                        "access_rules": [ "$CanGet5DragonCoins|SZ8|5" ]
+                        "visibility_rules": [ "$Not|individual_dragon_coins" ],
+                        "access_rules": [ "^$CanGet5DragonCoins|SZ8|5" ]
                     },
                     {
                         "name": "Dragon Coin #1",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #2",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
                             "powerup_1, spin_jump",
                             "powerup_3",
@@ -4105,6 +4417,7 @@
                     },
                     {
                         "name": "Dragon Coin #3",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
                             "powerup_1, spin_jump",
                             "powerup_3",
@@ -4114,6 +4427,7 @@
                     },
                     {
                         "name": "Dragon Coin #4",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
                             "powerup_1, spin_jump",
                             "powerup_3",
@@ -4123,6 +4437,7 @@
                     },
                     {
                         "name": "Dragon Coin #5",
+                        "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
                             "powerup_1, spin_jump",
                             "powerup_3",

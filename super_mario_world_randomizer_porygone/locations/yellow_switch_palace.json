@@ -29,7 +29,7 @@
                 "sections": [
                     {
                         "name": "Bonus room",
-                        "ref": "Rooms/YSP/0x0014"
+                        "ref": "Rooms/YSP/Room 0x0014"
                     }
                 ],
                 "map_locations": [
@@ -45,7 +45,7 @@
                 "sections": [
                     {
                         "name": "Button room",
-                        "ref": "Rooms/YSP/0x00CA"
+                        "ref": "Rooms/YSP/Room 0x00CA"
                     },
                     {
                         "name": "Normal Exit",
@@ -65,7 +65,7 @@
                 "sections": [
                     {
                         "name": "Button room",
-                        "ref": "Rooms/YSP/0x00CA"
+                        "ref": "Rooms/YSP/Room 0x00CA"
                     },
                     {
                         "name": "Normal Exit",

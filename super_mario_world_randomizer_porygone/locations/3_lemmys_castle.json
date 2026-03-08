@@ -125,7 +125,7 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Rooms/VDC/0x011C"
+                        "ref": "Rooms/VDC/Room 0x011C"
                     },
                     {
                         "name": "1-Up Mushroom Block #1",
@@ -153,7 +153,7 @@
                 "sections": [
                     {
                         "name": "Midway point room",
-                        "ref": "Rooms/VDC/0x01F4"
+                        "ref": "Rooms/VDC/Room 0x01F4"
                     },
                     {
                         "name": "Midway Point",
@@ -177,7 +177,7 @@
                 "sections": [
                     {
                         "name": "Lava room",
-                        "ref": "Rooms/VDC/0x01F3"
+                        "ref": "Rooms/VDC/Room 0x01F3"
                     },
                     {
                         "name": "Normal Exit",
@@ -201,7 +201,7 @@
                 "sections": [
                     {
                         "name": "Midway point room",
-                        "ref": "Rooms/VDC/0x01F4"
+                        "ref": "Rooms/VDC/Room 0x01F4"
                     },
                     {
                         "name": "Midway Point",
@@ -225,7 +225,7 @@
                 "sections": [
                     {
                         "name": "Lava room",
-                        "ref": "Rooms/VDC/0x01F3"
+                        "ref": "Rooms/VDC/Room 0x01F3"
                     },
                     {
                         "name": "Normal Exit",

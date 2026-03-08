@@ -25,8 +25,12 @@
                 ]
             },
             {
-                "name": "Soda Lake - Dragon Coins",
+                "name": "Soda Lake - Dragon Coin #1",
                 "sections": [
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/SOL/Dragon Coin #1"
+                    },
                     {
                         "name": "Dragon Coins",
                         "ref": "Dragon Coins/SOL/Dragon Coins"
@@ -37,22 +41,82 @@
                         "map": "tbs_main",
                         "x": 904,
                         "y": 320
+                    }
+                ]
+            },
+            {
+                "name": "Soda Lake - Dragon Coin #2",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/SOL/Dragon Coin #2"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/SOL/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "tbs_main",
                         "x": 1352,
                         "y": 304
+                    }
+                ]
+            },
+            {
+                "name": "Soda Lake - Dragon Coin #3",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/SOL/Dragon Coin #3"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/SOL/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "tbs_main",
                         "x": 1720,
                         "y": 384
+                    }
+                ]
+            },
+            {
+                "name": "Soda Lake - Dragon Coin #4",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/SOL/Dragon Coin #4"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/SOL/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "tbs_main",
                         "x": 392,
                         "y": 832
+                    }
+                ]
+            },
+            {
+                "name": "Soda Lake - Dragon Coin #5",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/SOL/Dragon Coin #5"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/SOL/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "tbs_main",
                         "x": 680,
@@ -81,7 +145,27 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Rooms/SOL/0x0011"
+                        "ref": "Rooms/SOL/Room 0x0011"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/SOL/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/SOL/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/SOL/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/SOL/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/SOL/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",
@@ -105,7 +189,7 @@
                 "sections": [
                     {
                         "name": "Goal room",
-                        "ref": "Rooms/SOL/0x00C6"
+                        "ref": "Rooms/SOL/Room 0x00C6"
                     },
                     {
                         "name": "Normal Exit",
@@ -125,7 +209,7 @@
                 "sections": [
                     {
                         "name": "Goal room",
-                        "ref": "Rooms/SOL/0x00C6"
+                        "ref": "Rooms/SOL/Room 0x00C6"
                     },
                     {
                         "name": "Normal Exit",

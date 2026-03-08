@@ -146,7 +146,7 @@
                 "sections": [
                     {
                         "name": "Ghost ceiling room",
-                        "ref": "Rooms/DGH/0x0004"
+                        "ref": "Rooms/DGH/Room 0x0004"
                     },
                     {
                         "name": "1-Up Mushroom Block #1",
@@ -178,7 +178,7 @@
                 "sections": [
                     {
                         "name": "Stairs room #1",
-                        "ref": "Rooms/DGH/0x00F9"
+                        "ref": "Rooms/DGH/Room 0x00F9"
                     },
                     {
                         "name": "Vine|P-Switch Block #1",
@@ -198,7 +198,7 @@
                 "sections": [
                     {
                         "name": "Stairs room #2",
-                        "ref": "Rooms/DGH/0x00FE"
+                        "ref": "Rooms/DGH/Room 0x00FE"
                     },
                     {
                         "name": "Vine|P-Switch Block #1",
@@ -218,7 +218,7 @@
                 "sections": [
                     {
                         "name": "Directional coin room",
-                        "ref": "Rooms/DGH/0x00FA"
+                        "ref": "Rooms/DGH/Room 0x00FA"
                     },
                     {
                         "name": "Directional Coin Block #1",
@@ -238,7 +238,7 @@
                 "sections": [
                     {
                         "name": "Secret goal room",
-                        "ref": "Rooms/DGH/0x00EB"
+                        "ref": "Rooms/DGH/Room 0x00EB"
                     },
                     {
                         "name": "Secret Exit",
@@ -258,7 +258,7 @@
                 "sections": [
                     {
                         "name": "Normal goal room",
-                        "ref": "Rooms/DGH/0x00C4"
+                        "ref": "Rooms/DGH/Room 0x00C4"
                     },
                     {
                         "name": "Normal Exit",
@@ -278,19 +278,19 @@
                 "sections": [
                     {
                         "name": "Stairs room #1",
-                        "ref": "Rooms/DGH/0x00F9"
+                        "ref": "Rooms/DGH/Room 0x00F9"
                     },
                     {
                         "name": "Stairs room #2",
-                        "ref": "Rooms/DGH/0x00FE"
+                        "ref": "Rooms/DGH/Room 0x00FE"
                     },
                     {
                         "name": "Directional coin room",
-                        "ref": "Rooms/DGH/0x00FA"
+                        "ref": "Rooms/DGH/Room 0x00FA"
                     },
                     {
                         "name": "Secret goal room",
-                        "ref": "Rooms/DGH/0x00EB"
+                        "ref": "Rooms/DGH/Room 0x00EB"
                     },
                     {
                         "name": "Secret Exit",
@@ -328,7 +328,7 @@
                 "sections": [
                     {
                         "name": "Stairs room #2",
-                        "ref": "Rooms/DGH/0x00FE"
+                        "ref": "Rooms/DGH/Room 0x00FE"
                     },
                     {
                         "name": "Secret Exit",
@@ -336,7 +336,7 @@
                     },
                     {
                         "name": "Directional coin room",
-                        "ref": "Rooms/DGH/0x00FA"
+                        "ref": "Rooms/DGH/Room 0x00FA"
                     },
                     {
                         "name": "Vine|P-Switch Block #1",
@@ -360,7 +360,7 @@
                 "sections": [
                     {
                         "name": "Directional coin room",
-                        "ref": "Rooms/DGH/0x00FA"
+                        "ref": "Rooms/DGH/Room 0x00FA"
                     },
                     {
                         "name": "Directional Coin Block #1",
@@ -380,7 +380,7 @@
                 "sections": [
                     {
                         "name": "Secret goal room",
-                        "ref": "Rooms/DGH/0x00EB"
+                        "ref": "Rooms/DGH/Room 0x00EB"
                     },
                     {
                         "name": "Secret Exit",
@@ -400,7 +400,7 @@
                 "sections": [
                     {
                         "name": "Normal goal room",
-                        "ref": "Rooms/DGH/0x00C4"
+                        "ref": "Rooms/DGH/Room 0x00C4"
                     },
                     {
                         "name": "Normal Exit",

@@ -25,8 +25,12 @@
                 ]
             },
             {
-                "name": "Funky - Dragon Coins",
+                "name": "Funky - Dragon Coin #1",
                 "sections": [
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/SZ8/Dragon Coin #1"
+                    },
                     {
                         "name": "Dragon Coins",
                         "ref": "Dragon Coins/SZ8/Dragon Coins"
@@ -37,22 +41,82 @@
                         "map": "sw8_main",
                         "x": 744,
                         "y": 320
+                    }
+                ]
+            },
+            {
+                "name": "Funky - Dragon Coin #2",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/SZ8/Dragon Coin #2"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/SZ8/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "sw8_main",
                         "x": 1672,
                         "y": 368
+                    }
+                ]
+            },
+            {
+                "name": "Funky - Dragon Coin #3",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/SZ8/Dragon Coin #3"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/SZ8/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "sw8_main",
                         "x": 2488,
                         "y": 304
+                    }
+                ]
+            },
+            {
+                "name": "Funky - Dragon Coin #4",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/SZ8/Dragon Coin #4"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/SZ8/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "sw8_main",
                         "x": 2024,
                         "y": 704
+                    }
+                ]
+            },
+            {
+                "name": "Funky - Dragon Coin #5",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/SZ8/Dragon Coin #5"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/SZ8/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "sw8_main",
                         "x": 248,
@@ -545,11 +609,31 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Rooms/SZ8/0x0125"
+                        "ref": "Rooms/SZ8/Room 0x0125"
                     },
                     {
                         "name": "Normal Exit",
                         "ref": "Exits/SZ8/Normal Exit"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/SZ8/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/SZ8/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/SZ8/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/SZ8/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/SZ8/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",

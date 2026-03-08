@@ -25,8 +25,12 @@
                 ]
             },
             {
-                "name": "Groovy - Dragon Coins",
+                "name": "Groovy - Dragon Coin #1",
                 "sections": [
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/SZ5/Dragon Coin #1"
+                    },
                     {
                         "name": "Dragon Coins",
                         "ref": "Dragon Coins/SZ5/Dragon Coins"
@@ -37,22 +41,82 @@
                         "map": "sw5_main",
                         "x": 552,
                         "y": 320
+                    }
+                ]
+            },
+            {
+                "name": "Groovy - Dragon Coin #2",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/SZ5/Dragon Coin #2"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/SZ5/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "sw5_main",
                         "x": 808,
                         "y": 736
+                    }
+                ]
+            },
+            {
+                "name": "Groovy - Dragon Coin #3",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/SZ5/Dragon Coin #3"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/SZ5/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "sw5_main",
                         "x": 1528,
                         "y": 736
+                    }
+                ]
+            },
+            {
+                "name": "Groovy - Dragon Coin #4",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/SZ5/Dragon Coin #4"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/SZ5/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "sw5_main",
                         "x": 216,
                         "y": 1104
+                    }
+                ]
+            },
+            {
+                "name": "Groovy - Dragon Coin #5",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/SZ5/Dragon Coin #5"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/SZ5/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "sw5_main",
                         "x": 424,
@@ -81,11 +145,31 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Rooms/SZ5/0x0128"
+                        "ref": "Rooms/SZ5/Room 0x0128"
                     },
                     {
                         "name": "Normal Exit",
                         "ref": "Exits/SZ5/Normal Exit"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/SZ5/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/SZ5/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/SZ5/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/SZ5/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/SZ5/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",

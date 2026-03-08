@@ -125,7 +125,7 @@
                 "sections": [
                     {
                         "name": "Wooden spike room",
-                        "ref": "Rooms/CIF/0x001B"
+                        "ref": "Rooms/CIF/Room 0x001B"
                     },
                     {
                         "name": "Midway Point",
@@ -149,7 +149,7 @@
                 "sections": [
                     {
                         "name": "Thwomp room",
-                        "ref": "Rooms/CIF/0x00EF"
+                        "ref": "Rooms/CIF/Room 0x00EF"
                     },
                     {
                         "name": "Normal Exit",
@@ -185,7 +185,7 @@
                 "sections": [
                     {
                         "name": "Thwomp room",
-                        "ref": "Rooms/CIF/0x00EF"
+                        "ref": "Rooms/CIF/Room 0x00EF"
                     },
                     {
                         "name": "Normal Exit",

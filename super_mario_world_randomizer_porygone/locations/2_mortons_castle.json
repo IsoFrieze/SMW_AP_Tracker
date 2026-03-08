@@ -205,7 +205,7 @@
                 "sections": [
                     {
                         "name": "Stairs room",
-                        "ref": "Rooms/DPC/0x0007"
+                        "ref": "Rooms/DPC/Room 0x0007"
                     },
                     {
                         "name": "Yellow Switch Palace Block #1",
@@ -225,7 +225,7 @@
                 "sections": [
                     {
                         "name": "Thwomp room",
-                        "ref": "Rooms/DPC/0x00E8"
+                        "ref": "Rooms/DPC/Room 0x00E8"
                     }
                 ],
                 "map_locations": [
@@ -241,7 +241,7 @@
                 "sections": [
                     {
                         "name": "Moving stones room",
-                        "ref": "Rooms/DPC/0x00E7"
+                        "ref": "Rooms/DPC/Room 0x00E7"
                     },
                     {
                         "name": "Normal Exit",
@@ -301,7 +301,7 @@
                 "sections": [
                     {
                         "name": "Bonus room",
-                        "ref": "Rooms/DPC/0x00E6"
+                        "ref": "Rooms/DPC/Room 0x00E6"
                     }
                 ],
                 "map_locations": [
@@ -317,11 +317,11 @@
                 "sections": [
                     {
                         "name": "Thwomp room",
-                        "ref": "Rooms/DPC/0x00E8"
+                        "ref": "Rooms/DPC/Room 0x00E8"
                     },
                     {
                         "name": "Moving stones room",
-                        "ref": "Rooms/DPC/0x00E7"
+                        "ref": "Rooms/DPC/Room 0x00E7"
                     },
                     {
                         "name": "Normal Exit",
@@ -381,7 +381,7 @@
                 "sections": [
                     {
                         "name": "Moving stones room",
-                        "ref": "Rooms/DPC/0x00E7"
+                        "ref": "Rooms/DPC/Room 0x00E7"
                     },
                     {
                         "name": "Normal Exit",
@@ -451,7 +451,7 @@
                 "sections": [
                     {
                         "name": "Bonus room",
-                        "ref": "Rooms/DPC/0x00E6"
+                        "ref": "Rooms/DPC/Room 0x00E6"
                     }
                 ],
                 "map_locations": [

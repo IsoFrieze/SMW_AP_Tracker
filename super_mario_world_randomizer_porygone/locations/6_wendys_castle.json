@@ -109,7 +109,7 @@
                 "sections": [
                     {
                         "name": "Spikes room",
-                        "ref": "Rooms/CIC/0x001A"
+                        "ref": "Rooms/CIC/Room 0x001A"
                     },
                     {
                         "name": "Midway Point",
@@ -137,7 +137,7 @@
                 "sections": [
                     {
                         "name": "Hothead room",
-                        "ref": "Rooms/CIC/0x00D4"
+                        "ref": "Rooms/CIC/Room 0x00D4"
                     },
                     {
                         "name": "Normal Exit",
@@ -165,7 +165,7 @@
                 "sections": [
                     {
                         "name": "Hothead room",
-                        "ref": "Rooms/CIC/0x00D4"
+                        "ref": "Rooms/CIC/Room 0x00D4"
                     },
                     {
                         "name": "Normal Exit",

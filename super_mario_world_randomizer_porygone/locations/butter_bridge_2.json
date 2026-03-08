@@ -25,8 +25,12 @@
                 ]
             },
             {
-                "name": "Butter Bridge 2 - Dragon Coins",
+                "name": "Butter Bridge 2 - Dragon Coin #1",
                 "sections": [
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/BB2/Dragon Coin #1"
+                    },
                     {
                         "name": "Dragon Coins",
                         "ref": "Dragon Coins/BB2/Dragon Coins"
@@ -37,22 +41,82 @@
                         "map": "tb2_main",
                         "x": 1000,
                         "y": 96
+                    }
+                ]
+            },
+            {
+                "name": "Butter Bridge 2 - Dragon Coin #2",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/BB2/Dragon Coin #2"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/BB2/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "tb2_main",
                         "x": 1304,
                         "y": 272
+                    }
+                ]
+            },
+            {
+                "name": "Butter Bridge 2 - Dragon Coin #3",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/BB2/Dragon Coin #3"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/BB2/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "tb2_main",
                         "x": 136,
                         "y": 672
+                    }
+                ]
+            },
+            {
+                "name": "Butter Bridge 2 - Dragon Coin #4",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/BB2/Dragon Coin #4"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/BB2/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "tb2_sub_1",
                         "x": 664,
                         "y": 288
+                    }
+                ]
+            },
+            {
+                "name": "Butter Bridge 2 - Dragon Coin #5",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/BB2/Dragon Coin #5"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/BB2/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "tb2_main",
                         "x": 408,
@@ -129,7 +193,7 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Rooms/BB2/0x000D"
+                        "ref": "Rooms/BB2/Room 0x000D"
                     },
                     {
                         "name": "Midway Point",
@@ -138,6 +202,22 @@
                     {
                         "name": "Normal Exit",
                         "ref": "Exits/BB2/Normal Exit"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/BB2/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/BB2/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/BB2/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/BB2/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",
@@ -169,7 +249,11 @@
                 "sections": [
                     {
                         "name": "Dragon coin room",
-                        "ref": "Rooms/BB2/0x00DD"
+                        "ref": "Rooms/BB2/Room 0x00DD"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/BB2/Dragon Coin #4"
                     },
                     {
                         "name": "Dragon Coins",
@@ -189,7 +273,11 @@
                 "sections": [
                     {
                         "name": "Dragon coin room",
-                        "ref": "Rooms/BB2/0x00DD"
+                        "ref": "Rooms/BB2/Room 0x00DD"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/BB2/Dragon Coin #4"
                     },
                     {
                         "name": "Dragon Coins",
@@ -209,7 +297,7 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Rooms/BB2/0x000D"
+                        "ref": "Rooms/BB2/Room 0x000D"
                     },
                     {
                         "name": "Midway Point",
@@ -218,6 +306,22 @@
                     {
                         "name": "Normal Exit",
                         "ref": "Exits/BB2/Normal Exit"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/BB2/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/BB2/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/BB2/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/BB2/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",

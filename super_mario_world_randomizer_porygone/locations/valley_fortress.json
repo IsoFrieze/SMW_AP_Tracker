@@ -61,7 +61,7 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Rooms/VBF/0x0111"
+                        "ref": "Rooms/VBF/Room 0x0111"
                     },
                     {
                         "name": "Normal Exit",

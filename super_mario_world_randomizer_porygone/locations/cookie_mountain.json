@@ -25,8 +25,12 @@
                 ]
             },
             {
-                "name": "Cookie Mountain - Dragon Coins",
+                "name": "Cookie Mountain - Dragon Coin #1",
                 "sections": [
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/COM/Dragon Coin #1"
+                    },
                     {
                         "name": "Dragon Coins",
                         "ref": "Dragon Coins/COM/Dragon Coins"
@@ -37,22 +41,82 @@
                         "map": "tb4_main",
                         "x": 984,
                         "y": 224
+                    }
+                ]
+            },
+            {
+                "name": "Cookie Mountain - Dragon Coin #2",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/COM/Dragon Coin #2"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/COM/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "tb4_main",
                         "x": 88,
                         "y": 720
+                    }
+                ]
+            },
+            {
+                "name": "Cookie Mountain - Dragon Coin #3",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/COM/Dragon Coin #3"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/COM/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "tb4_main",
                         "x": 840,
                         "y": 560
+                    }
+                ]
+            },
+            {
+                "name": "Cookie Mountain - Dragon Coin #4",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/COM/Dragon Coin #4"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/COM/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "tb4_main",
                         "x": 1352,
                         "y": 672
+                    }
+                ]
+            },
+            {
+                "name": "Cookie Mountain - Dragon Coin #5",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/COM/Dragon Coin #5"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/COM/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "tb4_main",
                         "x": 280,
@@ -657,7 +721,7 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Rooms/COM/0x0010"
+                        "ref": "Rooms/COM/Room 0x0010"
                     },
                     {
                         "name": "Midway Point",
@@ -666,6 +730,26 @@
                     {
                         "name": "Normal Exit",
                         "ref": "Exits/COM/Normal Exit"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/COM/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/COM/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/COM/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/COM/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/COM/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",
@@ -829,7 +913,7 @@
                 "sections": [
                     {
                         "name": "River room",
-                        "ref": "Rooms/COM/0x00C1"
+                        "ref": "Rooms/COM/Room 0x00C1"
                     }
                 ],
                 "map_locations": [
@@ -845,7 +929,7 @@
                 "sections": [
                     {
                         "name": "River room",
-                        "ref": "Rooms/COM/0x00C1"
+                        "ref": "Rooms/COM/Room 0x00C1"
                     }
                 ],
                 "map_locations": [
@@ -861,7 +945,7 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Rooms/COM/0x0010"
+                        "ref": "Rooms/COM/Room 0x0010"
                     },
                     {
                         "name": "Midway Point",
@@ -870,6 +954,26 @@
                     {
                         "name": "Normal Exit",
                         "ref": "Exits/COM/Normal Exit"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/COM/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/COM/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/COM/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/COM/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/COM/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",

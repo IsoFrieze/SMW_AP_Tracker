@@ -210,7 +210,7 @@
                 "sections": [
                     {
                         "name": "Smashers room",
-                        "ref": "Rooms/FIF/0x001F"
+                        "ref": "Rooms/FIF/Room 0x001F"
                     }
                 ],
                 "map_locations": [
@@ -226,7 +226,7 @@
                 "sections": [
                     {
                         "name": "Lava pool room",
-                        "ref": "Rooms/FIF/0x00D6"
+                        "ref": "Rooms/FIF/Room 0x00D6"
                     },
                     {
                         "name": "Normal Exit",
@@ -290,7 +290,7 @@
                 "sections": [
                     {
                         "name": "Lava pool room",
-                        "ref": "Rooms/FIF/0x00D6"
+                        "ref": "Rooms/FIF/Room 0x00D6"
                     },
                     {
                         "name": "Normal Exit",

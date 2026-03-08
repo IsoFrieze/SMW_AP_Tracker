@@ -25,8 +25,12 @@
                 ]
             },
             {
-                "name": "#7 Larry's Castle - Dragon Coins",
+                "name": "#7 Larry's Castle - Dragon Coin #1",
                 "sections": [
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/VBC/Dragon Coin #1"
+                    },
                     {
                         "name": "Dragon Coins",
                         "ref": "Dragon Coins/VBC/Dragon Coins"
@@ -37,22 +41,82 @@
                         "map": "vobc_main",
                         "x": 472,
                         "y": 48
+                    }
+                ]
+            },
+            {
+                "name": "#7 Larry's Castle - Dragon Coin #2",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/VBC/Dragon Coin #2"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/VBC/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "vobc_main",
                         "x": 1288,
                         "y": 144
+                    }
+                ]
+            },
+            {
+                "name": "#7 Larry's Castle - Dragon Coin #3",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/VBC/Dragon Coin #3"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/VBC/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "vobc_main",
                         "x": 1576,
                         "y": 80
+                    }
+                ]
+            },
+            {
+                "name": "#7 Larry's Castle - Dragon Coin #4",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/VBC/Dragon Coin #4"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/VBC/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "vobc_main",
                         "x": 1848,
                         "y": 368
+                    }
+                ]
+            },
+            {
+                "name": "#7 Larry's Castle - Dragon Coin #5",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/VBC/Dragon Coin #5"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/VBC/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "vobc_main",
                         "x": 1880,
@@ -145,11 +209,31 @@
                 "sections": [
                     {
                         "name": "Snake block room",
-                        "ref": "Rooms/VBC/0x0110"
+                        "ref": "Rooms/VBC/Room 0x0110"
                     },
                     {
                         "name": "Midway Point",
                         "ref": "Midways/VBC/Midway Point"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/VBC/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/VBC/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/VBC/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/VBC/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/VBC/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",
@@ -177,7 +261,7 @@
                 "sections": [
                     {
                         "name": "Magikoopa room",
-                        "ref": "Rooms/VBC/0x01FE"
+                        "ref": "Rooms/VBC/Room 0x01FE"
                     },
                     {
                         "name": "Normal Exit",
@@ -205,7 +289,7 @@
                 "sections": [
                     {
                         "name": "Magikoopa room",
-                        "ref": "Rooms/VBC/0x01FE"
+                        "ref": "Rooms/VBC/Room 0x01FE"
                     },
                     {
                         "name": "Normal Exit",

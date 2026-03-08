@@ -41,8 +41,12 @@
                 ]
             },
             {
-                "name": "Forest Ghost House - Dragon Coins",
+                "name": "Forest Ghost House - Dragon Coin #1",
                 "sections": [
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/FGH/Dragon Coin #1"
+                    },
                     {
                         "name": "Dragon Coins",
                         "ref": "Dragon Coins/FGH/Dragon Coins"
@@ -53,22 +57,82 @@
                         "map": "foigh_main",
                         "x": 888,
                         "y": 656
+                    }
+                ]
+            },
+            {
+                "name": "Forest Ghost House - Dragon Coin #2",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/FGH/Dragon Coin #2"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/FGH/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "foigh_sub_1",
                         "x": 952,
                         "y": 320
+                    }
+                ]
+            },
+            {
+                "name": "Forest Ghost House - Dragon Coin #3",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/FGH/Dragon Coin #3"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/FGH/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "foigh_sub_1",
                         "x": 1240,
                         "y": 272
+                    }
+                ]
+            },
+            {
+                "name": "Forest Ghost House - Dragon Coin #4",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/FGH/Dragon Coin #4"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/FGH/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "foigh_sub_1",
                         "x": 1544,
                         "y": 304
+                    }
+                ]
+            },
+            {
+                "name": "Forest Ghost House - Dragon Coin #5",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/FGH/Dragon Coin #5"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/FGH/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "foigh_main",
                         "x": 552,
@@ -177,7 +241,15 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Rooms/FGH/0x011D"
+                        "ref": "Rooms/FGH/Room 0x011D"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/FGH/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/FGH/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",
@@ -205,7 +277,19 @@
                 "sections": [
                     {
                         "name": "Ghost ceiling room",
-                        "ref": "Rooms/FGH/0x01FA"
+                        "ref": "Rooms/FGH/Room 0x01FA"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/FGH/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/FGH/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/FGH/Dragon Coin #4"
                     },
                     {
                         "name": "Dragon Coins",
@@ -237,7 +321,7 @@
                 "sections": [
                     {
                         "name": "Normal goal room",
-                        "ref": "Rooms/FGH/0x01E7"
+                        "ref": "Rooms/FGH/Room 0x01E7"
                     },
                     {
                         "name": "Normal Exit",
@@ -257,7 +341,7 @@
                 "sections": [
                     {
                         "name": "Secret goal room",
-                        "ref": "Rooms/FGH/0x01E6"
+                        "ref": "Rooms/FGH/Room 0x01E6"
                     },
                     {
                         "name": "Secret Exit",
@@ -281,7 +365,7 @@
                 "sections": [
                     {
                         "name": "Ghost ceiling room",
-                        "ref": "Rooms/FGH/0x01FA"
+                        "ref": "Rooms/FGH/Room 0x01FA"
                     },
                     {
                         "name": "Normal Exit",
@@ -290,6 +374,22 @@
                     {
                         "name": "Secret Exit",
                         "ref": "Exits/FGH/Secret Exit"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/FGH/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/FGH/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/FGH/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/FGH/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",
@@ -325,7 +425,11 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Rooms/FGH/0x011D"
+                        "ref": "Rooms/FGH/Room 0x011D"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/FGH/Dragon Coin #1"
                     },
                     {
                         "name": "Dragon Coins",
@@ -353,7 +457,7 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Rooms/FGH/0x011D"
+                        "ref": "Rooms/FGH/Room 0x011D"
                     },
                     {
                         "name": "Normal Exit",
@@ -362,6 +466,10 @@
                     {
                         "name": "Secret Exit",
                         "ref": "Exits/FGH/Secret Exit"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/FGH/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",
@@ -385,7 +493,7 @@
                 "sections": [
                     {
                         "name": "Normal goal room",
-                        "ref": "Rooms/FGH/0x01E7"
+                        "ref": "Rooms/FGH/Room 0x01E7"
                     },
                     {
                         "name": "Normal Exit",
@@ -405,7 +513,7 @@
                 "sections": [
                     {
                         "name": "Secret goal room",
-                        "ref": "Rooms/FGH/0x01E6"
+                        "ref": "Rooms/FGH/Room 0x01E6"
                     },
                     {
                         "name": "Secret Exit",

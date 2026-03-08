@@ -25,8 +25,12 @@
                 ]
             },
             {
-                "name": "Sunken Ghost Ship - Dragon Coins",
+                "name": "Sunken Ghost Ship - Dragon Coin #1",
                 "sections": [
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/SGS/Dragon Coin #1"
+                    },
                     {
                         "name": "Dragon Coins",
                         "ref": "Dragon Coins/SGS/Dragon Coins"
@@ -37,22 +41,82 @@
                         "map": "ciship_sub_2_vert",
                         "x": 120,
                         "y": 576
+                    }
+                ]
+            },
+            {
+                "name": "Sunken Ghost Ship - Dragon Coin #2",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/SGS/Dragon Coin #2"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/SGS/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "ciship_sub_2_vert",
                         "x": 888,
                         "y": 416
+                    }
+                ]
+            },
+            {
+                "name": "Sunken Ghost Ship - Dragon Coin #3",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/SGS/Dragon Coin #3"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/SGS/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "ciship_sub_2_vert",
                         "x": 1288,
                         "y": 624
+                    }
+                ]
+            },
+            {
+                "name": "Sunken Ghost Ship - Dragon Coin #4",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/SGS/Dragon Coin #4"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/SGS/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "ciship_sub_2_vert",
                         "x": 2216,
                         "y": 448
+                    }
+                ]
+            },
+            {
+                "name": "Sunken Ghost Ship - Dragon Coin #5",
+                "sections": [
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/SGS/Dragon Coin #5"
                     },
+                    {
+                        "name": "Dragon Coins",
+                        "ref": "Dragon Coins/SGS/Dragon Coins"
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "ciship_sub_2_vert",
                         "x": 2872,
@@ -97,7 +161,7 @@
                 "sections": [
                     {
                         "name": "Ship entrance",
-                        "ref": "Rooms/SGS/0x0018"
+                        "ref": "Rooms/SGS/Room 0x0018"
                     },
                     {
                         "name": "Powerup Block #1",
@@ -117,7 +181,7 @@
                 "sections": [
                     {
                         "name": "Reappearing ghosts",
-                        "ref": "Rooms/SGS/0x00F8"
+                        "ref": "Rooms/SGS/Room 0x00F8"
                     }
                 ],
                 "map_locations": [
@@ -133,11 +197,31 @@
                 "sections": [
                     {
                         "name": "Falling room",
-                        "ref": "Rooms/SGS/0x00F7"
+                        "ref": "Rooms/SGS/Room 0x00F7"
                     },
                     {
                         "name": "Normal Exit",
                         "ref": "Exits/SGS/Normal Exit"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/SGS/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/SGS/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/SGS/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/SGS/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/SGS/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",
@@ -161,15 +245,35 @@
                 "sections": [
                     {
                         "name": "Reappearing ghosts",
-                        "ref": "Rooms/SGS/0x00F8"
+                        "ref": "Rooms/SGS/Room 0x00F8"
                     },
                     {
                         "name": "Falling room",
-                        "ref": "Rooms/SGS/0x00F7"
+                        "ref": "Rooms/SGS/Room 0x00F7"
                     },
                     {
                         "name": "Normal Exit",
                         "ref": "Exits/SGS/Normal Exit"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/SGS/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/SGS/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/SGS/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/SGS/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/SGS/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",
@@ -193,11 +297,31 @@
                 "sections": [
                     {
                         "name": "Falling room",
-                        "ref": "Rooms/SGS/0x00F7"
+                        "ref": "Rooms/SGS/Room 0x00F7"
                     },
                     {
                         "name": "Normal Exit",
                         "ref": "Exits/SGS/Normal Exit"
+                    },
+                    {
+                        "name": "Dragon Coin #1",
+                        "ref": "Dragon Coins/SGS/Dragon Coin #1"
+                    },
+                    {
+                        "name": "Dragon Coin #2",
+                        "ref": "Dragon Coins/SGS/Dragon Coin #2"
+                    },
+                    {
+                        "name": "Dragon Coin #3",
+                        "ref": "Dragon Coins/SGS/Dragon Coin #3"
+                    },
+                    {
+                        "name": "Dragon Coin #4",
+                        "ref": "Dragon Coins/SGS/Dragon Coin #4"
+                    },
+                    {
+                        "name": "Dragon Coin #5",
+                        "ref": "Dragon Coins/SGS/Dragon Coin #5"
                     },
                     {
                         "name": "Dragon Coins",

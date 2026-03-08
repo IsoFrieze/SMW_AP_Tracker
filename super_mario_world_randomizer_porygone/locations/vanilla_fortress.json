@@ -93,7 +93,7 @@
                 "sections": [
                     {
                         "name": "Spikes room",
-                        "ref": "Rooms/VDF/0x000B"
+                        "ref": "Rooms/VDF/Room 0x000B"
                     },
                     {
                         "name": "Powerup Block #1",
@@ -113,7 +113,7 @@
                 "sections": [
                     {
                         "name": "Thwomp room",
-                        "ref": "Rooms/VDF/0x10E0"
+                        "ref": "Rooms/VDF/Room 0x10E0"
                     },
                     {
                         "name": "Normal Exit",
@@ -145,7 +145,7 @@
                 "sections": [
                     {
                         "name": "Thwomp room",
-                        "ref": "Rooms/VDF/0x10E0"
+                        "ref": "Rooms/VDF/Room 0x10E0"
                     },
                     {
                         "name": "Normal Exit",

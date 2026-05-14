@@ -1,0 +1,293 @@
+{
+    "tracker_settings": {
+        "type": "array",
+        "orientation": "vertical",
+        "content": [
+            {
+                "type": "group",
+                "header": "Goal Settings",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "h_alignment": "left",
+                        "item_margin": "2,2",
+                        "item_size": "40",
+                        "rows": [
+                            [
+                                "goal",
+                                "boss_tokens",
+                                "yoshi_eggs",
+                                "bosses_required",
+                                "yoshi_eggs_required"
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "group",
+                "header": "Check Settings",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "h_alignment": "left",
+                        "item_margin": "2,2",
+                        "item_size": "40",
+                        "rows": [
+                            [
+                                "dragon_coin_checks",
+                                "moon_checks",
+                                "hidden_1up_checks",
+                                "bonus_block_checks",
+                                "midway_point_checks",
+                                "room_checks",
+                                "blocksanity"
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "group",
+                "header": "Other Settings",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "h_alignment": "left",
+                        "item_margin": "2,2",
+                        "item_size": "40",
+                        "rows": [
+                            [
+                                "show_all_levels",
+                                "tab_switch",
+                                "individual_dragon_coins"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "visited_levels": {
+        "type": "array",
+        "orientation": "vertical",
+        "content": [
+            {
+                "type": "group",
+                "header": "Yoshi's Island",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "h_alignment": "left",
+                        "item_margin": "2,2",
+                        "item_size": "40",
+                        "rows": [
+                            [
+                                "level_visit_261",
+                                "level_visit_262",
+                                "level_visit_259",
+                                "level_visit_258",
+                                "level_visit_257",
+                                "level_visit_20"
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "group",
+                "header": "Donut Plains",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "h_alignment": "left",
+                        "item_margin": "2,2",
+                        "item_size": "40",
+                        "rows": [
+                            [
+                                "level_visit_21",
+                                "level_visit_9",
+                                "level_visit_5",
+                                "level_visit_6",
+                                "level_visit_4",
+                                "level_visit_10",
+                                "level_visit_267",
+                                "level_visit_19",
+                                "level_visit_7",
+                                "level_visit_8"
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "group",
+                "header": "Vanilla Dome",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "h_alignment": "left",
+                        "item_margin": "2,2",
+                        "item_size": "40",
+                        "rows": [
+                            [
+                                "level_visit_282",
+                                "level_visit_280",
+                                "level_visit_266",
+                                "level_visit_281",
+                                "level_visit_263",
+                                "level_visit_265",
+                                "level_visit_1",
+                                "level_visit_2",
+                                "level_visit_11",
+                                "level_visit_284",
+                                "level_visit_283"
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "group",
+                "header": "Twin Bridges",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "h_alignment": "left",
+                        "item_margin": "2,2",
+                        "item_size": "40",
+                        "rows": [
+                            [
+                                "level_visit_12",
+                                "level_visit_13",
+                                "level_visit_15",
+                                "level_visit_16",
+                                "level_visit_17",
+                                "level_visit_14"
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "group",
+                "header": "Forest of Illusion",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "h_alignment": "left",
+                        "item_margin": "2,2",
+                        "item_size": "40",
+                        "rows": [
+                            [
+                                "level_visit_286",
+                                "level_visit_288",
+                                "level_visit_291",
+                                "level_visit_287",
+                                "level_visit_285",
+                                "level_visit_290",
+                                "level_visit_31",
+                                "level_visit_32",
+                                "level_visit_289"
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "group",
+                "header": "Chocolate Island",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "h_alignment": "left",
+                        "item_margin": "2,2",
+                        "item_size": "40",
+                        "rows": [
+                            [
+                                "level_visit_34",
+                                "level_visit_36",
+                                "level_visit_35",
+                                "level_visit_29",
+                                "level_visit_28",
+                                "level_visit_33",
+                                "level_visit_279",
+                                "level_visit_27",
+                                "level_visit_26",
+                                "level_visit_24"
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "group",
+                "header": "Valley of Bowser",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "h_alignment": "left",
+                        "item_margin": "2,2",
+                        "item_size": "40",
+                        "rows": [
+                            [
+                                "level_visit_278",
+                                "level_visit_277",
+                                "level_visit_275",
+                                "level_visit_271",
+                                "level_visit_276",
+                                "level_visit_273",
+                                "level_visit_272"
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "group",
+                "header": "Star World",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "h_alignment": "left",
+                        "item_margin": "2,2",
+                        "item_size": "40",
+                        "rows": [
+                            [
+                                "level_visit_308",
+                                "level_visit_304",
+                                "level_visit_306",
+                                "level_visit_309",
+                                "level_visit_310"
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "group",
+                "header": "Special World",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "h_alignment": "left",
+                        "item_margin": "2,2",
+                        "item_size": "40",
+                        "rows": [
+                            [
+                                "level_visit_298",
+                                "level_visit_299",
+                                "level_visit_300",
+                                "level_visit_301",
+                                "level_visit_296",
+                                "level_visit_295",
+                                "level_visit_294",
+                                "level_visit_293"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+}

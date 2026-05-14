@@ -129,7 +129,7 @@
                 "sections": [
                     {
                         "name": "1-Up from Bonus Block",
-                        "ref": "Bonus 1-Ups/DP3/1-Up from Bonus Block"
+                        "ref": "Bonus 1-Ups/DP3/Bonus 1-Up"
                     }
                 ],
                 "map_locations": [
@@ -277,7 +277,7 @@
                     },
                     {
                         "name": "1-Up from Bonus Block",
-                        "ref": "Bonus 1-Ups/DP3/1-Up from Bonus Block"
+                        "ref": "Bonus 1-Ups/DP3/Bonus 1-Up"
                     },
                     {
                         "name": "Green Switch Palace Block #1",
@@ -381,7 +381,7 @@
                     },
                     {
                         "name": "1-Up from Bonus Block",
-                        "ref": "Bonus 1-Ups/DP3/1-Up from Bonus Block"
+                        "ref": "Bonus 1-Ups/DP3/Bonus 1-Up"
                     },
                     {
                         "name": "Green Switch Palace Block #1",

@@ -6,6 +6,7 @@ Tracker:AddMaps("maps/maps.json")
 ScriptHost:LoadScript("scripts/logic.lua")
 
 Tracker:AddLayouts("layouts/items.json")
+Tracker:AddLayouts("layouts/settings.json")
 
 ScriptHost:LoadScript("scripts/loadlocations.lua")
 ScriptHost:LoadScript("scripts/autotracking.lua")

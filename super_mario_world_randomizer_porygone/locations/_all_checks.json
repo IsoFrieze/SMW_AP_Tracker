@@ -3678,12 +3678,12 @@
                     {
                         "name": "Dragon Coin #3",
                         "visibility_rules": [ "individual_dragon_coins" ],
-                        "access_rules": []
+                        "access_rules": [ "run", "powerup_3" ]
                     },
                     {
                         "name": "Dragon Coin #4",
                         "visibility_rules": [ "individual_dragon_coins" ],
-                        "access_rules": [ "run", "powerup_3" ]
+                        "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #5",
@@ -4004,12 +4004,12 @@
                     {
                         "name": "Dragon Coin #2",
                         "visibility_rules": [ "individual_dragon_coins" ],
-                        "access_rules": [ "p_switch" ]
+                        "access_rules": [ ]
                     },
                     {
                         "name": "Dragon Coin #3",
                         "visibility_rules": [ "individual_dragon_coins" ],
-                        "access_rules": []
+                        "access_rules": [ "p_switch" ]
                     },
                     {
                         "name": "Dragon Coin #4",

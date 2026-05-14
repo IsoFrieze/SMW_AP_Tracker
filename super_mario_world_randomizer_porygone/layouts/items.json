@@ -16,7 +16,8 @@
                         "p_balloon",
                         "p_switch",
                         "midway",
-                        "itembox"
+                        "itembox",
+                        "timer"
                     ],
                     [
                         "carry",
@@ -25,7 +26,8 @@
                         "progressive_swim",
                         "spin_jump",
                         "extra_defense",
-                        "timer"
+                        "",
+                        ""
                     ],
                     [
                         "ysp",
@@ -34,25 +36,8 @@
                         "bsp",
                         "special",
                         "",
-                        "individual_dragon_coins"
-                    ],
-                    [
-                        "goal",
-                        "boss_tokens",
-                        "yoshi_eggs",
-                        "bosses_required",
-                        "yoshi_eggs_required",
-                        "show_all_levels",
-                        "tab_switch"
-                    ],
-                    [
-                        "dragon_coin_checks",
-                        "moon_checks",
-                        "hidden_1up_checks",
-                        "bonus_block_checks",
-                        "midway_point_checks",
-                        "room_checks",
-                        "blocksanity"
+                        "",
+                        ""
                     ]
                 ]
             }

@@ -145,7 +145,7 @@
                 "sections": [
                     {
                         "name": "1-Up from Bonus Block",
-                        "ref": "Bonus 1-Ups/CI3/1-Up from Bonus Block"
+                        "ref": "Bonus 1-Ups/CI3/Bonus 1-Up"
                     }
                 ],
                 "map_locations": [
@@ -341,7 +341,7 @@
                     },
                     {
                         "name": "1-Up from Bonus Block",
-                        "ref": "Bonus 1-Ups/CI3/1-Up from Bonus Block"
+                        "ref": "Bonus 1-Ups/CI3/Bonus 1-Up"
                     },
                     {
                         "name": "Powerup Block #1",
@@ -473,7 +473,7 @@
                     },
                     {
                         "name": "1-Up from Bonus Block",
-                        "ref": "Bonus 1-Ups/CI3/1-Up from Bonus Block"
+                        "ref": "Bonus 1-Ups/CI3/Bonus 1-Up"
                     },
                     {
                         "name": "Powerup Block #1",

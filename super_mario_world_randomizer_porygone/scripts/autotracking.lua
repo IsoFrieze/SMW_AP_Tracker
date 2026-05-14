@@ -5,12 +5,11 @@ ScriptHost:LoadScript("scripts/autotracking/tab_mapping.lua")
 LEVEL_UNLOCKS = {}
 
 
-
 CUR_INDEX = -1
 SLOT_DATA = nil
 
 
-function onClear(slot_data)
+function onClear(slot_data)   
     SLOT_DATA = slot_data
     CUR_INDEX = -1
 
@@ -38,6 +37,24 @@ function onClear(slot_data)
             if obj then
                 obj.AcquiredCount = 0
             end
+        end
+    end
+    for _, v in pairs(BLOCK_CHECKS_MAPPING) do
+        local obj = Tracker:FindObjectForCode(v)
+        if obj then
+            obj.Active = false
+        end
+    end
+    for _, v in pairs(CARRYLESS_MAPPING) do
+        local obj = Tracker:FindObjectForCode(v)
+        if obj then
+            obj.Active = false
+        end
+    end
+    for _, v in pairs(EXTRA_LOGIC_MAPPING) do
+        local obj = Tracker:FindObjectForCode(v)
+        if obj then
+            obj.Active = false
         end
     end
     for room_id, v in pairs(TAB_MAPPING) do
@@ -83,13 +100,42 @@ function onClear(slot_data)
         local hidden_1ups = Tracker:FindObjectForCode("hidden_1up_checks")
         hidden_1ups.Active = (slot_data['hidden_1up_checks'] ~= 0)
     end
-    if slot_data['bonus_block_checks'] then
+    if slot_data['star_block_checks'] then
         local bonus_blocks = Tracker:FindObjectForCode("bonus_block_checks")
-        bonus_blocks.Active = (slot_data['bonus_block_checks'] ~= 0)
+        bonus_blocks.Active = (slot_data['star_block_checks'] ~= 0)
     end
-    if slot_data['blocksanity'] then
-        local blocksanity = Tracker:FindObjectForCode("blocksanity")
-        blocksanity.Active = (slot_data['blocksanity'] ~= 0)
+    if slot_data['block_checks'] then
+        for _, check in pairs(slot_data['block_checks']) do
+            local map = BLOCK_CHECKS_MAPPING[check]
+            if map then
+                local obj = Tracker:FindObjectForCode(map)
+                if obj then
+                    obj.Active = true
+                end
+            end
+        end
+    end
+    if slot_data['alternate_logic'] then
+        for _, logic in pairs(slot_data['alternate_logic']) do
+            local map = EXTRA_LOGIC_MAPPING[logic]
+            if map then
+                local obj = Tracker:FindObjectForCode(map)
+                if obj then
+                    obj.Active = true
+                end
+            end
+        end
+    end
+    if slot_data['carryless_exits'] then
+        for _, cexit in pairs(slot_data['carryless_exits']) do
+            local map = CARRYLESS_MAPPING[cexit]
+            if map then
+                local obj = Tracker:FindObjectForCode(map)
+                if obj then
+                    obj.Active = true -- double check that this isn't spoiling anything
+                end
+            end
+        end
     end
     if slot_data['midway_point_checks'] then
         local midway_points = Tracker:FindObjectForCode("midway_point_checks")
@@ -98,6 +144,10 @@ function onClear(slot_data)
     if slot_data['room_checks'] then
         local rooms = Tracker:FindObjectForCode("room_checks")
         rooms.Active = (slot_data['room_checks'] ~= 0)
+    end
+    if slot_data['actual_egg_count'] then
+        local eggs = Tracker:FindObjectForCode("yoshi_eggs_required")
+        eggs.AcquiredCount = slot_data['actual_egg_count'] -- double check that this isn't spoiling anything
     end
 
     if Archipelago.PlayerNumber>-1 then
@@ -219,3 +269,5 @@ Archipelago:AddItemHandler("item handler", onItem)
 Archipelago:AddLocationHandler("location handler", onLocation)
 Archipelago:AddSetReplyHandler("notify handler", onNotify)
 Archipelago:AddRetrievedHandler("notify launch handler", onNotifyLaunch)
+
+

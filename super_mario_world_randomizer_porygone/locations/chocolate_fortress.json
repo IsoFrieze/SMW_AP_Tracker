@@ -29,7 +29,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/CIF/Powerup Block #1"
+                        "ref": "Item Blocks/CIF/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -45,7 +45,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Blocks/CIF/Powerup Block #2"
+                        "ref": "Item Blocks/CIF/Powerup Block #2"
                     }
                 ],
                 "map_locations": [
@@ -61,7 +61,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #1",
-                        "ref": "Blocks/CIF/Coin Block #1"
+                        "ref": "Coin Blocks/CIF/Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -77,7 +77,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #2",
-                        "ref": "Blocks/CIF/Coin Block #2"
+                        "ref": "Coin Blocks/CIF/Coin Block #2"
                     }
                 ],
                 "map_locations": [
@@ -93,7 +93,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Blocks/CIF/Green Switch Palace Block #1"
+                        "ref": "Green Switch Blocks/CIF/Green Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -133,7 +133,7 @@
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/CIF/Powerup Block #1"
+                        "ref": "Item Blocks/CIF/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -157,19 +157,19 @@
                     },
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Blocks/CIF/Powerup Block #2"
+                        "ref": "Item Blocks/CIF/Powerup Block #2"
                     },
                     {
                         "name": "Coin Block #1",
-                        "ref": "Blocks/CIF/Coin Block #1"
+                        "ref": "Coin Blocks/CIF/Coin Block #1"
                     },
                     {
                         "name": "Coin Block #2",
-                        "ref": "Blocks/CIF/Coin Block #2"
+                        "ref": "Coin Blocks/CIF/Coin Block #2"
                     },
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Blocks/CIF/Green Switch Palace Block #1"
+                        "ref": "Green Switch Blocks/CIF/Green Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -193,19 +193,19 @@
                     },
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Blocks/CIF/Powerup Block #2"
+                        "ref": "Item Blocks/CIF/Powerup Block #2"
                     },
                     {
                         "name": "Coin Block #1",
-                        "ref": "Blocks/CIF/Coin Block #1"
+                        "ref": "Coin Blocks/CIF/Coin Block #1"
                     },
                     {
                         "name": "Coin Block #2",
-                        "ref": "Blocks/CIF/Coin Block #2"
+                        "ref": "Coin Blocks/CIF/Coin Block #2"
                     },
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Blocks/CIF/Green Switch Palace Block #1"
+                        "ref": "Green Switch Blocks/CIF/Green Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [

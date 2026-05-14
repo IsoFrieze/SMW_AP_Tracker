@@ -45,7 +45,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/VDF/Powerup Block #1"
+                        "ref": "Item Blocks/VDF/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -61,7 +61,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Blocks/VDF/Powerup Block #2"
+                        "ref": "Item Blocks/VDF/Powerup Block #2"
                     }
                 ],
                 "map_locations": [
@@ -77,7 +77,7 @@
                 "sections": [
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Blocks/VDF/Yellow Switch Palace Block #1"
+                        "ref": "Yellow Switch Blocks/VDF/Yellow Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -97,7 +97,7 @@
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/VDF/Powerup Block #1"
+                        "ref": "Item Blocks/VDF/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -121,7 +121,7 @@
                     },
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Blocks/VDF/Powerup Block #2"
+                        "ref": "Item Blocks/VDF/Powerup Block #2"
                     },
                     {
                         "name": "Hidden 1-Up",
@@ -129,7 +129,7 @@
                     },
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Blocks/VDF/Yellow Switch Palace Block #1"
+                        "ref": "Yellow Switch Blocks/VDF/Yellow Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -153,7 +153,7 @@
                     },
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Blocks/VDF/Powerup Block #2"
+                        "ref": "Item Blocks/VDF/Powerup Block #2"
                     },
                     {
                         "name": "Hidden 1-Up",
@@ -161,7 +161,7 @@
                     },
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Blocks/VDF/Yellow Switch Palace Block #1"
+                        "ref": "Yellow Switch Blocks/VDF/Yellow Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [

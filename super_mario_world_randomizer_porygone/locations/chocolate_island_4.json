@@ -129,7 +129,7 @@
                 "sections": [
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Blocks/CI4/Yellow Switch Palace Block #1"
+                        "ref": "Yellow Switch Blocks/CI4/Yellow Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -145,7 +145,7 @@
                 "sections": [
                     {
                         "name": "Blue P-Switch Block #1",
-                        "ref": "Blocks/CI4/Blue P-Switch Block #1"
+                        "ref": "Item Blocks/CI4/Blue P-Switch Block #1"
                     }
                 ],
                 "map_locations": [
@@ -161,7 +161,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/CI4/Powerup Block #1"
+                        "ref": "Item Blocks/CI4/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -205,15 +205,15 @@
                     },
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Blocks/CI4/Yellow Switch Palace Block #1"
+                        "ref": "Yellow Switch Blocks/CI4/Yellow Switch Palace Block #1"
                     },
                     {
                         "name": "Blue P-Switch Block #1",
-                        "ref": "Blocks/CI4/Blue P-Switch Block #1"
+                        "ref": "Item Blocks/CI4/Blue P-Switch Block #1"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/CI4/Powerup Block #1"
+                        "ref": "Item Blocks/CI4/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -305,15 +305,15 @@
                     },
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Blocks/CI4/Yellow Switch Palace Block #1"
+                        "ref": "Yellow Switch Blocks/CI4/Yellow Switch Palace Block #1"
                     },
                     {
                         "name": "Blue P-Switch Block #1",
-                        "ref": "Blocks/CI4/Blue P-Switch Block #1"
+                        "ref": "Item Blocks/CI4/Blue P-Switch Block #1"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/CI4/Powerup Block #1"
+                        "ref": "Item Blocks/CI4/Powerup Block #1"
                     }
                 ],
                 "map_locations": [

@@ -32,11 +32,66 @@ SETTINGS_MAPPING = {
     [0xBC0F03] = {"yoshi_eggs_required", "consumable"},
     [0xBC0F04] = {"moon_checks", "toggle"},
     [0xBC0F05] = {"hidden_1up_checks", "toggle"},
-    [0xBC0F06] = {"bonus_block_checks", "toggle"},
+    [0xBC0F06] = {"star_block_checks", "toggle"},
     [0xBC0F07] = {"blocksanity", "toggle"},
     [0xBC0F08] = {"tab_switch", "toggle"},
     [0xBC0F09] = {"show_all_levels", "toggle"},
     -- unsure of these IDs:
     [0xBC0F0A] = {"midway_point_checks", "toggle"},
     [0xBC0F0B] = {"room_checks", "toggle"},
+}
+
+BLOCK_CHECKS_MAPPING = {
+    ["Coin Blocks"] = "blocksanity_coin",
+    ["Item Blocks"] = "blocksanity_item",
+    ["Yellow Switch Palace Blocks"] = "blocksanity_ysp",
+    ["Green Switch Palace Blocks"] = "blocksanity_gsp",
+    ["Invisible Blocks"] = "blocksanity_invisible",
+    ["P-Switch Blocks"] = "blocksanity_pswitch",
+    ["Flying Blocks"] = "blocksanity_flying"
+}
+
+CARRYLESS_MAPPING = {
+    [21] = "carryless_dp1",
+    [9] = "carryless_dp2",
+    [10] = "carryless_ds1",
+    [62] = "carryless_vd1",
+    [60] = "carryless_vd2",
+    [66] = "carryless_fi1",
+    [68] = "carryless_fi2",
+    [71] = "carryless_fi3",
+    [67] = "carryless_fi4",
+    [36] = "carryless_ci2",
+    [57] = "carryless_vb2",
+    [62] = "carryless_vb4",
+    [88] = "carryless_sr1",
+    [84] = "carryless_sr2",
+    [86] = "carryless_sr3",
+    [89] = "carryless_sr4",
+    [90] = "carryless_sr5"
+}
+
+EXTRA_LOGIC_MAPPING = {
+    ["Vanilla Dome 1 - Itemless Sinking Platform"] = "hardlogic_vd1_room2itemless",
+    ["Vanilla Dome 4 - Sacrifice for Coin Block #8"] = "hardlogic_vd4_coinblock8",
+    ["Vanilla Secret 1 - Wall Running"] = "hardlogic_vs1_wallrun",
+    ["Vanilla Secret 3 - Swimless"] = "hardlogic_vs3_swimless",
+    ["Lemmy's Castle - Itemless 1-Up blocks"] = "hardlogic_vdc_itemless1upblocks",
+    ["Butter Bridge 1 - No Red Switch Palace"] = "hardlogic_bb1_norsp",
+    ["Cheese Bridge Area - Secret Exit with Yoshi"] = "hardlogic_cba_yoshiexit2",
+    ["Ludwig's Castle - Runless"] = "hardlogic_tbc_runless",
+    ["Ludwig's Castle - Climbless"] = "hardlogic_tbc_climbless",
+    ["Forest of Illusion 1 - Secret Exit with Yoshi"] = "hardlogic_fi1_yoshiexit2",
+    ["Forest of Illusion 3 - Can pass big pipe itemless"] = "hardlogic_fi3_itemlessbigpipe",
+    ["Forest of Illusion 3 - Secret Exit with Yoshi"] = "hardlogic_fi3_yoshiexit2",
+    ["Forest Ghost House - Skip second room"] = "hardlogic_fgh_room2skip",
+    ["Forest Secret Area - Itemless 1-Up block"] = "hardlogic_fsa_itemless1upblock",
+    ["Valley of Bowser 3 - Itemless Powerup block"] = "hardlogic_vb3_itemlessitemblock",
+    ["Valley of Bowser 4 - Yoshi Climb"] = "hardlogic_vb3_yoshivineskip",
+    ["Valley Ghost House - True Carryless Secret Exit"] = "hardlogic_vbh_exit2carryless",
+    ["Star World 3 - Top area with a Star"] = "hardlogic_sr3_starmancloud",
+    ["Star World 4 - Carryless exit with wingless Yoshi"] = "hardlogic_sr4_yoshiexit2",
+    ["Awesome - Itemless"] = "hardlogic_sz4_itemless",
+    ["Mondo - Swimless"] = "hardlogic_sz6_swimless",
+    ["Outrageous - Wall Run pipe"] = "hardlogic_sz7_wallrun"
 }

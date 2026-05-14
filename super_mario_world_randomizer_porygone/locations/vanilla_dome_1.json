@@ -145,7 +145,7 @@
                 "sections": [
                     {
                         "name": "Flying Question Block #1",
-                        "ref": "Blocks/VD1/Flying Question Block #1"
+                        "ref": "Flying Blocks/VD1/Flying Question Block #1"
                     }
                 ],
                 "map_locations": [
@@ -161,7 +161,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/VD1/Powerup Block #1"
+                        "ref": "Item Blocks/VD1/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -177,7 +177,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Blocks/VD1/Powerup Block #2"
+                        "ref": "Item Blocks/VD1/Powerup Block #2"
                     }
                 ],
                 "map_locations": [
@@ -193,7 +193,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #1",
-                        "ref": "Blocks/VD1/Coin Block #1"
+                        "ref": "Coin Blocks/VD1/Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -209,7 +209,7 @@
                 "sections": [
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "ref": "Blocks/VD1/1-Up Mushroom Block #1"
+                        "ref": "Item Blocks/VD1/1-Up Mushroom Block #1"
                     }
                 ],
                 "map_locations": [
@@ -225,7 +225,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #3",
-                        "ref": "Blocks/VD1/Powerup Block #3"
+                        "ref": "Item Blocks/VD1/Powerup Block #3"
                     }
                 ],
                 "map_locations": [
@@ -241,7 +241,7 @@
                 "sections": [
                     {
                         "name": "Vine Block #1",
-                        "ref": "Blocks/VD1/Vine Block #1"
+                        "ref": "Item Blocks/VD1/Vine Block #1"
                     }
                 ],
                 "map_locations": [
@@ -257,7 +257,7 @@
                 "sections": [
                     {
                         "name": "Star Block #1",
-                        "ref": "Blocks/VD1/Star Block #1"
+                        "ref": "Item Blocks/VD1/Star Block #1"
                     }
                 ],
                 "map_locations": [
@@ -273,7 +273,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #4",
-                        "ref": "Blocks/VD1/Powerup Block #4"
+                        "ref": "Item Blocks/VD1/Powerup Block #4"
                     }
                 ],
                 "map_locations": [
@@ -289,7 +289,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #2",
-                        "ref": "Blocks/VD1/Coin Block #2"
+                        "ref": "Coin Blocks/VD1/Coin Block #2"
                     }
                 ],
                 "map_locations": [
@@ -357,39 +357,39 @@
                     },
                     {
                         "name": "Flying Question Block #1",
-                        "ref": "Blocks/VD1/Flying Question Block #1"
+                        "ref": "Flying Blocks/VD1/Flying Question Block #1"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/VD1/Powerup Block #1"
+                        "ref": "Item Blocks/VD1/Powerup Block #1"
                     },
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Blocks/VD1/Powerup Block #2"
+                        "ref": "Item Blocks/VD1/Powerup Block #2"
                     },
                     {
                         "name": "Coin Block #1",
-                        "ref": "Blocks/VD1/Coin Block #1"
+                        "ref": "Coin Blocks/VD1/Coin Block #1"
                     },
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "ref": "Blocks/VD1/1-Up Mushroom Block #1"
+                        "ref": "Item Blocks/VD1/1-Up Mushroom Block #1"
                     },
                     {
                         "name": "Powerup Block #3",
-                        "ref": "Blocks/VD1/Powerup Block #3"
+                        "ref": "Item Blocks/VD1/Powerup Block #3"
                     },
                     {
                         "name": "Vine Block #1",
-                        "ref": "Blocks/VD1/Vine Block #1"
+                        "ref": "Item Blocks/VD1/Vine Block #1"
                     },
                     {
                         "name": "Powerup Block #4",
-                        "ref": "Blocks/VD1/Powerup Block #4"
+                        "ref": "Item Blocks/VD1/Powerup Block #4"
                     },
                     {
                         "name": "Coin Block #2",
-                        "ref": "Blocks/VD1/Coin Block #2"
+                        "ref": "Coin Blocks/VD1/Coin Block #2"
                     }
                 ],
                 "map_locations": [
@@ -417,7 +417,7 @@
                     },
                     {
                         "name": "Star Block #1",
-                        "ref": "Blocks/VD1/Star Block #1"
+                        "ref": "Item Blocks/VD1/Star Block #1"
                     }
                 ],
                 "map_locations": [
@@ -469,15 +469,15 @@
                     },
                     {
                         "name": "Star Block #1",
-                        "ref": "Blocks/VD1/Star Block #1"
+                        "ref": "Item Blocks/VD1/Star Block #1"
                     },
                     {
                         "name": "Powerup Block #4",
-                        "ref": "Blocks/VD1/Powerup Block #4"
+                        "ref": "Item Blocks/VD1/Powerup Block #4"
                     },
                     {
                         "name": "Coin Block #2",
-                        "ref": "Blocks/VD1/Coin Block #2"
+                        "ref": "Coin Blocks/VD1/Coin Block #2"
                     }
                 ],
                 "map_locations": [
@@ -525,11 +525,11 @@
                     },
                     {
                         "name": "Powerup Block #4",
-                        "ref": "Blocks/VD1/Powerup Block #4"
+                        "ref": "Item Blocks/VD1/Powerup Block #4"
                     },
                     {
                         "name": "Coin Block #2",
-                        "ref": "Blocks/VD1/Coin Block #2"
+                        "ref": "Coin Blocks/VD1/Coin Block #2"
                     }
                 ],
                 "map_locations": [

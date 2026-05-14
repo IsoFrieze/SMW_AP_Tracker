@@ -129,7 +129,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Blocks/FIC/Green Switch Palace Block #1"
+                        "ref": "Green Switch Blocks/FIC/Green Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -177,7 +177,7 @@
                     },
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Blocks/FIC/Green Switch Palace Block #1"
+                        "ref": "Green Switch Blocks/FIC/Green Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [

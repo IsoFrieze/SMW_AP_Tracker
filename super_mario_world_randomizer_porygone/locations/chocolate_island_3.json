@@ -161,7 +161,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/CI3/Powerup Block #1"
+                        "ref": "Item Blocks/CI3/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -177,7 +177,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Blocks/CI3/Powerup Block #2"
+                        "ref": "Item Blocks/CI3/Powerup Block #2"
                     }
                 ],
                 "map_locations": [
@@ -193,7 +193,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #3",
-                        "ref": "Blocks/CI3/Powerup Block #3"
+                        "ref": "Item Blocks/CI3/Powerup Block #3"
                     }
                 ],
                 "map_locations": [
@@ -209,7 +209,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Blocks/CI3/Green Switch Palace Block #1"
+                        "ref": "Green Switch Blocks/CI3/Green Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -225,7 +225,7 @@
                 "sections": [
                     {
                         "name": "Vine Block #1",
-                        "ref": "Blocks/CI3/Vine Block #1"
+                        "ref": "Item Blocks/CI3/Vine Block #1"
                     }
                 ],
                 "map_locations": [
@@ -241,7 +241,7 @@
                 "sections": [
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "ref": "Blocks/CI3/1-Up Mushroom Block #1"
+                        "ref": "Item Blocks/CI3/1-Up Mushroom Block #1"
                     }
                 ],
                 "map_locations": [
@@ -257,7 +257,7 @@
                 "sections": [
                     {
                         "name": "1-Up Mushroom Block #2",
-                        "ref": "Blocks/CI3/1-Up Mushroom Block #2"
+                        "ref": "Item Blocks/CI3/1-Up Mushroom Block #2"
                     }
                 ],
                 "map_locations": [
@@ -273,7 +273,7 @@
                 "sections": [
                     {
                         "name": "1-Up Mushroom Block #3",
-                        "ref": "Blocks/CI3/1-Up Mushroom Block #3"
+                        "ref": "Item Blocks/CI3/1-Up Mushroom Block #3"
                     }
                 ],
                 "map_locations": [
@@ -345,35 +345,35 @@
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/CI3/Powerup Block #1"
+                        "ref": "Item Blocks/CI3/Powerup Block #1"
                     },
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Blocks/CI3/Powerup Block #2"
+                        "ref": "Item Blocks/CI3/Powerup Block #2"
                     },
                     {
                         "name": "Powerup Block #3",
-                        "ref": "Blocks/CI3/Powerup Block #3"
+                        "ref": "Item Blocks/CI3/Powerup Block #3"
                     },
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Blocks/CI3/Green Switch Palace Block #1"
+                        "ref": "Green Switch Blocks/CI3/Green Switch Palace Block #1"
                     },
                     {
                         "name": "Vine Block #1",
-                        "ref": "Blocks/CI3/Vine Block #1"
+                        "ref": "Item Blocks/CI3/Vine Block #1"
                     },
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "ref": "Blocks/CI3/1-Up Mushroom Block #1"
+                        "ref": "Item Blocks/CI3/1-Up Mushroom Block #1"
                     },
                     {
                         "name": "1-Up Mushroom Block #2",
-                        "ref": "Blocks/CI3/1-Up Mushroom Block #2"
+                        "ref": "Item Blocks/CI3/1-Up Mushroom Block #2"
                     },
                     {
                         "name": "1-Up Mushroom Block #3",
-                        "ref": "Blocks/CI3/1-Up Mushroom Block #3"
+                        "ref": "Item Blocks/CI3/1-Up Mushroom Block #3"
                     }
                 ],
                 "map_locations": [
@@ -477,35 +477,35 @@
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/CI3/Powerup Block #1"
+                        "ref": "Item Blocks/CI3/Powerup Block #1"
                     },
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Blocks/CI3/Powerup Block #2"
+                        "ref": "Item Blocks/CI3/Powerup Block #2"
                     },
                     {
                         "name": "Powerup Block #3",
-                        "ref": "Blocks/CI3/Powerup Block #3"
+                        "ref": "Item Blocks/CI3/Powerup Block #3"
                     },
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Blocks/CI3/Green Switch Palace Block #1"
+                        "ref": "Green Switch Blocks/CI3/Green Switch Palace Block #1"
                     },
                     {
                         "name": "Vine Block #1",
-                        "ref": "Blocks/CI3/Vine Block #1"
+                        "ref": "Item Blocks/CI3/Vine Block #1"
                     },
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "ref": "Blocks/CI3/1-Up Mushroom Block #1"
+                        "ref": "Item Blocks/CI3/1-Up Mushroom Block #1"
                     },
                     {
                         "name": "1-Up Mushroom Block #2",
-                        "ref": "Blocks/CI3/1-Up Mushroom Block #2"
+                        "ref": "Item Blocks/CI3/1-Up Mushroom Block #2"
                     },
                     {
                         "name": "1-Up Mushroom Block #3",
-                        "ref": "Blocks/CI3/1-Up Mushroom Block #3"
+                        "ref": "Item Blocks/CI3/1-Up Mushroom Block #3"
                     }
                 ],
                 "map_locations": [

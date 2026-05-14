@@ -29,7 +29,7 @@
                 "sections": [
                     {
                         "name": "Bonus room",
-                        "ref": "Blocks/GSP/Bonus room"
+                        "ref": "Rooms/GSP/Room 0x0008"
                     }
                 ],
                 "map_locations": [
@@ -45,7 +45,7 @@
                 "sections": [
                     {
                         "name": "Button room",
-                        "ref": "Blocks/GSP/Button room"
+                        "ref": "Rooms/GSP/Room 0x00C9"
                     },
                     {
                         "name": "Normal Exit",
@@ -65,7 +65,7 @@
                 "sections": [
                     {
                         "name": "Button room",
-                        "ref": "Blocks/GSP/Button room"
+                        "ref": "Rooms/GSP/Room 0x00C9"
                     },
                     {
                         "name": "Normal Exit",

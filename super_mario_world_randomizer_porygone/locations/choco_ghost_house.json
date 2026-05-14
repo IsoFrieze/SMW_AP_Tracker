@@ -29,7 +29,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/CGH/Powerup Block #1"
+                        "ref": "Item Blocks/CGH/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -45,7 +45,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Blocks/CGH/Powerup Block #2"
+                        "ref": "Item Blocks/CGH/Powerup Block #2"
                     }
                 ],
                 "map_locations": [
@@ -61,7 +61,7 @@
                 "sections": [
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "ref": "Blocks/CGH/1-Up Mushroom Block #1"
+                        "ref": "Item Blocks/CGH/1-Up Mushroom Block #1"
                     }
                 ],
                 "map_locations": [
@@ -81,7 +81,7 @@
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/CGH/Powerup Block #1"
+                        "ref": "Item Blocks/CGH/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -101,11 +101,11 @@
                     },
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Blocks/CGH/Powerup Block #2"
+                        "ref": "Item Blocks/CGH/Powerup Block #2"
                     },
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "ref": "Blocks/CGH/1-Up Mushroom Block #1"
+                        "ref": "Item Blocks/CGH/1-Up Mushroom Block #1"
                     }
                 ],
                 "map_locations": [
@@ -153,11 +153,11 @@
                     },
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Blocks/CGH/Powerup Block #2"
+                        "ref": "Item Blocks/CGH/Powerup Block #2"
                     },
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "ref": "Blocks/CGH/1-Up Mushroom Block #1"
+                        "ref": "Item Blocks/CGH/1-Up Mushroom Block #1"
                     }
                 ],
                 "map_locations": [

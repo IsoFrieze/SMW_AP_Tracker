@@ -129,7 +129,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/BB2/Powerup Block #1"
+                        "ref": "Item Blocks/BB2/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -145,7 +145,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Blocks/BB2/Green Switch Palace Block #1"
+                        "ref": "Green Switch Blocks/BB2/Green Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -161,7 +161,7 @@
                 "sections": [
                     {
                         "name": "Yoshi Block #1",
-                        "ref": "Blocks/BB2/Yoshi Block #1"
+                        "ref": "Item Blocks/BB2/Yoshi Block #1"
                     }
                 ],
                 "map_locations": [
@@ -225,15 +225,15 @@
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/BB2/Powerup Block #1"
+                        "ref": "Item Blocks/BB2/Powerup Block #1"
                     },
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Blocks/BB2/Green Switch Palace Block #1"
+                        "ref": "Green Switch Blocks/BB2/Green Switch Palace Block #1"
                     },
                     {
                         "name": "Yoshi Block #1",
-                        "ref": "Blocks/BB2/Yoshi Block #1"
+                        "ref": "Item Blocks/BB2/Yoshi Block #1"
                     }
                 ],
                 "map_locations": [
@@ -329,15 +329,15 @@
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/BB2/Powerup Block #1"
+                        "ref": "Item Blocks/BB2/Powerup Block #1"
                     },
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Blocks/BB2/Green Switch Palace Block #1"
+                        "ref": "Green Switch Blocks/BB2/Green Switch Palace Block #1"
                     },
                     {
                         "name": "Yoshi Block #1",
-                        "ref": "Blocks/BB2/Yoshi Block #1"
+                        "ref": "Item Blocks/BB2/Yoshi Block #1"
                     }
                 ],
                 "map_locations": [

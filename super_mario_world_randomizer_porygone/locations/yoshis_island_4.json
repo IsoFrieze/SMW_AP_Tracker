@@ -145,7 +145,7 @@
                 "sections": [
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Blocks/YI4/Yellow Switch Palace Block #1"
+                        "ref": "Yellow Switch Blocks/YI4/Yellow Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -161,7 +161,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/YI4/Powerup Block #1"
+                        "ref": "Item Blocks/YI4/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -177,7 +177,7 @@
                 "sections": [
                     {
                         "name": "Multi Coin Block #1",
-                        "ref": "Blocks/YI4/Multi Coin Block #1"
+                        "ref": "Coin Blocks/YI4/Multi Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -193,7 +193,7 @@
                 "sections": [
                     {
                         "name": "Star Block #1",
-                        "ref": "Blocks/YI4/Star Block #1"
+                        "ref": "Item Blocks/YI4/Star Block #1"
                     }
                 ],
                 "map_locations": [
@@ -241,15 +241,15 @@
                     },
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Blocks/YI4/Yellow Switch Palace Block #1"
+                        "ref": "Yellow Switch Blocks/YI4/Yellow Switch Palace Block #1"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/YI4/Powerup Block #1"
+                        "ref": "Item Blocks/YI4/Powerup Block #1"
                     },
                     {
                         "name": "Star Block #1",
-                        "ref": "Blocks/YI4/Star Block #1"
+                        "ref": "Item Blocks/YI4/Star Block #1"
                     }
                 ],
                 "map_locations": [
@@ -269,7 +269,7 @@
                     },
                     {
                         "name": "Multi Coin Block #1",
-                        "ref": "Blocks/YI4/Multi Coin Block #1"
+                        "ref": "Coin Blocks/YI4/Multi Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -309,7 +309,7 @@
                     },
                     {
                         "name": "Multi Coin Block #1",
-                        "ref": "Blocks/YI4/Multi Coin Block #1"
+                        "ref": "Coin Blocks/YI4/Multi Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -377,15 +377,15 @@
                     },
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Blocks/YI4/Yellow Switch Palace Block #1"
+                        "ref": "Yellow Switch Blocks/YI4/Yellow Switch Palace Block #1"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/YI4/Powerup Block #1"
+                        "ref": "Item Blocks/YI4/Powerup Block #1"
                     },
                     {
                         "name": "Star Block #1",
-                        "ref": "Blocks/YI4/Star Block #1"
+                        "ref": "Item Blocks/YI4/Star Block #1"
                     }
                 ],
                 "map_locations": [

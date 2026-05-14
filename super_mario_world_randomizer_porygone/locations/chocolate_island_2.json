@@ -206,7 +206,7 @@
                 "sections": [
                     {
                         "name": "Multi Coin Block #1",
-                        "ref": "Blocks/CI2/Multi Coin Block #1"
+                        "ref": "Coin Blocks/CI2/Multi Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -222,7 +222,7 @@
                 "sections": [
                     {
                         "name": "Invisible Coin Block #1",
-                        "ref": "Blocks/CI2/Invisible Coin Block #1"
+                        "ref": "Invisible Blocks/CI2/Invisible Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -238,7 +238,7 @@
                 "sections": [
                     {
                         "name": "Yoshi Block #1",
-                        "ref": "Blocks/CI2/Yoshi Block #1"
+                        "ref": "Item Blocks/CI2/Yoshi Block #1"
                     }
                 ],
                 "map_locations": [
@@ -254,7 +254,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #1",
-                        "ref": "Blocks/CI2/Coin Block #1"
+                        "ref": "Coin Blocks/CI2/Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -270,7 +270,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #2",
-                        "ref": "Blocks/CI2/Coin Block #2"
+                        "ref": "Coin Blocks/CI2/Coin Block #2"
                     }
                 ],
                 "map_locations": [
@@ -286,7 +286,7 @@
                 "sections": [
                     {
                         "name": "Multi Coin Block #2",
-                        "ref": "Blocks/CI2/Multi Coin Block #2"
+                        "ref": "Coin Blocks/CI2/Multi Coin Block #2"
                     }
                 ],
                 "map_locations": [
@@ -302,7 +302,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/CI2/Powerup Block #1"
+                        "ref": "Item Blocks/CI2/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -318,7 +318,7 @@
                 "sections": [
                     {
                         "name": "Blue P-Switch Block #1",
-                        "ref": "Blocks/CI2/Blue P-Switch Block #1"
+                        "ref": "Item Blocks/CI2/Blue P-Switch Block #1"
                     }
                 ],
                 "map_locations": [
@@ -334,7 +334,7 @@
                 "sections": [
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Blocks/CI2/Yellow Switch Palace Block #1"
+                        "ref": "Yellow Switch Blocks/CI2/Yellow Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -350,7 +350,7 @@
                 "sections": [
                     {
                         "name": "Yellow Switch Palace Block #2",
-                        "ref": "Blocks/CI2/Yellow Switch Palace Block #2"
+                        "ref": "Yellow Switch Blocks/CI2/Yellow Switch Palace Block #2"
                     }
                 ],
                 "map_locations": [
@@ -366,7 +366,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Blocks/CI2/Green Switch Palace Block #1"
+                        "ref": "Green Switch Blocks/CI2/Green Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -382,7 +382,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #2",
-                        "ref": "Blocks/CI2/Green Switch Palace Block #2"
+                        "ref": "Green Switch Blocks/CI2/Green Switch Palace Block #2"
                     }
                 ],
                 "map_locations": [
@@ -398,7 +398,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #3",
-                        "ref": "Blocks/CI2/Green Switch Palace Block #3"
+                        "ref": "Green Switch Blocks/CI2/Green Switch Palace Block #3"
                     }
                 ],
                 "map_locations": [
@@ -414,7 +414,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #4",
-                        "ref": "Blocks/CI2/Green Switch Palace Block #4"
+                        "ref": "Green Switch Blocks/CI2/Green Switch Palace Block #4"
                     }
                 ],
                 "map_locations": [
@@ -430,7 +430,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #5",
-                        "ref": "Blocks/CI2/Green Switch Palace Block #5"
+                        "ref": "Green Switch Blocks/CI2/Green Switch Palace Block #5"
                     }
                 ],
                 "map_locations": [
@@ -446,7 +446,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #6",
-                        "ref": "Blocks/CI2/Green Switch Palace Block #6"
+                        "ref": "Green Switch Blocks/CI2/Green Switch Palace Block #6"
                     }
                 ],
                 "map_locations": [
@@ -478,15 +478,15 @@
                     },
                     {
                         "name": "Multi Coin Block #1",
-                        "ref": "Blocks/CI2/Multi Coin Block #1"
+                        "ref": "Coin Blocks/CI2/Multi Coin Block #1"
                     },
                     {
                         "name": "Invisible Coin Block #1",
-                        "ref": "Blocks/CI2/Invisible Coin Block #1"
+                        "ref": "Invisible Blocks/CI2/Invisible Coin Block #1"
                     },
                     {
                         "name": "Yoshi Block #1",
-                        "ref": "Blocks/CI2/Yoshi Block #1"
+                        "ref": "Item Blocks/CI2/Yoshi Block #1"
                     }
                 ],
                 "map_locations": [
@@ -534,19 +534,19 @@
                     },
                     {
                         "name": "Coin Block #1",
-                        "ref": "Blocks/CI2/Coin Block #1"
+                        "ref": "Coin Blocks/CI2/Coin Block #1"
                     },
                     {
                         "name": "Coin Block #2",
-                        "ref": "Blocks/CI2/Coin Block #2"
+                        "ref": "Coin Blocks/CI2/Coin Block #2"
                     },
                     {
                         "name": "Multi Coin Block #2",
-                        "ref": "Blocks/CI2/Multi Coin Block #2"
+                        "ref": "Coin Blocks/CI2/Multi Coin Block #2"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/CI2/Powerup Block #1"
+                        "ref": "Item Blocks/CI2/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -642,35 +642,35 @@
                     },
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Blocks/CI2/Yellow Switch Palace Block #1"
+                        "ref": "Yellow Switch Blocks/CI2/Yellow Switch Palace Block #1"
                     },
                     {
                         "name": "Yellow Switch Palace Block #2",
-                        "ref": "Blocks/CI2/Yellow Switch Palace Block #2"
+                        "ref": "Yellow Switch Blocks/CI2/Yellow Switch Palace Block #2"
                     },
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Blocks/CI2/Green Switch Palace Block #1"
+                        "ref": "Green Switch Blocks/CI2/Green Switch Palace Block #1"
                     },
                     {
                         "name": "Green Switch Palace Block #2",
-                        "ref": "Blocks/CI2/Green Switch Palace Block #2"
+                        "ref": "Green Switch Blocks/CI2/Green Switch Palace Block #2"
                     },
                     {
                         "name": "Green Switch Palace Block #3",
-                        "ref": "Blocks/CI2/Green Switch Palace Block #3"
+                        "ref": "Green Switch Blocks/CI2/Green Switch Palace Block #3"
                     },
                     {
                         "name": "Green Switch Palace Block #4",
-                        "ref": "Blocks/CI2/Green Switch Palace Block #4"
+                        "ref": "Green Switch Blocks/CI2/Green Switch Palace Block #4"
                     },
                     {
                         "name": "Green Switch Palace Block #5",
-                        "ref": "Blocks/CI2/Green Switch Palace Block #5"
+                        "ref": "Green Switch Blocks/CI2/Green Switch Palace Block #5"
                     },
                     {
                         "name": "Green Switch Palace Block #6",
-                        "ref": "Blocks/CI2/Green Switch Palace Block #6"
+                        "ref": "Green Switch Blocks/CI2/Green Switch Palace Block #6"
                     }
                 ],
                 "map_locations": [
@@ -722,7 +722,7 @@
                     },
                     {
                         "name": "Blue P-Switch Block #1",
-                        "ref": "Blocks/CI2/Blue P-Switch Block #1"
+                        "ref": "Item Blocks/CI2/Blue P-Switch Block #1"
                     }
                 ],
                 "map_locations": [
@@ -770,39 +770,39 @@
                     },
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Blocks/CI2/Yellow Switch Palace Block #1"
+                        "ref": "Yellow Switch Blocks/CI2/Yellow Switch Palace Block #1"
                     },
                     {
                         "name": "Yellow Switch Palace Block #2",
-                        "ref": "Blocks/CI2/Yellow Switch Palace Block #2"
+                        "ref": "Yellow Switch Blocks/CI2/Yellow Switch Palace Block #2"
                     },
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Blocks/CI2/Green Switch Palace Block #1"
+                        "ref": "Green Switch Blocks/CI2/Green Switch Palace Block #1"
                     },
                     {
                         "name": "Green Switch Palace Block #2",
-                        "ref": "Blocks/CI2/Green Switch Palace Block #2"
+                        "ref": "Green Switch Blocks/CI2/Green Switch Palace Block #2"
                     },
                     {
                         "name": "Green Switch Palace Block #3",
-                        "ref": "Blocks/CI2/Green Switch Palace Block #3"
+                        "ref": "Green Switch Blocks/CI2/Green Switch Palace Block #3"
                     },
                     {
                         "name": "Green Switch Palace Block #4",
-                        "ref": "Blocks/CI2/Green Switch Palace Block #4"
+                        "ref": "Green Switch Blocks/CI2/Green Switch Palace Block #4"
                     },
                     {
                         "name": "Green Switch Palace Block #5",
-                        "ref": "Blocks/CI2/Green Switch Palace Block #5"
+                        "ref": "Green Switch Blocks/CI2/Green Switch Palace Block #5"
                     },
                     {
                         "name": "Green Switch Palace Block #6",
-                        "ref": "Blocks/CI2/Green Switch Palace Block #6"
+                        "ref": "Green Switch Blocks/CI2/Green Switch Palace Block #6"
                     },
                     {
                         "name": "Blue P-Switch Block #1",
-                        "ref": "Blocks/CI2/Blue P-Switch Block #1"
+                        "ref": "Item Blocks/CI2/Blue P-Switch Block #1"
                     }
                 ],
                 "map_locations": [
@@ -862,55 +862,55 @@
                     },
                     {
                         "name": "Coin Block #1",
-                        "ref": "Blocks/CI2/Coin Block #1"
+                        "ref": "Coin Blocks/CI2/Coin Block #1"
                     },
                     {
                         "name": "Coin Block #2",
-                        "ref": "Blocks/CI2/Coin Block #2"
+                        "ref": "Coin Blocks/CI2/Coin Block #2"
                     },
                     {
                         "name": "Multi Coin Block #2",
-                        "ref": "Blocks/CI2/Multi Coin Block #2"
+                        "ref": "Coin Blocks/CI2/Multi Coin Block #2"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/CI2/Powerup Block #1"
+                        "ref": "Item Blocks/CI2/Powerup Block #1"
                     },
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Blocks/CI2/Yellow Switch Palace Block #1"
+                        "ref": "Yellow Switch Blocks/CI2/Yellow Switch Palace Block #1"
                     },
                     {
                         "name": "Yellow Switch Palace Block #2",
-                        "ref": "Blocks/CI2/Yellow Switch Palace Block #2"
+                        "ref": "Yellow Switch Blocks/CI2/Yellow Switch Palace Block #2"
                     },
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Blocks/CI2/Green Switch Palace Block #1"
+                        "ref": "Green Switch Blocks/CI2/Green Switch Palace Block #1"
                     },
                     {
                         "name": "Green Switch Palace Block #2",
-                        "ref": "Blocks/CI2/Green Switch Palace Block #2"
+                        "ref": "Green Switch Blocks/CI2/Green Switch Palace Block #2"
                     },
                     {
                         "name": "Green Switch Palace Block #3",
-                        "ref": "Blocks/CI2/Green Switch Palace Block #3"
+                        "ref": "Green Switch Blocks/CI2/Green Switch Palace Block #3"
                     },
                     {
                         "name": "Green Switch Palace Block #4",
-                        "ref": "Blocks/CI2/Green Switch Palace Block #4"
+                        "ref": "Green Switch Blocks/CI2/Green Switch Palace Block #4"
                     },
                     {
                         "name": "Green Switch Palace Block #5",
-                        "ref": "Blocks/CI2/Green Switch Palace Block #5"
+                        "ref": "Green Switch Blocks/CI2/Green Switch Palace Block #5"
                     },
                     {
                         "name": "Green Switch Palace Block #6",
-                        "ref": "Blocks/CI2/Green Switch Palace Block #6"
+                        "ref": "Green Switch Blocks/CI2/Green Switch Palace Block #6"
                     },
                     {
                         "name": "Blue P-Switch Block #1",
-                        "ref": "Blocks/CI2/Blue P-Switch Block #1"
+                        "ref": "Item Blocks/CI2/Blue P-Switch Block #1"
                     }
                 ],
                 "map_locations": [
@@ -962,39 +962,39 @@
                     },
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Blocks/CI2/Yellow Switch Palace Block #1"
+                        "ref": "Yellow Switch Blocks/CI2/Yellow Switch Palace Block #1"
                     },
                     {
                         "name": "Yellow Switch Palace Block #2",
-                        "ref": "Blocks/CI2/Yellow Switch Palace Block #2"
+                        "ref": "Yellow Switch Blocks/CI2/Yellow Switch Palace Block #2"
                     },
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Blocks/CI2/Green Switch Palace Block #1"
+                        "ref": "Green Switch Blocks/CI2/Green Switch Palace Block #1"
                     },
                     {
                         "name": "Green Switch Palace Block #2",
-                        "ref": "Blocks/CI2/Green Switch Palace Block #2"
+                        "ref": "Green Switch Blocks/CI2/Green Switch Palace Block #2"
                     },
                     {
                         "name": "Green Switch Palace Block #3",
-                        "ref": "Blocks/CI2/Green Switch Palace Block #3"
+                        "ref": "Green Switch Blocks/CI2/Green Switch Palace Block #3"
                     },
                     {
                         "name": "Green Switch Palace Block #4",
-                        "ref": "Blocks/CI2/Green Switch Palace Block #4"
+                        "ref": "Green Switch Blocks/CI2/Green Switch Palace Block #4"
                     },
                     {
                         "name": "Green Switch Palace Block #5",
-                        "ref": "Blocks/CI2/Green Switch Palace Block #5"
+                        "ref": "Green Switch Blocks/CI2/Green Switch Palace Block #5"
                     },
                     {
                         "name": "Green Switch Palace Block #6",
-                        "ref": "Blocks/CI2/Green Switch Palace Block #6"
+                        "ref": "Green Switch Blocks/CI2/Green Switch Palace Block #6"
                     },
                     {
                         "name": "Blue P-Switch Block #1",
-                        "ref": "Blocks/CI2/Blue P-Switch Block #1"
+                        "ref": "Item Blocks/CI2/Blue P-Switch Block #1"
                     }
                 ],
                 "map_locations": [
@@ -1030,7 +1030,7 @@
                     },
                     {
                         "name": "Blue P-Switch Block #1",
-                        "ref": "Blocks/CI2/Blue P-Switch Block #1"
+                        "ref": "Item Blocks/CI2/Blue P-Switch Block #1"
                     }
                 ],
                 "map_locations": [
@@ -1080,7 +1080,7 @@
                     },
                     {
                         "name": "Blue P-Switch Block #1",
-                        "ref": "Blocks/CI2/Blue P-Switch Block #1"
+                        "ref": "Item Blocks/CI2/Blue P-Switch Block #1"
                     }
                 ],
                 "map_locations": [
@@ -1114,35 +1114,35 @@
                     },
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Blocks/CI2/Yellow Switch Palace Block #1"
+                        "ref": "Yellow Switch Blocks/CI2/Yellow Switch Palace Block #1"
                     },
                     {
                         "name": "Yellow Switch Palace Block #2",
-                        "ref": "Blocks/CI2/Yellow Switch Palace Block #2"
+                        "ref": "Yellow Switch Blocks/CI2/Yellow Switch Palace Block #2"
                     },
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Blocks/CI2/Green Switch Palace Block #1"
+                        "ref": "Green Switch Blocks/CI2/Green Switch Palace Block #1"
                     },
                     {
                         "name": "Green Switch Palace Block #2",
-                        "ref": "Blocks/CI2/Green Switch Palace Block #2"
+                        "ref": "Green Switch Blocks/CI2/Green Switch Palace Block #2"
                     },
                     {
                         "name": "Green Switch Palace Block #3",
-                        "ref": "Blocks/CI2/Green Switch Palace Block #3"
+                        "ref": "Green Switch Blocks/CI2/Green Switch Palace Block #3"
                     },
                     {
                         "name": "Green Switch Palace Block #4",
-                        "ref": "Blocks/CI2/Green Switch Palace Block #4"
+                        "ref": "Green Switch Blocks/CI2/Green Switch Palace Block #4"
                     },
                     {
                         "name": "Green Switch Palace Block #5",
-                        "ref": "Blocks/CI2/Green Switch Palace Block #5"
+                        "ref": "Green Switch Blocks/CI2/Green Switch Palace Block #5"
                     },
                     {
                         "name": "Green Switch Palace Block #6",
-                        "ref": "Blocks/CI2/Green Switch Palace Block #6"
+                        "ref": "Green Switch Blocks/CI2/Green Switch Palace Block #6"
                     }
                 ],
                 "map_locations": [
@@ -1209,7 +1209,7 @@
                     },
                     {
                         "name": "Blue P-Switch Block #1",
-                        "ref": "Blocks/CI2/Blue P-Switch Block #1"
+                        "ref": "Item Blocks/CI2/Blue P-Switch Block #1"
                     }
                 ],
                 "map_locations": [

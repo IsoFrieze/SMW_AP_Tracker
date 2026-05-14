@@ -145,7 +145,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Blocks/FI2/Green Switch Palace Block #1"
+                        "ref": "Green Switch Blocks/FI2/Green Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -161,7 +161,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/FI2/Powerup Block #1"
+                        "ref": "Item Blocks/FI2/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -177,7 +177,7 @@
                 "sections": [
                     {
                         "name": "Invisible Coin Block #1",
-                        "ref": "Blocks/FI2/Invisible Coin Block #1"
+                        "ref": "Invisible Blocks/FI2/Invisible Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -193,7 +193,7 @@
                 "sections": [
                     {
                         "name": "Invisible Coin Block #2",
-                        "ref": "Blocks/FI2/Invisible Coin Block #2"
+                        "ref": "Invisible Blocks/FI2/Invisible Coin Block #2"
                     }
                 ],
                 "map_locations": [
@@ -209,7 +209,7 @@
                 "sections": [
                     {
                         "name": "Invisible 1-Up Mushroom Block #1",
-                        "ref": "Blocks/FI2/Invisible 1-Up Mushroom Block #1"
+                        "ref": "Invisible Blocks/FI2/Invisible 1-Up Mushroom Block #1"
                     }
                 ],
                 "map_locations": [
@@ -225,7 +225,7 @@
                 "sections": [
                     {
                         "name": "Invisible Coin Block #3",
-                        "ref": "Blocks/FI2/Invisible Coin Block #3"
+                        "ref": "Invisible Blocks/FI2/Invisible Coin Block #3"
                     }
                 ],
                 "map_locations": [
@@ -241,7 +241,7 @@
                 "sections": [
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Blocks/FI2/Yellow Switch Palace Block #1"
+                        "ref": "Yellow Switch Blocks/FI2/Yellow Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -293,31 +293,31 @@
                     },
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Blocks/FI2/Green Switch Palace Block #1"
+                        "ref": "Green Switch Blocks/FI2/Green Switch Palace Block #1"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/FI2/Powerup Block #1"
+                        "ref": "Item Blocks/FI2/Powerup Block #1"
                     },
                     {
                         "name": "Invisible Coin Block #1",
-                        "ref": "Blocks/FI2/Invisible Coin Block #1"
+                        "ref": "Invisible Blocks/FI2/Invisible Coin Block #1"
                     },
                     {
                         "name": "Invisible Coin Block #2",
-                        "ref": "Blocks/FI2/Invisible Coin Block #2"
+                        "ref": "Invisible Blocks/FI2/Invisible Coin Block #2"
                     },
                     {
                         "name": "Invisible 1-Up Mushroom Block #1",
-                        "ref": "Blocks/FI2/Invisible 1-Up Mushroom Block #1"
+                        "ref": "Invisible Blocks/FI2/Invisible 1-Up Mushroom Block #1"
                     },
                     {
                         "name": "Invisible Coin Block #3",
-                        "ref": "Blocks/FI2/Invisible Coin Block #3"
+                        "ref": "Invisible Blocks/FI2/Invisible Coin Block #3"
                     },
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Blocks/FI2/Yellow Switch Palace Block #1"
+                        "ref": "Yellow Switch Blocks/FI2/Yellow Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [

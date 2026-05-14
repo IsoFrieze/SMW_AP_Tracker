@@ -29,7 +29,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #1",
-                        "ref": "Blocks/YIC/Coin Block #1"
+                        "ref": "Coin Blocks/YIC/Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -45,7 +45,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #2",
-                        "ref": "Blocks/YIC/Coin Block #2"
+                        "ref": "Coin Blocks/YIC/Coin Block #2"
                     }
                 ],
                 "map_locations": [
@@ -61,7 +61,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/YIC/Powerup Block #1"
+                        "ref": "Item Blocks/YIC/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -77,7 +77,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #3",
-                        "ref": "Blocks/YIC/Coin Block #3"
+                        "ref": "Coin Blocks/YIC/Coin Block #3"
                     }
                 ],
                 "map_locations": [
@@ -93,7 +93,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #4",
-                        "ref": "Blocks/YIC/Coin Block #4"
+                        "ref": "Coin Blocks/YIC/Coin Block #4"
                     }
                 ],
                 "map_locations": [
@@ -109,7 +109,7 @@
                 "sections": [
                     {
                         "name": "Flying Question Block #1",
-                        "ref": "Blocks/YIC/Flying Question Block #1"
+                        "ref": "Flying Blocks/YIC/Flying Question Block #1"
                     }
                 ],
                 "map_locations": [
@@ -149,23 +149,23 @@
                     },
                     {
                         "name": "Coin Block #1",
-                        "ref": "Blocks/YIC/Coin Block #1"
+                        "ref": "Coin Blocks/YIC/Coin Block #1"
                     },
                     {
                         "name": "Coin Block #2",
-                        "ref": "Blocks/YIC/Coin Block #2"
+                        "ref": "Coin Blocks/YIC/Coin Block #2"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/YIC/Powerup Block #1"
+                        "ref": "Item Blocks/YIC/Powerup Block #1"
                     },
                     {
                         "name": "Coin Block #3",
-                        "ref": "Blocks/YIC/Coin Block #3"
+                        "ref": "Coin Blocks/YIC/Coin Block #3"
                     },
                     {
                         "name": "Coin Block #4",
-                        "ref": "Blocks/YIC/Coin Block #4"
+                        "ref": "Coin Blocks/YIC/Coin Block #4"
                     }
                 ],
                 "map_locations": [
@@ -189,7 +189,7 @@
                     },
                     {
                         "name": "Flying Question Block #1",
-                        "ref": "Blocks/YIC/Flying Question Block #1"
+                        "ref": "Flying Blocks/YIC/Flying Question Block #1"
                     }
                 ],
                 "map_locations": [
@@ -213,7 +213,7 @@
                     },
                     {
                         "name": "Flying Question Block #1",
-                        "ref": "Blocks/YIC/Flying Question Block #1"
+                        "ref": "Flying Blocks/YIC/Flying Question Block #1"
                     }
                 ],
                 "map_locations": [

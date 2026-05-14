@@ -145,7 +145,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #1",
-                        "ref": "Blocks/VD2/Coin Block #1"
+                        "ref": "Coin Blocks/VD2/Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -161,7 +161,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/VD2/Powerup Block #1"
+                        "ref": "Item Blocks/VD2/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -177,7 +177,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #2",
-                        "ref": "Blocks/VD2/Coin Block #2"
+                        "ref": "Coin Blocks/VD2/Coin Block #2"
                     }
                 ],
                 "map_locations": [
@@ -193,7 +193,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #3",
-                        "ref": "Blocks/VD2/Coin Block #3"
+                        "ref": "Coin Blocks/VD2/Coin Block #3"
                     }
                 ],
                 "map_locations": [
@@ -209,7 +209,7 @@
                 "sections": [
                     {
                         "name": "Vine Block #1",
-                        "ref": "Blocks/VD2/Vine Block #1"
+                        "ref": "Item Blocks/VD2/Vine Block #1"
                     }
                 ],
                 "map_locations": [
@@ -225,7 +225,7 @@
                 "sections": [
                     {
                         "name": "Invisible 1-Up Mushroom Block #1",
-                        "ref": "Blocks/VD2/Invisible 1-Up Mushroom Block #1"
+                        "ref": "Invisible Blocks/VD2/Invisible 1-Up Mushroom Block #1"
                     }
                 ],
                 "map_locations": [
@@ -241,7 +241,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #4",
-                        "ref": "Blocks/VD2/Coin Block #4"
+                        "ref": "Coin Blocks/VD2/Coin Block #4"
                     }
                 ],
                 "map_locations": [
@@ -257,7 +257,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #5",
-                        "ref": "Blocks/VD2/Coin Block #5"
+                        "ref": "Coin Blocks/VD2/Coin Block #5"
                     }
                 ],
                 "map_locations": [
@@ -273,7 +273,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Blocks/VD2/Powerup Block #2"
+                        "ref": "Item Blocks/VD2/Powerup Block #2"
                     }
                 ],
                 "map_locations": [
@@ -289,7 +289,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #3",
-                        "ref": "Blocks/VD2/Powerup Block #3"
+                        "ref": "Item Blocks/VD2/Powerup Block #3"
                     }
                 ],
                 "map_locations": [
@@ -305,7 +305,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #4",
-                        "ref": "Blocks/VD2/Powerup Block #4"
+                        "ref": "Item Blocks/VD2/Powerup Block #4"
                     }
                 ],
                 "map_locations": [
@@ -321,7 +321,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #5",
-                        "ref": "Blocks/VD2/Powerup Block #5"
+                        "ref": "Item Blocks/VD2/Powerup Block #5"
                     }
                 ],
                 "map_locations": [
@@ -337,7 +337,7 @@
                 "sections": [
                     {
                         "name": "Multi Coin Block #1",
-                        "ref": "Blocks/VD2/Multi Coin Block #1"
+                        "ref": "Coin Blocks/VD2/Multi Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -353,7 +353,7 @@
                 "sections": [
                     {
                         "name": "Multi Coin Block #2",
-                        "ref": "Blocks/VD2/Multi Coin Block #2"
+                        "ref": "Coin Blocks/VD2/Multi Coin Block #2"
                     }
                 ],
                 "map_locations": [
@@ -425,55 +425,55 @@
                     },
                     {
                         "name": "Coin Block #1",
-                        "ref": "Blocks/VD2/Coin Block #1"
+                        "ref": "Coin Blocks/VD2/Coin Block #1"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/VD2/Powerup Block #1"
+                        "ref": "Item Blocks/VD2/Powerup Block #1"
                     },
                     {
                         "name": "Coin Block #2",
-                        "ref": "Blocks/VD2/Coin Block #2"
+                        "ref": "Coin Blocks/VD2/Coin Block #2"
                     },
                     {
                         "name": "Coin Block #3",
-                        "ref": "Blocks/VD2/Coin Block #3"
+                        "ref": "Coin Blocks/VD2/Coin Block #3"
                     },
                     {
                         "name": "Vine Block #1",
-                        "ref": "Blocks/VD2/Vine Block #1"
+                        "ref": "Item Blocks/VD2/Vine Block #1"
                     },
                     {
                         "name": "Invisible 1-Up Mushroom Block #1",
-                        "ref": "Blocks/VD2/Invisible 1-Up Mushroom Block #1"
+                        "ref": "Invisible Blocks/VD2/Invisible 1-Up Mushroom Block #1"
                     },
                     {
                         "name": "Coin Block #4",
-                        "ref": "Blocks/VD2/Coin Block #4"
+                        "ref": "Coin Blocks/VD2/Coin Block #4"
                     },
                     {
                         "name": "Coin Block #5",
-                        "ref": "Blocks/VD2/Coin Block #5"
+                        "ref": "Coin Blocks/VD2/Coin Block #5"
                     },
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Blocks/VD2/Powerup Block #2"
+                        "ref": "Item Blocks/VD2/Powerup Block #2"
                     },
                     {
                         "name": "Powerup Block #3",
-                        "ref": "Blocks/VD2/Powerup Block #3"
+                        "ref": "Item Blocks/VD2/Powerup Block #3"
                     },
                     {
                         "name": "Powerup Block #4",
-                        "ref": "Blocks/VD2/Powerup Block #4"
+                        "ref": "Item Blocks/VD2/Powerup Block #4"
                     },
                     {
                         "name": "Powerup Block #5",
-                        "ref": "Blocks/VD2/Powerup Block #5"
+                        "ref": "Item Blocks/VD2/Powerup Block #5"
                     },
                     {
                         "name": "Multi Coin Block #2",
-                        "ref": "Blocks/VD2/Multi Coin Block #2"
+                        "ref": "Coin Blocks/VD2/Multi Coin Block #2"
                     }
                 ],
                 "map_locations": [
@@ -493,7 +493,7 @@
                     },
                     {
                         "name": "Multi Coin Block #1",
-                        "ref": "Blocks/VD2/Multi Coin Block #1"
+                        "ref": "Coin Blocks/VD2/Multi Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -513,7 +513,7 @@
                     },
                     {
                         "name": "Multi Coin Block #1",
-                        "ref": "Blocks/VD2/Multi Coin Block #1"
+                        "ref": "Coin Blocks/VD2/Multi Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -569,55 +569,55 @@
                     },
                     {
                         "name": "Coin Block #1",
-                        "ref": "Blocks/VD2/Coin Block #1"
+                        "ref": "Coin Blocks/VD2/Coin Block #1"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/VD2/Powerup Block #1"
+                        "ref": "Item Blocks/VD2/Powerup Block #1"
                     },
                     {
                         "name": "Coin Block #2",
-                        "ref": "Blocks/VD2/Coin Block #2"
+                        "ref": "Coin Blocks/VD2/Coin Block #2"
                     },
                     {
                         "name": "Coin Block #3",
-                        "ref": "Blocks/VD2/Coin Block #3"
+                        "ref": "Coin Blocks/VD2/Coin Block #3"
                     },
                     {
                         "name": "Vine Block #1",
-                        "ref": "Blocks/VD2/Vine Block #1"
+                        "ref": "Item Blocks/VD2/Vine Block #1"
                     },
                     {
                         "name": "Invisible 1-Up Mushroom Block #1",
-                        "ref": "Blocks/VD2/Invisible 1-Up Mushroom Block #1"
+                        "ref": "Invisible Blocks/VD2/Invisible 1-Up Mushroom Block #1"
                     },
                     {
                         "name": "Coin Block #4",
-                        "ref": "Blocks/VD2/Coin Block #4"
+                        "ref": "Coin Blocks/VD2/Coin Block #4"
                     },
                     {
                         "name": "Coin Block #5",
-                        "ref": "Blocks/VD2/Coin Block #5"
+                        "ref": "Coin Blocks/VD2/Coin Block #5"
                     },
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Blocks/VD2/Powerup Block #2"
+                        "ref": "Item Blocks/VD2/Powerup Block #2"
                     },
                     {
                         "name": "Powerup Block #3",
-                        "ref": "Blocks/VD2/Powerup Block #3"
+                        "ref": "Item Blocks/VD2/Powerup Block #3"
                     },
                     {
                         "name": "Powerup Block #4",
-                        "ref": "Blocks/VD2/Powerup Block #4"
+                        "ref": "Item Blocks/VD2/Powerup Block #4"
                     },
                     {
                         "name": "Powerup Block #5",
-                        "ref": "Blocks/VD2/Powerup Block #5"
+                        "ref": "Item Blocks/VD2/Powerup Block #5"
                     },
                     {
                         "name": "Multi Coin Block #2",
-                        "ref": "Blocks/VD2/Multi Coin Block #2"
+                        "ref": "Coin Blocks/VD2/Multi Coin Block #2"
                     }
                 ],
                 "map_locations": [

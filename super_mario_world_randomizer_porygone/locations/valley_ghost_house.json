@@ -165,7 +165,7 @@
                 "sections": [
                     {
                         "name": "P-Switch Coin Block #1",
-                        "ref": "Blocks/VBH/P-Switch Coin Block #1"
+                        "ref": "P-Switch Blocks/VBH/P-Switch Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -181,7 +181,7 @@
                 "sections": [
                     {
                         "name": "Multi Coin Block #1",
-                        "ref": "Blocks/VBH/Multi Coin Block #1"
+                        "ref": "Coin Blocks/VBH/Multi Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -197,7 +197,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/VBH/Powerup Block #1"
+                        "ref": "Item Blocks/VBH/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -213,7 +213,7 @@
                 "sections": [
                     {
                         "name": "Directional Coin Block #1",
-                        "ref": "Blocks/VBH/Directional Coin Block #1"
+                        "ref": "Item Blocks/VBH/Directional Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -241,7 +241,7 @@
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/VBH/Powerup Block #1"
+                        "ref": "Item Blocks/VBH/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -277,11 +277,11 @@
                     },
                     {
                         "name": "P-Switch Coin Block #1",
-                        "ref": "Blocks/VBH/P-Switch Coin Block #1"
+                        "ref": "P-Switch Blocks/VBH/P-Switch Coin Block #1"
                     },
                     {
                         "name": "Multi Coin Block #1",
-                        "ref": "Blocks/VBH/Multi Coin Block #1"
+                        "ref": "Coin Blocks/VBH/Multi Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -317,7 +317,7 @@
                     },
                     {
                         "name": "Directional Coin Block #1",
-                        "ref": "Blocks/VBH/Directional Coin Block #1"
+                        "ref": "Item Blocks/VBH/Directional Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -393,15 +393,15 @@
                     },
                     {
                         "name": "P-Switch Coin Block #1",
-                        "ref": "Blocks/VBH/P-Switch Coin Block #1"
+                        "ref": "P-Switch Blocks/VBH/P-Switch Coin Block #1"
                     },
                     {
                         "name": "Multi Coin Block #1",
-                        "ref": "Blocks/VBH/Multi Coin Block #1"
+                        "ref": "Coin Blocks/VBH/Multi Coin Block #1"
                     },
                     {
                         "name": "Directional Coin Block #1",
-                        "ref": "Blocks/VBH/Directional Coin Block #1"
+                        "ref": "Item Blocks/VBH/Directional Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -434,7 +434,7 @@
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/VBH/Powerup Block #1"
+                        "ref": "Item Blocks/VBH/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -471,7 +471,7 @@
                     },
                     {
                         "name": "Directional Coin Block #1",
-                        "ref": "Blocks/VBH/Directional Coin Block #1"
+                        "ref": "Item Blocks/VBH/Directional Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -512,7 +512,7 @@
                     },
                     {
                         "name": "Directional Coin Block #1",
-                        "ref": "Blocks/VBH/Directional Coin Block #1"
+                        "ref": "Item Blocks/VBH/Directional Coin Block #1"
                     }
                 ],
                 "map_locations": [

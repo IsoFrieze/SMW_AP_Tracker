@@ -150,7 +150,7 @@
                 "sections": [
                     {
                         "name": "Flying Question Block #1",
-                        "ref": "Blocks/CI1/Flying Question Block #1"
+                        "ref": "Flying Blocks/CI1/Flying Question Block #1"
                     }
                 ],
                 "map_locations": [
@@ -171,7 +171,7 @@
                 "sections": [
                     {
                         "name": "Flying Question Block #2",
-                        "ref": "Blocks/CI1/Flying Question Block #2"
+                        "ref": "Flying Blocks/CI1/Flying Question Block #2"
                     }
                 ],
                 "map_locations": [
@@ -192,7 +192,7 @@
                 "sections": [
                     {
                         "name": "Yoshi Block #1",
-                        "ref": "Blocks/CI1/Yoshi Block #1"
+                        "ref": "Item Blocks/CI1/Yoshi Block #1"
                     }
                 ],
                 "map_locations": [
@@ -213,7 +213,7 @@
                 "sections": [
                     {
                         "name": "Green|Yellow Switch Palace Block #1",
-                        "ref": "Blocks/CI1/Green|Yellow Switch Palace Block #1"
+                        "ref": "Green Switch Blocks/CI1/Green|Yellow Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -234,7 +234,7 @@
                 "sections": [
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "ref": "Blocks/CI1/1-Up Mushroom Block #1"
+                        "ref": "Item Blocks/CI1/1-Up Mushroom Block #1"
                     }
                 ],
                 "map_locations": [
@@ -266,7 +266,7 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Blocks/CI1/Main room"
+                        "ref": "Item Blocks/CI1/Main room"
                     },
                     {
                         "name": "Normal Exit",
@@ -286,19 +286,19 @@
                     },
                     {
                         "name": "Flying Question Block #1",
-                        "ref": "Blocks/CI1/Flying Question Block #1"
+                        "ref": "Flying Blocks/CI1/Flying Question Block #1"
                     },
                     {
                         "name": "Flying Question Block #2",
-                        "ref": "Blocks/CI1/Flying Question Block #2"
+                        "ref": "Flying Blocks/CI1/Flying Question Block #2"
                     },
                     {
                         "name": "Yoshi Block #1",
-                        "ref": "Blocks/CI1/Yoshi Block #1"
+                        "ref": "Item Blocks/CI1/Yoshi Block #1"
                     },
                     {
                         "name": "Green|Yellow Switch Palace Block #1",
-                        "ref": "Blocks/CI1/Green|Yellow Switch Palace Block #1"
+                        "ref": "Green Switch Blocks/CI1/Green|Yellow Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -314,7 +314,7 @@
                 "sections": [
                     {
                         "name": "Copy of main room",
-                        "ref": "Blocks/CI1/Copy of main room"
+                        "ref": "Item Blocks/CI1/Copy of main room"
                     },
                     {
                         "name": "Midway Point",
@@ -346,19 +346,19 @@
                     },
                     {
                         "name": "Flying Question Block #1",
-                        "ref": "Blocks/CI1/Flying Question Block #1"
+                        "ref": "Flying Blocks/CI1/Flying Question Block #1"
                     },
                     {
                         "name": "Flying Question Block #2",
-                        "ref": "Blocks/CI1/Flying Question Block #2"
+                        "ref": "Flying Blocks/CI1/Flying Question Block #2"
                     },
                     {
                         "name": "Yoshi Block #1",
-                        "ref": "Blocks/CI1/Yoshi Block #1"
+                        "ref": "Item Blocks/CI1/Yoshi Block #1"
                     },
                     {
                         "name": "Green|Yellow Switch Palace Block #1",
-                        "ref": "Blocks/CI1/Green|Yellow Switch Palace Block #1"
+                        "ref": "Green Switch Blocks/CI1/Green|Yellow Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -374,11 +374,11 @@
                 "sections": [
                     {
                         "name": "Porcupuffer room",
-                        "ref": "Blocks/CI1/Porcupuffer room"
+                        "ref": "Item Blocks/CI1/Porcupuffer room"
                     },
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "ref": "Blocks/CI1/1-Up Mushroom Block #1"
+                        "ref": "Item Blocks/CI1/1-Up Mushroom Block #1"
                     }
                 ],
                 "map_locations": [
@@ -394,7 +394,7 @@
                 "sections": [
                     {
                         "name": "Copy of main room",
-                        "ref": "Blocks/CI1/Copy of main room"
+                        "ref": "Item Blocks/CI1/Copy of main room"
                     },
                     {
                         "name": "Midway Point",
@@ -443,7 +443,7 @@
                 "sections": [
                     {
                         "name": "Main room",
-                        "ref": "Blocks/CI1/Main room"
+                        "ref": "Item Blocks/CI1/Main room"
                     },
                     {
                         "name": "Normal Exit",
@@ -485,11 +485,11 @@
                 "sections": [
                     {
                         "name": "Porcupuffer room",
-                        "ref": "Blocks/CI1/Porcupuffer room"
+                        "ref": "Item Blocks/CI1/Porcupuffer room"
                     },
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "ref": "Blocks/CI1/1-Up Mushroom Block #1"
+                        "ref": "Item Blocks/CI1/1-Up Mushroom Block #1"
                     }
                 ],
                 "map_locations": [

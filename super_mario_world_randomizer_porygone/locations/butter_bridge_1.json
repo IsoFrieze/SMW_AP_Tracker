@@ -145,7 +145,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/BB1/Powerup Block #1"
+                        "ref": "Item Blocks/BB1/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -161,7 +161,7 @@
                 "sections": [
                     {
                         "name": "Multi Coin Block #1",
-                        "ref": "Blocks/BB1/Multi Coin Block #1"
+                        "ref": "Coin Blocks/BB1/Multi Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -177,7 +177,7 @@
                 "sections": [
                     {
                         "name": "Multi Coin Block #2",
-                        "ref": "Blocks/BB1/Multi Coin Block #2"
+                        "ref": "Coin Blocks/BB1/Multi Coin Block #2"
                     }
                 ],
                 "map_locations": [
@@ -193,7 +193,7 @@
                 "sections": [
                     {
                         "name": "Multi Coin Block #3",
-                        "ref": "Blocks/BB1/Multi Coin Block #3"
+                        "ref": "Coin Blocks/BB1/Multi Coin Block #3"
                     }
                 ],
                 "map_locations": [
@@ -209,7 +209,7 @@
                 "sections": [
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "ref": "Blocks/BB1/1-Up Mushroom Block #1"
+                        "ref": "Item Blocks/BB1/1-Up Mushroom Block #1"
                     }
                 ],
                 "map_locations": [
@@ -257,23 +257,23 @@
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/BB1/Powerup Block #1"
+                        "ref": "Item Blocks/BB1/Powerup Block #1"
                     },
                     {
                         "name": "Multi Coin Block #1",
-                        "ref": "Blocks/BB1/Multi Coin Block #1"
+                        "ref": "Coin Blocks/BB1/Multi Coin Block #1"
                     },
                     {
                         "name": "Multi Coin Block #2",
-                        "ref": "Blocks/BB1/Multi Coin Block #2"
+                        "ref": "Coin Blocks/BB1/Multi Coin Block #2"
                     },
                     {
                         "name": "Multi Coin Block #3",
-                        "ref": "Blocks/BB1/Multi Coin Block #3"
+                        "ref": "Coin Blocks/BB1/Multi Coin Block #3"
                     },
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "ref": "Blocks/BB1/1-Up Mushroom Block #1"
+                        "ref": "Item Blocks/BB1/1-Up Mushroom Block #1"
                     }
                 ],
                 "map_locations": [

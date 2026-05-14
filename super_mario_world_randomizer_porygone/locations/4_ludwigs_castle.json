@@ -29,7 +29,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/TWC/Powerup Block #1"
+                        "ref": "Item Blocks/TWC/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -85,7 +85,7 @@
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/TWC/Powerup Block #1"
+                        "ref": "Item Blocks/TWC/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -129,7 +129,7 @@
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/TWC/Powerup Block #1"
+                        "ref": "Item Blocks/TWC/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -163,7 +163,7 @@
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/TWC/Powerup Block #1"
+                        "ref": "Item Blocks/TWC/Powerup Block #1"
                     }
                 ],
                 "map_locations": [

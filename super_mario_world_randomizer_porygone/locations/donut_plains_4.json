@@ -161,7 +161,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #1",
-                        "ref": "Blocks/DP4/Coin Block #1"
+                        "ref": "Coin Blocks/DP4/Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -177,7 +177,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/DP4/Powerup Block #1"
+                        "ref": "Item Blocks/DP4/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -193,7 +193,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #2",
-                        "ref": "Blocks/DP4/Coin Block #2"
+                        "ref": "Coin Blocks/DP4/Coin Block #2"
                     }
                 ],
                 "map_locations": [
@@ -209,7 +209,7 @@
                 "sections": [
                     {
                         "name": "Yoshi Block #1",
-                        "ref": "Blocks/DP4/Yoshi Block #1"
+                        "ref": "Item Blocks/DP4/Yoshi Block #1"
                     }
                 ],
                 "map_locations": [
@@ -281,19 +281,19 @@
                     },
                     {
                         "name": "Coin Block #1",
-                        "ref": "Blocks/DP4/Coin Block #1"
+                        "ref": "Coin Blocks/DP4/Coin Block #1"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/DP4/Powerup Block #1"
+                        "ref": "Item Blocks/DP4/Powerup Block #1"
                     },
                     {
                         "name": "Coin Block #2",
-                        "ref": "Blocks/DP4/Coin Block #2"
+                        "ref": "Coin Blocks/DP4/Coin Block #2"
                     },
                     {
                         "name": "Yoshi Block #1",
-                        "ref": "Blocks/DP4/Yoshi Block #1"
+                        "ref": "Item Blocks/DP4/Yoshi Block #1"
                     }
                 ],
                 "map_locations": [
@@ -429,19 +429,19 @@
                     },
                     {
                         "name": "Coin Block #1",
-                        "ref": "Blocks/DP4/Coin Block #1"
+                        "ref": "Coin Blocks/DP4/Coin Block #1"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/DP4/Powerup Block #1"
+                        "ref": "Item Blocks/DP4/Powerup Block #1"
                     },
                     {
                         "name": "Coin Block #2",
-                        "ref": "Blocks/DP4/Coin Block #2"
+                        "ref": "Coin Blocks/DP4/Coin Block #2"
                     },
                     {
                         "name": "Yoshi Block #1",
-                        "ref": "Blocks/DP4/Yoshi Block #1"
+                        "ref": "Item Blocks/DP4/Yoshi Block #1"
                     }
                 ],
                 "map_locations": [

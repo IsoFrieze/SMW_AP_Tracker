@@ -194,7 +194,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/SZ3/Powerup Block #1"
+                        "ref": "Item Blocks/SZ3/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -210,7 +210,7 @@
                 "sections": [
                     {
                         "name": "Yoshi Block #1",
-                        "ref": "Blocks/SZ3/Yoshi Block #1"
+                        "ref": "Item Blocks/SZ3/Yoshi Block #1"
                     }
                 ],
                 "map_locations": [
@@ -226,7 +226,7 @@
                 "sections": [
                     {
                         "name": "Wings Block #1",
-                        "ref": "Blocks/SZ3/Wings Block #1"
+                        "ref": "Item Blocks/SZ3/Wings Block #1"
                     }
                 ],
                 "map_locations": [
@@ -270,11 +270,11 @@
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/SZ3/Powerup Block #1"
+                        "ref": "Item Blocks/SZ3/Powerup Block #1"
                     },
                     {
                         "name": "Wings Block #1",
-                        "ref": "Blocks/SZ3/Wings Block #1"
+                        "ref": "Item Blocks/SZ3/Wings Block #1"
                     }
                 ],
                 "map_locations": [
@@ -294,7 +294,7 @@
                     },
                     {
                         "name": "Yoshi Block #1",
-                        "ref": "Blocks/SZ3/Yoshi Block #1"
+                        "ref": "Item Blocks/SZ3/Yoshi Block #1"
                     }
                 ],
                 "map_locations": [
@@ -354,7 +354,7 @@
                     },
                     {
                         "name": "Yoshi Block #1",
-                        "ref": "Blocks/SZ3/Yoshi Block #1"
+                        "ref": "Item Blocks/SZ3/Yoshi Block #1"
                     }
                 ],
                 "map_locations": [
@@ -398,11 +398,11 @@
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/SZ3/Powerup Block #1"
+                        "ref": "Item Blocks/SZ3/Powerup Block #1"
                     },
                     {
                         "name": "Wings Block #1",
-                        "ref": "Blocks/SZ3/Wings Block #1"
+                        "ref": "Item Blocks/SZ3/Wings Block #1"
                     }
                 ],
                 "map_locations": [

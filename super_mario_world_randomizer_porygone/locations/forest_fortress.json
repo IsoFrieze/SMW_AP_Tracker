@@ -34,7 +34,7 @@
                 "sections": [
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Blocks/FIF/Yellow Switch Palace Block #1"
+                        "ref": "Yellow Switch Blocks/FIF/Yellow Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -50,7 +50,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/FIF/Powerup Block #1"
+                        "ref": "Item Blocks/FIF/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -66,7 +66,7 @@
                 "sections": [
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "ref": "Blocks/FIF/1-Up Mushroom Block #1"
+                        "ref": "Item Blocks/FIF/1-Up Mushroom Block #1"
                     }
                 ],
                 "map_locations": [
@@ -82,7 +82,7 @@
                 "sections": [
                     {
                         "name": "1-Up Mushroom Block #2",
-                        "ref": "Blocks/FIF/1-Up Mushroom Block #2"
+                        "ref": "Item Blocks/FIF/1-Up Mushroom Block #2"
                     }
                 ],
                 "map_locations": [
@@ -98,7 +98,7 @@
                 "sections": [
                     {
                         "name": "1-Up Mushroom Block #3",
-                        "ref": "Blocks/FIF/1-Up Mushroom Block #3"
+                        "ref": "Item Blocks/FIF/1-Up Mushroom Block #3"
                     }
                 ],
                 "map_locations": [
@@ -114,7 +114,7 @@
                 "sections": [
                     {
                         "name": "1-Up Mushroom Block #4",
-                        "ref": "Blocks/FIF/1-Up Mushroom Block #4"
+                        "ref": "Item Blocks/FIF/1-Up Mushroom Block #4"
                     }
                 ],
                 "map_locations": [
@@ -130,7 +130,7 @@
                 "sections": [
                     {
                         "name": "1-Up Mushroom Block #5",
-                        "ref": "Blocks/FIF/1-Up Mushroom Block #5"
+                        "ref": "Item Blocks/FIF/1-Up Mushroom Block #5"
                     }
                 ],
                 "map_locations": [
@@ -146,7 +146,7 @@
                 "sections": [
                     {
                         "name": "1-Up Mushroom Block #6",
-                        "ref": "Blocks/FIF/1-Up Mushroom Block #6"
+                        "ref": "Item Blocks/FIF/1-Up Mushroom Block #6"
                     }
                 ],
                 "map_locations": [
@@ -162,7 +162,7 @@
                 "sections": [
                     {
                         "name": "1-Up Mushroom Block #7",
-                        "ref": "Blocks/FIF/1-Up Mushroom Block #7"
+                        "ref": "Item Blocks/FIF/1-Up Mushroom Block #7"
                     }
                 ],
                 "map_locations": [
@@ -178,7 +178,7 @@
                 "sections": [
                     {
                         "name": "1-Up Mushroom Block #8",
-                        "ref": "Blocks/FIF/1-Up Mushroom Block #8"
+                        "ref": "Item Blocks/FIF/1-Up Mushroom Block #8"
                     }
                 ],
                 "map_locations": [
@@ -194,7 +194,7 @@
                 "sections": [
                     {
                         "name": "1-Up Mushroom Block #9",
-                        "ref": "Blocks/FIF/1-Up Mushroom Block #9"
+                        "ref": "Item Blocks/FIF/1-Up Mushroom Block #9"
                     }
                 ],
                 "map_locations": [
@@ -234,47 +234,47 @@
                     },
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Blocks/FIF/Yellow Switch Palace Block #1"
+                        "ref": "Yellow Switch Blocks/FIF/Yellow Switch Palace Block #1"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/FIF/Powerup Block #1"
+                        "ref": "Item Blocks/FIF/Powerup Block #1"
                     },
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "ref": "Blocks/FIF/1-Up Mushroom Block #1"
+                        "ref": "Item Blocks/FIF/1-Up Mushroom Block #1"
                     },
                     {
                         "name": "1-Up Mushroom Block #2",
-                        "ref": "Blocks/FIF/1-Up Mushroom Block #2"
+                        "ref": "Item Blocks/FIF/1-Up Mushroom Block #2"
                     },
                     {
                         "name": "1-Up Mushroom Block #3",
-                        "ref": "Blocks/FIF/1-Up Mushroom Block #3"
+                        "ref": "Item Blocks/FIF/1-Up Mushroom Block #3"
                     },
                     {
                         "name": "1-Up Mushroom Block #4",
-                        "ref": "Blocks/FIF/1-Up Mushroom Block #4"
+                        "ref": "Item Blocks/FIF/1-Up Mushroom Block #4"
                     },
                     {
                         "name": "1-Up Mushroom Block #5",
-                        "ref": "Blocks/FIF/1-Up Mushroom Block #5"
+                        "ref": "Item Blocks/FIF/1-Up Mushroom Block #5"
                     },
                     {
                         "name": "1-Up Mushroom Block #6",
-                        "ref": "Blocks/FIF/1-Up Mushroom Block #6"
+                        "ref": "Item Blocks/FIF/1-Up Mushroom Block #6"
                     },
                     {
                         "name": "1-Up Mushroom Block #7",
-                        "ref": "Blocks/FIF/1-Up Mushroom Block #7"
+                        "ref": "Item Blocks/FIF/1-Up Mushroom Block #7"
                     },
                     {
                         "name": "1-Up Mushroom Block #8",
-                        "ref": "Blocks/FIF/1-Up Mushroom Block #8"
+                        "ref": "Item Blocks/FIF/1-Up Mushroom Block #8"
                     },
                     {
                         "name": "1-Up Mushroom Block #9",
-                        "ref": "Blocks/FIF/1-Up Mushroom Block #9"
+                        "ref": "Item Blocks/FIF/1-Up Mushroom Block #9"
                     }
                 ],
                 "map_locations": [
@@ -298,47 +298,47 @@
                     },
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Blocks/FIF/Yellow Switch Palace Block #1"
+                        "ref": "Yellow Switch Blocks/FIF/Yellow Switch Palace Block #1"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/FIF/Powerup Block #1"
+                        "ref": "Item Blocks/FIF/Powerup Block #1"
                     },
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "ref": "Blocks/FIF/1-Up Mushroom Block #1"
+                        "ref": "Item Blocks/FIF/1-Up Mushroom Block #1"
                     },
                     {
                         "name": "1-Up Mushroom Block #2",
-                        "ref": "Blocks/FIF/1-Up Mushroom Block #2"
+                        "ref": "Item Blocks/FIF/1-Up Mushroom Block #2"
                     },
                     {
                         "name": "1-Up Mushroom Block #3",
-                        "ref": "Blocks/FIF/1-Up Mushroom Block #3"
+                        "ref": "Item Blocks/FIF/1-Up Mushroom Block #3"
                     },
                     {
                         "name": "1-Up Mushroom Block #4",
-                        "ref": "Blocks/FIF/1-Up Mushroom Block #4"
+                        "ref": "Item Blocks/FIF/1-Up Mushroom Block #4"
                     },
                     {
                         "name": "1-Up Mushroom Block #5",
-                        "ref": "Blocks/FIF/1-Up Mushroom Block #5"
+                        "ref": "Item Blocks/FIF/1-Up Mushroom Block #5"
                     },
                     {
                         "name": "1-Up Mushroom Block #6",
-                        "ref": "Blocks/FIF/1-Up Mushroom Block #6"
+                        "ref": "Item Blocks/FIF/1-Up Mushroom Block #6"
                     },
                     {
                         "name": "1-Up Mushroom Block #7",
-                        "ref": "Blocks/FIF/1-Up Mushroom Block #7"
+                        "ref": "Item Blocks/FIF/1-Up Mushroom Block #7"
                     },
                     {
                         "name": "1-Up Mushroom Block #8",
-                        "ref": "Blocks/FIF/1-Up Mushroom Block #8"
+                        "ref": "Item Blocks/FIF/1-Up Mushroom Block #8"
                     },
                     {
                         "name": "1-Up Mushroom Block #9",
-                        "ref": "Blocks/FIF/1-Up Mushroom Block #9"
+                        "ref": "Item Blocks/FIF/1-Up Mushroom Block #9"
                     }
                 ],
                 "map_locations": [

@@ -45,7 +45,7 @@
                 "sections": [
                     {
                         "name": "Key Block #1",
-                        "ref": "Blocks/SR3/Key Block #1"
+                        "ref": "Item Blocks/SR3/Key Block #1"
                     }
                 ],
                 "map_locations": [
@@ -73,7 +73,7 @@
                     },
                     {
                         "name": "Key Block #1",
-                        "ref": "Blocks/SR3/Key Block #1"
+                        "ref": "Item Blocks/SR3/Key Block #1"
                     }
                 ],
                 "map_locations": [

@@ -145,7 +145,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/VDH/Powerup Block #1"
+                        "ref": "Item Blocks/VDH/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -161,7 +161,7 @@
                 "sections": [
                     {
                         "name": "Vine Block #1",
-                        "ref": "Blocks/VDH/Vine Block #1"
+                        "ref": "Item Blocks/VDH/Vine Block #1"
                     }
                 ],
                 "map_locations": [
@@ -177,7 +177,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Blocks/VDH/Powerup Block #2"
+                        "ref": "Item Blocks/VDH/Powerup Block #2"
                     }
                 ],
                 "map_locations": [
@@ -193,7 +193,7 @@
                 "sections": [
                     {
                         "name": "Multi Coin Block #1",
-                        "ref": "Blocks/VDH/Multi Coin Block #1"
+                        "ref": "Coin Blocks/VDH/Multi Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -209,7 +209,7 @@
                 "sections": [
                     {
                         "name": "Blue P-Switch Block #1",
-                        "ref": "Blocks/VDH/Blue P-Switch Block #1"
+                        "ref": "Item Blocks/VDH/Blue P-Switch Block #1"
                     }
                 ],
                 "map_locations": [
@@ -253,19 +253,19 @@
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/VDH/Powerup Block #1"
+                        "ref": "Item Blocks/VDH/Powerup Block #1"
                     },
                     {
                         "name": "Vine Block #1",
-                        "ref": "Blocks/VDH/Vine Block #1"
+                        "ref": "Item Blocks/VDH/Vine Block #1"
                     },
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Blocks/VDH/Powerup Block #2"
+                        "ref": "Item Blocks/VDH/Powerup Block #2"
                     },
                     {
                         "name": "Multi Coin Block #1",
-                        "ref": "Blocks/VDH/Multi Coin Block #1"
+                        "ref": "Coin Blocks/VDH/Multi Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -293,7 +293,7 @@
                     },
                     {
                         "name": "Blue P-Switch Block #1",
-                        "ref": "Blocks/VDH/Blue P-Switch Block #1"
+                        "ref": "Item Blocks/VDH/Blue P-Switch Block #1"
                     }
                 ],
                 "map_locations": [
@@ -345,7 +345,7 @@
                     },
                     {
                         "name": "Blue P-Switch Block #1",
-                        "ref": "Blocks/VDH/Blue P-Switch Block #1"
+                        "ref": "Item Blocks/VDH/Blue P-Switch Block #1"
                     }
                 ],
                 "map_locations": [
@@ -409,19 +409,19 @@
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/VDH/Powerup Block #1"
+                        "ref": "Item Blocks/VDH/Powerup Block #1"
                     },
                     {
                         "name": "Vine Block #1",
-                        "ref": "Blocks/VDH/Vine Block #1"
+                        "ref": "Item Blocks/VDH/Vine Block #1"
                     },
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Blocks/VDH/Powerup Block #2"
+                        "ref": "Item Blocks/VDH/Powerup Block #2"
                     },
                     {
                         "name": "Multi Coin Block #1",
-                        "ref": "Blocks/VDH/Multi Coin Block #1"
+                        "ref": "Coin Blocks/VDH/Multi Coin Block #1"
                     }
                 ],
                 "map_locations": [

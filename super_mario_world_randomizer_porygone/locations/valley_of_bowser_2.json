@@ -211,7 +211,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/VB2/Powerup Block #1"
+                        "ref": "Item Blocks/VB2/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -227,7 +227,7 @@
                 "sections": [
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Blocks/VB2/Yellow Switch Palace Block #1"
+                        "ref": "Yellow Switch Blocks/VB2/Yellow Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -243,7 +243,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Blocks/VB2/Powerup Block #2"
+                        "ref": "Item Blocks/VB2/Powerup Block #2"
                     }
                 ],
                 "map_locations": [
@@ -259,7 +259,7 @@
                 "sections": [
                     {
                         "name": "Wings Block #1",
-                        "ref": "Blocks/VB2/Wings Block #1"
+                        "ref": "Item Blocks/VB2/Wings Block #1"
                     }
                 ],
                 "map_locations": [
@@ -307,11 +307,11 @@
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/VB2/Powerup Block #1"
+                        "ref": "Item Blocks/VB2/Powerup Block #1"
                     },
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Blocks/VB2/Yellow Switch Palace Block #1"
+                        "ref": "Yellow Switch Blocks/VB2/Yellow Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -347,11 +347,11 @@
                     },
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Blocks/VB2/Powerup Block #2"
+                        "ref": "Item Blocks/VB2/Powerup Block #2"
                     },
                     {
                         "name": "Wings Block #1",
-                        "ref": "Blocks/VB2/Wings Block #1"
+                        "ref": "Item Blocks/VB2/Wings Block #1"
                     }
                 ],
                 "map_locations": [
@@ -467,11 +467,11 @@
                     },
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Blocks/VB2/Powerup Block #2"
+                        "ref": "Item Blocks/VB2/Powerup Block #2"
                     },
                     {
                         "name": "Wings Block #1",
-                        "ref": "Blocks/VB2/Wings Block #1"
+                        "ref": "Item Blocks/VB2/Wings Block #1"
                     }
                 ],
                 "map_locations": [

@@ -145,7 +145,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Blocks/VB1/Green Switch Palace Block #1"
+                        "ref": "Green Switch Blocks/VB1/Green Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -161,7 +161,7 @@
                 "sections": [
                     {
                         "name": "Invisible Coin Block #1",
-                        "ref": "Blocks/VB1/Invisible Coin Block #1"
+                        "ref": "Invisible Blocks/VB1/Invisible Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -177,7 +177,7 @@
                 "sections": [
                     {
                         "name": "Invisible Coin Block #2",
-                        "ref": "Blocks/VB1/Invisible Coin Block #2"
+                        "ref": "Invisible Blocks/VB1/Invisible Coin Block #2"
                     }
                 ],
                 "map_locations": [
@@ -193,7 +193,7 @@
                 "sections": [
                     {
                         "name": "Invisible Coin Block #3",
-                        "ref": "Blocks/VB1/Invisible Coin Block #3"
+                        "ref": "Invisible Blocks/VB1/Invisible Coin Block #3"
                     }
                 ],
                 "map_locations": [
@@ -209,7 +209,7 @@
                 "sections": [
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Blocks/VB1/Yellow Switch Palace Block #1"
+                        "ref": "Yellow Switch Blocks/VB1/Yellow Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -225,7 +225,7 @@
                 "sections": [
                     {
                         "name": "Yellow Switch Palace Block #2",
-                        "ref": "Blocks/VB1/Yellow Switch Palace Block #2"
+                        "ref": "Yellow Switch Blocks/VB1/Yellow Switch Palace Block #2"
                     }
                 ],
                 "map_locations": [
@@ -241,7 +241,7 @@
                 "sections": [
                     {
                         "name": "Yellow Switch Palace Block #3",
-                        "ref": "Blocks/VB1/Yellow Switch Palace Block #3"
+                        "ref": "Yellow Switch Blocks/VB1/Yellow Switch Palace Block #3"
                     }
                 ],
                 "map_locations": [
@@ -257,7 +257,7 @@
                 "sections": [
                     {
                         "name": "Yellow Switch Palace Block #4",
-                        "ref": "Blocks/VB1/Yellow Switch Palace Block #4"
+                        "ref": "Yellow Switch Blocks/VB1/Yellow Switch Palace Block #4"
                     }
                 ],
                 "map_locations": [
@@ -273,7 +273,7 @@
                 "sections": [
                     {
                         "name": "Vine Block #1",
-                        "ref": "Blocks/VB1/Vine Block #1"
+                        "ref": "Item Blocks/VB1/Vine Block #1"
                     }
                 ],
                 "map_locations": [
@@ -341,39 +341,39 @@
                     },
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Blocks/VB1/Green Switch Palace Block #1"
+                        "ref": "Green Switch Blocks/VB1/Green Switch Palace Block #1"
                     },
                     {
                         "name": "Invisible Coin Block #1",
-                        "ref": "Blocks/VB1/Invisible Coin Block #1"
+                        "ref": "Invisible Blocks/VB1/Invisible Coin Block #1"
                     },
                     {
                         "name": "Invisible Coin Block #2",
-                        "ref": "Blocks/VB1/Invisible Coin Block #2"
+                        "ref": "Invisible Blocks/VB1/Invisible Coin Block #2"
                     },
                     {
                         "name": "Invisible Coin Block #3",
-                        "ref": "Blocks/VB1/Invisible Coin Block #3"
+                        "ref": "Invisible Blocks/VB1/Invisible Coin Block #3"
                     },
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Blocks/VB1/Yellow Switch Palace Block #1"
+                        "ref": "Yellow Switch Blocks/VB1/Yellow Switch Palace Block #1"
                     },
                     {
                         "name": "Yellow Switch Palace Block #2",
-                        "ref": "Blocks/VB1/Yellow Switch Palace Block #2"
+                        "ref": "Yellow Switch Blocks/VB1/Yellow Switch Palace Block #2"
                     },
                     {
                         "name": "Yellow Switch Palace Block #3",
-                        "ref": "Blocks/VB1/Yellow Switch Palace Block #3"
+                        "ref": "Yellow Switch Blocks/VB1/Yellow Switch Palace Block #3"
                     },
                     {
                         "name": "Yellow Switch Palace Block #4",
-                        "ref": "Blocks/VB1/Yellow Switch Palace Block #4"
+                        "ref": "Yellow Switch Blocks/VB1/Yellow Switch Palace Block #4"
                     },
                     {
                         "name": "Vine Block #1",
-                        "ref": "Blocks/VB1/Vine Block #1"
+                        "ref": "Item Blocks/VB1/Vine Block #1"
                     }
                 ],
                 "map_locations": [
@@ -497,39 +497,39 @@
                     },
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Blocks/VB1/Green Switch Palace Block #1"
+                        "ref": "Green Switch Blocks/VB1/Green Switch Palace Block #1"
                     },
                     {
                         "name": "Invisible Coin Block #1",
-                        "ref": "Blocks/VB1/Invisible Coin Block #1"
+                        "ref": "Invisible Blocks/VB1/Invisible Coin Block #1"
                     },
                     {
                         "name": "Invisible Coin Block #2",
-                        "ref": "Blocks/VB1/Invisible Coin Block #2"
+                        "ref": "Invisible Blocks/VB1/Invisible Coin Block #2"
                     },
                     {
                         "name": "Invisible Coin Block #3",
-                        "ref": "Blocks/VB1/Invisible Coin Block #3"
+                        "ref": "Invisible Blocks/VB1/Invisible Coin Block #3"
                     },
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Blocks/VB1/Yellow Switch Palace Block #1"
+                        "ref": "Yellow Switch Blocks/VB1/Yellow Switch Palace Block #1"
                     },
                     {
                         "name": "Yellow Switch Palace Block #2",
-                        "ref": "Blocks/VB1/Yellow Switch Palace Block #2"
+                        "ref": "Yellow Switch Blocks/VB1/Yellow Switch Palace Block #2"
                     },
                     {
                         "name": "Yellow Switch Palace Block #3",
-                        "ref": "Blocks/VB1/Yellow Switch Palace Block #3"
+                        "ref": "Yellow Switch Blocks/VB1/Yellow Switch Palace Block #3"
                     },
                     {
                         "name": "Yellow Switch Palace Block #4",
-                        "ref": "Blocks/VB1/Yellow Switch Palace Block #4"
+                        "ref": "Yellow Switch Blocks/VB1/Yellow Switch Palace Block #4"
                     },
                     {
                         "name": "Vine Block #1",
-                        "ref": "Blocks/VB1/Vine Block #1"
+                        "ref": "Item Blocks/VB1/Vine Block #1"
                     }
                 ],
                 "map_locations": [

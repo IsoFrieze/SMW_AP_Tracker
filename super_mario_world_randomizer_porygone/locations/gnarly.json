@@ -205,7 +205,7 @@
                 "sections": [
                     {
                         "name": "Vine Block #1",
-                        "ref": "Blocks/SZ1/Vine Block #1"
+                        "ref": "Item Blocks/SZ1/Vine Block #1"
                     }
                 ],
                 "map_locations": [
@@ -221,7 +221,7 @@
                 "sections": [
                     {
                         "name": "Vine Block #2",
-                        "ref": "Blocks/SZ1/Vine Block #2"
+                        "ref": "Item Blocks/SZ1/Vine Block #2"
                     }
                 ],
                 "map_locations": [
@@ -237,7 +237,7 @@
                 "sections": [
                     {
                         "name": "Vine Block #3",
-                        "ref": "Blocks/SZ1/Vine Block #3"
+                        "ref": "Item Blocks/SZ1/Vine Block #3"
                     }
                 ],
                 "map_locations": [
@@ -253,7 +253,7 @@
                 "sections": [
                     {
                         "name": "Vine Block #4",
-                        "ref": "Blocks/SZ1/Vine Block #4"
+                        "ref": "Item Blocks/SZ1/Vine Block #4"
                     }
                 ],
                 "map_locations": [
@@ -269,7 +269,7 @@
                 "sections": [
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "ref": "Blocks/SZ1/1-Up Mushroom Block #1"
+                        "ref": "Item Blocks/SZ1/1-Up Mushroom Block #1"
                     }
                 ],
                 "map_locations": [
@@ -285,7 +285,7 @@
                 "sections": [
                     {
                         "name": "Vine Block #5",
-                        "ref": "Blocks/SZ1/Vine Block #5"
+                        "ref": "Item Blocks/SZ1/Vine Block #5"
                     }
                 ],
                 "map_locations": [
@@ -301,7 +301,7 @@
                 "sections": [
                     {
                         "name": "Blue P-Switch Block #1",
-                        "ref": "Blocks/SZ1/Blue P-Switch Block #1"
+                        "ref": "Item Blocks/SZ1/Blue P-Switch Block #1"
                     }
                 ],
                 "map_locations": [
@@ -317,7 +317,7 @@
                 "sections": [
                     {
                         "name": "Vine Block #6",
-                        "ref": "Blocks/SZ1/Vine Block #6"
+                        "ref": "Item Blocks/SZ1/Vine Block #6"
                     }
                 ],
                 "map_locations": [
@@ -333,7 +333,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/SZ1/Powerup Block #1"
+                        "ref": "Item Blocks/SZ1/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -349,7 +349,7 @@
                 "sections": [
                     {
                         "name": "P-Switch Coin Block #1",
-                        "ref": "Blocks/SZ1/P-Switch Coin Block #1"
+                        "ref": "P-Switch Blocks/SZ1/P-Switch Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -365,7 +365,7 @@
                 "sections": [
                     {
                         "name": "P-Switch Coin Block #2",
-                        "ref": "Blocks/SZ1/P-Switch Coin Block #2"
+                        "ref": "P-Switch Blocks/SZ1/P-Switch Coin Block #2"
                     }
                 ],
                 "map_locations": [
@@ -381,7 +381,7 @@
                 "sections": [
                     {
                         "name": "P-Switch Coin Block #3",
-                        "ref": "Blocks/SZ1/P-Switch Coin Block #3"
+                        "ref": "P-Switch Blocks/SZ1/P-Switch Coin Block #3"
                     }
                 ],
                 "map_locations": [
@@ -397,7 +397,7 @@
                 "sections": [
                     {
                         "name": "P-Switch Coin Block #4",
-                        "ref": "Blocks/SZ1/P-Switch Coin Block #4"
+                        "ref": "P-Switch Blocks/SZ1/P-Switch Coin Block #4"
                     }
                 ],
                 "map_locations": [
@@ -413,7 +413,7 @@
                 "sections": [
                     {
                         "name": "P-Switch Coin Block #5",
-                        "ref": "Blocks/SZ1/P-Switch Coin Block #5"
+                        "ref": "P-Switch Blocks/SZ1/P-Switch Coin Block #5"
                     }
                 ],
                 "map_locations": [
@@ -429,7 +429,7 @@
                 "sections": [
                     {
                         "name": "P-Switch Coin Block #6",
-                        "ref": "Blocks/SZ1/P-Switch Coin Block #6"
+                        "ref": "P-Switch Blocks/SZ1/P-Switch Coin Block #6"
                     }
                 ],
                 "map_locations": [
@@ -445,7 +445,7 @@
                 "sections": [
                     {
                         "name": "P-Switch Coin Block #7",
-                        "ref": "Blocks/SZ1/P-Switch Coin Block #7"
+                        "ref": "P-Switch Blocks/SZ1/P-Switch Coin Block #7"
                     }
                 ],
                 "map_locations": [
@@ -461,7 +461,7 @@
                 "sections": [
                     {
                         "name": "P-Switch Coin Block #8",
-                        "ref": "Blocks/SZ1/P-Switch Coin Block #8"
+                        "ref": "P-Switch Blocks/SZ1/P-Switch Coin Block #8"
                     }
                 ],
                 "map_locations": [
@@ -477,7 +477,7 @@
                 "sections": [
                     {
                         "name": "P-Switch Coin Block #9",
-                        "ref": "Blocks/SZ1/P-Switch Coin Block #9"
+                        "ref": "P-Switch Blocks/SZ1/P-Switch Coin Block #9"
                     }
                 ],
                 "map_locations": [
@@ -493,7 +493,7 @@
                 "sections": [
                     {
                         "name": "P-Switch Coin Block #10",
-                        "ref": "Blocks/SZ1/P-Switch Coin Block #10"
+                        "ref": "P-Switch Blocks/SZ1/P-Switch Coin Block #10"
                     }
                 ],
                 "map_locations": [
@@ -509,7 +509,7 @@
                 "sections": [
                     {
                         "name": "P-Switch Coin Block #11",
-                        "ref": "Blocks/SZ1/P-Switch Coin Block #11"
+                        "ref": "P-Switch Blocks/SZ1/P-Switch Coin Block #11"
                     }
                 ],
                 "map_locations": [
@@ -525,7 +525,7 @@
                 "sections": [
                     {
                         "name": "P-Switch Coin Block #12",
-                        "ref": "Blocks/SZ1/P-Switch Coin Block #12"
+                        "ref": "P-Switch Blocks/SZ1/P-Switch Coin Block #12"
                     }
                 ],
                 "map_locations": [
@@ -541,7 +541,7 @@
                 "sections": [
                     {
                         "name": "P-Switch Coin Block #13",
-                        "ref": "Blocks/SZ1/P-Switch Coin Block #13"
+                        "ref": "P-Switch Blocks/SZ1/P-Switch Coin Block #13"
                     }
                 ],
                 "map_locations": [
@@ -589,75 +589,75 @@
                     },
                     {
                         "name": "Vine Block #1",
-                        "ref": "Blocks/SZ1/Vine Block #1"
+                        "ref": "Item Blocks/SZ1/Vine Block #1"
                     },
                     {
                         "name": "Vine Block #2",
-                        "ref": "Blocks/SZ1/Vine Block #2"
+                        "ref": "Item Blocks/SZ1/Vine Block #2"
                     },
                     {
                         "name": "Vine Block #3",
-                        "ref": "Blocks/SZ1/Vine Block #3"
+                        "ref": "Item Blocks/SZ1/Vine Block #3"
                     },
                     {
                         "name": "Vine Block #4",
-                        "ref": "Blocks/SZ1/Vine Block #4"
+                        "ref": "Item Blocks/SZ1/Vine Block #4"
                     },
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "ref": "Blocks/SZ1/1-Up Mushroom Block #1"
+                        "ref": "Item Blocks/SZ1/1-Up Mushroom Block #1"
                     },
                     {
                         "name": "Vine Block #5",
-                        "ref": "Blocks/SZ1/Vine Block #5"
+                        "ref": "Item Blocks/SZ1/Vine Block #5"
                     },
                     {
                         "name": "Blue P-Switch Block #1",
-                        "ref": "Blocks/SZ1/Blue P-Switch Block #1"
+                        "ref": "Item Blocks/SZ1/Blue P-Switch Block #1"
                     },
                     {
                         "name": "Vine Block #6",
-                        "ref": "Blocks/SZ1/Vine Block #6"
+                        "ref": "Item Blocks/SZ1/Vine Block #6"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/SZ1/Powerup Block #1"
+                        "ref": "Item Blocks/SZ1/Powerup Block #1"
                     },
                     {
                         "name": "P-Switch Coin Block #1",
-                        "ref": "Blocks/SZ1/P-Switch Coin Block #1"
+                        "ref": "P-Switch Blocks/SZ1/P-Switch Coin Block #1"
                     },
                     {
                         "name": "P-Switch Coin Block #2",
-                        "ref": "Blocks/SZ1/P-Switch Coin Block #2"
+                        "ref": "P-Switch Blocks/SZ1/P-Switch Coin Block #2"
                     },
                     {
                         "name": "P-Switch Coin Block #3",
-                        "ref": "Blocks/SZ1/P-Switch Coin Block #3"
+                        "ref": "P-Switch Blocks/SZ1/P-Switch Coin Block #3"
                     },
                     {
                         "name": "P-Switch Coin Block #4",
-                        "ref": "Blocks/SZ1/P-Switch Coin Block #4"
+                        "ref": "P-Switch Blocks/SZ1/P-Switch Coin Block #4"
                     },
                     {
                         "name": "P-Switch Coin Block #5",
-                        "ref": "Blocks/SZ1/P-Switch Coin Block #5"
+                        "ref": "P-Switch Blocks/SZ1/P-Switch Coin Block #5"
                     },
                     {
                         "name": "P-Switch Coin Block #6",
-                        "ref": "Blocks/SZ1/P-Switch Coin Block #6"
+                        "ref": "P-Switch Blocks/SZ1/P-Switch Coin Block #6"
                     },
                     {
                         "name": "P-Switch Coin Block #7",
-                        "ref": "Blocks/SZ1/P-Switch Coin Block #7"
+                        "ref": "P-Switch Blocks/SZ1/P-Switch Coin Block #7"
                     },
                     {
                         "name": "P-Switch Coin Block #8",
-                        "ref": "Blocks/SZ1/P-Switch Coin Block #8"
+                        "ref": "P-Switch Blocks/SZ1/P-Switch Coin Block #8"
                     },
                     {
                         "name": "P-Switch Coin Block #9",
-                        "ref": "Blocks/SZ1/P-Switch Coin Block #9"
+                        "ref": "P-Switch Blocks/SZ1/P-Switch Coin Block #9"
                     }
                 ],
                 "map_locations": [
@@ -697,19 +697,19 @@
                     },
                     {
                         "name": "P-Switch Coin Block #10",
-                        "ref": "Blocks/SZ1/P-Switch Coin Block #10"
+                        "ref": "P-Switch Blocks/SZ1/P-Switch Coin Block #10"
                     },
                     {
                         "name": "P-Switch Coin Block #11",
-                        "ref": "Blocks/SZ1/P-Switch Coin Block #11"
+                        "ref": "P-Switch Blocks/SZ1/P-Switch Coin Block #11"
                     },
                     {
                         "name": "P-Switch Coin Block #12",
-                        "ref": "Blocks/SZ1/P-Switch Coin Block #12"
+                        "ref": "P-Switch Blocks/SZ1/P-Switch Coin Block #12"
                     },
                     {
                         "name": "P-Switch Coin Block #13",
-                        "ref": "Blocks/SZ1/P-Switch Coin Block #13"
+                        "ref": "P-Switch Blocks/SZ1/P-Switch Coin Block #13"
                     }
                 ],
                 "map_locations": [
@@ -749,19 +749,19 @@
                     },
                     {
                         "name": "P-Switch Coin Block #10",
-                        "ref": "Blocks/SZ1/P-Switch Coin Block #10"
+                        "ref": "P-Switch Blocks/SZ1/P-Switch Coin Block #10"
                     },
                     {
                         "name": "P-Switch Coin Block #11",
-                        "ref": "Blocks/SZ1/P-Switch Coin Block #11"
+                        "ref": "P-Switch Blocks/SZ1/P-Switch Coin Block #11"
                     },
                     {
                         "name": "P-Switch Coin Block #12",
-                        "ref": "Blocks/SZ1/P-Switch Coin Block #12"
+                        "ref": "P-Switch Blocks/SZ1/P-Switch Coin Block #12"
                     },
                     {
                         "name": "P-Switch Coin Block #13",
-                        "ref": "Blocks/SZ1/P-Switch Coin Block #13"
+                        "ref": "P-Switch Blocks/SZ1/P-Switch Coin Block #13"
                     }
                 ],
                 "map_locations": [
@@ -785,19 +785,19 @@
                     },
                     {
                         "name": "P-Switch Coin Block #10",
-                        "ref": "Blocks/SZ1/P-Switch Coin Block #10"
+                        "ref": "P-Switch Blocks/SZ1/P-Switch Coin Block #10"
                     },
                     {
                         "name": "P-Switch Coin Block #11",
-                        "ref": "Blocks/SZ1/P-Switch Coin Block #11"
+                        "ref": "P-Switch Blocks/SZ1/P-Switch Coin Block #11"
                     },
                     {
                         "name": "P-Switch Coin Block #12",
-                        "ref": "Blocks/SZ1/P-Switch Coin Block #12"
+                        "ref": "P-Switch Blocks/SZ1/P-Switch Coin Block #12"
                     },
                     {
                         "name": "P-Switch Coin Block #13",
-                        "ref": "Blocks/SZ1/P-Switch Coin Block #13"
+                        "ref": "P-Switch Blocks/SZ1/P-Switch Coin Block #13"
                     }
                 ],
                 "map_locations": [

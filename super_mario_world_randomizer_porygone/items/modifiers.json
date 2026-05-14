@@ -65,6 +65,55 @@
         "codes": "blocksanity"
     },
     {
+        "name": "Coin Block Checks",
+        "type": "toggle",
+        "img": "images/items/block_coin.png",
+        "disabled_img": "images/items/block_coin.png",
+        "codes": "blocksanity_coin"
+    },
+    {
+        "name": "Item Block Checks",
+        "type": "toggle",
+        "img": "images/items/block_item.png",
+        "disabled_img": "images/items/block_item.png",
+        "codes": "blocksanity_item"
+    },
+    {
+        "name": "Yellow Switch Block Checks",
+        "type": "toggle",
+        "img": "images/items/block_ysp.png",
+        "disabled_img": "images/items/block_ysp.png",
+        "codes": "blocksanity_ysp"
+    },
+    {
+        "name": "Green Switch Block Checks",
+        "type": "toggle",
+        "img": "images/items/block_gsp.png",
+        "disabled_img": "images/items/block_gsp.png",
+        "codes": "blocksanity_gsp"
+    },
+    {
+        "name": "Invisible Block Checks",
+        "type": "toggle",
+        "img": "images/items/block_invisible.png",
+        "disabled_img": "images/items/block_invisible.png",
+        "codes": "blocksanity_invisible"
+    },
+    {
+        "name": "P-Switch Block Checks",
+        "type": "toggle",
+        "img": "images/items/block_pswitch.png",
+        "disabled_img": "images/items/block_pswitch.png",
+        "codes": "blocksanity_pswitch"
+    },
+    {
+        "name": "Flying Block Checks",
+        "type": "toggle",
+        "img": "images/items/block_winged.png",
+        "disabled_img": "images/items/block_winged.png",
+        "codes": "blocksanity_flying"
+    },
+    {
         "name": "Midway Point Checks",
         "type": "toggle",
         "img": "images/items/midway.png",
@@ -616,5 +665,280 @@
         "img": "images/items/block.png",
         "disabled_img": "images/items/block.png",
         "codes": "level_visit_293"
+    },
+    
+    {
+        "name": "Donut Plains 1 Carryless Exit",
+        "type": "toggle",
+        "img": "images/checks/red_sphere.png",
+        "disabled_img": "images/checks/red_sphere.png",
+        "codes": "carryless_dp1"
+    },
+    {
+        "name": "Donut Plains 2 Carryless Exit",
+        "type": "toggle",
+        "img": "images/checks/red_sphere.png",
+        "disabled_img": "images/checks/red_sphere.png",
+        "codes": "carryless_dp2"
+    },
+    {
+        "name": "Donut Secret 1 Carryless Exit",
+        "type": "toggle",
+        "img": "images/checks/red_sphere.png",
+        "disabled_img": "images/checks/red_sphere.png",
+        "codes": "carryless_ds1"
+    },
+    {
+        "name": "Vanilla Dome 1 Carryless Exit",
+        "type": "toggle",
+        "img": "images/checks/red_sphere.png",
+        "disabled_img": "images/checks/red_sphere.png",
+        "codes": "carryless_vd1"
+    },
+    {
+        "name": "Vanilla Dome 2 Carryless Exit",
+        "type": "toggle",
+        "img": "images/checks/red_sphere.png",
+        "disabled_img": "images/checks/red_sphere.png",
+        "codes": "carryless_vd2"
+    },
+    {
+        "name": "Forest of Illusion 1 Carryless Exit",
+        "type": "toggle",
+        "img": "images/checks/red_sphere.png",
+        "disabled_img": "images/checks/red_sphere.png",
+        "codes": "carryless_fi1"
+    },
+    {
+        "name": "Forest of Illusion 2 Carryless Exit",
+        "type": "toggle",
+        "img": "images/checks/red_sphere.png",
+        "disabled_img": "images/checks/red_sphere.png",
+        "codes": "carryless_fi2"
+    },
+    {
+        "name": "Forest of Illusion 3 Carryless Exit",
+        "type": "toggle",
+        "img": "images/checks/red_sphere.png",
+        "disabled_img": "images/checks/red_sphere.png",
+        "codes": "carryless_fi3"
+    },
+    {
+        "name": "Forest of Illusion 4 Carryless Exit",
+        "type": "toggle",
+        "img": "images/checks/red_sphere.png",
+        "disabled_img": "images/checks/red_sphere.png",
+        "codes": "carryless_fi4"
+    },
+    {
+        "name": "Chocoland Island 2 Carryless Exit",
+        "type": "toggle",
+        "img": "images/checks/red_sphere.png",
+        "disabled_img": "images/checks/red_sphere.png",
+        "codes": "carryless_ci2"
+    },
+    {
+        "name": "Valley of Bowser 2 Carryless Exit",
+        "type": "toggle",
+        "img": "images/checks/red_sphere.png",
+        "disabled_img": "images/checks/red_sphere.png",
+        "codes": "carryless_vb2"
+    },
+    {
+        "name": "Valley of Bowser 4 Carryless Exit",
+        "type": "toggle",
+        "img": "images/checks/red_sphere.png",
+        "disabled_img": "images/checks/red_sphere.png",
+        "codes": "carryless_vb4"
+    },
+    {
+        "name": "Star World 1 Carryless Exit",
+        "type": "toggle",
+        "img": "images/checks/red_sphere.png",
+        "disabled_img": "images/checks/red_sphere.png",
+        "codes": "carryless_sr1"
+    },
+    {
+        "name": "Star World 2 Carryless Exit",
+        "type": "toggle",
+        "img": "images/checks/red_sphere.png",
+        "disabled_img": "images/checks/red_sphere.png",
+        "codes": "carryless_sr2"
+    },
+    {
+        "name": "Star World 3 Carryless Exit",
+        "type": "toggle",
+        "img": "images/checks/red_sphere.png",
+        "disabled_img": "images/checks/red_sphere.png",
+        "codes": "carryless_sr3"
+    },
+    {
+        "name": "Star World 4 Carryless Exit",
+        "type": "toggle",
+        "img": "images/checks/red_sphere.png",
+        "disabled_img": "images/checks/red_sphere.png",
+        "codes": "carryless_sr4"
+    },
+    {
+        "name": "Star World 5 Carryless Exit",
+        "type": "toggle",
+        "img": "images/checks/red_sphere.png",
+        "disabled_img": "images/checks/red_sphere.png",
+        "codes": "carryless_sr5"
+    },
+    
+    {
+        "name": "Vanilla Dome 1 - Itemless Sinking Platform",
+        "type": "toggle",
+        "img": "images/items/turnblock.png",
+        "disabled_img": "images/items/turnblock.png",
+        "codes": "hardlogic_vd1_room2itemless"
+    },
+    {
+        "name": "Vanilla Dome 4 - Sacrifice for Coin Block #8",
+        "type": "toggle",
+        "img": "images/items/turnblock.png",
+        "disabled_img": "images/items/turnblock.png",
+        "codes": "hardlogic_vd4_coinblock8"
+    },
+    {
+        "name": "Vanilla Secret 1 - Wall Running",
+        "type": "toggle",
+        "img": "images/items/turnblock.png",
+        "disabled_img": "images/items/turnblock.png",
+        "codes": "hardlogic_vs1_wallrun"
+    },
+    {
+        "name": "Vanilla Secret 3 - Swimless",
+        "type": "toggle",
+        "img": "images/items/turnblock.png",
+        "disabled_img": "images/items/turnblock.png",
+        "codes": "hardlogic_vs3_swimless"
+    },
+    {
+        "name": "Lemmy's Castle - Itemless 1-Up blocks",
+        "type": "toggle",
+        "img": "images/items/turnblock.png",
+        "disabled_img": "images/items/turnblock.png",
+        "codes": "hardlogic_vdc_itemless1upblocks"
+    },
+    {
+        "name": "Butter Bridge 1 - No Red Switch Palace",
+        "type": "toggle",
+        "img": "images/items/turnblock.png",
+        "disabled_img": "images/items/turnblock.png",
+        "codes": "hardlogic_bb1_norsp"
+    },
+    {
+        "name": "Cheese Bridge Area - Secret Exit with Yoshi",
+        "type": "toggle",
+        "img": "images/items/turnblock.png",
+        "disabled_img": "images/items/turnblock.png",
+        "codes": "hardlogic_cba_yoshiexit2"
+    },
+    {
+        "name": "Ludwig's Castle - Runless",
+        "type": "toggle",
+        "img": "images/items/turnblock.png",
+        "disabled_img": "images/items/turnblock.png",
+        "codes": "hardlogic_tbc_runless"
+    },
+    {
+        "name": "Ludwig's Castle - Climbless",
+        "type": "toggle",
+        "img": "images/items/turnblock.png",
+        "disabled_img": "images/items/turnblock.png",
+        "codes": "hardlogic_tbc_climbless"
+    },
+    {
+        "name": "Forest of Illusion 1 - Secret Exit with Yoshi",
+        "type": "toggle",
+        "img": "images/items/turnblock.png",
+        "disabled_img": "images/items/turnblock.png",
+        "codes": "hardlogic_fi1_yoshiexit2"
+    },
+    {
+        "name": "Forest of Illusion 3 - Can pass big pipe itemless",
+        "type": "toggle",
+        "img": "images/items/turnblock.png",
+        "disabled_img": "images/items/turnblock.png",
+        "codes": "hardlogic_fi3_itemlessbigpipe"
+    },
+    {
+        "name": "Forest of Illusion 3 - Secret Exit with Yoshi",
+        "type": "toggle",
+        "img": "images/items/turnblock.png",
+        "disabled_img": "images/items/turnblock.png",
+        "codes": "hardlogic_fi3_yoshiexit2"
+    },
+    {
+        "name": "Forest Ghost House - Skip second room",
+        "type": "toggle",
+        "img": "images/items/turnblock.png",
+        "disabled_img": "images/items/turnblock.png",
+        "codes": "hardlogic_fgh_room2skip"
+    },
+    {
+        "name": "Forest Secret Area - Itemless 1-Up block",
+        "type": "toggle",
+        "img": "images/items/turnblock.png",
+        "disabled_img": "images/items/turnblock.png",
+        "codes": "hardlogic_fsa_itemless1upblock"
+    },
+    {
+        "name": "Valley of Bowser 3 - Itemless Powerup block",
+        "type": "toggle",
+        "img": "images/items/turnblock.png",
+        "disabled_img": "images/items/turnblock.png",
+        "codes": "hardlogic_vb3_itemlessitemblock"
+    },
+    {
+        "name": "Valley of Bowser 4 - Yoshi Climb",
+        "type": "toggle",
+        "img": "images/items/turnblock.png",
+        "disabled_img": "images/items/turnblock.png",
+        "codes": "hardlogic_vb3_yoshivineskip"
+    },
+    {
+        "name": "Valley Ghost House - True Carryless Secret Exit",
+        "type": "toggle",
+        "img": "images/items/turnblock.png",
+        "disabled_img": "images/items/turnblock.png",
+        "codes": "hardlogic_vbh_exit2carryless"
+    },
+    {
+        "name": "Star World 3 - Top area with a Star",
+        "type": "toggle",
+        "img": "images/items/turnblock.png",
+        "disabled_img": "images/items/turnblock.png",
+        "codes": "hardlogic_sr3_starmancloud"
+    },
+    {
+        "name": "Star World 4 - Carryless Secret Exit with Yoshi sacrifice",
+        "type": "toggle",
+        "img": "images/items/turnblock.png",
+        "disabled_img": "images/items/turnblock.png",
+        "codes": "hardlogic_sr4_yoshiexit2"
+    },
+    {
+        "name": "Awesome - Itemless",
+        "type": "toggle",
+        "img": "images/items/turnblock.png",
+        "disabled_img": "images/items/turnblock.png",
+        "codes": "hardlogic_sz4_itemless"
+    },
+    {
+        "name": "Mondo - Swimless",
+        "type": "toggle",
+        "img": "images/items/turnblock.png",
+        "disabled_img": "images/items/turnblock.png",
+        "codes": "hardlogic_sz6_swimless"
+    },
+    {
+        "name": "Outrageous - Wall Run pipe",
+        "type": "toggle",
+        "img": "images/items/turnblock.png",
+        "disabled_img": "images/items/turnblock.png",
+        "codes": "hardlogic_sz7_wallrun"
     }
 ]

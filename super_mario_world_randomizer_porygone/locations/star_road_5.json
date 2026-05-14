@@ -45,7 +45,7 @@
                 "sections": [
                     {
                         "name": "Directional Coin Block #1",
-                        "ref": "Blocks/SR5/Directional Coin Block #1"
+                        "ref": "Item Blocks/SR5/Directional Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -61,7 +61,7 @@
                 "sections": [
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "ref": "Blocks/SR5/1-Up Mushroom Block #1"
+                        "ref": "Item Blocks/SR5/1-Up Mushroom Block #1"
                     }
                 ],
                 "map_locations": [
@@ -77,7 +77,7 @@
                 "sections": [
                     {
                         "name": "Vine Block #1",
-                        "ref": "Blocks/SR5/Vine Block #1"
+                        "ref": "Item Blocks/SR5/Vine Block #1"
                     }
                 ],
                 "map_locations": [
@@ -93,7 +93,7 @@
                 "sections": [
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Blocks/SR5/Yellow Switch Palace Block #1"
+                        "ref": "Yellow Switch Blocks/SR5/Yellow Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -109,7 +109,7 @@
                 "sections": [
                     {
                         "name": "Yellow Switch Palace Block #2",
-                        "ref": "Blocks/SR5/Yellow Switch Palace Block #2"
+                        "ref": "Yellow Switch Blocks/SR5/Yellow Switch Palace Block #2"
                     }
                 ],
                 "map_locations": [
@@ -125,7 +125,7 @@
                 "sections": [
                     {
                         "name": "Yellow Switch Palace Block #3",
-                        "ref": "Blocks/SR5/Yellow Switch Palace Block #3"
+                        "ref": "Yellow Switch Blocks/SR5/Yellow Switch Palace Block #3"
                     }
                 ],
                 "map_locations": [
@@ -141,7 +141,7 @@
                 "sections": [
                     {
                         "name": "Yellow Switch Palace Block #4",
-                        "ref": "Blocks/SR5/Yellow Switch Palace Block #4"
+                        "ref": "Yellow Switch Blocks/SR5/Yellow Switch Palace Block #4"
                     }
                 ],
                 "map_locations": [
@@ -157,7 +157,7 @@
                 "sections": [
                     {
                         "name": "Yellow Switch Palace Block #5",
-                        "ref": "Blocks/SR5/Yellow Switch Palace Block #5"
+                        "ref": "Yellow Switch Blocks/SR5/Yellow Switch Palace Block #5"
                     }
                 ],
                 "map_locations": [
@@ -173,7 +173,7 @@
                 "sections": [
                     {
                         "name": "Yellow Switch Palace Block #6",
-                        "ref": "Blocks/SR5/Yellow Switch Palace Block #6"
+                        "ref": "Yellow Switch Blocks/SR5/Yellow Switch Palace Block #6"
                     }
                 ],
                 "map_locations": [
@@ -189,7 +189,7 @@
                 "sections": [
                     {
                         "name": "Yellow Switch Palace Block #7",
-                        "ref": "Blocks/SR5/Yellow Switch Palace Block #7"
+                        "ref": "Yellow Switch Blocks/SR5/Yellow Switch Palace Block #7"
                     }
                 ],
                 "map_locations": [
@@ -205,7 +205,7 @@
                 "sections": [
                     {
                         "name": "Yellow Switch Palace Block #8",
-                        "ref": "Blocks/SR5/Yellow Switch Palace Block #8"
+                        "ref": "Yellow Switch Blocks/SR5/Yellow Switch Palace Block #8"
                     }
                 ],
                 "map_locations": [
@@ -221,7 +221,7 @@
                 "sections": [
                     {
                         "name": "Yellow Switch Palace Block #9",
-                        "ref": "Blocks/SR5/Yellow Switch Palace Block #9"
+                        "ref": "Yellow Switch Blocks/SR5/Yellow Switch Palace Block #9"
                     }
                 ],
                 "map_locations": [
@@ -237,7 +237,7 @@
                 "sections": [
                     {
                         "name": "Yellow Switch Palace Block #10",
-                        "ref": "Blocks/SR5/Yellow Switch Palace Block #10"
+                        "ref": "Yellow Switch Blocks/SR5/Yellow Switch Palace Block #10"
                     }
                 ],
                 "map_locations": [
@@ -253,7 +253,7 @@
                 "sections": [
                     {
                         "name": "Yellow Switch Palace Block #11",
-                        "ref": "Blocks/SR5/Yellow Switch Palace Block #11"
+                        "ref": "Yellow Switch Blocks/SR5/Yellow Switch Palace Block #11"
                     }
                 ],
                 "map_locations": [
@@ -269,7 +269,7 @@
                 "sections": [
                     {
                         "name": "Yellow Switch Palace Block #12",
-                        "ref": "Blocks/SR5/Yellow Switch Palace Block #12"
+                        "ref": "Yellow Switch Blocks/SR5/Yellow Switch Palace Block #12"
                     }
                 ],
                 "map_locations": [
@@ -285,7 +285,7 @@
                 "sections": [
                     {
                         "name": "Yellow Switch Palace Block #13",
-                        "ref": "Blocks/SR5/Yellow Switch Palace Block #13"
+                        "ref": "Yellow Switch Blocks/SR5/Yellow Switch Palace Block #13"
                     }
                 ],
                 "map_locations": [
@@ -301,7 +301,7 @@
                 "sections": [
                     {
                         "name": "Yellow Switch Palace Block #14",
-                        "ref": "Blocks/SR5/Yellow Switch Palace Block #14"
+                        "ref": "Yellow Switch Blocks/SR5/Yellow Switch Palace Block #14"
                     }
                 ],
                 "map_locations": [
@@ -317,7 +317,7 @@
                 "sections": [
                     {
                         "name": "Yellow Switch Palace Block #15",
-                        "ref": "Blocks/SR5/Yellow Switch Palace Block #15"
+                        "ref": "Yellow Switch Blocks/SR5/Yellow Switch Palace Block #15"
                     }
                 ],
                 "map_locations": [
@@ -333,7 +333,7 @@
                 "sections": [
                     {
                         "name": "Yellow Switch Palace Block #16",
-                        "ref": "Blocks/SR5/Yellow Switch Palace Block #16"
+                        "ref": "Yellow Switch Blocks/SR5/Yellow Switch Palace Block #16"
                     }
                 ],
                 "map_locations": [
@@ -349,7 +349,7 @@
                 "sections": [
                     {
                         "name": "Yellow Switch Palace Block #17",
-                        "ref": "Blocks/SR5/Yellow Switch Palace Block #17"
+                        "ref": "Yellow Switch Blocks/SR5/Yellow Switch Palace Block #17"
                     }
                 ],
                 "map_locations": [
@@ -365,7 +365,7 @@
                 "sections": [
                     {
                         "name": "Yellow Switch Palace Block #18",
-                        "ref": "Blocks/SR5/Yellow Switch Palace Block #18"
+                        "ref": "Yellow Switch Blocks/SR5/Yellow Switch Palace Block #18"
                     }
                 ],
                 "map_locations": [
@@ -381,7 +381,7 @@
                 "sections": [
                     {
                         "name": "Yellow Switch Palace Block #19",
-                        "ref": "Blocks/SR5/Yellow Switch Palace Block #19"
+                        "ref": "Yellow Switch Blocks/SR5/Yellow Switch Palace Block #19"
                     }
                 ],
                 "map_locations": [
@@ -397,7 +397,7 @@
                 "sections": [
                     {
                         "name": "Yellow Switch Palace Block #20",
-                        "ref": "Blocks/SR5/Yellow Switch Palace Block #20"
+                        "ref": "Yellow Switch Blocks/SR5/Yellow Switch Palace Block #20"
                     }
                 ],
                 "map_locations": [
@@ -413,7 +413,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Blocks/SR5/Green Switch Palace Block #1"
+                        "ref": "Green Switch Blocks/SR5/Green Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -429,7 +429,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #2",
-                        "ref": "Blocks/SR5/Green Switch Palace Block #2"
+                        "ref": "Green Switch Blocks/SR5/Green Switch Palace Block #2"
                     }
                 ],
                 "map_locations": [
@@ -445,7 +445,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #3",
-                        "ref": "Blocks/SR5/Green Switch Palace Block #3"
+                        "ref": "Green Switch Blocks/SR5/Green Switch Palace Block #3"
                     }
                 ],
                 "map_locations": [
@@ -461,7 +461,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #4",
-                        "ref": "Blocks/SR5/Green Switch Palace Block #4"
+                        "ref": "Green Switch Blocks/SR5/Green Switch Palace Block #4"
                     }
                 ],
                 "map_locations": [
@@ -477,7 +477,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #5",
-                        "ref": "Blocks/SR5/Green Switch Palace Block #5"
+                        "ref": "Green Switch Blocks/SR5/Green Switch Palace Block #5"
                     }
                 ],
                 "map_locations": [
@@ -493,7 +493,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #6",
-                        "ref": "Blocks/SR5/Green Switch Palace Block #6"
+                        "ref": "Green Switch Blocks/SR5/Green Switch Palace Block #6"
                     }
                 ],
                 "map_locations": [
@@ -509,7 +509,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #7",
-                        "ref": "Blocks/SR5/Green Switch Palace Block #7"
+                        "ref": "Green Switch Blocks/SR5/Green Switch Palace Block #7"
                     }
                 ],
                 "map_locations": [
@@ -525,7 +525,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #8",
-                        "ref": "Blocks/SR5/Green Switch Palace Block #8"
+                        "ref": "Green Switch Blocks/SR5/Green Switch Palace Block #8"
                     }
                 ],
                 "map_locations": [
@@ -541,7 +541,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #9",
-                        "ref": "Blocks/SR5/Green Switch Palace Block #9"
+                        "ref": "Green Switch Blocks/SR5/Green Switch Palace Block #9"
                     }
                 ],
                 "map_locations": [
@@ -557,7 +557,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #10",
-                        "ref": "Blocks/SR5/Green Switch Palace Block #10"
+                        "ref": "Green Switch Blocks/SR5/Green Switch Palace Block #10"
                     }
                 ],
                 "map_locations": [
@@ -573,7 +573,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #11",
-                        "ref": "Blocks/SR5/Green Switch Palace Block #11"
+                        "ref": "Green Switch Blocks/SR5/Green Switch Palace Block #11"
                     }
                 ],
                 "map_locations": [
@@ -589,7 +589,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #12",
-                        "ref": "Blocks/SR5/Green Switch Palace Block #12"
+                        "ref": "Green Switch Blocks/SR5/Green Switch Palace Block #12"
                     }
                 ],
                 "map_locations": [
@@ -605,7 +605,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #13",
-                        "ref": "Blocks/SR5/Green Switch Palace Block #13"
+                        "ref": "Green Switch Blocks/SR5/Green Switch Palace Block #13"
                     }
                 ],
                 "map_locations": [
@@ -621,7 +621,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #14",
-                        "ref": "Blocks/SR5/Green Switch Palace Block #14"
+                        "ref": "Green Switch Blocks/SR5/Green Switch Palace Block #14"
                     }
                 ],
                 "map_locations": [
@@ -637,7 +637,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #15",
-                        "ref": "Blocks/SR5/Green Switch Palace Block #15"
+                        "ref": "Green Switch Blocks/SR5/Green Switch Palace Block #15"
                     }
                 ],
                 "map_locations": [
@@ -653,7 +653,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #16",
-                        "ref": "Blocks/SR5/Green Switch Palace Block #16"
+                        "ref": "Green Switch Blocks/SR5/Green Switch Palace Block #16"
                     }
                 ],
                 "map_locations": [
@@ -669,7 +669,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #17",
-                        "ref": "Blocks/SR5/Green Switch Palace Block #17"
+                        "ref": "Green Switch Blocks/SR5/Green Switch Palace Block #17"
                     }
                 ],
                 "map_locations": [
@@ -685,7 +685,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #18",
-                        "ref": "Blocks/SR5/Green Switch Palace Block #18"
+                        "ref": "Green Switch Blocks/SR5/Green Switch Palace Block #18"
                     }
                 ],
                 "map_locations": [
@@ -701,7 +701,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #19",
-                        "ref": "Blocks/SR5/Green Switch Palace Block #19"
+                        "ref": "Green Switch Blocks/SR5/Green Switch Palace Block #19"
                     }
                 ],
                 "map_locations": [
@@ -717,7 +717,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #20",
-                        "ref": "Blocks/SR5/Green Switch Palace Block #20"
+                        "ref": "Green Switch Blocks/SR5/Green Switch Palace Block #20"
                     }
                 ],
                 "map_locations": [
@@ -745,175 +745,175 @@
                     },
                     {
                         "name": "Directional Coin Block #1",
-                        "ref": "Blocks/SR5/Directional Coin Block #1"
+                        "ref": "Item Blocks/SR5/Directional Coin Block #1"
                     },
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "ref": "Blocks/SR5/1-Up Mushroom Block #1"
+                        "ref": "Item Blocks/SR5/1-Up Mushroom Block #1"
                     },
                     {
                         "name": "Vine Block #1",
-                        "ref": "Blocks/SR5/Vine Block #1"
+                        "ref": "Item Blocks/SR5/Vine Block #1"
                     },
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Blocks/SR5/Yellow Switch Palace Block #1"
+                        "ref": "Yellow Switch Blocks/SR5/Yellow Switch Palace Block #1"
                     },
                     {
                         "name": "Yellow Switch Palace Block #2",
-                        "ref": "Blocks/SR5/Yellow Switch Palace Block #2"
+                        "ref": "Yellow Switch Blocks/SR5/Yellow Switch Palace Block #2"
                     },
                     {
                         "name": "Yellow Switch Palace Block #3",
-                        "ref": "Blocks/SR5/Yellow Switch Palace Block #3"
+                        "ref": "Yellow Switch Blocks/SR5/Yellow Switch Palace Block #3"
                     },
                     {
                         "name": "Yellow Switch Palace Block #4",
-                        "ref": "Blocks/SR5/Yellow Switch Palace Block #4"
+                        "ref": "Yellow Switch Blocks/SR5/Yellow Switch Palace Block #4"
                     },
                     {
                         "name": "Yellow Switch Palace Block #5",
-                        "ref": "Blocks/SR5/Yellow Switch Palace Block #5"
+                        "ref": "Yellow Switch Blocks/SR5/Yellow Switch Palace Block #5"
                     },
                     {
                         "name": "Yellow Switch Palace Block #6",
-                        "ref": "Blocks/SR5/Yellow Switch Palace Block #6"
+                        "ref": "Yellow Switch Blocks/SR5/Yellow Switch Palace Block #6"
                     },
                     {
                         "name": "Yellow Switch Palace Block #7",
-                        "ref": "Blocks/SR5/Yellow Switch Palace Block #7"
+                        "ref": "Yellow Switch Blocks/SR5/Yellow Switch Palace Block #7"
                     },
                     {
                         "name": "Yellow Switch Palace Block #8",
-                        "ref": "Blocks/SR5/Yellow Switch Palace Block #8"
+                        "ref": "Yellow Switch Blocks/SR5/Yellow Switch Palace Block #8"
                     },
                     {
                         "name": "Yellow Switch Palace Block #9",
-                        "ref": "Blocks/SR5/Yellow Switch Palace Block #9"
+                        "ref": "Yellow Switch Blocks/SR5/Yellow Switch Palace Block #9"
                     },
                     {
                         "name": "Yellow Switch Palace Block #10",
-                        "ref": "Blocks/SR5/Yellow Switch Palace Block #10"
+                        "ref": "Yellow Switch Blocks/SR5/Yellow Switch Palace Block #10"
                     },
                     {
                         "name": "Yellow Switch Palace Block #11",
-                        "ref": "Blocks/SR5/Yellow Switch Palace Block #11"
+                        "ref": "Yellow Switch Blocks/SR5/Yellow Switch Palace Block #11"
                     },
                     {
                         "name": "Yellow Switch Palace Block #12",
-                        "ref": "Blocks/SR5/Yellow Switch Palace Block #12"
+                        "ref": "Yellow Switch Blocks/SR5/Yellow Switch Palace Block #12"
                     },
                     {
                         "name": "Yellow Switch Palace Block #13",
-                        "ref": "Blocks/SR5/Yellow Switch Palace Block #13"
+                        "ref": "Yellow Switch Blocks/SR5/Yellow Switch Palace Block #13"
                     },
                     {
                         "name": "Yellow Switch Palace Block #14",
-                        "ref": "Blocks/SR5/Yellow Switch Palace Block #14"
+                        "ref": "Yellow Switch Blocks/SR5/Yellow Switch Palace Block #14"
                     },
                     {
                         "name": "Yellow Switch Palace Block #15",
-                        "ref": "Blocks/SR5/Yellow Switch Palace Block #15"
+                        "ref": "Yellow Switch Blocks/SR5/Yellow Switch Palace Block #15"
                     },
                     {
                         "name": "Yellow Switch Palace Block #16",
-                        "ref": "Blocks/SR5/Yellow Switch Palace Block #16"
+                        "ref": "Yellow Switch Blocks/SR5/Yellow Switch Palace Block #16"
                     },
                     {
                         "name": "Yellow Switch Palace Block #17",
-                        "ref": "Blocks/SR5/Yellow Switch Palace Block #17"
+                        "ref": "Yellow Switch Blocks/SR5/Yellow Switch Palace Block #17"
                     },
                     {
                         "name": "Yellow Switch Palace Block #18",
-                        "ref": "Blocks/SR5/Yellow Switch Palace Block #18"
+                        "ref": "Yellow Switch Blocks/SR5/Yellow Switch Palace Block #18"
                     },
                     {
                         "name": "Yellow Switch Palace Block #19",
-                        "ref": "Blocks/SR5/Yellow Switch Palace Block #19"
+                        "ref": "Yellow Switch Blocks/SR5/Yellow Switch Palace Block #19"
                     },
                     {
                         "name": "Yellow Switch Palace Block #20",
-                        "ref": "Blocks/SR5/Yellow Switch Palace Block #20"
+                        "ref": "Yellow Switch Blocks/SR5/Yellow Switch Palace Block #20"
                     },
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Blocks/SR5/Green Switch Palace Block #1"
+                        "ref": "Green Switch Blocks/SR5/Green Switch Palace Block #1"
                     },
                     {
                         "name": "Green Switch Palace Block #2",
-                        "ref": "Blocks/SR5/Green Switch Palace Block #2"
+                        "ref": "Green Switch Blocks/SR5/Green Switch Palace Block #2"
                     },
                     {
                         "name": "Green Switch Palace Block #3",
-                        "ref": "Blocks/SR5/Green Switch Palace Block #3"
+                        "ref": "Green Switch Blocks/SR5/Green Switch Palace Block #3"
                     },
                     {
                         "name": "Green Switch Palace Block #4",
-                        "ref": "Blocks/SR5/Green Switch Palace Block #4"
+                        "ref": "Green Switch Blocks/SR5/Green Switch Palace Block #4"
                     },
                     {
                         "name": "Green Switch Palace Block #5",
-                        "ref": "Blocks/SR5/Green Switch Palace Block #5"
+                        "ref": "Green Switch Blocks/SR5/Green Switch Palace Block #5"
                     },
                     {
                         "name": "Green Switch Palace Block #6",
-                        "ref": "Blocks/SR5/Green Switch Palace Block #6"
+                        "ref": "Green Switch Blocks/SR5/Green Switch Palace Block #6"
                     },
                     {
                         "name": "Green Switch Palace Block #7",
-                        "ref": "Blocks/SR5/Green Switch Palace Block #7"
+                        "ref": "Green Switch Blocks/SR5/Green Switch Palace Block #7"
                     },
                     {
                         "name": "Green Switch Palace Block #8",
-                        "ref": "Blocks/SR5/Green Switch Palace Block #8"
+                        "ref": "Green Switch Blocks/SR5/Green Switch Palace Block #8"
                     },
                     {
                         "name": "Green Switch Palace Block #9",
-                        "ref": "Blocks/SR5/Green Switch Palace Block #9"
+                        "ref": "Green Switch Blocks/SR5/Green Switch Palace Block #9"
                     },
                     {
                         "name": "Green Switch Palace Block #10",
-                        "ref": "Blocks/SR5/Green Switch Palace Block #10"
+                        "ref": "Green Switch Blocks/SR5/Green Switch Palace Block #10"
                     },
                     {
                         "name": "Green Switch Palace Block #11",
-                        "ref": "Blocks/SR5/Green Switch Palace Block #11"
+                        "ref": "Green Switch Blocks/SR5/Green Switch Palace Block #11"
                     },
                     {
                         "name": "Green Switch Palace Block #12",
-                        "ref": "Blocks/SR5/Green Switch Palace Block #12"
+                        "ref": "Green Switch Blocks/SR5/Green Switch Palace Block #12"
                     },
                     {
                         "name": "Green Switch Palace Block #13",
-                        "ref": "Blocks/SR5/Green Switch Palace Block #13"
+                        "ref": "Green Switch Blocks/SR5/Green Switch Palace Block #13"
                     },
                     {
                         "name": "Green Switch Palace Block #14",
-                        "ref": "Blocks/SR5/Green Switch Palace Block #14"
+                        "ref": "Green Switch Blocks/SR5/Green Switch Palace Block #14"
                     },
                     {
                         "name": "Green Switch Palace Block #15",
-                        "ref": "Blocks/SR5/Green Switch Palace Block #15"
+                        "ref": "Green Switch Blocks/SR5/Green Switch Palace Block #15"
                     },
                     {
                         "name": "Green Switch Palace Block #16",
-                        "ref": "Blocks/SR5/Green Switch Palace Block #16"
+                        "ref": "Green Switch Blocks/SR5/Green Switch Palace Block #16"
                     },
                     {
                         "name": "Green Switch Palace Block #17",
-                        "ref": "Blocks/SR5/Green Switch Palace Block #17"
+                        "ref": "Green Switch Blocks/SR5/Green Switch Palace Block #17"
                     },
                     {
                         "name": "Green Switch Palace Block #18",
-                        "ref": "Blocks/SR5/Green Switch Palace Block #18"
+                        "ref": "Green Switch Blocks/SR5/Green Switch Palace Block #18"
                     },
                     {
                         "name": "Green Switch Palace Block #19",
-                        "ref": "Blocks/SR5/Green Switch Palace Block #19"
+                        "ref": "Green Switch Blocks/SR5/Green Switch Palace Block #19"
                     },
                     {
                         "name": "Green Switch Palace Block #20",
-                        "ref": "Blocks/SR5/Green Switch Palace Block #20"
+                        "ref": "Green Switch Blocks/SR5/Green Switch Palace Block #20"
                     }
                 ],
                 "map_locations": [

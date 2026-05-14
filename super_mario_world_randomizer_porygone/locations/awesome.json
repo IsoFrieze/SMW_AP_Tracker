@@ -129,7 +129,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/SZ4/Powerup Block #1"
+                        "ref": "Item Blocks/SZ4/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -145,7 +145,7 @@
                 "sections": [
                     {
                         "name": "Star Block #1",
-                        "ref": "Blocks/SZ4/Star Block #1"
+                        "ref": "Item Blocks/SZ4/Star Block #1"
                     }
                 ],
                 "map_locations": [
@@ -193,11 +193,11 @@
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/SZ4/Powerup Block #1"
+                        "ref": "Item Blocks/SZ4/Powerup Block #1"
                     },
                     {
                         "name": "Star Block #1",
-                        "ref": "Blocks/SZ4/Star Block #1"
+                        "ref": "Item Blocks/SZ4/Star Block #1"
                     }
                 ],
                 "map_locations": [

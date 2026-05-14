@@ -129,7 +129,7 @@
                 "sections": [
                     {
                         "name": "Yoshi Block #1",
-                        "ref": "Blocks/SZ5/Yoshi Block #1"
+                        "ref": "Item Blocks/SZ5/Yoshi Block #1"
                     }
                 ],
                 "map_locations": [
@@ -177,7 +177,7 @@
                     },
                     {
                         "name": "Yoshi Block #1",
-                        "ref": "Blocks/SZ5/Yoshi Block #1"
+                        "ref": "Item Blocks/SZ5/Yoshi Block #1"
                     }
                 ],
                 "map_locations": [

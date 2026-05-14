@@ -10,8 +10,8 @@
                 "item_size": "40",
                 "rows": [
                     [
-                        "progressive_powerup",
-                        "progressive_yoshi",
+                        "yoshi_eggs",
+                        "yoshi_eggs_required",
                         "star",
                         "p_balloon",
                         "p_switch",
@@ -20,14 +20,14 @@
                         "timer"
                     ],
                     [
+                        "progressive_powerup",
+                        "progressive_yoshi",
                         "carry",
                         "climb",
                         "progressive_run",
                         "progressive_swim",
                         "spin_jump",
-                        "extra_defense",
-                        "",
-                        ""
+                        "extra_defense"
                     ],
                     [
                         "ysp",

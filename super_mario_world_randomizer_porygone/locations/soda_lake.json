@@ -129,7 +129,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/SOL/Powerup Block #1"
+                        "ref": "Item Blocks/SOL/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -173,7 +173,7 @@
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/SOL/Powerup Block #1"
+                        "ref": "Item Blocks/SOL/Powerup Block #1"
                     }
                 ],
                 "map_locations": [

@@ -15,9 +15,7 @@
                         "rows": [
                             [
                                 "goal",
-                                "boss_tokens",
                                 "yoshi_eggs",
-                                "bosses_required",
                                 "yoshi_eggs_required"
                             ]
                         ]
@@ -40,8 +38,16 @@
                                 "hidden_1up_checks",
                                 "bonus_block_checks",
                                 "midway_point_checks",
-                                "room_checks",
-                                "blocksanity"
+                                "room_checks"
+                            ],
+                            [
+                                "blocksanity_coin",
+                                "blocksanity_item",
+                                "blocksanity_ysp",
+                                "blocksanity_gsp",
+                                "blocksanity_invisible",
+                                "blocksanity_pswitch",
+                                "blocksanity_flying"
                             ]
                         ]
                     }
@@ -64,6 +70,48 @@
                             ]
                         ]
                     }
+                ]
+            }
+        ]
+    },
+    "carryless_exits": {
+        "type": "container",
+        "content": [
+            {
+                "type": "itemgrid",
+                "h_alignment": "left",
+                "item_margin": "2,2",
+                "item_size": "40",
+                "rows": [
+                    [
+                        "carryless_dp1",
+                        "carryless_dp2",
+                        "carryless_ds1"
+                    ],
+                    [
+                        "carryless_vd1",
+                        "carryless_vd2"
+                    ],
+                    [
+                        "carryless_fi1",
+                        "carryless_fi2",
+                        "carryless_fi3",
+                        "carryless_fi4"
+                    ],
+                    [
+                        "carryless_ci2"
+                    ],
+                    [
+                        "carryless_vb2",
+                        "carryless_vb4"
+                    ],
+                    [
+                        "carryless_sr1",
+                        "carryless_sr2",
+                        "carryless_sr3",
+                        "carryless_sr4",
+                        "carryless_sr5"
+                    ]
                 ]
             }
         ]
@@ -290,4 +338,148 @@
             }
         ]
     },
+    "extra_logic": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Yoshi's Island",
+                "content": {
+                    "type": "itemgrid",
+                    "h_alignment": "left",
+                    "item_margin": "2,2",
+                    "item_size": "40",
+                    "rows": [
+                        [
+                        ]
+                    ]
+                }
+            },
+            {
+                "title": "Donut Plains",
+                "content": {
+                    "type": "itemgrid",
+                    "h_alignment": "left",
+                    "item_margin": "2,2",
+                    "item_size": "40",
+                    "rows": [
+                        [
+                        ]
+                    ]
+                }
+            },
+            {
+                "title": "Vanilla Dome",
+                "content": {
+                    "type": "itemgrid",
+                    "h_alignment": "left",
+                    "item_margin": "2,2",
+                    "item_size": "40",
+                    "rows": [
+                        [
+                            "hardlogic_vd1_room2itemless",
+                            "hardlogic_vd4_coinblock8",
+                            "hardlogic_vs1_wallrun",
+                            "hardlogic_vs3_swimless",
+                            "hardlogic_vdc_itemless1upblocks"
+                        ]
+                    ]
+                }
+            },
+            {
+                "title": "Twin Bridges",
+                "content": {
+                    "type": "itemgrid",
+                    "h_alignment": "left",
+                    "item_margin": "2,2",
+                    "item_size": "40",
+                    "rows": [
+                        [
+                            "hardlogic_bb1_norsp",
+                            "hardlogic_cba_yoshiexit2",
+                            "hardlogic_tbc_runless",
+                            "hardlogic_tbc_climbless"
+                        ]
+                    ]
+                }
+            },
+            {
+                "title": "Forest of Illusion",
+                "content": {
+                    "type": "itemgrid",
+                    "h_alignment": "left",
+                    "item_margin": "2,2",
+                    "item_size": "40",
+                    "rows": [
+                        [
+                            "hardlogic_fi1_yoshiexit2",
+                            "hardlogic_fi3_itemlessbigpipe",
+                            "hardlogic_fi3_yoshiexit2",
+                            "hardlogic_fgh_room2skip",
+                            "hardlogic_fsa_itemless1upblock"
+                        ]
+                    ]
+                }
+            },
+            {
+                "title": "Chocolate Island",
+                "content": {
+                    "type": "itemgrid",
+                    "h_alignment": "left",
+                    "item_margin": "2,2",
+                    "item_size": "40",
+                    "rows": [
+                        [
+                        ]
+                    ]
+                }
+            },
+            {
+                "title": "Valley of Bowser",
+                "content": {
+                    "type": "itemgrid",
+                    "h_alignment": "left",
+                    "item_margin": "2,2",
+                    "item_size": "40",
+                    "rows": [
+                        [
+                            "hardlogic_vb3_itemlessitemblock",
+                            "hardlogic_vb3_yoshivineskip",
+                            "hardlogic_vbh_exit2carryless"
+                        ]
+                    ]
+                }
+            },
+            {
+                "title": "Star World",
+                "content": {
+                    "type": "itemgrid",
+                    "h_alignment": "left",
+                    "item_margin": "2,2",
+                    "item_size": "40",
+                    "rows": [
+                        [
+                            "hardlogic_sr3_starmancloud",
+                            "hardlogic_sr4_yoshiexit2"
+                        ]
+                    ]
+                }
+            },
+            {
+                "title": "Special World",
+                "content": {
+                    "type": "itemgrid",
+                    "h_alignment": "left",
+                    "item_margin": "2,2",
+                    "item_size": "40",
+                    "rows": [
+                        [
+                            "hardlogic_sz4_itemless",
+                            "hardlogic_sz6_swimless",
+                            "hardlogic_sz7_wallrun"
+                        ]
+                    ]
+                }
+            }
+        ]
+    }
 }

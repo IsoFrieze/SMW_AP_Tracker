@@ -145,7 +145,7 @@
                 "sections": [
                     {
                         "name": "Multi Coin Block #1",
-                        "ref": "Blocks/FI4/Multi Coin Block #1"
+                        "ref": "Coin Blocks/FI4/Multi Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -161,7 +161,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #1",
-                        "ref": "Blocks/FI4/Coin Block #1"
+                        "ref": "Coin Blocks/FI4/Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -177,7 +177,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #2",
-                        "ref": "Blocks/FI4/Coin Block #2"
+                        "ref": "Coin Blocks/FI4/Coin Block #2"
                     }
                 ],
                 "map_locations": [
@@ -193,7 +193,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #3",
-                        "ref": "Blocks/FI4/Coin Block #3"
+                        "ref": "Coin Blocks/FI4/Coin Block #3"
                     }
                 ],
                 "map_locations": [
@@ -209,7 +209,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #4",
-                        "ref": "Blocks/FI4/Coin Block #4"
+                        "ref": "Coin Blocks/FI4/Coin Block #4"
                     }
                 ],
                 "map_locations": [
@@ -225,7 +225,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/FI4/Powerup Block #1"
+                        "ref": "Item Blocks/FI4/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -241,7 +241,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #5",
-                        "ref": "Blocks/FI4/Coin Block #5"
+                        "ref": "Coin Blocks/FI4/Coin Block #5"
                     }
                 ],
                 "map_locations": [
@@ -257,7 +257,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #6",
-                        "ref": "Blocks/FI4/Coin Block #6"
+                        "ref": "Coin Blocks/FI4/Coin Block #6"
                     }
                 ],
                 "map_locations": [
@@ -273,7 +273,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #7",
-                        "ref": "Blocks/FI4/Coin Block #7"
+                        "ref": "Coin Blocks/FI4/Coin Block #7"
                     }
                 ],
                 "map_locations": [
@@ -289,7 +289,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Blocks/FI4/Powerup Block #2"
+                        "ref": "Item Blocks/FI4/Powerup Block #2"
                     }
                 ],
                 "map_locations": [
@@ -305,7 +305,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #8",
-                        "ref": "Blocks/FI4/Coin Block #8"
+                        "ref": "Coin Blocks/FI4/Coin Block #8"
                     }
                 ],
                 "map_locations": [
@@ -321,7 +321,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #9",
-                        "ref": "Blocks/FI4/Coin Block #9"
+                        "ref": "Coin Blocks/FI4/Coin Block #9"
                     }
                 ],
                 "map_locations": [
@@ -337,7 +337,7 @@
                 "sections": [
                     {
                         "name": "Coin Block #10",
-                        "ref": "Blocks/FI4/Coin Block #10"
+                        "ref": "Coin Blocks/FI4/Coin Block #10"
                     }
                 ],
                 "map_locations": [
@@ -405,55 +405,55 @@
                     },
                     {
                         "name": "Multi Coin Block #1",
-                        "ref": "Blocks/FI4/Multi Coin Block #1"
+                        "ref": "Coin Blocks/FI4/Multi Coin Block #1"
                     },
                     {
                         "name": "Coin Block #1",
-                        "ref": "Blocks/FI4/Coin Block #1"
+                        "ref": "Coin Blocks/FI4/Coin Block #1"
                     },
                     {
                         "name": "Coin Block #2",
-                        "ref": "Blocks/FI4/Coin Block #2"
+                        "ref": "Coin Blocks/FI4/Coin Block #2"
                     },
                     {
                         "name": "Coin Block #3",
-                        "ref": "Blocks/FI4/Coin Block #3"
+                        "ref": "Coin Blocks/FI4/Coin Block #3"
                     },
                     {
                         "name": "Coin Block #4",
-                        "ref": "Blocks/FI4/Coin Block #4"
+                        "ref": "Coin Blocks/FI4/Coin Block #4"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/FI4/Powerup Block #1"
+                        "ref": "Item Blocks/FI4/Powerup Block #1"
                     },
                     {
                         "name": "Coin Block #5",
-                        "ref": "Blocks/FI4/Coin Block #5"
+                        "ref": "Coin Blocks/FI4/Coin Block #5"
                     },
                     {
                         "name": "Coin Block #6",
-                        "ref": "Blocks/FI4/Coin Block #6"
+                        "ref": "Coin Blocks/FI4/Coin Block #6"
                     },
                     {
                         "name": "Coin Block #7",
-                        "ref": "Blocks/FI4/Coin Block #7"
+                        "ref": "Coin Blocks/FI4/Coin Block #7"
                     },
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Blocks/FI4/Powerup Block #2"
+                        "ref": "Item Blocks/FI4/Powerup Block #2"
                     },
                     {
                         "name": "Coin Block #8",
-                        "ref": "Blocks/FI4/Coin Block #8"
+                        "ref": "Coin Blocks/FI4/Coin Block #8"
                     },
                     {
                         "name": "Coin Block #9",
-                        "ref": "Blocks/FI4/Coin Block #9"
+                        "ref": "Coin Blocks/FI4/Coin Block #9"
                     },
                     {
                         "name": "Coin Block #10",
-                        "ref": "Blocks/FI4/Coin Block #10"
+                        "ref": "Coin Blocks/FI4/Coin Block #10"
                     }
                 ],
                 "map_locations": [
@@ -577,55 +577,55 @@
                     },
                     {
                         "name": "Multi Coin Block #1",
-                        "ref": "Blocks/FI4/Multi Coin Block #1"
+                        "ref": "Coin Blocks/FI4/Multi Coin Block #1"
                     },
                     {
                         "name": "Coin Block #1",
-                        "ref": "Blocks/FI4/Coin Block #1"
+                        "ref": "Coin Blocks/FI4/Coin Block #1"
                     },
                     {
                         "name": "Coin Block #2",
-                        "ref": "Blocks/FI4/Coin Block #2"
+                        "ref": "Coin Blocks/FI4/Coin Block #2"
                     },
                     {
                         "name": "Coin Block #3",
-                        "ref": "Blocks/FI4/Coin Block #3"
+                        "ref": "Coin Blocks/FI4/Coin Block #3"
                     },
                     {
                         "name": "Coin Block #4",
-                        "ref": "Blocks/FI4/Coin Block #4"
+                        "ref": "Coin Blocks/FI4/Coin Block #4"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/FI4/Powerup Block #1"
+                        "ref": "Item Blocks/FI4/Powerup Block #1"
                     },
                     {
                         "name": "Coin Block #5",
-                        "ref": "Blocks/FI4/Coin Block #5"
+                        "ref": "Coin Blocks/FI4/Coin Block #5"
                     },
                     {
                         "name": "Coin Block #6",
-                        "ref": "Blocks/FI4/Coin Block #6"
+                        "ref": "Coin Blocks/FI4/Coin Block #6"
                     },
                     {
                         "name": "Coin Block #7",
-                        "ref": "Blocks/FI4/Coin Block #7"
+                        "ref": "Coin Blocks/FI4/Coin Block #7"
                     },
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Blocks/FI4/Powerup Block #2"
+                        "ref": "Item Blocks/FI4/Powerup Block #2"
                     },
                     {
                         "name": "Coin Block #8",
-                        "ref": "Blocks/FI4/Coin Block #8"
+                        "ref": "Coin Blocks/FI4/Coin Block #8"
                     },
                     {
                         "name": "Coin Block #9",
-                        "ref": "Blocks/FI4/Coin Block #9"
+                        "ref": "Coin Blocks/FI4/Coin Block #9"
                     },
                     {
                         "name": "Coin Block #10",
-                        "ref": "Blocks/FI4/Coin Block #10"
+                        "ref": "Coin Blocks/FI4/Coin Block #10"
                     }
                 ],
                 "map_locations": [

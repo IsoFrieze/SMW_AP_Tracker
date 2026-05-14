@@ -45,7 +45,7 @@
                 "sections": [
                     {
                         "name": "Star Block #1",
-                        "ref": "Blocks/SR2/Star Block #1"
+                        "ref": "Item Blocks/SR2/Star Block #1"
                     }
                 ],
                 "map_locations": [
@@ -69,7 +69,7 @@
                     },
                     {
                         "name": "Star Block #1",
-                        "ref": "Blocks/SR2/Star Block #1"
+                        "ref": "Item Blocks/SR2/Star Block #1"
                     }
                 ],
                 "map_locations": [

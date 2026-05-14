@@ -52,19 +52,19 @@
                     },
                     {
                         "name": "Flying Question Block #1",
-                        "ref": "Blocks/YI1/Flying Question Block #1"
+                        "ref": "Flying Blocks/YI1/Flying Question Block #1"
                     },
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Blocks/YI1/Yellow Switch Palace Block #1"
+                        "ref": "Yellow Switch Blocks/YI1/Yellow Switch Palace Block #1"
                     },
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "ref": "Blocks/YI1/1-Up Mushroom Block #1"
+                        "ref": "Item Blocks/YI1/1-Up Mushroom Block #1"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/YI1/Powerup Block #1"
+                        "ref": "Item Blocks/YI1/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -121,67 +121,67 @@
                     },
                     {
                         "name": "Flying Question Block #1",
-                        "ref": "Blocks/YI2/Flying Question Block #1"
+                        "ref": "Flying Blocks/YI2/Flying Question Block #1"
                     },
                     {
                         "name": "Flying Question Block #2",
-                        "ref": "Blocks/YI2/Flying Question Block #2"
+                        "ref": "Flying Blocks/YI2/Flying Question Block #2"
                     },
                     {
                         "name": "Flying Question Block #3",
-                        "ref": "Blocks/YI2/Flying Question Block #3"
+                        "ref": "Flying Blocks/YI2/Flying Question Block #3"
                     },
                     {
                         "name": "Flying Question Block #4",
-                        "ref": "Blocks/YI2/Flying Question Block #4"
+                        "ref": "Flying Blocks/YI2/Flying Question Block #4"
                     },
                     {
                         "name": "Flying Question Block #5",
-                        "ref": "Blocks/YI2/Flying Question Block #5"
+                        "ref": "Flying Blocks/YI2/Flying Question Block #5"
                     },
                     {
                         "name": "Flying Question Block #6",
-                        "ref": "Blocks/YI2/Flying Question Block #6"
+                        "ref": "Flying Blocks/YI2/Flying Question Block #6"
                     },
                     {
                         "name": "Coin Block #1",
-                        "ref": "Blocks/YI2/Coin Block #1"
+                        "ref": "Coin Blocks/YI2/Coin Block #1"
                     },
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Blocks/YI2/Yellow Switch Palace Block #1"
+                        "ref": "Yellow Switch Blocks/YI2/Yellow Switch Palace Block #1"
                     },
                     {
                         "name": "Coin Block #2",
-                        "ref": "Blocks/YI2/Coin Block #2"
+                        "ref": "Coin Blocks/YI2/Coin Block #2"
                     },
                     {
                         "name": "Coin Block #3",
-                        "ref": "Blocks/YI2/Coin Block #3"
+                        "ref": "Coin Blocks/YI2/Coin Block #3"
                     },
                     {
                         "name": "Yoshi Block #1",
-                        "ref": "Blocks/YI2/Yoshi Block #1"
+                        "ref": "Item Blocks/YI2/Yoshi Block #1"
                     },
                     {
                         "name": "Coin Block #4",
-                        "ref": "Blocks/YI2/Coin Block #4"
+                        "ref": "Coin Blocks/YI2/Coin Block #4"
                     },
                     {
                         "name": "Yoshi Block #2",
-                        "ref": "Blocks/YI2/Yoshi Block #2"
+                        "ref": "Item Blocks/YI2/Yoshi Block #2"
                     },
                     {
                         "name": "Coin Block #5",
-                        "ref": "Blocks/YI2/Coin Block #5"
+                        "ref": "Coin Blocks/YI2/Coin Block #5"
                     },
                     {
                         "name": "Vine Block #1",
-                        "ref": "Blocks/YI2/Vine Block #1"
+                        "ref": "Item Blocks/YI2/Vine Block #1"
                     },
                     {
                         "name": "Yellow Switch Palace Block #2",
-                        "ref": "Blocks/YI2/Yellow Switch Palace Block #2"
+                        "ref": "Yellow Switch Blocks/YI2/Yellow Switch Palace Block #2"
                     }
                 ],
                 "map_locations": [
@@ -242,363 +242,363 @@
                     },
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #1"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #1"
                     },
                     {
                         "name": "Yellow Switch Palace Block #2",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #2"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #2"
                     },
                     {
                         "name": "Yellow Switch Palace Block #3",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #3"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #3"
                     },
                     {
                         "name": "Yellow Switch Palace Block #4",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #4"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #4"
                     },
                     {
                         "name": "Yellow Switch Palace Block #5",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #5"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #5"
                     },
                     {
                         "name": "Yellow Switch Palace Block #6",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #6"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #6"
                     },
                     {
                         "name": "Yellow Switch Palace Block #7",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #7"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #7"
                     },
                     {
                         "name": "Yellow Switch Palace Block #8",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #8"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #8"
                     },
                     {
                         "name": "Yellow Switch Palace Block #9",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #9"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #9"
                     },
                     {
                         "name": "Yellow Switch Palace Block #10",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #10"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #10"
                     },
                     {
                         "name": "Yellow Switch Palace Block #11",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #11"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #11"
                     },
                     {
                         "name": "Yellow Switch Palace Block #12",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #12"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #12"
                     },
                     {
                         "name": "Yellow Switch Palace Block #13",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #13"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #13"
                     },
                     {
                         "name": "Yellow Switch Palace Block #14",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #14"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #14"
                     },
                     {
                         "name": "Yellow Switch Palace Block #15",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #15"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #15"
                     },
                     {
                         "name": "Yellow Switch Palace Block #16",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #16"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #16"
                     },
                     {
                         "name": "Yellow Switch Palace Block #17",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #17"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #17"
                     },
                     {
                         "name": "Yellow Switch Palace Block #18",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #18"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #18"
                     },
                     {
                         "name": "Yellow Switch Palace Block #19",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #19"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #19"
                     },
                     {
                         "name": "Yellow Switch Palace Block #20",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #20"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #20"
                     },
                     {
                         "name": "Yellow Switch Palace Block #21",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #21"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #21"
                     },
                     {
                         "name": "Yellow Switch Palace Block #22",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #22"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #22"
                     },
                     {
                         "name": "Yellow Switch Palace Block #23",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #23"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #23"
                     },
                     {
                         "name": "Yellow Switch Palace Block #24",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #24"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #24"
                     },
                     {
                         "name": "Yellow Switch Palace Block #25",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #25"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #25"
                     },
                     {
                         "name": "Yellow Switch Palace Block #26",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #26"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #26"
                     },
                     {
                         "name": "Yellow Switch Palace Block #27",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #27"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #27"
                     },
                     {
                         "name": "Yellow Switch Palace Block #28",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #28"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #28"
                     },
                     {
                         "name": "Yellow Switch Palace Block #29",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #29"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #29"
                     },
                     {
                         "name": "Coin Block #1",
-                        "ref": "Blocks/YI3/Coin Block #1"
+                        "ref": "Coin Blocks/YI3/Coin Block #1"
                     },
                     {
                         "name": "Yoshi Block #1",
-                        "ref": "Blocks/YI3/Yoshi Block #1"
+                        "ref": "Item Blocks/YI3/Yoshi Block #1"
                     },
                     {
                         "name": "Yellow Switch Palace Block #30",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #30"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #30"
                     },
                     {
                         "name": "Yellow Switch Palace Block #31",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #31"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #31"
                     },
                     {
                         "name": "Yellow Switch Palace Block #32",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #32"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #32"
                     },
                     {
                         "name": "Yellow Switch Palace Block #33",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #33"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #33"
                     },
                     {
                         "name": "Yellow Switch Palace Block #34",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #34"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #34"
                     },
                     {
                         "name": "Yellow Switch Palace Block #35",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #35"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #35"
                     },
                     {
                         "name": "Yellow Switch Palace Block #36",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #36"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #36"
                     },
                     {
                         "name": "Yellow Switch Palace Block #37",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #37"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #37"
                     },
                     {
                         "name": "Yellow Switch Palace Block #38",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #38"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #38"
                     },
                     {
                         "name": "Yellow Switch Palace Block #39",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #39"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #39"
                     },
                     {
                         "name": "Yellow Switch Palace Block #40",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #40"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #40"
                     },
                     {
                         "name": "Yellow Switch Palace Block #41",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #41"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #41"
                     },
                     {
                         "name": "Yellow Switch Palace Block #42",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #42"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #42"
                     },
                     {
                         "name": "Yellow Switch Palace Block #43",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #43"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #43"
                     },
                     {
                         "name": "Yellow Switch Palace Block #44",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #44"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #44"
                     },
                     {
                         "name": "Yellow Switch Palace Block #45",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #45"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #45"
                     },
                     {
                         "name": "Yellow Switch Palace Block #46",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #46"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #46"
                     },
                     {
                         "name": "Yellow Switch Palace Block #47",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #47"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #47"
                     },
                     {
                         "name": "Yellow Switch Palace Block #48",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #48"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #48"
                     },
                     {
                         "name": "Yellow Switch Palace Block #49",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #49"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #49"
                     },
                     {
                         "name": "Yellow Switch Palace Block #50",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #50"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #50"
                     },
                     {
                         "name": "Yellow Switch Palace Block #51",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #51"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #51"
                     },
                     {
                         "name": "Coin Block #2",
-                        "ref": "Blocks/YI3/Coin Block #2"
+                        "ref": "Coin Blocks/YI3/Coin Block #2"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/YI3/Powerup Block #1"
+                        "ref": "Item Blocks/YI3/Powerup Block #1"
                     },
                     {
                         "name": "Yellow Switch Palace Block #52",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #52"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #52"
                     },
                     {
                         "name": "Yellow Switch Palace Block #53",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #53"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #53"
                     },
                     {
                         "name": "Yellow Switch Palace Block #54",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #54"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #54"
                     },
                     {
                         "name": "Yellow Switch Palace Block #55",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #55"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #55"
                     },
                     {
                         "name": "Yellow Switch Palace Block #56",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #56"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #56"
                     },
                     {
                         "name": "Yellow Switch Palace Block #57",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #57"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #57"
                     },
                     {
                         "name": "Yellow Switch Palace Block #58",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #58"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #58"
                     },
                     {
                         "name": "Yellow Switch Palace Block #59",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #59"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #59"
                     },
                     {
                         "name": "Yellow Switch Palace Block #60",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #60"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #60"
                     },
                     {
                         "name": "Yellow Switch Palace Block #61",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #61"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #61"
                     },
                     {
                         "name": "Yellow Switch Palace Block #62",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #62"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #62"
                     },
                     {
                         "name": "Yellow Switch Palace Block #63",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #63"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #63"
                     },
                     {
                         "name": "Yellow Switch Palace Block #64",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #64"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #64"
                     },
                     {
                         "name": "Yellow Switch Palace Block #65",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #65"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #65"
                     },
                     {
                         "name": "Yellow Switch Palace Block #66",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #66"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #66"
                     },
                     {
                         "name": "Yellow Switch Palace Block #67",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #67"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #67"
                     },
                     {
                         "name": "Yellow Switch Palace Block #68",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #68"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #68"
                     },
                     {
                         "name": "Yellow Switch Palace Block #69",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #69"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #69"
                     },
                     {
                         "name": "Yellow Switch Palace Block #70",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #70"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #70"
                     },
                     {
                         "name": "Yellow Switch Palace Block #71",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #71"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #71"
                     },
                     {
                         "name": "Yellow Switch Palace Block #72",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #72"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #72"
                     },
                     {
                         "name": "Yellow Switch Palace Block #73",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #73"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #73"
                     },
                     {
                         "name": "Yellow Switch Palace Block #74",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #74"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #74"
                     },
                     {
                         "name": "Yellow Switch Palace Block #75",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #75"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #75"
                     },
                     {
                         "name": "Yellow Switch Palace Block #76",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #76"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #76"
                     },
                     {
                         "name": "Yellow Switch Palace Block #77",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #77"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #77"
                     },
                     {
                         "name": "Yellow Switch Palace Block #78",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #78"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #78"
                     },
                     {
                         "name": "Yellow Switch Palace Block #79",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #79"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #79"
                     },
                     {
                         "name": "Yellow Switch Palace Block #80",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #80"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #80"
                     },
                     {
                         "name": "Yellow Switch Palace Block #81",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #81"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #81"
                     },
                     {
                         "name": "Yellow Switch Palace Block #82",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #82"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #82"
                     },
                     {
                         "name": "Yellow Switch Palace Block #83",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #83"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #83"
                     },
                     {
                         "name": "Yellow Switch Palace Block #84",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #84"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #84"
                     },
                     {
                         "name": "Yellow Switch Palace Block #85",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #85"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #85"
                     },
                     {
                         "name": "Yellow Switch Palace Block #86",
-                        "ref": "Blocks/YI3/Yellow Switch Palace Block #86"
+                        "ref": "Yellow Switch Blocks/YI3/Yellow Switch Palace Block #86"
                     }
                 ],
                 "map_locations": [
@@ -659,19 +659,19 @@
                     },
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Blocks/YI4/Yellow Switch Palace Block #1"
+                        "ref": "Yellow Switch Blocks/YI4/Yellow Switch Palace Block #1"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/YI4/Powerup Block #1"
+                        "ref": "Item Blocks/YI4/Powerup Block #1"
                     },
                     {
                         "name": "Multi Coin Block #1",
-                        "ref": "Blocks/YI4/Multi Coin Block #1"
+                        "ref": "Coin Blocks/YI4/Multi Coin Block #1"
                     },
                     {
                         "name": "Star Block #1",
-                        "ref": "Blocks/YI4/Star Block #1"
+                        "ref": "Item Blocks/YI4/Star Block #1"
                     }
                 ],
                 "map_locations": [
@@ -704,27 +704,27 @@
                     },
                     {
                         "name": "Coin Block #1",
-                        "ref": "Blocks/YIC/Coin Block #1"
+                        "ref": "Coin Blocks/YIC/Coin Block #1"
                     },
                     {
                         "name": "Coin Block #2",
-                        "ref": "Blocks/YIC/Coin Block #2"
+                        "ref": "Coin Blocks/YIC/Coin Block #2"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/YIC/Powerup Block #1"
+                        "ref": "Item Blocks/YIC/Powerup Block #1"
                     },
                     {
                         "name": "Coin Block #3",
-                        "ref": "Blocks/YIC/Coin Block #3"
+                        "ref": "Coin Blocks/YIC/Coin Block #3"
                     },
                     {
                         "name": "Coin Block #4",
-                        "ref": "Blocks/YIC/Coin Block #4"
+                        "ref": "Coin Blocks/YIC/Coin Block #4"
                     },
                     {
                         "name": "Flying Question Block #1",
-                        "ref": "Blocks/YIC/Flying Question Block #1"
+                        "ref": "Flying Blocks/YIC/Flying Question Block #1"
                     }
                 ],
                 "map_locations": [
@@ -818,95 +818,95 @@
                     },
                     {
                         "name": "Coin Block #1",
-                        "ref": "Blocks/DP1/Coin Block #1"
+                        "ref": "Coin Blocks/DP1/Coin Block #1"
                     },
                     {
                         "name": "Coin Block #2",
-                        "ref": "Blocks/DP1/Coin Block #2"
+                        "ref": "Coin Blocks/DP1/Coin Block #2"
                     },
                     {
                         "name": "Yoshi Block #1",
-                        "ref": "Blocks/DP1/Yoshi Block #1"
+                        "ref": "Item Blocks/DP1/Yoshi Block #1"
                     },
                     {
                         "name": "Vine Block #1",
-                        "ref": "Blocks/DP1/Vine Block #1"
+                        "ref": "Item Blocks/DP1/Vine Block #1"
                     },
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Blocks/DP1/Green Switch Palace Block #1"
+                        "ref": "Green Switch Blocks/DP1/Green Switch Palace Block #1"
                     },
                     {
                         "name": "Green Switch Palace Block #2",
-                        "ref": "Blocks/DP1/Green Switch Palace Block #2"
+                        "ref": "Green Switch Blocks/DP1/Green Switch Palace Block #2"
                     },
                     {
                         "name": "Green Switch Palace Block #3",
-                        "ref": "Blocks/DP1/Green Switch Palace Block #3"
+                        "ref": "Green Switch Blocks/DP1/Green Switch Palace Block #3"
                     },
                     {
                         "name": "Green Switch Palace Block #4",
-                        "ref": "Blocks/DP1/Green Switch Palace Block #4"
+                        "ref": "Green Switch Blocks/DP1/Green Switch Palace Block #4"
                     },
                     {
                         "name": "Green Switch Palace Block #5",
-                        "ref": "Blocks/DP1/Green Switch Palace Block #5"
+                        "ref": "Green Switch Blocks/DP1/Green Switch Palace Block #5"
                     },
                     {
                         "name": "Green Switch Palace Block #6",
-                        "ref": "Blocks/DP1/Green Switch Palace Block #6"
+                        "ref": "Green Switch Blocks/DP1/Green Switch Palace Block #6"
                     },
                     {
                         "name": "Green Switch Palace Block #7",
-                        "ref": "Blocks/DP1/Green Switch Palace Block #7"
+                        "ref": "Green Switch Blocks/DP1/Green Switch Palace Block #7"
                     },
                     {
                         "name": "Green Switch Palace Block #8",
-                        "ref": "Blocks/DP1/Green Switch Palace Block #8"
+                        "ref": "Green Switch Blocks/DP1/Green Switch Palace Block #8"
                     },
                     {
                         "name": "Green Switch Palace Block #9",
-                        "ref": "Blocks/DP1/Green Switch Palace Block #9"
+                        "ref": "Green Switch Blocks/DP1/Green Switch Palace Block #9"
                     },
                     {
                         "name": "Green Switch Palace Block #10",
-                        "ref": "Blocks/DP1/Green Switch Palace Block #10"
+                        "ref": "Green Switch Blocks/DP1/Green Switch Palace Block #10"
                     },
                     {
                         "name": "Green Switch Palace Block #11",
-                        "ref": "Blocks/DP1/Green Switch Palace Block #11"
+                        "ref": "Green Switch Blocks/DP1/Green Switch Palace Block #11"
                     },
                     {
                         "name": "Green Switch Palace Block #12",
-                        "ref": "Blocks/DP1/Green Switch Palace Block #12"
+                        "ref": "Green Switch Blocks/DP1/Green Switch Palace Block #12"
                     },
                     {
                         "name": "Green Switch Palace Block #13",
-                        "ref": "Blocks/DP1/Green Switch Palace Block #13"
+                        "ref": "Green Switch Blocks/DP1/Green Switch Palace Block #13"
                     },
                     {
                         "name": "Green Switch Palace Block #14",
-                        "ref": "Blocks/DP1/Green Switch Palace Block #14"
+                        "ref": "Green Switch Blocks/DP1/Green Switch Palace Block #14"
                     },
                     {
                         "name": "Green Switch Palace Block #15",
-                        "ref": "Blocks/DP1/Green Switch Palace Block #15"
+                        "ref": "Green Switch Blocks/DP1/Green Switch Palace Block #15"
                     },
                     {
                         "name": "Green Switch Palace Block #16",
-                        "ref": "Blocks/DP1/Green Switch Palace Block #16"
+                        "ref": "Green Switch Blocks/DP1/Green Switch Palace Block #16"
                     },
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Blocks/DP1/Yellow Switch Palace Block #1"
+                        "ref": "Yellow Switch Blocks/DP1/Yellow Switch Palace Block #1"
                     },
                     {
                         "name": "Yellow Switch Palace Block #2",
-                        "ref": "Blocks/DP1/Yellow Switch Palace Block #2"
+                        "ref": "Yellow Switch Blocks/DP1/Yellow Switch Palace Block #2"
                     },
                     {
                         "name": "Yellow Switch Palace Block #3",
-                        "ref": "Blocks/DP1/Yellow Switch Palace Block #3"
+                        "ref": "Yellow Switch Blocks/DP1/Yellow Switch Palace Block #3"
                     }
                 ],
                 "map_locations": [
@@ -967,43 +967,43 @@
                     },
                     {
                         "name": "Coin Block #1",
-                        "ref": "Blocks/DP2/Coin Block #1"
+                        "ref": "Coin Blocks/DP2/Coin Block #1"
                     },
                     {
                         "name": "Multi Coin Block #1",
-                        "ref": "Blocks/DP2/Multi Coin Block #1"
+                        "ref": "Coin Blocks/DP2/Multi Coin Block #1"
                     },
                     {
                         "name": "Coin Block #2",
-                        "ref": "Blocks/DP2/Coin Block #2"
+                        "ref": "Coin Blocks/DP2/Coin Block #2"
                     },
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Blocks/DP2/Yellow Switch Palace Block #1"
+                        "ref": "Yellow Switch Blocks/DP2/Yellow Switch Palace Block #1"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/DP2/Powerup Block #1"
+                        "ref": "Item Blocks/DP2/Powerup Block #1"
                     },
                     {
                         "name": "Multi Coin Block #2",
-                        "ref": "Blocks/DP2/Multi Coin Block #2"
+                        "ref": "Coin Blocks/DP2/Multi Coin Block #2"
                     },
                     {
                         "name": "Flying Question Block #1",
-                        "ref": "Blocks/DP2/Flying Question Block #1"
+                        "ref": "Flying Blocks/DP2/Flying Question Block #1"
                     },
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Blocks/DP2/Green Switch Palace Block #1"
+                        "ref": "Green Switch Blocks/DP2/Green Switch Palace Block #1"
                     },
                     {
                         "name": "Yellow Switch Palace Block #2",
-                        "ref": "Blocks/DP2/Yellow Switch Palace Block #2"
+                        "ref": "Yellow Switch Blocks/DP2/Yellow Switch Palace Block #2"
                     },
                     {
                         "name": "Vine Block #1",
-                        "ref": "Blocks/DP2/Vine Block #1"
+                        "ref": "Item Blocks/DP2/Vine Block #1"
                     }
                 ],
                 "map_locations": [
@@ -1064,23 +1064,23 @@
                     },
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Blocks/DP3/Green Switch Palace Block #1"
+                        "ref": "Green Switch Blocks/DP3/Green Switch Palace Block #1"
                     },
                     {
                         "name": "Coin Block #1",
-                        "ref": "Blocks/DP3/Coin Block #1"
+                        "ref": "Coin Blocks/DP3/Coin Block #1"
                     },
                     {
                         "name": "Coin Block #2",
-                        "ref": "Blocks/DP3/Coin Block #2"
+                        "ref": "Coin Blocks/DP3/Coin Block #2"
                     },
                     {
                         "name": "Vine Block #1",
-                        "ref": "Blocks/DP3/Vine Block #1"
+                        "ref": "Item Blocks/DP3/Vine Block #1"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/DP3/Powerup Block #1"
+                        "ref": "Item Blocks/DP3/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -1149,19 +1149,19 @@
                     },
                     {
                         "name": "Coin Block #1",
-                        "ref": "Blocks/DP4/Coin Block #1"
+                        "ref": "Coin Blocks/DP4/Coin Block #1"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/DP4/Powerup Block #1"
+                        "ref": "Item Blocks/DP4/Powerup Block #1"
                     },
                     {
                         "name": "Coin Block #2",
-                        "ref": "Blocks/DP4/Coin Block #2"
+                        "ref": "Coin Blocks/DP4/Coin Block #2"
                     },
                     {
                         "name": "Yoshi Block #1",
-                        "ref": "Blocks/DP4/Yoshi Block #1"
+                        "ref": "Item Blocks/DP4/Yoshi Block #1"
                     }
                 ],
                 "map_locations": [
@@ -1226,43 +1226,43 @@
                     },
                     {
                         "name": "Coin Block #1",
-                        "ref": "Blocks/DS1/Coin Block #1"
+                        "ref": "Coin Blocks/DS1/Coin Block #1"
                     },
                     {
                         "name": "Coin Block #2",
-                        "ref": "Blocks/DS1/Coin Block #2"
+                        "ref": "Coin Blocks/DS1/Coin Block #2"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/DS1/Powerup Block #1"
+                        "ref": "Item Blocks/DS1/Powerup Block #1"
                     },
                     {
                         "name": "Coin Block #3",
-                        "ref": "Blocks/DS1/Coin Block #3"
+                        "ref": "Coin Blocks/DS1/Coin Block #3"
                     },
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Blocks/DS1/Powerup Block #2"
+                        "ref": "Item Blocks/DS1/Powerup Block #2"
                     },
                     {
                         "name": "Powerup Block #3",
-                        "ref": "Blocks/DS1/Powerup Block #3"
+                        "ref": "Item Blocks/DS1/Powerup Block #3"
                     },
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "ref": "Blocks/DS1/1-Up Mushroom Block #1"
+                        "ref": "Item Blocks/DS1/1-Up Mushroom Block #1"
                     },
                     {
                         "name": "Powerup Block #4",
-                        "ref": "Blocks/DS1/Powerup Block #4"
+                        "ref": "Item Blocks/DS1/Powerup Block #4"
                     },
                     {
                         "name": "Powerup Block #5",
-                        "ref": "Blocks/DS1/Powerup Block #5"
+                        "ref": "Item Blocks/DS1/Powerup Block #5"
                     },
                     {
                         "name": "Key Block #1",
-                        "ref": "Blocks/DS1/Key Block #1"
+                        "ref": "Item Blocks/DS1/Key Block #1"
                     }
                 ],
                 "map_locations": [
@@ -1315,23 +1315,23 @@
                     },
                     {
                         "name": "Directional Coin Block #1",
-                        "ref": "Blocks/DS2/Directional Coin Block #1"
+                        "ref": "Item Blocks/DS2/Directional Coin Block #1"
                     },
                     {
                         "name": "Vine Block #1",
-                        "ref": "Blocks/DS2/Vine Block #1"
+                        "ref": "Item Blocks/DS2/Vine Block #1"
                     },
                     {
                         "name": "Star Block #1",
-                        "ref": "Blocks/DS2/Star Block #1"
+                        "ref": "Item Blocks/DS2/Star Block #1"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/DS2/Powerup Block #1"
+                        "ref": "Item Blocks/DS2/Powerup Block #1"
                     },
                     {
                         "name": "Star Block #2",
-                        "ref": "Blocks/DS2/Star Block #2"
+                        "ref": "Item Blocks/DS2/Star Block #2"
                     }
                 ],
                 "map_locations": [
@@ -1380,27 +1380,27 @@
                     },
                     {
                         "name": "Vine|P-Switch Block #1",
-                        "ref": "Blocks/DGH/Vine|P-Switch Block #1"
+                        "ref": "Item Blocks/DGH/Vine|P-Switch Block #1"
                     },
                     {
                         "name": "Directional Coin Block #1",
-                        "ref": "Blocks/DGH/Directional Coin Block #1"
+                        "ref": "Item Blocks/DGH/Directional Coin Block #1"
                     },
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "ref": "Blocks/DGH/1-Up Mushroom Block #1"
+                        "ref": "Item Blocks/DGH/1-Up Mushroom Block #1"
                     },
                     {
                         "name": "1-Up Mushroom Block #2",
-                        "ref": "Blocks/DGH/1-Up Mushroom Block #2"
+                        "ref": "Item Blocks/DGH/1-Up Mushroom Block #2"
                     },
                     {
                         "name": "1-Up Mushroom Block #3",
-                        "ref": "Blocks/DGH/1-Up Mushroom Block #3"
+                        "ref": "Item Blocks/DGH/1-Up Mushroom Block #3"
                     },
                     {
                         "name": "1-Up Mushroom Block #4",
-                        "ref": "Blocks/DGH/1-Up Mushroom Block #4"
+                        "ref": "Item Blocks/DGH/1-Up Mushroom Block #4"
                     }
                 ],
                 "map_locations": [
@@ -1445,23 +1445,23 @@
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/DSH/Powerup Block #1"
+                        "ref": "Item Blocks/DSH/Powerup Block #1"
                     },
                     {
                         "name": "Multi Coin Block #1",
-                        "ref": "Blocks/DSH/Multi Coin Block #1"
+                        "ref": "Coin Blocks/DSH/Multi Coin Block #1"
                     },
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "ref": "Blocks/DSH/1-Up Mushroom Block #1"
+                        "ref": "Item Blocks/DSH/1-Up Mushroom Block #1"
                     },
                     {
                         "name": "Vine Block #1",
-                        "ref": "Blocks/DSH/Vine Block #1"
+                        "ref": "Item Blocks/DSH/Vine Block #1"
                     },
                     {
                         "name": "Directional Coin Block #1",
-                        "ref": "Blocks/DSH/Directional Coin Block #1"
+                        "ref": "Item Blocks/DSH/Directional Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -1502,43 +1502,43 @@
                     },
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Blocks/DPC/Yellow Switch Palace Block #1"
+                        "ref": "Yellow Switch Blocks/DPC/Yellow Switch Palace Block #1"
                     },
                     {
                         "name": "Coin Block #1",
-                        "ref": "Blocks/DPC/Coin Block #1"
+                        "ref": "Coin Blocks/DPC/Coin Block #1"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/DPC/Powerup Block #1"
+                        "ref": "Item Blocks/DPC/Powerup Block #1"
                     },
                     {
                         "name": "Coin Block #2",
-                        "ref": "Blocks/DPC/Coin Block #2"
+                        "ref": "Coin Blocks/DPC/Coin Block #2"
                     },
                     {
                         "name": "Vine Block #1",
-                        "ref": "Blocks/DPC/Vine Block #1"
+                        "ref": "Item Blocks/DPC/Vine Block #1"
                     },
                     {
                         "name": "Invisible 1-Up Mushroom Block #1",
-                        "ref": "Blocks/DPC/Invisible 1-Up Mushroom Block #1"
+                        "ref": "Invisible Blocks/DPC/Invisible 1-Up Mushroom Block #1"
                     },
                     {
                         "name": "Coin Block #3",
-                        "ref": "Blocks/DPC/Coin Block #3"
+                        "ref": "Coin Blocks/DPC/Coin Block #3"
                     },
                     {
                         "name": "Coin Block #4",
-                        "ref": "Blocks/DPC/Coin Block #4"
+                        "ref": "Coin Blocks/DPC/Coin Block #4"
                     },
                     {
                         "name": "Coin Block #5",
-                        "ref": "Blocks/DPC/Coin Block #5"
+                        "ref": "Coin Blocks/DPC/Coin Block #5"
                     },
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Blocks/DPC/Green Switch Palace Block #1"
+                        "ref": "Green Switch Blocks/DPC/Green Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -1624,43 +1624,43 @@
                     },
                     {
                         "name": "Flying Question Block #1",
-                        "ref": "Blocks/VD1/Flying Question Block #1"
+                        "ref": "Flying Blocks/VD1/Flying Question Block #1"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/VD1/Powerup Block #1"
+                        "ref": "Item Blocks/VD1/Powerup Block #1"
                     },
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Blocks/VD1/Powerup Block #2"
+                        "ref": "Item Blocks/VD1/Powerup Block #2"
                     },
                     {
                         "name": "Coin Block #1",
-                        "ref": "Blocks/VD1/Coin Block #1"
+                        "ref": "Coin Blocks/VD1/Coin Block #1"
                     },
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "ref": "Blocks/VD1/1-Up Mushroom Block #1"
+                        "ref": "Item Blocks/VD1/1-Up Mushroom Block #1"
                     },
                     {
                         "name": "Powerup Block #3",
-                        "ref": "Blocks/VD1/Powerup Block #3"
+                        "ref": "Item Blocks/VD1/Powerup Block #3"
                     },
                     {
                         "name": "Vine Block #1",
-                        "ref": "Blocks/VD1/Vine Block #1"
+                        "ref": "Item Blocks/VD1/Vine Block #1"
                     },
                     {
                         "name": "Star Block #1",
-                        "ref": "Blocks/VD1/Star Block #1"
+                        "ref": "Item Blocks/VD1/Star Block #1"
                     },
                     {
                         "name": "Powerup Block #4",
-                        "ref": "Blocks/VD1/Powerup Block #4"
+                        "ref": "Item Blocks/VD1/Powerup Block #4"
                     },
                     {
                         "name": "Coin Block #2",
-                        "ref": "Blocks/VD1/Coin Block #2"
+                        "ref": "Coin Blocks/VD1/Coin Block #2"
                     }
                 ],
                 "map_locations": [
@@ -1721,59 +1721,59 @@
                     },
                     {
                         "name": "Coin Block #1",
-                        "ref": "Blocks/VD2/Coin Block #1"
+                        "ref": "Coin Blocks/VD2/Coin Block #1"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/VD2/Powerup Block #1"
+                        "ref": "Item Blocks/VD2/Powerup Block #1"
                     },
                     {
                         "name": "Coin Block #2",
-                        "ref": "Blocks/VD2/Coin Block #2"
+                        "ref": "Coin Blocks/VD2/Coin Block #2"
                     },
                     {
                         "name": "Coin Block #3",
-                        "ref": "Blocks/VD2/Coin Block #3"
+                        "ref": "Coin Blocks/VD2/Coin Block #3"
                     },
                     {
                         "name": "Vine Block #1",
-                        "ref": "Blocks/VD2/Vine Block #1"
+                        "ref": "Item Blocks/VD2/Vine Block #1"
                     },
                     {
                         "name": "Invisible 1-Up Mushroom Block #1",
-                        "ref": "Blocks/VD2/Invisible 1-Up Mushroom Block #1"
+                        "ref": "Invisible Blocks/VD2/Invisible 1-Up Mushroom Block #1"
                     },
                     {
                         "name": "Coin Block #4",
-                        "ref": "Blocks/VD2/Coin Block #4"
+                        "ref": "Coin Blocks/VD2/Coin Block #4"
                     },
                     {
                         "name": "Coin Block #5",
-                        "ref": "Blocks/VD2/Coin Block #5"
+                        "ref": "Coin Blocks/VD2/Coin Block #5"
                     },
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Blocks/VD2/Powerup Block #2"
+                        "ref": "Item Blocks/VD2/Powerup Block #2"
                     },
                     {
                         "name": "Powerup Block #3",
-                        "ref": "Blocks/VD2/Powerup Block #3"
+                        "ref": "Item Blocks/VD2/Powerup Block #3"
                     },
                     {
                         "name": "Powerup Block #4",
-                        "ref": "Blocks/VD2/Powerup Block #4"
+                        "ref": "Item Blocks/VD2/Powerup Block #4"
                     },
                     {
                         "name": "Powerup Block #5",
-                        "ref": "Blocks/VD2/Powerup Block #5"
+                        "ref": "Item Blocks/VD2/Powerup Block #5"
                     },
                     {
                         "name": "Multi Coin Block #1",
-                        "ref": "Blocks/VD2/Multi Coin Block #1"
+                        "ref": "Coin Blocks/VD2/Multi Coin Block #1"
                     },
                     {
                         "name": "Multi Coin Block #2",
-                        "ref": "Blocks/VD2/Multi Coin Block #2"
+                        "ref": "Coin Blocks/VD2/Multi Coin Block #2"
                     }
                 ],
                 "map_locations": [
@@ -1842,71 +1842,71 @@
                     },
                     {
                         "name": "Coin Block #1",
-                        "ref": "Blocks/VD3/Coin Block #1"
+                        "ref": "Coin Blocks/VD3/Coin Block #1"
                     },
                     {
                         "name": "Flying Question Block #1",
-                        "ref": "Blocks/VD3/Flying Question Block #1"
+                        "ref": "Flying Blocks/VD3/Flying Question Block #1"
                     },
                     {
                         "name": "Flying Question Block #2",
-                        "ref": "Blocks/VD3/Flying Question Block #2"
+                        "ref": "Flying Blocks/VD3/Flying Question Block #2"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/VD3/Powerup Block #1"
+                        "ref": "Item Blocks/VD3/Powerup Block #1"
                     },
                     {
                         "name": "Flying Question Block #3",
-                        "ref": "Blocks/VD3/Flying Question Block #3"
+                        "ref": "Flying Blocks/VD3/Flying Question Block #3"
                     },
                     {
                         "name": "Invisible Coin Block #1",
-                        "ref": "Blocks/VD3/Invisible Coin Block #1"
+                        "ref": "Invisible Blocks/VD3/Invisible Coin Block #1"
                     },
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Blocks/VD3/Powerup Block #2"
+                        "ref": "Item Blocks/VD3/Powerup Block #2"
                     },
                     {
                         "name": "Multi Coin Block #1",
-                        "ref": "Blocks/VD3/Multi Coin Block #1"
+                        "ref": "Coin Blocks/VD3/Multi Coin Block #1"
                     },
                     {
                         "name": "Powerup Block #3",
-                        "ref": "Blocks/VD3/Powerup Block #3"
+                        "ref": "Item Blocks/VD3/Powerup Block #3"
                     },
                     {
                         "name": "Yoshi Block #1",
-                        "ref": "Blocks/VD3/Yoshi Block #1"
+                        "ref": "Item Blocks/VD3/Yoshi Block #1"
                     },
                     {
                         "name": "Powerup Block #4",
-                        "ref": "Blocks/VD3/Powerup Block #4"
+                        "ref": "Item Blocks/VD3/Powerup Block #4"
                     },
                     {
                         "name": "P-Switch Coin Block #1",
-                        "ref": "Blocks/VD3/P-Switch Coin Block #1"
+                        "ref": "P-Switch Blocks/VD3/P-Switch Coin Block #1"
                     },
                     {
                         "name": "P-Switch Coin Block #2",
-                        "ref": "Blocks/VD3/P-Switch Coin Block #2"
+                        "ref": "P-Switch Blocks/VD3/P-Switch Coin Block #2"
                     },
                     {
                         "name": "P-Switch Coin Block #3",
-                        "ref": "Blocks/VD3/P-Switch Coin Block #3"
+                        "ref": "P-Switch Blocks/VD3/P-Switch Coin Block #3"
                     },
                     {
                         "name": "P-Switch Coin Block #4",
-                        "ref": "Blocks/VD3/P-Switch Coin Block #4"
+                        "ref": "P-Switch Blocks/VD3/P-Switch Coin Block #4"
                     },
                     {
                         "name": "P-Switch Coin Block #5",
-                        "ref": "Blocks/VD3/P-Switch Coin Block #5"
+                        "ref": "P-Switch Blocks/VD3/P-Switch Coin Block #5"
                     },
                     {
                         "name": "P-Switch Coin Block #6",
-                        "ref": "Blocks/VD3/P-Switch Coin Block #6"
+                        "ref": "P-Switch Blocks/VD3/P-Switch Coin Block #6"
                     }
                 ],
                 "map_locations": [
@@ -1967,47 +1967,47 @@
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/VD4/Powerup Block #1"
+                        "ref": "Item Blocks/VD4/Powerup Block #1"
                     },
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Blocks/VD4/Powerup Block #2"
+                        "ref": "Item Blocks/VD4/Powerup Block #2"
                     },
                     {
                         "name": "Coin Block #1",
-                        "ref": "Blocks/VD4/Coin Block #1"
+                        "ref": "Coin Blocks/VD4/Coin Block #1"
                     },
                     {
                         "name": "Coin Block #2",
-                        "ref": "Blocks/VD4/Coin Block #2"
+                        "ref": "Coin Blocks/VD4/Coin Block #2"
                     },
                     {
                         "name": "Coin Block #3",
-                        "ref": "Blocks/VD4/Coin Block #3"
+                        "ref": "Coin Blocks/VD4/Coin Block #3"
                     },
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "ref": "Blocks/VD4/1-Up Mushroom Block #1"
+                        "ref": "Item Blocks/VD4/1-Up Mushroom Block #1"
                     },
                     {
                         "name": "Coin Block #4",
-                        "ref": "Blocks/VD4/Coin Block #4"
+                        "ref": "Coin Blocks/VD4/Coin Block #4"
                     },
                     {
                         "name": "Coin Block #5",
-                        "ref": "Blocks/VD4/Coin Block #5"
+                        "ref": "Coin Blocks/VD4/Coin Block #5"
                     },
                     {
                         "name": "Coin Block #6",
-                        "ref": "Blocks/VD4/Coin Block #6"
+                        "ref": "Coin Blocks/VD4/Coin Block #6"
                     },
                     {
                         "name": "Coin Block #7",
-                        "ref": "Blocks/VD4/Coin Block #7"
+                        "ref": "Coin Blocks/VD4/Coin Block #7"
                     },
                     {
                         "name": "Coin Block #8",
-                        "ref": "Blocks/VD4/Coin Block #8"
+                        "ref": "Coin Blocks/VD4/Coin Block #8"
                     }
                 ],
                 "map_locations": [
@@ -2068,35 +2068,35 @@
                     },
                     {
                         "name": "Coin Block #1",
-                        "ref": "Blocks/VS1/Coin Block #1"
+                        "ref": "Coin Blocks/VS1/Coin Block #1"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/VS1/Powerup Block #1"
+                        "ref": "Item Blocks/VS1/Powerup Block #1"
                     },
                     {
                         "name": "Multi Coin Block #1",
-                        "ref": "Blocks/VS1/Multi Coin Block #1"
+                        "ref": "Coin Blocks/VS1/Multi Coin Block #1"
                     },
                     {
                         "name": "Vine Block #1",
-                        "ref": "Blocks/VS1/Vine Block #1"
+                        "ref": "Item Blocks/VS1/Vine Block #1"
                     },
                     {
                         "name": "Vine Block #2",
-                        "ref": "Blocks/VS1/Vine Block #2"
+                        "ref": "Item Blocks/VS1/Vine Block #2"
                     },
                     {
                         "name": "Coin Block #2",
-                        "ref": "Blocks/VS1/Coin Block #2"
+                        "ref": "Coin Blocks/VS1/Coin Block #2"
                     },
                     {
                         "name": "Coin Block #3",
-                        "ref": "Blocks/VS1/Coin Block #3"
+                        "ref": "Coin Blocks/VS1/Coin Block #3"
                     },
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Blocks/VS1/Powerup Block #2"
+                        "ref": "Item Blocks/VS1/Powerup Block #2"
                     }
                 ],
                 "map_locations": [
@@ -2153,51 +2153,51 @@
                     },
                     {
                         "name": "Yoshi Block #1",
-                        "ref": "Blocks/VS2/Yoshi Block #1"
+                        "ref": "Item Blocks/VS2/Yoshi Block #1"
                     },
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Blocks/VS2/Green Switch Palace Block #1"
+                        "ref": "Green Switch Blocks/VS2/Green Switch Palace Block #1"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/VS2/Powerup Block #1"
+                        "ref": "Item Blocks/VS2/Powerup Block #1"
                     },
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Blocks/VS2/Powerup Block #2"
+                        "ref": "Item Blocks/VS2/Powerup Block #2"
                     },
                     {
                         "name": "Multi Coin Block #1",
-                        "ref": "Blocks/VS2/Multi Coin Block #1"
+                        "ref": "Coin Blocks/VS2/Multi Coin Block #1"
                     },
                     {
                         "name": "Gray P-Switch Block #1",
-                        "ref": "Blocks/VS2/Gray P-Switch Block #1"
+                        "ref": "Item Blocks/VS2/Gray P-Switch Block #1"
                     },
                     {
                         "name": "Coin Block #1",
-                        "ref": "Blocks/VS2/Coin Block #1"
+                        "ref": "Coin Blocks/VS2/Coin Block #1"
                     },
                     {
                         "name": "Coin Block #2",
-                        "ref": "Blocks/VS2/Coin Block #2"
+                        "ref": "Coin Blocks/VS2/Coin Block #2"
                     },
                     {
                         "name": "Coin Block #3",
-                        "ref": "Blocks/VS2/Coin Block #3"
+                        "ref": "Coin Blocks/VS2/Coin Block #3"
                     },
                     {
                         "name": "Coin Block #4",
-                        "ref": "Blocks/VS2/Coin Block #4"
+                        "ref": "Coin Blocks/VS2/Coin Block #4"
                     },
                     {
                         "name": "Coin Block #5",
-                        "ref": "Blocks/VS2/Coin Block #5"
+                        "ref": "Coin Blocks/VS2/Coin Block #5"
                     },
                     {
                         "name": "Coin Block #6",
-                        "ref": "Blocks/VS2/Coin Block #6"
+                        "ref": "Coin Blocks/VS2/Coin Block #6"
                     }
                 ],
                 "map_locations": [
@@ -2254,11 +2254,11 @@
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/VS3/Powerup Block #1"
+                        "ref": "Item Blocks/VS3/Powerup Block #1"
                     },
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Blocks/VS3/Powerup Block #2"
+                        "ref": "Item Blocks/VS3/Powerup Block #2"
                     }
                 ],
                 "map_locations": [
@@ -2319,23 +2319,23 @@
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/VDH/Powerup Block #1"
+                        "ref": "Item Blocks/VDH/Powerup Block #1"
                     },
                     {
                         "name": "Vine Block #1",
-                        "ref": "Blocks/VDH/Vine Block #1"
+                        "ref": "Item Blocks/VDH/Vine Block #1"
                     },
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Blocks/VDH/Powerup Block #2"
+                        "ref": "Item Blocks/VDH/Powerup Block #2"
                     },
                     {
                         "name": "Multi Coin Block #1",
-                        "ref": "Blocks/VDH/Multi Coin Block #1"
+                        "ref": "Coin Blocks/VDH/Multi Coin Block #1"
                     },
                     {
                         "name": "Blue P-Switch Block #1",
-                        "ref": "Blocks/VDH/Blue P-Switch Block #1"
+                        "ref": "Item Blocks/VDH/Blue P-Switch Block #1"
                     }
                 ],
                 "map_locations": [
@@ -2368,15 +2368,15 @@
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/VDF/Powerup Block #1"
+                        "ref": "Item Blocks/VDF/Powerup Block #1"
                     },
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Blocks/VDF/Powerup Block #2"
+                        "ref": "Item Blocks/VDF/Powerup Block #2"
                     },
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Blocks/VDF/Yellow Switch Palace Block #1"
+                        "ref": "Yellow Switch Blocks/VDF/Yellow Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -2413,23 +2413,23 @@
                     },
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "ref": "Blocks/VDC/1-Up Mushroom Block #1"
+                        "ref": "Item Blocks/VDC/1-Up Mushroom Block #1"
                     },
                     {
                         "name": "1-Up Mushroom Block #2",
-                        "ref": "Blocks/VDC/1-Up Mushroom Block #2"
+                        "ref": "Item Blocks/VDC/1-Up Mushroom Block #2"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/VDC/Powerup Block #1"
+                        "ref": "Item Blocks/VDC/Powerup Block #1"
                     },
                     {
                         "name": "1-Up Mushroom Block #3",
-                        "ref": "Blocks/VDC/1-Up Mushroom Block #3"
+                        "ref": "Item Blocks/VDC/1-Up Mushroom Block #3"
                     },
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Blocks/VDC/Green Switch Palace Block #1"
+                        "ref": "Green Switch Blocks/VDC/Green Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -2511,23 +2511,23 @@
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/BB1/Powerup Block #1"
+                        "ref": "Item Blocks/BB1/Powerup Block #1"
                     },
                     {
                         "name": "Multi Coin Block #1",
-                        "ref": "Blocks/BB1/Multi Coin Block #1"
+                        "ref": "Coin Blocks/BB1/Multi Coin Block #1"
                     },
                     {
                         "name": "Multi Coin Block #2",
-                        "ref": "Blocks/BB1/Multi Coin Block #2"
+                        "ref": "Coin Blocks/BB1/Multi Coin Block #2"
                     },
                     {
                         "name": "Multi Coin Block #3",
-                        "ref": "Blocks/BB1/Multi Coin Block #3"
+                        "ref": "Coin Blocks/BB1/Multi Coin Block #3"
                     },
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "ref": "Blocks/BB1/1-Up Mushroom Block #1"
+                        "ref": "Item Blocks/BB1/1-Up Mushroom Block #1"
                     }
                 ],
                 "map_locations": [
@@ -2584,15 +2584,15 @@
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/BB2/Powerup Block #1"
+                        "ref": "Item Blocks/BB2/Powerup Block #1"
                     },
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Blocks/BB2/Green Switch Palace Block #1"
+                        "ref": "Green Switch Blocks/BB2/Green Switch Palace Block #1"
                     },
                     {
                         "name": "Yoshi Block #1",
-                        "ref": "Blocks/BB2/Yoshi Block #1"
+                        "ref": "Item Blocks/BB2/Yoshi Block #1"
                     }
                 ],
                 "map_locations": [
@@ -2681,19 +2681,19 @@
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/CBA/Powerup Block #1"
+                        "ref": "Item Blocks/CBA/Powerup Block #1"
                     },
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Blocks/CBA/Powerup Block #2"
+                        "ref": "Item Blocks/CBA/Powerup Block #2"
                     },
                     {
                         "name": "Wings Block #1",
-                        "ref": "Blocks/CBA/Wings Block #1"
+                        "ref": "Item Blocks/CBA/Wings Block #1"
                     },
                     {
                         "name": "Powerup Block #3",
-                        "ref": "Blocks/CBA/Powerup Block #3"
+                        "ref": "Item Blocks/CBA/Powerup Block #3"
                     }
                 ],
                 "map_locations": [
@@ -2754,143 +2754,143 @@
                     },
                     {
                         "name": "Coin Block #1",
-                        "ref": "Blocks/COM/Coin Block #1"
+                        "ref": "Coin Blocks/COM/Coin Block #1"
                     },
                     {
                         "name": "Coin Block #2",
-                        "ref": "Blocks/COM/Coin Block #2"
+                        "ref": "Coin Blocks/COM/Coin Block #2"
                     },
                     {
                         "name": "Coin Block #3",
-                        "ref": "Blocks/COM/Coin Block #3"
+                        "ref": "Coin Blocks/COM/Coin Block #3"
                     },
                     {
                         "name": "Coin Block #4",
-                        "ref": "Blocks/COM/Coin Block #4"
+                        "ref": "Coin Blocks/COM/Coin Block #4"
                     },
                     {
                         "name": "Coin Block #5",
-                        "ref": "Blocks/COM/Coin Block #5"
+                        "ref": "Coin Blocks/COM/Coin Block #5"
                     },
                     {
                         "name": "Coin Block #6",
-                        "ref": "Blocks/COM/Coin Block #6"
+                        "ref": "Coin Blocks/COM/Coin Block #6"
                     },
                     {
                         "name": "Coin Block #7",
-                        "ref": "Blocks/COM/Coin Block #7"
+                        "ref": "Coin Blocks/COM/Coin Block #7"
                     },
                     {
                         "name": "Coin Block #8",
-                        "ref": "Blocks/COM/Coin Block #8"
+                        "ref": "Coin Blocks/COM/Coin Block #8"
                     },
                     {
                         "name": "Coin Block #9",
-                        "ref": "Blocks/COM/Coin Block #9"
+                        "ref": "Coin Blocks/COM/Coin Block #9"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/COM/Powerup Block #1"
+                        "ref": "Item Blocks/COM/Powerup Block #1"
                     },
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "ref": "Blocks/COM/1-Up Mushroom Block #1"
+                        "ref": "Item Blocks/COM/1-Up Mushroom Block #1"
                     },
                     {
                         "name": "Vine Block #1",
-                        "ref": "Blocks/COM/Vine Block #1"
+                        "ref": "Item Blocks/COM/Vine Block #1"
                     },
                     {
                         "name": "Yoshi Block #1",
-                        "ref": "Blocks/COM/Yoshi Block #1"
+                        "ref": "Item Blocks/COM/Yoshi Block #1"
                     },
                     {
                         "name": "Coin Block #10",
-                        "ref": "Blocks/COM/Coin Block #10"
+                        "ref": "Coin Blocks/COM/Coin Block #10"
                     },
                     {
                         "name": "Coin Block #11",
-                        "ref": "Blocks/COM/Coin Block #11"
+                        "ref": "Coin Blocks/COM/Coin Block #11"
                     },
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Blocks/COM/Powerup Block #2"
+                        "ref": "Item Blocks/COM/Powerup Block #2"
                     },
                     {
                         "name": "Coin Block #12",
-                        "ref": "Blocks/COM/Coin Block #12"
+                        "ref": "Coin Blocks/COM/Coin Block #12"
                     },
                     {
                         "name": "Coin Block #13",
-                        "ref": "Blocks/COM/Coin Block #13"
+                        "ref": "Coin Blocks/COM/Coin Block #13"
                     },
                     {
                         "name": "Coin Block #14",
-                        "ref": "Blocks/COM/Coin Block #14"
+                        "ref": "Coin Blocks/COM/Coin Block #14"
                     },
                     {
                         "name": "Coin Block #15",
-                        "ref": "Blocks/COM/Coin Block #15"
+                        "ref": "Coin Blocks/COM/Coin Block #15"
                     },
                     {
                         "name": "Coin Block #16",
-                        "ref": "Blocks/COM/Coin Block #16"
+                        "ref": "Coin Blocks/COM/Coin Block #16"
                     },
                     {
                         "name": "Coin Block #17",
-                        "ref": "Blocks/COM/Coin Block #17"
+                        "ref": "Coin Blocks/COM/Coin Block #17"
                     },
                     {
                         "name": "Coin Block #18",
-                        "ref": "Blocks/COM/Coin Block #18"
+                        "ref": "Coin Blocks/COM/Coin Block #18"
                     },
                     {
                         "name": "Coin Block #19",
-                        "ref": "Blocks/COM/Coin Block #19"
+                        "ref": "Coin Blocks/COM/Coin Block #19"
                     },
                     {
                         "name": "Coin Block #20",
-                        "ref": "Blocks/COM/Coin Block #20"
+                        "ref": "Coin Blocks/COM/Coin Block #20"
                     },
                     {
                         "name": "Coin Block #21",
-                        "ref": "Blocks/COM/Coin Block #21"
+                        "ref": "Coin Blocks/COM/Coin Block #21"
                     },
                     {
                         "name": "Coin Block #22",
-                        "ref": "Blocks/COM/Coin Block #22"
+                        "ref": "Coin Blocks/COM/Coin Block #22"
                     },
                     {
                         "name": "Coin Block #23",
-                        "ref": "Blocks/COM/Coin Block #23"
+                        "ref": "Coin Blocks/COM/Coin Block #23"
                     },
                     {
                         "name": "Coin Block #24",
-                        "ref": "Blocks/COM/Coin Block #24"
+                        "ref": "Coin Blocks/COM/Coin Block #24"
                     },
                     {
                         "name": "Coin Block #25",
-                        "ref": "Blocks/COM/Coin Block #25"
+                        "ref": "Coin Blocks/COM/Coin Block #25"
                     },
                     {
                         "name": "Coin Block #26",
-                        "ref": "Blocks/COM/Coin Block #26"
+                        "ref": "Coin Blocks/COM/Coin Block #26"
                     },
                     {
                         "name": "Coin Block #27",
-                        "ref": "Blocks/COM/Coin Block #27"
+                        "ref": "Coin Blocks/COM/Coin Block #27"
                     },
                     {
                         "name": "Coin Block #28",
-                        "ref": "Blocks/COM/Coin Block #28"
+                        "ref": "Coin Blocks/COM/Coin Block #28"
                     },
                     {
                         "name": "Coin Block #29",
-                        "ref": "Blocks/COM/Coin Block #29"
+                        "ref": "Coin Blocks/COM/Coin Block #29"
                     },
                     {
                         "name": "Coin Block #30",
-                        "ref": "Blocks/COM/Coin Block #30"
+                        "ref": "Coin Blocks/COM/Coin Block #30"
                     }
                 ],
                 "map_locations": [
@@ -2943,7 +2943,7 @@
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/SOL/Powerup Block #1"
+                        "ref": "Item Blocks/SOL/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -2980,7 +2980,7 @@
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/TWC/Powerup Block #1"
+                        "ref": "Item Blocks/TWC/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -3013,23 +3013,23 @@
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/FI1/Powerup Block #1"
+                        "ref": "Item Blocks/FI1/Powerup Block #1"
                     },
                     {
                         "name": "Yoshi Block #1",
-                        "ref": "Blocks/FI1/Yoshi Block #1"
+                        "ref": "Item Blocks/FI1/Yoshi Block #1"
                     },
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Blocks/FI1/Powerup Block #2"
+                        "ref": "Item Blocks/FI1/Powerup Block #2"
                     },
                     {
                         "name": "Key Block #1",
-                        "ref": "Blocks/FI1/Key Block #1"
+                        "ref": "Item Blocks/FI1/Key Block #1"
                     },
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "ref": "Blocks/FI1/1-Up Mushroom Block #1"
+                        "ref": "Item Blocks/FI1/1-Up Mushroom Block #1"
                     }
                 ],
                 "map_locations": [
@@ -3082,31 +3082,31 @@
                     },
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Blocks/FI2/Green Switch Palace Block #1"
+                        "ref": "Green Switch Blocks/FI2/Green Switch Palace Block #1"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/FI2/Powerup Block #1"
+                        "ref": "Item Blocks/FI2/Powerup Block #1"
                     },
                     {
                         "name": "Invisible Coin Block #1",
-                        "ref": "Blocks/FI2/Invisible Coin Block #1"
+                        "ref": "Invisible Blocks/FI2/Invisible Coin Block #1"
                     },
                     {
                         "name": "Invisible Coin Block #2",
-                        "ref": "Blocks/FI2/Invisible Coin Block #2"
+                        "ref": "Invisible Blocks/FI2/Invisible Coin Block #2"
                     },
                     {
                         "name": "Invisible 1-Up Mushroom Block #1",
-                        "ref": "Blocks/FI2/Invisible 1-Up Mushroom Block #1"
+                        "ref": "Invisible Blocks/FI2/Invisible 1-Up Mushroom Block #1"
                     },
                     {
                         "name": "Invisible Coin Block #3",
-                        "ref": "Blocks/FI2/Invisible Coin Block #3"
+                        "ref": "Invisible Blocks/FI2/Invisible Coin Block #3"
                     },
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Blocks/FI2/Yellow Switch Palace Block #1"
+                        "ref": "Yellow Switch Blocks/FI2/Yellow Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -3175,111 +3175,111 @@
                     },
                     {
                         "name": "Yoshi Block #1",
-                        "ref": "Blocks/FI3/Yoshi Block #1"
+                        "ref": "Item Blocks/FI3/Yoshi Block #1"
                     },
                     {
                         "name": "Coin Block #1",
-                        "ref": "Blocks/FI3/Coin Block #1"
+                        "ref": "Coin Blocks/FI3/Coin Block #1"
                     },
                     {
                         "name": "Multi Coin Block #1",
-                        "ref": "Blocks/FI3/Multi Coin Block #1"
+                        "ref": "Coin Blocks/FI3/Multi Coin Block #1"
                     },
                     {
                         "name": "Coin Block #2",
-                        "ref": "Blocks/FI3/Coin Block #2"
+                        "ref": "Coin Blocks/FI3/Coin Block #2"
                     },
                     {
                         "name": "Multi Coin Block #2",
-                        "ref": "Blocks/FI3/Multi Coin Block #2"
+                        "ref": "Coin Blocks/FI3/Multi Coin Block #2"
                     },
                     {
                         "name": "Coin Block #3",
-                        "ref": "Blocks/FI3/Coin Block #3"
+                        "ref": "Coin Blocks/FI3/Coin Block #3"
                     },
                     {
                         "name": "Coin Block #4",
-                        "ref": "Blocks/FI3/Coin Block #4"
+                        "ref": "Coin Blocks/FI3/Coin Block #4"
                     },
                     {
                         "name": "Coin Block #5",
-                        "ref": "Blocks/FI3/Coin Block #5"
+                        "ref": "Coin Blocks/FI3/Coin Block #5"
                     },
                     {
                         "name": "Coin Block #6",
-                        "ref": "Blocks/FI3/Coin Block #6"
+                        "ref": "Coin Blocks/FI3/Coin Block #6"
                     },
                     {
                         "name": "Coin Block #7",
-                        "ref": "Blocks/FI3/Coin Block #7"
+                        "ref": "Coin Blocks/FI3/Coin Block #7"
                     },
                     {
                         "name": "Coin Block #8",
-                        "ref": "Blocks/FI3/Coin Block #8"
+                        "ref": "Coin Blocks/FI3/Coin Block #8"
                     },
                     {
                         "name": "Coin Block #9",
-                        "ref": "Blocks/FI3/Coin Block #9"
+                        "ref": "Coin Blocks/FI3/Coin Block #9"
                     },
                     {
                         "name": "Coin Block #10",
-                        "ref": "Blocks/FI3/Coin Block #10"
+                        "ref": "Coin Blocks/FI3/Coin Block #10"
                     },
                     {
                         "name": "Coin Block #11",
-                        "ref": "Blocks/FI3/Coin Block #11"
+                        "ref": "Coin Blocks/FI3/Coin Block #11"
                     },
                     {
                         "name": "Coin Block #12",
-                        "ref": "Blocks/FI3/Coin Block #12"
+                        "ref": "Coin Blocks/FI3/Coin Block #12"
                     },
                     {
                         "name": "Coin Block #13",
-                        "ref": "Blocks/FI3/Coin Block #13"
+                        "ref": "Coin Blocks/FI3/Coin Block #13"
                     },
                     {
                         "name": "Coin Block #14",
-                        "ref": "Blocks/FI3/Coin Block #14"
+                        "ref": "Coin Blocks/FI3/Coin Block #14"
                     },
                     {
                         "name": "Coin Block #15",
-                        "ref": "Blocks/FI3/Coin Block #15"
+                        "ref": "Coin Blocks/FI3/Coin Block #15"
                     },
                     {
                         "name": "Coin Block #16",
-                        "ref": "Blocks/FI3/Coin Block #16"
+                        "ref": "Coin Blocks/FI3/Coin Block #16"
                     },
                     {
                         "name": "Coin Block #17",
-                        "ref": "Blocks/FI3/Coin Block #17"
+                        "ref": "Coin Blocks/FI3/Coin Block #17"
                     },
                     {
                         "name": "Coin Block #18",
-                        "ref": "Blocks/FI3/Coin Block #18"
+                        "ref": "Coin Blocks/FI3/Coin Block #18"
                     },
                     {
                         "name": "Coin Block #19",
-                        "ref": "Blocks/FI3/Coin Block #19"
+                        "ref": "Coin Blocks/FI3/Coin Block #19"
                     },
                     {
                         "name": "Coin Block #20",
-                        "ref": "Blocks/FI3/Coin Block #20"
+                        "ref": "Coin Blocks/FI3/Coin Block #20"
                     },
                     {
                         "name": "Coin Block #21",
-                        "ref": "Blocks/FI3/Coin Block #21"
+                        "ref": "Coin Blocks/FI3/Coin Block #21"
                     },
                     {
                         "name": "Coin Block #22",
-                        "ref": "Blocks/FI3/Coin Block #22"
+                        "ref": "Coin Blocks/FI3/Coin Block #22"
                     },
                     {
                         "name": "Coin Block #23",
-                        "ref": "Blocks/FI3/Coin Block #23"
+                        "ref": "Coin Blocks/FI3/Coin Block #23"
                     },
                     {
                         "name": "Coin Block #24",
-                        "ref": "Blocks/FI3/Coin Block #24"
+                        "ref": "Coin Blocks/FI3/Coin Block #24"
                     }
                 ],
                 "map_locations": [
@@ -3344,55 +3344,55 @@
                     },
                     {
                         "name": "Multi Coin Block #1",
-                        "ref": "Blocks/FI4/Multi Coin Block #1"
+                        "ref": "Coin Blocks/FI4/Multi Coin Block #1"
                     },
                     {
                         "name": "Coin Block #1",
-                        "ref": "Blocks/FI4/Coin Block #1"
+                        "ref": "Coin Blocks/FI4/Coin Block #1"
                     },
                     {
                         "name": "Coin Block #2",
-                        "ref": "Blocks/FI4/Coin Block #2"
+                        "ref": "Coin Blocks/FI4/Coin Block #2"
                     },
                     {
                         "name": "Coin Block #3",
-                        "ref": "Blocks/FI4/Coin Block #3"
+                        "ref": "Coin Blocks/FI4/Coin Block #3"
                     },
                     {
                         "name": "Coin Block #4",
-                        "ref": "Blocks/FI4/Coin Block #4"
+                        "ref": "Coin Blocks/FI4/Coin Block #4"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/FI4/Powerup Block #1"
+                        "ref": "Item Blocks/FI4/Powerup Block #1"
                     },
                     {
                         "name": "Coin Block #5",
-                        "ref": "Blocks/FI4/Coin Block #5"
+                        "ref": "Coin Blocks/FI4/Coin Block #5"
                     },
                     {
                         "name": "Coin Block #6",
-                        "ref": "Blocks/FI4/Coin Block #6"
+                        "ref": "Coin Blocks/FI4/Coin Block #6"
                     },
                     {
                         "name": "Coin Block #7",
-                        "ref": "Blocks/FI4/Coin Block #7"
+                        "ref": "Coin Blocks/FI4/Coin Block #7"
                     },
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Blocks/FI4/Powerup Block #2"
+                        "ref": "Item Blocks/FI4/Powerup Block #2"
                     },
                     {
                         "name": "Coin Block #8",
-                        "ref": "Blocks/FI4/Coin Block #8"
+                        "ref": "Coin Blocks/FI4/Coin Block #8"
                     },
                     {
                         "name": "Coin Block #9",
-                        "ref": "Blocks/FI4/Coin Block #9"
+                        "ref": "Coin Blocks/FI4/Coin Block #9"
                     },
                     {
                         "name": "Coin Block #10",
-                        "ref": "Blocks/FI4/Coin Block #10"
+                        "ref": "Coin Blocks/FI4/Coin Block #10"
                     }
                 ],
                 "map_locations": [
@@ -3461,23 +3461,23 @@
                     },
                     {
                         "name": "Coin Block #1",
-                        "ref": "Blocks/FGH/Coin Block #1"
+                        "ref": "Coin Blocks/FGH/Coin Block #1"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/FGH/Powerup Block #1"
+                        "ref": "Item Blocks/FGH/Powerup Block #1"
                     },
                     {
                         "name": "Flying Question Block #1",
-                        "ref": "Blocks/FGH/Flying Question Block #1"
+                        "ref": "Flying Blocks/FGH/Flying Question Block #1"
                     },
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Blocks/FGH/Powerup Block #2"
+                        "ref": "Item Blocks/FGH/Powerup Block #2"
                     },
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "ref": "Blocks/FGH/1-Up Mushroom Block #1"
+                        "ref": "Item Blocks/FGH/1-Up Mushroom Block #1"
                     }
                 ],
                 "map_locations": [
@@ -3526,15 +3526,15 @@
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/FSA/Powerup Block #1"
+                        "ref": "Item Blocks/FSA/Powerup Block #1"
                     },
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Blocks/FSA/Powerup Block #2"
+                        "ref": "Item Blocks/FSA/Powerup Block #2"
                     },
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "ref": "Blocks/FSA/1-Up Mushroom Block #1"
+                        "ref": "Item Blocks/FSA/1-Up Mushroom Block #1"
                     }
                 ],
                 "map_locations": [
@@ -3563,47 +3563,47 @@
                     },
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Blocks/FIF/Yellow Switch Palace Block #1"
+                        "ref": "Yellow Switch Blocks/FIF/Yellow Switch Palace Block #1"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/FIF/Powerup Block #1"
+                        "ref": "Item Blocks/FIF/Powerup Block #1"
                     },
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "ref": "Blocks/FIF/1-Up Mushroom Block #1"
+                        "ref": "Item Blocks/FIF/1-Up Mushroom Block #1"
                     },
                     {
                         "name": "1-Up Mushroom Block #2",
-                        "ref": "Blocks/FIF/1-Up Mushroom Block #2"
+                        "ref": "Item Blocks/FIF/1-Up Mushroom Block #2"
                     },
                     {
                         "name": "1-Up Mushroom Block #3",
-                        "ref": "Blocks/FIF/1-Up Mushroom Block #3"
+                        "ref": "Item Blocks/FIF/1-Up Mushroom Block #3"
                     },
                     {
                         "name": "1-Up Mushroom Block #4",
-                        "ref": "Blocks/FIF/1-Up Mushroom Block #4"
+                        "ref": "Item Blocks/FIF/1-Up Mushroom Block #4"
                     },
                     {
                         "name": "1-Up Mushroom Block #5",
-                        "ref": "Blocks/FIF/1-Up Mushroom Block #5"
+                        "ref": "Item Blocks/FIF/1-Up Mushroom Block #5"
                     },
                     {
                         "name": "1-Up Mushroom Block #6",
-                        "ref": "Blocks/FIF/1-Up Mushroom Block #6"
+                        "ref": "Item Blocks/FIF/1-Up Mushroom Block #6"
                     },
                     {
                         "name": "1-Up Mushroom Block #7",
-                        "ref": "Blocks/FIF/1-Up Mushroom Block #7"
+                        "ref": "Item Blocks/FIF/1-Up Mushroom Block #7"
                     },
                     {
                         "name": "1-Up Mushroom Block #8",
-                        "ref": "Blocks/FIF/1-Up Mushroom Block #8"
+                        "ref": "Item Blocks/FIF/1-Up Mushroom Block #8"
                     },
                     {
                         "name": "1-Up Mushroom Block #9",
-                        "ref": "Blocks/FIF/1-Up Mushroom Block #9"
+                        "ref": "Item Blocks/FIF/1-Up Mushroom Block #9"
                     }
                 ],
                 "map_locations": [
@@ -3652,7 +3652,7 @@
                     },
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Blocks/FIC/Green Switch Palace Block #1"
+                        "ref": "Green Switch Blocks/FIC/Green Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -3742,23 +3742,23 @@
                     },
                     {
                         "name": "Flying Question Block #1",
-                        "ref": "Blocks/CI1/Flying Question Block #1"
+                        "ref": "Flying Blocks/CI1/Flying Question Block #1"
                     },
                     {
                         "name": "Flying Question Block #2",
-                        "ref": "Blocks/CI1/Flying Question Block #2"
+                        "ref": "Flying Blocks/CI1/Flying Question Block #2"
                     },
                     {
                         "name": "Yoshi Block #1",
-                        "ref": "Blocks/CI1/Yoshi Block #1"
+                        "ref": "Item Blocks/CI1/Yoshi Block #1"
                     },
                     {
                         "name": "Green|Yellow Switch Palace Block #1",
-                        "ref": "Blocks/CI1/Green|Yellow Switch Palace Block #1"
+                        "ref": "Green Switch Blocks/CI1/Green|Yellow Switch Palace Block #1"
                     },
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "ref": "Blocks/CI1/1-Up Mushroom Block #1"
+                        "ref": "Item Blocks/CI1/1-Up Mushroom Block #1"
                     }
                 ],
                 "map_locations": [
@@ -3835,67 +3835,67 @@
                     },
                     {
                         "name": "Multi Coin Block #1",
-                        "ref": "Blocks/CI2/Multi Coin Block #1"
+                        "ref": "Coin Blocks/CI2/Multi Coin Block #1"
                     },
                     {
                         "name": "Invisible Coin Block #1",
-                        "ref": "Blocks/CI2/Invisible Coin Block #1"
+                        "ref": "Invisible Blocks/CI2/Invisible Coin Block #1"
                     },
                     {
                         "name": "Yoshi Block #1",
-                        "ref": "Blocks/CI2/Yoshi Block #1"
+                        "ref": "Item Blocks/CI2/Yoshi Block #1"
                     },
                     {
                         "name": "Coin Block #1",
-                        "ref": "Blocks/CI2/Coin Block #1"
+                        "ref": "Coin Blocks/CI2/Coin Block #1"
                     },
                     {
                         "name": "Coin Block #2",
-                        "ref": "Blocks/CI2/Coin Block #2"
+                        "ref": "Coin Blocks/CI2/Coin Block #2"
                     },
                     {
                         "name": "Multi Coin Block #2",
-                        "ref": "Blocks/CI2/Multi Coin Block #2"
+                        "ref": "Coin Blocks/CI2/Multi Coin Block #2"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/CI2/Powerup Block #1"
+                        "ref": "Item Blocks/CI2/Powerup Block #1"
                     },
                     {
                         "name": "Blue P-Switch Block #1",
-                        "ref": "Blocks/CI2/Blue P-Switch Block #1"
+                        "ref": "Item Blocks/CI2/Blue P-Switch Block #1"
                     },
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Blocks/CI2/Yellow Switch Palace Block #1"
+                        "ref": "Yellow Switch Blocks/CI2/Yellow Switch Palace Block #1"
                     },
                     {
                         "name": "Yellow Switch Palace Block #2",
-                        "ref": "Blocks/CI2/Yellow Switch Palace Block #2"
+                        "ref": "Yellow Switch Blocks/CI2/Yellow Switch Palace Block #2"
                     },
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Blocks/CI2/Green Switch Palace Block #1"
+                        "ref": "Green Switch Blocks/CI2/Green Switch Palace Block #1"
                     },
                     {
                         "name": "Green Switch Palace Block #2",
-                        "ref": "Blocks/CI2/Green Switch Palace Block #2"
+                        "ref": "Green Switch Blocks/CI2/Green Switch Palace Block #2"
                     },
                     {
                         "name": "Green Switch Palace Block #3",
-                        "ref": "Blocks/CI2/Green Switch Palace Block #3"
+                        "ref": "Green Switch Blocks/CI2/Green Switch Palace Block #3"
                     },
                     {
                         "name": "Green Switch Palace Block #4",
-                        "ref": "Blocks/CI2/Green Switch Palace Block #4"
+                        "ref": "Green Switch Blocks/CI2/Green Switch Palace Block #4"
                     },
                     {
                         "name": "Green Switch Palace Block #5",
-                        "ref": "Blocks/CI2/Green Switch Palace Block #5"
+                        "ref": "Green Switch Blocks/CI2/Green Switch Palace Block #5"
                     },
                     {
                         "name": "Green Switch Palace Block #6",
-                        "ref": "Blocks/CI2/Green Switch Palace Block #6"
+                        "ref": "Green Switch Blocks/CI2/Green Switch Palace Block #6"
                     }
                 ],
                 "map_locations": [
@@ -3960,35 +3960,35 @@
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/CI3/Powerup Block #1"
+                        "ref": "Item Blocks/CI3/Powerup Block #1"
                     },
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Blocks/CI3/Powerup Block #2"
+                        "ref": "Item Blocks/CI3/Powerup Block #2"
                     },
                     {
                         "name": "Powerup Block #3",
-                        "ref": "Blocks/CI3/Powerup Block #3"
+                        "ref": "Item Blocks/CI3/Powerup Block #3"
                     },
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Blocks/CI3/Green Switch Palace Block #1"
+                        "ref": "Green Switch Blocks/CI3/Green Switch Palace Block #1"
                     },
                     {
                         "name": "Vine Block #1",
-                        "ref": "Blocks/CI3/Vine Block #1"
+                        "ref": "Item Blocks/CI3/Vine Block #1"
                     },
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "ref": "Blocks/CI3/1-Up Mushroom Block #1"
+                        "ref": "Item Blocks/CI3/1-Up Mushroom Block #1"
                     },
                     {
                         "name": "1-Up Mushroom Block #2",
-                        "ref": "Blocks/CI3/1-Up Mushroom Block #2"
+                        "ref": "Item Blocks/CI3/1-Up Mushroom Block #2"
                     },
                     {
                         "name": "1-Up Mushroom Block #3",
-                        "ref": "Blocks/CI3/1-Up Mushroom Block #3"
+                        "ref": "Item Blocks/CI3/1-Up Mushroom Block #3"
                     }
                 ],
                 "map_locations": [
@@ -4041,15 +4041,15 @@
                     },
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Blocks/CI4/Yellow Switch Palace Block #1"
+                        "ref": "Yellow Switch Blocks/CI4/Yellow Switch Palace Block #1"
                     },
                     {
                         "name": "Blue P-Switch Block #1",
-                        "ref": "Blocks/CI4/Blue P-Switch Block #1"
+                        "ref": "Item Blocks/CI4/Blue P-Switch Block #1"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/CI4/Powerup Block #1"
+                        "ref": "Item Blocks/CI4/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -4118,19 +4118,19 @@
                     },
                     {
                         "name": "Yoshi Block #1",
-                        "ref": "Blocks/CI5/Yoshi Block #1"
+                        "ref": "Item Blocks/CI5/Yoshi Block #1"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/CI5/Powerup Block #1"
+                        "ref": "Item Blocks/CI5/Powerup Block #1"
                     },
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "ref": "Blocks/CI5/1-Up Mushroom Block #1"
+                        "ref": "Item Blocks/CI5/1-Up Mushroom Block #1"
                     },
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Blocks/CI5/Yellow Switch Palace Block #1"
+                        "ref": "Yellow Switch Blocks/CI5/Yellow Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -4163,15 +4163,15 @@
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/CGH/Powerup Block #1"
+                        "ref": "Item Blocks/CGH/Powerup Block #1"
                     },
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Blocks/CGH/Powerup Block #2"
+                        "ref": "Item Blocks/CGH/Powerup Block #2"
                     },
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "ref": "Blocks/CGH/1-Up Mushroom Block #1"
+                        "ref": "Item Blocks/CGH/1-Up Mushroom Block #1"
                     }
                 ],
                 "map_locations": [
@@ -4216,11 +4216,11 @@
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/CSA/Powerup Block #1"
+                        "ref": "Item Blocks/CSA/Powerup Block #1"
                     },
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Blocks/CSA/Powerup Block #2"
+                        "ref": "Item Blocks/CSA/Powerup Block #2"
                     }
                 ],
                 "map_locations": [
@@ -4253,23 +4253,23 @@
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/CIF/Powerup Block #1"
+                        "ref": "Item Blocks/CIF/Powerup Block #1"
                     },
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Blocks/CIF/Powerup Block #2"
+                        "ref": "Item Blocks/CIF/Powerup Block #2"
                     },
                     {
                         "name": "Coin Block #1",
-                        "ref": "Blocks/CIF/Coin Block #1"
+                        "ref": "Coin Blocks/CIF/Coin Block #1"
                     },
                     {
                         "name": "Coin Block #2",
-                        "ref": "Blocks/CIF/Coin Block #2"
+                        "ref": "Coin Blocks/CIF/Coin Block #2"
                     },
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Blocks/CIF/Green Switch Palace Block #1"
+                        "ref": "Green Switch Blocks/CIF/Green Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -4306,15 +4306,15 @@
                     },
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Blocks/CIC/Yellow Switch Palace Block #1"
+                        "ref": "Yellow Switch Blocks/CIC/Yellow Switch Palace Block #1"
                     },
                     {
                         "name": "Yellow Switch Palace Block #2",
-                        "ref": "Blocks/CIC/Yellow Switch Palace Block #2"
+                        "ref": "Yellow Switch Blocks/CIC/Yellow Switch Palace Block #2"
                     },
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Blocks/CIC/Green Switch Palace Block #1"
+                        "ref": "Green Switch Blocks/CIC/Green Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -4371,11 +4371,11 @@
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/SGS/Powerup Block #1"
+                        "ref": "Item Blocks/SGS/Powerup Block #1"
                     },
                     {
                         "name": "Star Block #1",
-                        "ref": "Blocks/SGS/Star Block #1"
+                        "ref": "Item Blocks/SGS/Star Block #1"
                     }
                 ],
                 "map_locations": [
@@ -4440,39 +4440,39 @@
                     },
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Blocks/VB1/Green Switch Palace Block #1"
+                        "ref": "Green Switch Blocks/VB1/Green Switch Palace Block #1"
                     },
                     {
                         "name": "Invisible Coin Block #1",
-                        "ref": "Blocks/VB1/Invisible Coin Block #1"
+                        "ref": "Invisible Blocks/VB1/Invisible Coin Block #1"
                     },
                     {
                         "name": "Invisible Coin Block #2",
-                        "ref": "Blocks/VB1/Invisible Coin Block #2"
+                        "ref": "Invisible Blocks/VB1/Invisible Coin Block #2"
                     },
                     {
                         "name": "Invisible Coin Block #3",
-                        "ref": "Blocks/VB1/Invisible Coin Block #3"
+                        "ref": "Invisible Blocks/VB1/Invisible Coin Block #3"
                     },
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Blocks/VB1/Yellow Switch Palace Block #1"
+                        "ref": "Yellow Switch Blocks/VB1/Yellow Switch Palace Block #1"
                     },
                     {
                         "name": "Yellow Switch Palace Block #2",
-                        "ref": "Blocks/VB1/Yellow Switch Palace Block #2"
+                        "ref": "Yellow Switch Blocks/VB1/Yellow Switch Palace Block #2"
                     },
                     {
                         "name": "Yellow Switch Palace Block #3",
-                        "ref": "Blocks/VB1/Yellow Switch Palace Block #3"
+                        "ref": "Yellow Switch Blocks/VB1/Yellow Switch Palace Block #3"
                     },
                     {
                         "name": "Yellow Switch Palace Block #4",
-                        "ref": "Blocks/VB1/Yellow Switch Palace Block #4"
+                        "ref": "Yellow Switch Blocks/VB1/Yellow Switch Palace Block #4"
                     },
                     {
                         "name": "Vine Block #1",
-                        "ref": "Blocks/VB1/Vine Block #1"
+                        "ref": "Item Blocks/VB1/Vine Block #1"
                     }
                 ],
                 "map_locations": [
@@ -4549,19 +4549,19 @@
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/VB2/Powerup Block #1"
+                        "ref": "Item Blocks/VB2/Powerup Block #1"
                     },
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Blocks/VB2/Yellow Switch Palace Block #1"
+                        "ref": "Yellow Switch Blocks/VB2/Yellow Switch Palace Block #1"
                     },
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Blocks/VB2/Powerup Block #2"
+                        "ref": "Item Blocks/VB2/Powerup Block #2"
                     },
                     {
                         "name": "Wings Block #1",
-                        "ref": "Blocks/VB2/Wings Block #1"
+                        "ref": "Item Blocks/VB2/Wings Block #1"
                     }
                 ],
                 "map_locations": [
@@ -4618,11 +4618,11 @@
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/VB3/Powerup Block #1"
+                        "ref": "Item Blocks/VB3/Powerup Block #1"
                     },
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Blocks/VB3/Powerup Block #2"
+                        "ref": "Item Blocks/VB3/Powerup Block #2"
                     }
                 ],
                 "map_locations": [
@@ -4659,27 +4659,27 @@
                     },
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Blocks/VB4/Yellow Switch Palace Block #1"
+                        "ref": "Yellow Switch Blocks/VB4/Yellow Switch Palace Block #1"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/VB4/Powerup Block #1"
+                        "ref": "Item Blocks/VB4/Powerup Block #1"
                     },
                     {
                         "name": "Vine Block #1",
-                        "ref": "Blocks/VB4/Vine Block #1"
+                        "ref": "Item Blocks/VB4/Vine Block #1"
                     },
                     {
                         "name": "Yoshi Block #1",
-                        "ref": "Blocks/VB4/Yoshi Block #1"
+                        "ref": "Item Blocks/VB4/Yoshi Block #1"
                     },
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "ref": "Blocks/VB4/1-Up Mushroom Block #1"
+                        "ref": "Item Blocks/VB4/1-Up Mushroom Block #1"
                     },
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Blocks/VB4/Powerup Block #2"
+                        "ref": "Item Blocks/VB4/Powerup Block #2"
                     }
                 ],
                 "map_locations": [
@@ -4748,19 +4748,19 @@
                     },
                     {
                         "name": "P-Switch Coin Block #1",
-                        "ref": "Blocks/VBH/P-Switch Coin Block #1"
+                        "ref": "P-Switch Blocks/VBH/P-Switch Coin Block #1"
                     },
                     {
                         "name": "Multi Coin Block #1",
-                        "ref": "Blocks/VBH/Multi Coin Block #1"
+                        "ref": "Coin Blocks/VBH/Multi Coin Block #1"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/VBH/Powerup Block #1"
+                        "ref": "Item Blocks/VBH/Powerup Block #1"
                     },
                     {
                         "name": "Directional Coin Block #1",
-                        "ref": "Blocks/VBH/Directional Coin Block #1"
+                        "ref": "Item Blocks/VBH/Directional Coin Block #1"
                     }
                 ],
                 "map_locations": [
@@ -4785,11 +4785,11 @@
                     },
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Blocks/VBF/Green Switch Palace Block #1"
+                        "ref": "Green Switch Blocks/VBF/Green Switch Palace Block #1"
                     },
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Blocks/VBF/Yellow Switch Palace Block #1"
+                        "ref": "Yellow Switch Blocks/VBF/Yellow Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -4850,15 +4850,15 @@
                     },
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Blocks/VBC/Yellow Switch Palace Block #1"
+                        "ref": "Yellow Switch Blocks/VBC/Yellow Switch Palace Block #1"
                     },
                     {
                         "name": "Yellow Switch Palace Block #2",
-                        "ref": "Blocks/VBC/Yellow Switch Palace Block #2"
+                        "ref": "Yellow Switch Blocks/VBC/Yellow Switch Palace Block #2"
                     },
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Blocks/VBC/Green Switch Palace Block #1"
+                        "ref": "Green Switch Blocks/VBC/Green Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -4944,7 +4944,7 @@
                     },
                     {
                         "name": "Star Block #1",
-                        "ref": "Blocks/SR2/Star Block #1"
+                        "ref": "Item Blocks/SR2/Star Block #1"
                     }
                 ],
                 "map_locations": [
@@ -4973,7 +4973,7 @@
                     },
                     {
                         "name": "Key Block #1",
-                        "ref": "Blocks/SR3/Key Block #1"
+                        "ref": "Item Blocks/SR3/Key Block #1"
                     }
                 ],
                 "map_locations": [
@@ -5002,39 +5002,39 @@
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/SR4/Powerup Block #1"
+                        "ref": "Item Blocks/SR4/Powerup Block #1"
                     },
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Blocks/SR4/Green Switch Palace Block #1"
+                        "ref": "Green Switch Blocks/SR4/Green Switch Palace Block #1"
                     },
                     {
                         "name": "Green Switch Palace Block #2",
-                        "ref": "Blocks/SR4/Green Switch Palace Block #2"
+                        "ref": "Green Switch Blocks/SR4/Green Switch Palace Block #2"
                     },
                     {
                         "name": "Green Switch Palace Block #3",
-                        "ref": "Blocks/SR4/Green Switch Palace Block #3"
+                        "ref": "Green Switch Blocks/SR4/Green Switch Palace Block #3"
                     },
                     {
                         "name": "Green Switch Palace Block #4",
-                        "ref": "Blocks/SR4/Green Switch Palace Block #4"
+                        "ref": "Green Switch Blocks/SR4/Green Switch Palace Block #4"
                     },
                     {
                         "name": "Green Switch Palace Block #5",
-                        "ref": "Blocks/SR4/Green Switch Palace Block #5"
+                        "ref": "Green Switch Blocks/SR4/Green Switch Palace Block #5"
                     },
                     {
                         "name": "Green Switch Palace Block #6",
-                        "ref": "Blocks/SR4/Green Switch Palace Block #6"
+                        "ref": "Green Switch Blocks/SR4/Green Switch Palace Block #6"
                     },
                     {
                         "name": "Green Switch Palace Block #7",
-                        "ref": "Blocks/SR4/Green Switch Palace Block #7"
+                        "ref": "Green Switch Blocks/SR4/Green Switch Palace Block #7"
                     },
                     {
                         "name": "Key Block #1",
-                        "ref": "Blocks/SR4/Key Block #1"
+                        "ref": "Item Blocks/SR4/Key Block #1"
                     }
                 ],
                 "map_locations": [
@@ -5063,175 +5063,175 @@
                     },
                     {
                         "name": "Directional Coin Block #1",
-                        "ref": "Blocks/SR5/Directional Coin Block #1"
+                        "ref": "Item Blocks/SR5/Directional Coin Block #1"
                     },
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "ref": "Blocks/SR5/1-Up Mushroom Block #1"
+                        "ref": "Item Blocks/SR5/1-Up Mushroom Block #1"
                     },
                     {
                         "name": "Vine Block #1",
-                        "ref": "Blocks/SR5/Vine Block #1"
+                        "ref": "Item Blocks/SR5/Vine Block #1"
                     },
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Blocks/SR5/Yellow Switch Palace Block #1"
+                        "ref": "Yellow Switch Blocks/SR5/Yellow Switch Palace Block #1"
                     },
                     {
                         "name": "Yellow Switch Palace Block #2",
-                        "ref": "Blocks/SR5/Yellow Switch Palace Block #2"
+                        "ref": "Yellow Switch Blocks/SR5/Yellow Switch Palace Block #2"
                     },
                     {
                         "name": "Yellow Switch Palace Block #3",
-                        "ref": "Blocks/SR5/Yellow Switch Palace Block #3"
+                        "ref": "Yellow Switch Blocks/SR5/Yellow Switch Palace Block #3"
                     },
                     {
                         "name": "Yellow Switch Palace Block #4",
-                        "ref": "Blocks/SR5/Yellow Switch Palace Block #4"
+                        "ref": "Yellow Switch Blocks/SR5/Yellow Switch Palace Block #4"
                     },
                     {
                         "name": "Yellow Switch Palace Block #5",
-                        "ref": "Blocks/SR5/Yellow Switch Palace Block #5"
+                        "ref": "Yellow Switch Blocks/SR5/Yellow Switch Palace Block #5"
                     },
                     {
                         "name": "Yellow Switch Palace Block #6",
-                        "ref": "Blocks/SR5/Yellow Switch Palace Block #6"
+                        "ref": "Yellow Switch Blocks/SR5/Yellow Switch Palace Block #6"
                     },
                     {
                         "name": "Yellow Switch Palace Block #7",
-                        "ref": "Blocks/SR5/Yellow Switch Palace Block #7"
+                        "ref": "Yellow Switch Blocks/SR5/Yellow Switch Palace Block #7"
                     },
                     {
                         "name": "Yellow Switch Palace Block #8",
-                        "ref": "Blocks/SR5/Yellow Switch Palace Block #8"
+                        "ref": "Yellow Switch Blocks/SR5/Yellow Switch Palace Block #8"
                     },
                     {
                         "name": "Yellow Switch Palace Block #9",
-                        "ref": "Blocks/SR5/Yellow Switch Palace Block #9"
+                        "ref": "Yellow Switch Blocks/SR5/Yellow Switch Palace Block #9"
                     },
                     {
                         "name": "Yellow Switch Palace Block #10",
-                        "ref": "Blocks/SR5/Yellow Switch Palace Block #10"
+                        "ref": "Yellow Switch Blocks/SR5/Yellow Switch Palace Block #10"
                     },
                     {
                         "name": "Yellow Switch Palace Block #11",
-                        "ref": "Blocks/SR5/Yellow Switch Palace Block #11"
+                        "ref": "Yellow Switch Blocks/SR5/Yellow Switch Palace Block #11"
                     },
                     {
                         "name": "Yellow Switch Palace Block #12",
-                        "ref": "Blocks/SR5/Yellow Switch Palace Block #12"
+                        "ref": "Yellow Switch Blocks/SR5/Yellow Switch Palace Block #12"
                     },
                     {
                         "name": "Yellow Switch Palace Block #13",
-                        "ref": "Blocks/SR5/Yellow Switch Palace Block #13"
+                        "ref": "Yellow Switch Blocks/SR5/Yellow Switch Palace Block #13"
                     },
                     {
                         "name": "Yellow Switch Palace Block #14",
-                        "ref": "Blocks/SR5/Yellow Switch Palace Block #14"
+                        "ref": "Yellow Switch Blocks/SR5/Yellow Switch Palace Block #14"
                     },
                     {
                         "name": "Yellow Switch Palace Block #15",
-                        "ref": "Blocks/SR5/Yellow Switch Palace Block #15"
+                        "ref": "Yellow Switch Blocks/SR5/Yellow Switch Palace Block #15"
                     },
                     {
                         "name": "Yellow Switch Palace Block #16",
-                        "ref": "Blocks/SR5/Yellow Switch Palace Block #16"
+                        "ref": "Yellow Switch Blocks/SR5/Yellow Switch Palace Block #16"
                     },
                     {
                         "name": "Yellow Switch Palace Block #17",
-                        "ref": "Blocks/SR5/Yellow Switch Palace Block #17"
+                        "ref": "Yellow Switch Blocks/SR5/Yellow Switch Palace Block #17"
                     },
                     {
                         "name": "Yellow Switch Palace Block #18",
-                        "ref": "Blocks/SR5/Yellow Switch Palace Block #18"
+                        "ref": "Yellow Switch Blocks/SR5/Yellow Switch Palace Block #18"
                     },
                     {
                         "name": "Yellow Switch Palace Block #19",
-                        "ref": "Blocks/SR5/Yellow Switch Palace Block #19"
+                        "ref": "Yellow Switch Blocks/SR5/Yellow Switch Palace Block #19"
                     },
                     {
                         "name": "Yellow Switch Palace Block #20",
-                        "ref": "Blocks/SR5/Yellow Switch Palace Block #20"
+                        "ref": "Yellow Switch Blocks/SR5/Yellow Switch Palace Block #20"
                     },
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Blocks/SR5/Green Switch Palace Block #1"
+                        "ref": "Green Switch Blocks/SR5/Green Switch Palace Block #1"
                     },
                     {
                         "name": "Green Switch Palace Block #2",
-                        "ref": "Blocks/SR5/Green Switch Palace Block #2"
+                        "ref": "Green Switch Blocks/SR5/Green Switch Palace Block #2"
                     },
                     {
                         "name": "Green Switch Palace Block #3",
-                        "ref": "Blocks/SR5/Green Switch Palace Block #3"
+                        "ref": "Green Switch Blocks/SR5/Green Switch Palace Block #3"
                     },
                     {
                         "name": "Green Switch Palace Block #4",
-                        "ref": "Blocks/SR5/Green Switch Palace Block #4"
+                        "ref": "Green Switch Blocks/SR5/Green Switch Palace Block #4"
                     },
                     {
                         "name": "Green Switch Palace Block #5",
-                        "ref": "Blocks/SR5/Green Switch Palace Block #5"
+                        "ref": "Green Switch Blocks/SR5/Green Switch Palace Block #5"
                     },
                     {
                         "name": "Green Switch Palace Block #6",
-                        "ref": "Blocks/SR5/Green Switch Palace Block #6"
+                        "ref": "Green Switch Blocks/SR5/Green Switch Palace Block #6"
                     },
                     {
                         "name": "Green Switch Palace Block #7",
-                        "ref": "Blocks/SR5/Green Switch Palace Block #7"
+                        "ref": "Green Switch Blocks/SR5/Green Switch Palace Block #7"
                     },
                     {
                         "name": "Green Switch Palace Block #8",
-                        "ref": "Blocks/SR5/Green Switch Palace Block #8"
+                        "ref": "Green Switch Blocks/SR5/Green Switch Palace Block #8"
                     },
                     {
                         "name": "Green Switch Palace Block #9",
-                        "ref": "Blocks/SR5/Green Switch Palace Block #9"
+                        "ref": "Green Switch Blocks/SR5/Green Switch Palace Block #9"
                     },
                     {
                         "name": "Green Switch Palace Block #10",
-                        "ref": "Blocks/SR5/Green Switch Palace Block #10"
+                        "ref": "Green Switch Blocks/SR5/Green Switch Palace Block #10"
                     },
                     {
                         "name": "Green Switch Palace Block #11",
-                        "ref": "Blocks/SR5/Green Switch Palace Block #11"
+                        "ref": "Green Switch Blocks/SR5/Green Switch Palace Block #11"
                     },
                     {
                         "name": "Green Switch Palace Block #12",
-                        "ref": "Blocks/SR5/Green Switch Palace Block #12"
+                        "ref": "Green Switch Blocks/SR5/Green Switch Palace Block #12"
                     },
                     {
                         "name": "Green Switch Palace Block #13",
-                        "ref": "Blocks/SR5/Green Switch Palace Block #13"
+                        "ref": "Green Switch Blocks/SR5/Green Switch Palace Block #13"
                     },
                     {
                         "name": "Green Switch Palace Block #14",
-                        "ref": "Blocks/SR5/Green Switch Palace Block #14"
+                        "ref": "Green Switch Blocks/SR5/Green Switch Palace Block #14"
                     },
                     {
                         "name": "Green Switch Palace Block #15",
-                        "ref": "Blocks/SR5/Green Switch Palace Block #15"
+                        "ref": "Green Switch Blocks/SR5/Green Switch Palace Block #15"
                     },
                     {
                         "name": "Green Switch Palace Block #16",
-                        "ref": "Blocks/SR5/Green Switch Palace Block #16"
+                        "ref": "Green Switch Blocks/SR5/Green Switch Palace Block #16"
                     },
                     {
                         "name": "Green Switch Palace Block #17",
-                        "ref": "Blocks/SR5/Green Switch Palace Block #17"
+                        "ref": "Green Switch Blocks/SR5/Green Switch Palace Block #17"
                     },
                     {
                         "name": "Green Switch Palace Block #18",
-                        "ref": "Blocks/SR5/Green Switch Palace Block #18"
+                        "ref": "Green Switch Blocks/SR5/Green Switch Palace Block #18"
                     },
                     {
                         "name": "Green Switch Palace Block #19",
-                        "ref": "Blocks/SR5/Green Switch Palace Block #19"
+                        "ref": "Green Switch Blocks/SR5/Green Switch Palace Block #19"
                     },
                     {
                         "name": "Green Switch Palace Block #20",
-                        "ref": "Blocks/SR5/Green Switch Palace Block #20"
+                        "ref": "Green Switch Blocks/SR5/Green Switch Palace Block #20"
                     }
                 ],
                 "map_locations": [
@@ -5300,91 +5300,91 @@
                     },
                     {
                         "name": "Vine Block #1",
-                        "ref": "Blocks/SZ1/Vine Block #1"
+                        "ref": "Item Blocks/SZ1/Vine Block #1"
                     },
                     {
                         "name": "Vine Block #2",
-                        "ref": "Blocks/SZ1/Vine Block #2"
+                        "ref": "Item Blocks/SZ1/Vine Block #2"
                     },
                     {
                         "name": "Vine Block #3",
-                        "ref": "Blocks/SZ1/Vine Block #3"
+                        "ref": "Item Blocks/SZ1/Vine Block #3"
                     },
                     {
                         "name": "Vine Block #4",
-                        "ref": "Blocks/SZ1/Vine Block #4"
+                        "ref": "Item Blocks/SZ1/Vine Block #4"
                     },
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "ref": "Blocks/SZ1/1-Up Mushroom Block #1"
+                        "ref": "Item Blocks/SZ1/1-Up Mushroom Block #1"
                     },
                     {
                         "name": "Vine Block #5",
-                        "ref": "Blocks/SZ1/Vine Block #5"
+                        "ref": "Item Blocks/SZ1/Vine Block #5"
                     },
                     {
                         "name": "Blue P-Switch Block #1",
-                        "ref": "Blocks/SZ1/Blue P-Switch Block #1"
+                        "ref": "Item Blocks/SZ1/Blue P-Switch Block #1"
                     },
                     {
                         "name": "Vine Block #6",
-                        "ref": "Blocks/SZ1/Vine Block #6"
+                        "ref": "Item Blocks/SZ1/Vine Block #6"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/SZ1/Powerup Block #1"
+                        "ref": "Item Blocks/SZ1/Powerup Block #1"
                     },
                     {
                         "name": "P-Switch Coin Block #1",
-                        "ref": "Blocks/SZ1/P-Switch Coin Block #1"
+                        "ref": "P-Switch Blocks/SZ1/P-Switch Coin Block #1"
                     },
                     {
                         "name": "P-Switch Coin Block #2",
-                        "ref": "Blocks/SZ1/P-Switch Coin Block #2"
+                        "ref": "P-Switch Blocks/SZ1/P-Switch Coin Block #2"
                     },
                     {
                         "name": "P-Switch Coin Block #3",
-                        "ref": "Blocks/SZ1/P-Switch Coin Block #3"
+                        "ref": "P-Switch Blocks/SZ1/P-Switch Coin Block #3"
                     },
                     {
                         "name": "P-Switch Coin Block #4",
-                        "ref": "Blocks/SZ1/P-Switch Coin Block #4"
+                        "ref": "P-Switch Blocks/SZ1/P-Switch Coin Block #4"
                     },
                     {
                         "name": "P-Switch Coin Block #5",
-                        "ref": "Blocks/SZ1/P-Switch Coin Block #5"
+                        "ref": "P-Switch Blocks/SZ1/P-Switch Coin Block #5"
                     },
                     {
                         "name": "P-Switch Coin Block #6",
-                        "ref": "Blocks/SZ1/P-Switch Coin Block #6"
+                        "ref": "P-Switch Blocks/SZ1/P-Switch Coin Block #6"
                     },
                     {
                         "name": "P-Switch Coin Block #7",
-                        "ref": "Blocks/SZ1/P-Switch Coin Block #7"
+                        "ref": "P-Switch Blocks/SZ1/P-Switch Coin Block #7"
                     },
                     {
                         "name": "P-Switch Coin Block #8",
-                        "ref": "Blocks/SZ1/P-Switch Coin Block #8"
+                        "ref": "P-Switch Blocks/SZ1/P-Switch Coin Block #8"
                     },
                     {
                         "name": "P-Switch Coin Block #9",
-                        "ref": "Blocks/SZ1/P-Switch Coin Block #9"
+                        "ref": "P-Switch Blocks/SZ1/P-Switch Coin Block #9"
                     },
                     {
                         "name": "P-Switch Coin Block #10",
-                        "ref": "Blocks/SZ1/P-Switch Coin Block #10"
+                        "ref": "P-Switch Blocks/SZ1/P-Switch Coin Block #10"
                     },
                     {
                         "name": "P-Switch Coin Block #11",
-                        "ref": "Blocks/SZ1/P-Switch Coin Block #11"
+                        "ref": "P-Switch Blocks/SZ1/P-Switch Coin Block #11"
                     },
                     {
                         "name": "P-Switch Coin Block #12",
-                        "ref": "Blocks/SZ1/P-Switch Coin Block #12"
+                        "ref": "P-Switch Blocks/SZ1/P-Switch Coin Block #12"
                     },
                     {
                         "name": "P-Switch Coin Block #13",
-                        "ref": "Blocks/SZ1/P-Switch Coin Block #13"
+                        "ref": "P-Switch Blocks/SZ1/P-Switch Coin Block #13"
                     }
                 ],
                 "map_locations": [
@@ -5433,43 +5433,43 @@
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/SZ2/Powerup Block #1"
+                        "ref": "Item Blocks/SZ2/Powerup Block #1"
                     },
                     {
                         "name": "Coin Block #1",
-                        "ref": "Blocks/SZ2/Coin Block #1"
+                        "ref": "Coin Blocks/SZ2/Coin Block #1"
                     },
                     {
                         "name": "Coin Block #2",
-                        "ref": "Blocks/SZ2/Coin Block #2"
+                        "ref": "Coin Blocks/SZ2/Coin Block #2"
                     },
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Blocks/SZ2/Powerup Block #2"
+                        "ref": "Item Blocks/SZ2/Powerup Block #2"
                     },
                     {
                         "name": "Coin Block #3",
-                        "ref": "Blocks/SZ2/Coin Block #3"
+                        "ref": "Coin Blocks/SZ2/Coin Block #3"
                     },
                     {
                         "name": "Coin Block #4",
-                        "ref": "Blocks/SZ2/Coin Block #4"
+                        "ref": "Coin Blocks/SZ2/Coin Block #4"
                     },
                     {
                         "name": "Powerup Block #3",
-                        "ref": "Blocks/SZ2/Powerup Block #3"
+                        "ref": "Item Blocks/SZ2/Powerup Block #3"
                     },
                     {
                         "name": "Multi Coin Block #1",
-                        "ref": "Blocks/SZ2/Multi Coin Block #1"
+                        "ref": "Coin Blocks/SZ2/Multi Coin Block #1"
                     },
                     {
                         "name": "Coin Block #5",
-                        "ref": "Blocks/SZ2/Coin Block #5"
+                        "ref": "Coin Blocks/SZ2/Coin Block #5"
                     },
                     {
                         "name": "Coin Block #6",
-                        "ref": "Blocks/SZ2/Coin Block #6"
+                        "ref": "Coin Blocks/SZ2/Coin Block #6"
                     }
                 ],
                 "map_locations": [
@@ -5538,15 +5538,15 @@
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/SZ3/Powerup Block #1"
+                        "ref": "Item Blocks/SZ3/Powerup Block #1"
                     },
                     {
                         "name": "Yoshi Block #1",
-                        "ref": "Blocks/SZ3/Yoshi Block #1"
+                        "ref": "Item Blocks/SZ3/Yoshi Block #1"
                     },
                     {
                         "name": "Wings Block #1",
-                        "ref": "Blocks/SZ3/Wings Block #1"
+                        "ref": "Item Blocks/SZ3/Wings Block #1"
                     }
                 ],
                 "map_locations": [
@@ -5595,11 +5595,11 @@
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/SZ4/Powerup Block #1"
+                        "ref": "Item Blocks/SZ4/Powerup Block #1"
                     },
                     {
                         "name": "Star Block #1",
-                        "ref": "Blocks/SZ4/Star Block #1"
+                        "ref": "Item Blocks/SZ4/Star Block #1"
                     }
                 ],
                 "map_locations": [
@@ -5648,7 +5648,7 @@
                     },
                     {
                         "name": "Yoshi Block #1",
-                        "ref": "Blocks/SZ5/Yoshi Block #1"
+                        "ref": "Item Blocks/SZ5/Yoshi Block #1"
                     }
                 ],
                 "map_locations": [
@@ -5705,155 +5705,155 @@
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/SZ6/Powerup Block #1"
+                        "ref": "Item Blocks/SZ6/Powerup Block #1"
                     },
                     {
                         "name": "Coin Block #1",
-                        "ref": "Blocks/SZ6/Coin Block #1"
+                        "ref": "Coin Blocks/SZ6/Coin Block #1"
                     },
                     {
                         "name": "Coin Block #2",
-                        "ref": "Blocks/SZ6/Coin Block #2"
+                        "ref": "Coin Blocks/SZ6/Coin Block #2"
                     },
                     {
                         "name": "Yoshi Block #1",
-                        "ref": "Blocks/SZ6/Yoshi Block #1"
+                        "ref": "Item Blocks/SZ6/Yoshi Block #1"
                     },
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "ref": "Blocks/SZ6/1-Up Mushroom Block #1"
+                        "ref": "Item Blocks/SZ6/1-Up Mushroom Block #1"
                     },
                     {
                         "name": "Multi Coin Block #1",
-                        "ref": "Blocks/SZ6/Multi Coin Block #1"
+                        "ref": "Coin Blocks/SZ6/Multi Coin Block #1"
                     },
                     {
                         "name": "Coin Block #3",
-                        "ref": "Blocks/SZ6/Coin Block #3"
+                        "ref": "Coin Blocks/SZ6/Coin Block #3"
                     },
                     {
                         "name": "Coin Block #4",
-                        "ref": "Blocks/SZ6/Coin Block #4"
+                        "ref": "Coin Blocks/SZ6/Coin Block #4"
                     },
                     {
                         "name": "Coin Block #5",
-                        "ref": "Blocks/SZ6/Coin Block #5"
+                        "ref": "Coin Blocks/SZ6/Coin Block #5"
                     },
                     {
                         "name": "Coin Block #6",
-                        "ref": "Blocks/SZ6/Coin Block #6"
+                        "ref": "Coin Blocks/SZ6/Coin Block #6"
                     },
                     {
                         "name": "Coin Block #7",
-                        "ref": "Blocks/SZ6/Coin Block #7"
+                        "ref": "Coin Blocks/SZ6/Coin Block #7"
                     },
                     {
                         "name": "Coin Block #8",
-                        "ref": "Blocks/SZ6/Coin Block #8"
+                        "ref": "Coin Blocks/SZ6/Coin Block #8"
                     },
                     {
                         "name": "Coin Block #9",
-                        "ref": "Blocks/SZ6/Coin Block #9"
+                        "ref": "Coin Blocks/SZ6/Coin Block #9"
                     },
                     {
                         "name": "Coin Block #10",
-                        "ref": "Blocks/SZ6/Coin Block #10"
+                        "ref": "Coin Blocks/SZ6/Coin Block #10"
                     },
                     {
                         "name": "Coin Block #11",
-                        "ref": "Blocks/SZ6/Coin Block #11"
+                        "ref": "Coin Blocks/SZ6/Coin Block #11"
                     },
                     {
                         "name": "Coin Block #12",
-                        "ref": "Blocks/SZ6/Coin Block #12"
+                        "ref": "Coin Blocks/SZ6/Coin Block #12"
                     },
                     {
                         "name": "Coin Block #13",
-                        "ref": "Blocks/SZ6/Coin Block #13"
+                        "ref": "Coin Blocks/SZ6/Coin Block #13"
                     },
                     {
                         "name": "Coin Block #14",
-                        "ref": "Blocks/SZ6/Coin Block #14"
+                        "ref": "Coin Blocks/SZ6/Coin Block #14"
                     },
                     {
                         "name": "Coin Block #15",
-                        "ref": "Blocks/SZ6/Coin Block #15"
+                        "ref": "Coin Blocks/SZ6/Coin Block #15"
                     },
                     {
                         "name": "Coin Block #16",
-                        "ref": "Blocks/SZ6/Coin Block #16"
+                        "ref": "Coin Blocks/SZ6/Coin Block #16"
                     },
                     {
                         "name": "Coin Block #17",
-                        "ref": "Blocks/SZ6/Coin Block #17"
+                        "ref": "Coin Blocks/SZ6/Coin Block #17"
                     },
                     {
                         "name": "Coin Block #18",
-                        "ref": "Blocks/SZ6/Coin Block #18"
+                        "ref": "Coin Blocks/SZ6/Coin Block #18"
                     },
                     {
                         "name": "Coin Block #19",
-                        "ref": "Blocks/SZ6/Coin Block #19"
+                        "ref": "Coin Blocks/SZ6/Coin Block #19"
                     },
                     {
                         "name": "Coin Block #20",
-                        "ref": "Blocks/SZ6/Coin Block #20"
+                        "ref": "Coin Blocks/SZ6/Coin Block #20"
                     },
                     {
                         "name": "Coin Block #21",
-                        "ref": "Blocks/SZ6/Coin Block #21"
+                        "ref": "Coin Blocks/SZ6/Coin Block #21"
                     },
                     {
                         "name": "Coin Block #22",
-                        "ref": "Blocks/SZ6/Coin Block #22"
+                        "ref": "Coin Blocks/SZ6/Coin Block #22"
                     },
                     {
                         "name": "Coin Block #23",
-                        "ref": "Blocks/SZ6/Coin Block #23"
+                        "ref": "Coin Blocks/SZ6/Coin Block #23"
                     },
                     {
                         "name": "Coin Block #24",
-                        "ref": "Blocks/SZ6/Coin Block #24"
+                        "ref": "Coin Blocks/SZ6/Coin Block #24"
                     },
                     {
                         "name": "Coin Block #25",
-                        "ref": "Blocks/SZ6/Coin Block #25"
+                        "ref": "Coin Blocks/SZ6/Coin Block #25"
                     },
                     {
                         "name": "Coin Block #26",
-                        "ref": "Blocks/SZ6/Coin Block #26"
+                        "ref": "Coin Blocks/SZ6/Coin Block #26"
                     },
                     {
                         "name": "Coin Block #27",
-                        "ref": "Blocks/SZ6/Coin Block #27"
+                        "ref": "Coin Blocks/SZ6/Coin Block #27"
                     },
                     {
                         "name": "Coin Block #28",
-                        "ref": "Blocks/SZ6/Coin Block #28"
+                        "ref": "Coin Blocks/SZ6/Coin Block #28"
                     },
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Blocks/SZ6/Powerup Block #2"
+                        "ref": "Item Blocks/SZ6/Powerup Block #2"
                     },
                     {
                         "name": "Coin Block #29",
-                        "ref": "Blocks/SZ6/Coin Block #29"
+                        "ref": "Coin Blocks/SZ6/Coin Block #29"
                     },
                     {
                         "name": "Coin Block #30",
-                        "ref": "Blocks/SZ6/Coin Block #30"
+                        "ref": "Coin Blocks/SZ6/Coin Block #30"
                     },
                     {
                         "name": "Coin Block #31",
-                        "ref": "Blocks/SZ6/Coin Block #31"
+                        "ref": "Coin Blocks/SZ6/Coin Block #31"
                     },
                     {
                         "name": "Coin Block #32",
-                        "ref": "Blocks/SZ6/Coin Block #32"
+                        "ref": "Coin Blocks/SZ6/Coin Block #32"
                     },
                     {
                         "name": "Coin Block #33",
-                        "ref": "Blocks/SZ6/Coin Block #33"
+                        "ref": "Coin Blocks/SZ6/Coin Block #33"
                     }
                 ],
                 "map_locations": [
@@ -5902,23 +5902,23 @@
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/SZ7/Powerup Block #1"
+                        "ref": "Item Blocks/SZ7/Powerup Block #1"
                     },
                     {
                         "name": "Yoshi Block #1",
-                        "ref": "Blocks/SZ7/Yoshi Block #1"
+                        "ref": "Item Blocks/SZ7/Yoshi Block #1"
                     },
                     {
                         "name": "Coin Block #1",
-                        "ref": "Blocks/SZ7/Coin Block #1"
+                        "ref": "Coin Blocks/SZ7/Coin Block #1"
                     },
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Blocks/SZ7/Powerup Block #2"
+                        "ref": "Item Blocks/SZ7/Powerup Block #2"
                     },
                     {
                         "name": "Coin Block #2",
-                        "ref": "Blocks/SZ7/Coin Block #2"
+                        "ref": "Coin Blocks/SZ7/Coin Block #2"
                     }
                 ],
                 "map_locations": [
@@ -5967,123 +5967,123 @@
                     },
                     {
                         "name": "Yoshi Block #1",
-                        "ref": "Blocks/SZ8/Yoshi Block #1"
+                        "ref": "Item Blocks/SZ8/Yoshi Block #1"
                     },
                     {
                         "name": "Coin Block #1",
-                        "ref": "Blocks/SZ8/Coin Block #1"
+                        "ref": "Coin Blocks/SZ8/Coin Block #1"
                     },
                     {
                         "name": "Coin Block #2",
-                        "ref": "Blocks/SZ8/Coin Block #2"
+                        "ref": "Coin Blocks/SZ8/Coin Block #2"
                     },
                     {
                         "name": "Coin Block #3",
-                        "ref": "Blocks/SZ8/Coin Block #3"
+                        "ref": "Coin Blocks/SZ8/Coin Block #3"
                     },
                     {
                         "name": "Coin Block #4",
-                        "ref": "Blocks/SZ8/Coin Block #4"
+                        "ref": "Coin Blocks/SZ8/Coin Block #4"
                     },
                     {
                         "name": "Coin Block #5",
-                        "ref": "Blocks/SZ8/Coin Block #5"
+                        "ref": "Coin Blocks/SZ8/Coin Block #5"
                     },
                     {
                         "name": "Blue P-Switch Block #1",
-                        "ref": "Blocks/SZ8/Blue P-Switch Block #1"
+                        "ref": "Item Blocks/SZ8/Blue P-Switch Block #1"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/SZ8/Powerup Block #1"
+                        "ref": "Item Blocks/SZ8/Powerup Block #1"
                     },
                     {
                         "name": "Star Block #1",
-                        "ref": "Blocks/SZ8/Star Block #1"
+                        "ref": "Item Blocks/SZ8/Star Block #1"
                     },
                     {
                         "name": "Coin Block #6",
-                        "ref": "Blocks/SZ8/Coin Block #6"
+                        "ref": "Coin Blocks/SZ8/Coin Block #6"
                     },
                     {
                         "name": "Coin Block #7",
-                        "ref": "Blocks/SZ8/Coin Block #7"
+                        "ref": "Coin Blocks/SZ8/Coin Block #7"
                     },
                     {
                         "name": "Coin Block #8",
-                        "ref": "Blocks/SZ8/Coin Block #8"
+                        "ref": "Coin Blocks/SZ8/Coin Block #8"
                     },
                     {
                         "name": "Coin Block #9",
-                        "ref": "Blocks/SZ8/Coin Block #9"
+                        "ref": "Coin Blocks/SZ8/Coin Block #9"
                     },
                     {
                         "name": "Coin Block #10",
-                        "ref": "Blocks/SZ8/Coin Block #10"
+                        "ref": "Coin Blocks/SZ8/Coin Block #10"
                     },
                     {
                         "name": "Coin Block #11",
-                        "ref": "Blocks/SZ8/Coin Block #11"
+                        "ref": "Coin Blocks/SZ8/Coin Block #11"
                     },
                     {
                         "name": "Coin Block #12",
-                        "ref": "Blocks/SZ8/Coin Block #12"
+                        "ref": "Coin Blocks/SZ8/Coin Block #12"
                     },
                     {
                         "name": "Coin Block #13",
-                        "ref": "Blocks/SZ8/Coin Block #13"
+                        "ref": "Coin Blocks/SZ8/Coin Block #13"
                     },
                     {
                         "name": "Coin Block #14",
-                        "ref": "Blocks/SZ8/Coin Block #14"
+                        "ref": "Coin Blocks/SZ8/Coin Block #14"
                     },
                     {
                         "name": "Coin Block #15",
-                        "ref": "Blocks/SZ8/Coin Block #15"
+                        "ref": "Coin Blocks/SZ8/Coin Block #15"
                     },
                     {
                         "name": "Coin Block #16",
-                        "ref": "Blocks/SZ8/Coin Block #16"
+                        "ref": "Coin Blocks/SZ8/Coin Block #16"
                     },
                     {
                         "name": "Coin Block #17",
-                        "ref": "Blocks/SZ8/Coin Block #17"
+                        "ref": "Coin Blocks/SZ8/Coin Block #17"
                     },
                     {
                         "name": "Coin Block #18",
-                        "ref": "Blocks/SZ8/Coin Block #18"
+                        "ref": "Coin Blocks/SZ8/Coin Block #18"
                     },
                     {
                         "name": "Multi Coin Block #1",
-                        "ref": "Blocks/SZ8/Multi Coin Block #1"
+                        "ref": "Coin Blocks/SZ8/Multi Coin Block #1"
                     },
                     {
                         "name": "Coin Block #19",
-                        "ref": "Blocks/SZ8/Coin Block #19"
+                        "ref": "Coin Blocks/SZ8/Coin Block #19"
                     },
                     {
                         "name": "Coin Block #20",
-                        "ref": "Blocks/SZ8/Coin Block #20"
+                        "ref": "Coin Blocks/SZ8/Coin Block #20"
                     },
                     {
                         "name": "Coin Block #21",
-                        "ref": "Blocks/SZ8/Coin Block #21"
+                        "ref": "Coin Blocks/SZ8/Coin Block #21"
                     },
                     {
                         "name": "Coin Block #22",
-                        "ref": "Blocks/SZ8/Coin Block #22"
+                        "ref": "Coin Blocks/SZ8/Coin Block #22"
                     },
                     {
                         "name": "Coin Block #23",
-                        "ref": "Blocks/SZ8/Coin Block #23"
+                        "ref": "Coin Blocks/SZ8/Coin Block #23"
                     },
                     {
                         "name": "Powerup Block #2",
-                        "ref": "Blocks/SZ8/Powerup Block #2"
+                        "ref": "Item Blocks/SZ8/Powerup Block #2"
                     },
                     {
                         "name": "Flying Question Block #1",
-                        "ref": "Blocks/SZ8/Flying Question Block #1"
+                        "ref": "Flying Blocks/SZ8/Flying Question Block #1"
                     }
                 ],
                 "map_locations": [

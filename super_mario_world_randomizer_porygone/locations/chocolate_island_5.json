@@ -169,7 +169,7 @@
                 "sections": [
                     {
                         "name": "Yoshi Block #1",
-                        "ref": "Blocks/CI5/Yoshi Block #1"
+                        "ref": "Item Blocks/CI5/Yoshi Block #1"
                     }
                 ],
                 "map_locations": [
@@ -185,7 +185,7 @@
                 "sections": [
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/CI5/Powerup Block #1"
+                        "ref": "Item Blocks/CI5/Powerup Block #1"
                     }
                 ],
                 "map_locations": [
@@ -201,7 +201,7 @@
                 "sections": [
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "ref": "Blocks/CI5/1-Up Mushroom Block #1"
+                        "ref": "Item Blocks/CI5/1-Up Mushroom Block #1"
                     }
                 ],
                 "map_locations": [
@@ -217,7 +217,7 @@
                 "sections": [
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Blocks/CI5/Yellow Switch Palace Block #1"
+                        "ref": "Yellow Switch Blocks/CI5/Yellow Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -285,19 +285,19 @@
                     },
                     {
                         "name": "Yoshi Block #1",
-                        "ref": "Blocks/CI5/Yoshi Block #1"
+                        "ref": "Item Blocks/CI5/Yoshi Block #1"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/CI5/Powerup Block #1"
+                        "ref": "Item Blocks/CI5/Powerup Block #1"
                     },
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "ref": "Blocks/CI5/1-Up Mushroom Block #1"
+                        "ref": "Item Blocks/CI5/1-Up Mushroom Block #1"
                     },
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Blocks/CI5/Yellow Switch Palace Block #1"
+                        "ref": "Yellow Switch Blocks/CI5/Yellow Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -437,19 +437,19 @@
                     },
                     {
                         "name": "Yoshi Block #1",
-                        "ref": "Blocks/CI5/Yoshi Block #1"
+                        "ref": "Item Blocks/CI5/Yoshi Block #1"
                     },
                     {
                         "name": "Powerup Block #1",
-                        "ref": "Blocks/CI5/Powerup Block #1"
+                        "ref": "Item Blocks/CI5/Powerup Block #1"
                     },
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "ref": "Blocks/CI5/1-Up Mushroom Block #1"
+                        "ref": "Item Blocks/CI5/1-Up Mushroom Block #1"
                     },
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Blocks/CI5/Yellow Switch Palace Block #1"
+                        "ref": "Yellow Switch Blocks/CI5/Yellow Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [

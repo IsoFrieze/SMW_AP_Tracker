@@ -1,5 +1,4 @@
 {
-    /*
     "settings_popup": {
         "type": "tabbed",
         "tabs": [
@@ -11,21 +10,27 @@
                 }
             },
             {
+                "title": "Carryless Exits",
+                "content": {
+                    "type": "layout",
+                    "key": "carryless_exits"
+                }
+            },
+            {
+                "title": "Extra Logic",
+                "content": {
+                    "type": "layout",
+                    "key": "extra_logic"
+                }
+            }/*,
+            {
                 "title": "Levels",
                 "content": {
                     "type": "layout",
                     "key": "visited_levels"
                 }
-            }
+            }*/
         ]
-    },
-    */
-    "settings_popup": {
-        "type": "container",
-        "content": {
-            "type": "layout",
-            "key": "tracker_settings"
-        }
     },
     
     "tracker_default": {

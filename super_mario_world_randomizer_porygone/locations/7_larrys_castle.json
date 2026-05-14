@@ -145,7 +145,7 @@
                 "sections": [
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Blocks/VBC/Yellow Switch Palace Block #1"
+                        "ref": "Yellow Switch Blocks/VBC/Yellow Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -161,7 +161,7 @@
                 "sections": [
                     {
                         "name": "Yellow Switch Palace Block #2",
-                        "ref": "Blocks/VBC/Yellow Switch Palace Block #2"
+                        "ref": "Yellow Switch Blocks/VBC/Yellow Switch Palace Block #2"
                     }
                 ],
                 "map_locations": [
@@ -177,7 +177,7 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Blocks/VBC/Green Switch Palace Block #1"
+                        "ref": "Green Switch Blocks/VBC/Green Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -245,7 +245,7 @@
                     },
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "ref": "Blocks/VBC/Yellow Switch Palace Block #1"
+                        "ref": "Yellow Switch Blocks/VBC/Yellow Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -269,11 +269,11 @@
                     },
                     {
                         "name": "Yellow Switch Palace Block #2",
-                        "ref": "Blocks/VBC/Yellow Switch Palace Block #2"
+                        "ref": "Yellow Switch Blocks/VBC/Yellow Switch Palace Block #2"
                     },
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Blocks/VBC/Green Switch Palace Block #1"
+                        "ref": "Green Switch Blocks/VBC/Green Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -297,11 +297,11 @@
                     },
                     {
                         "name": "Yellow Switch Palace Block #2",
-                        "ref": "Blocks/VBC/Yellow Switch Palace Block #2"
+                        "ref": "Yellow Switch Blocks/VBC/Yellow Switch Palace Block #2"
                     },
                     {
                         "name": "Green Switch Palace Block #1",
-                        "ref": "Blocks/VBC/Green Switch Palace Block #1"
+                        "ref": "Green Switch Blocks/VBC/Green Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [

@@ -156,6 +156,13 @@
         "codes": "inventory_yoshi_logic"
     },
     {
+        "name": "Enemy Shuffle",
+        "type": "toggle",
+        "img": "images/items/enemy_shuffle.png",
+        "disabled_img": "images/items/enemy_shuffle.png",
+        "codes": "enemy_shuffle"
+    },
+    {
         "name": "Game Logic Difficulty",
         "type": "progressive",
         "allow_disabled": false,

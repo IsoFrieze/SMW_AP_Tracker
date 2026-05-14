@@ -144,6 +144,10 @@ function onClear(slot_data)
         local difficulty = Tracker:FindObjectForCode("game_logic_difficulty")
         difficulty.CurrentStage = slot_data['game_logic_difficulty']
     end
+    if slot_data['enemy_shuffle'] then
+        local enemyshuffle = Tracker:FindObjectForCode("enemy_shuffle")
+        enemyshuffle.Active = (slot_data['enemy_shuffle'] ~= 0)
+    end
 
     if Archipelago.PlayerNumber>-1 then
         EVENT_ID="smw_curlevelid_"..TEAM_NUMBER.."_"..PLAYER_ID

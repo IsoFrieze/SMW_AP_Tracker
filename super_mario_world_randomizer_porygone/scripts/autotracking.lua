@@ -135,6 +135,15 @@ function onClear(slot_data)
         rooms.Active = (slot_data['room_checks'] ~= 0)
     end
     Tracker:FindObjectForCode("yoshi_eggs_required").AcquiredCount = 0
+    
+    if slot_data['inventory_yoshi_logic'] then
+        local inventoryyoshi = Tracker:FindObjectForCode("inventory_yoshi_logic")
+        inventoryyoshi.Active = (slot_data['inventory_yoshi_logic'] ~= 0)
+    end
+    if slot_data['game_logic_difficulty'] then
+        local difficulty = Tracker:FindObjectForCode("game_logic_difficulty")
+        difficulty.CurrentStage = slot_data['game_logic_difficulty']
+    end
 
     if Archipelago.PlayerNumber>-1 then
         EVENT_ID="smw_curlevelid_"..TEAM_NUMBER.."_"..PLAYER_ID

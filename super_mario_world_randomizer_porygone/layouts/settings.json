@@ -66,7 +66,9 @@
                             [
                                 "show_all_levels",
                                 "tab_switch",
-                                "individual_dragon_coins"
+                                "individual_dragon_coins",
+                                "inventory_yoshi_logic",
+                                "game_logic_easy"
                             ]
                         ]
                     }

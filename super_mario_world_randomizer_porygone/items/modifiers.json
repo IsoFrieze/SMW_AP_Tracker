@@ -149,6 +149,40 @@
         "codes": "individual_dragon_coins"
     },
     {
+        "name": "Inventory Yoshi Logic",
+        "type": "toggle",
+        "img": "images/items/yoshi_inventory.png",
+        "disabled_img": "images/items/yoshi_inventory.png",
+        "codes": "inventory_yoshi_logic"
+    },
+    {
+        "name": "Game Logic Difficulty",
+        "type": "progressive",
+        "allow_disabled": false,
+        "initial_stage_idx": 0,
+        "codes": "game_logic_difficulty",
+        "img": "images/items/difficulty_easy.png",
+        "stages": [
+            {
+                "img": "images/items/difficulty_easy.png",
+                "codes": "game_logic_easy",
+                "inherit_codes": false
+            },
+            {
+                "img": "images/items/difficulty_medium.png",
+                "codes": "game_logic_medium",
+                "inherit_codes": false
+            },
+            {
+                "img": "images/items/difficulty_hard.png",
+                "codes": "game_logic_hard",
+                "inherit_codes": false
+            }
+        ]
+    },
+    
+    
+    {
         "name": "Current Level",
         "type": "progressive",
         "img": "images/items/block.png",

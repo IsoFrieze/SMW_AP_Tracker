@@ -126,17 +126,6 @@ function onClear(slot_data)
             end
         end
     end
-    if slot_data['carryless_exits'] then
-        for _, cexit in pairs(slot_data['carryless_exits']) do
-            local map = CARRYLESS_MAPPING[cexit]
-            if map then
-                local obj = Tracker:FindObjectForCode(map)
-                if obj then
-                    obj.Active = true -- double check that this isn't spoiling anything
-                end
-            end
-        end
-    end
     if slot_data['midway_point_checks'] then
         local midway_points = Tracker:FindObjectForCode("midway_point_checks")
         midway_points.Active = (slot_data['midway_point_checks'] ~= 0)
@@ -145,10 +134,7 @@ function onClear(slot_data)
         local rooms = Tracker:FindObjectForCode("room_checks")
         rooms.Active = (slot_data['room_checks'] ~= 0)
     end
-    if slot_data['actual_egg_count'] then
-        local eggs = Tracker:FindObjectForCode("yoshi_eggs_required")
-        eggs.AcquiredCount = slot_data['actual_egg_count'] -- double check that this isn't spoiling anything
-    end
+    Tracker:FindObjectForCode("yoshi_eggs_required").AcquiredCount = 0
 
     if Archipelago.PlayerNumber>-1 then
         EVENT_ID="smw_curlevelid_"..TEAM_NUMBER.."_"..PLAYER_ID
@@ -257,6 +243,31 @@ function updateEvents(key, value)
                 if level_visit ~= nil and not level_visit.Active then
                     level_visit.Active = 1
                     print("Setting level_visit_" .. level_id)
+                    
+                    -- reveal required eggs only when Yoshi's House is visited
+                    -- doesn't actually work because a 'level_visit' tag for yoshi's house isn't even recorded
+                    if level_id == 260 then
+                        local eggs = Tracker:FindObjectForCode("yoshi_eggs_required")
+                        eggs.AcquiredCount = SLOT_DATA['required_egg_count']
+                    end
+                    
+                    -- reveal carryless exit only when that level is entered
+                    -- still spoilers, until you actually see the keyhole/red orb
+                    if SLOT_DATA['carryless_exits'] then
+                        local translevel = level_id
+                        if translevel > 36 then translevel = translevel - 256 + 36 end
+                        for _, cexit in pairs(SLOT_DATA['carryless_exits']) do
+                            if cexit == translevel then
+                                local map = CARRYLESS_MAPPING[cexit]
+                                if map then
+                                    local obj = Tracker:FindObjectForCode(map)
+                                    if obj then
+                                        -- obj.Active = true
+                                    end
+                                end
+                            end
+                        end
+                    end
                 end
             end
         end

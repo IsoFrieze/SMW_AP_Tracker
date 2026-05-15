@@ -368,6 +368,8 @@
                     "item_size": "40",
                     "rows": [
                         [
+                            "hardlogic_dp1_yoshikey",
+                            "hardlogic_dp2_yoshikey"
                         ]
                     ]
                 }
@@ -382,6 +384,7 @@
                     "rows": [
                         [
                             "hardlogic_vd1_room2itemless",
+                            "hardlogic_vd2_climblessmidway",
                             "hardlogic_vd4_coinblock8",
                             "hardlogic_vs1_wallrun",
                             "hardlogic_vs3_swimless",
@@ -416,6 +419,7 @@
                     "rows": [
                         [
                             "hardlogic_fi1_yoshiexit2",
+                            "hardlogic_fi1_capeexit2",
                             "hardlogic_fi3_itemlessbigpipe",
                             "hardlogic_fi3_yoshiexit2",
                             "hardlogic_fgh_room2skip",
@@ -433,6 +437,7 @@
                     "item_size": "40",
                     "rows": [
                         [
+                            "hardlogic_ci1_muncherdboost"
                         ]
                     ]
                 }
@@ -447,7 +452,8 @@
                     "rows": [
                         [
                             "hardlogic_vb3_itemlessitemblock",
-                            "hardlogic_vb3_yoshivineskip",
+                            "hardlogic_vb4_yoshivineskip",
+                            "hardlogic_vb4_climblessmidway",
                             "hardlogic_vbh_exit2carryless"
                         ]
                     ]

@@ -72,7 +72,10 @@ CARRYLESS_MAPPING = {
 }
 
 EXTRA_LOGIC_MAPPING = {
+    ["Donut Plains 1 - Yoshi Jump to Key"] = "hardlogic_dp1_yoshikey",
+    ["Donut Plains 2 - Yoshi Jump to Key"] = "hardlogic_dp2_yoshikey",
     ["Vanilla Dome 1 - Itemless Sinking Platform"] = "hardlogic_vd1_room2itemless",
+    ["Vanilla Dome 2 - Climbless Secret via Yoshi and Midway"] = "hardlogic_vd2_climblessmidway",
     ["Vanilla Dome 4 - Sacrifice for Coin Block #8"] = "hardlogic_vd4_coinblock8",
     ["Vanilla Secret 1 - Wall Running"] = "hardlogic_vs1_wallrun",
     ["Vanilla Secret 3 - Swimless"] = "hardlogic_vs3_swimless",
@@ -81,12 +84,15 @@ EXTRA_LOGIC_MAPPING = {
     ["Ludwig's Castle - Runless"] = "hardlogic_tbc_runless",
     ["Ludwig's Castle - Climbless"] = "hardlogic_tbc_climbless",
     ["Forest of Illusion 1 - Secret Exit with Yoshi"] = "hardlogic_fi1_yoshiexit2",
+    ["Forest of Illusion 1 - Secret Exit with Cape"] = "hardlogic_fi1_capeexit2",
     ["Forest of Illusion 3 - Can pass big pipe itemless"] = "hardlogic_fi3_itemlessbigpipe",
     ["Forest of Illusion 3 - Secret Exit with Yoshi"] = "hardlogic_fi3_yoshiexit2",
     ["Forest Ghost House - Skip second room"] = "hardlogic_fgh_room2skip",
     ["Forest Secret Area - Itemless 1-Up block"] = "hardlogic_fsa_itemless1upblock",
+    ["Chocolate Island 1 - Damage Boost Past Munchers"] = "hardlogic_ci1_muncherdboost",
     ["Valley of Bowser 3 - Itemless Powerup block"] = "hardlogic_vb3_itemlessitemblock",
     ["Valley of Bowser 4 - Yoshi Climb"] = "hardlogic_vb4_yoshivineskip",
+    ["Valley of Bowser 4 - Climbless Secret via Yoshi and Midway"] = "hardlogic_vb4_climblessmidway",
     ["Valley Ghost House - True Carryless Secret Exit"] = "hardlogic_vbh_exit2carryless",
     ["Star World 3 - Top area with a Star"] = "hardlogic_sr3_starmancloud",
     ["Star World 4 - Carryless exit with wingless Yoshi"] = "hardlogic_sr4_yoshiexit2",

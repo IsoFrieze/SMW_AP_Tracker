@@ -79,8 +79,10 @@
                             "$CanCarry, $HasGSP",
                             "$CanCarry, $CanCapeFly",
                             "$CanYoshiCarry",
+                            "hardlogic_dp1_yoshikey, $CanCarry, $HasYoshi",
                             "carryless_dp1, $HasGSP",
-                            "carryless_dp1, $CanCapeFly"
+                            "carryless_dp1, $CanCapeFly",
+                            "carryless_dp1, hardlogic_dp1_yoshikey, $HasYoshi"
                         ]
                     }
                 ]
@@ -98,7 +100,10 @@
                         "access_rules": [
                             "$CanYoshiCarry",
                             "$CanClimb, $CanCarry, $CanBreakTurnBlocks",
-                            "$CanClimb, $CanCarry, $HasYoshi"
+                            "$CanClimb, $CanCarry, $HasYoshi",
+                            "hardlogic_dp2_yoshikey, $CanCarry, $HasYoshi",
+                            "carryless_dp2, $CanClimb, $HasYoshi",
+                            "carryless_pd2, hardlogic_dp2_yoshikey, $HasYoshi"
                         ]
                     }
                 ]
@@ -242,7 +247,8 @@
                         "name": "Secret Exit",
                         "access_rules": [
                             "$CanSwim, $CanCarry, $HasPSwitch, $CanClimb",
-                            "$CanSwim, $CanCarry, $HasPSwitch, $HasYoshi"
+                            "$CanSwim, $CanCarry, $HasPSwitch, $HasYoshi",
+                            "hardlogic_vd2_climblessmidway, $CanSwim, $CanYoshiCarry, $HasPSwitch, $HasMidway"
                         ]
                     }
                 ]
@@ -384,7 +390,8 @@
                         "name": "Normal Exit",
                         "access_rules": [
                             "$CanClimb",
-                            "$HasYoshi"
+                            "$HasYoshi",
+                            "$CanCapeFly"
                         ]
                     },
                     {
@@ -444,7 +451,9 @@
                             "$CanCarry, $HasPBalloon",
                             "carryless_fi1, $HasPBalloon",
                             "$CanCarry, hardlogic_fi1_yoshiexit2, $HasYoshi",
-                            "carryless_fi1, hardlogic_fi1_yoshiexit2, $HasYoshi"
+                            "carryless_fi1, hardlogic_fi1_yoshiexit2, $HasYoshi",
+                            "hardlogic_fi1_capeexit2, $CanCarry, $CanCapeFly",
+                            "hardlogic_fi1_capeexit2, carryless_fi1, $CanCapeFly"
                         ]
                     }
                 ]
@@ -481,6 +490,7 @@
                         "access_rules": [
                             "$CanCarry",
                             "$HasYoshi",
+                            "$CanCapeFly",
                             "hardlogic_fi3_itemlessbigpipe"
                         ]
                     },
@@ -581,7 +591,9 @@
                         "name": "Normal Exit",
                         "access_rules": [
                             "$HasPSwitch",
-                            "$HasYoshi"
+                            "$HasYoshi",
+                            "$CanCarry",
+                            "hardlogic_ci1_muncherdboost, $HasMushroom"
                         ]
                     }
                 ]
@@ -611,7 +623,8 @@
                         "name": "Normal Exit",
                         "access_rules": [
                             "$CanClimb",
-                            "$HasYoshi"
+                            "$HasYoshi",
+                            "$CanCapeFly"
                         ]
                     },
                     {
@@ -739,6 +752,7 @@
                         "name": "Normal Exit",
                         "access_rules": [
                             "$CanClimb",
+                            "$CanWallRun",
                             "hardlogic_vb4_yoshivineskip, $HasYoshi"
                         ]
                     },
@@ -746,9 +760,10 @@
                         "name": "Secret Exit",
                         "access_rules": [
                             "$CanYoshiCarry, $CanClimb",
+                            "$CanYoshiCarry, $CanWallRun",
                             "carryless_vb4, $CanClimb",
-                            "hardlogic_vb4_yoshivineskip, $CanYoshiCarry",
-                            "hardlogic_vb4_yoshivineskip, carryless_vb4, $HasYoshi"
+                            "hardlogic_vb4_yoshivineskip, carryless_vb4, $HasYoshi",
+                            "hardlogic_vb4_climblessmidway, $CanYoshiCarry, $HasMidway, inventory_yoshi_logic"
                         ]
                     }
                 ]
@@ -976,6 +991,7 @@
                         "name": "Normal Exit",
                         "access_rules": [
                             "$CanCarryOrYoshiTongue",
+                            "$CanCapeFly",
                             "hardlogic_sz7_wallrun, $CanWallRun, $HasSuperStar|2"
                         ]
                     }

@@ -360,7 +360,7 @@
                         "name": "Normal Exit",
                         "access_rules": [
                             "$EnemiesNotShuffled",
-                            "$EnemiesShuffled, $HasRSP"
+                            "$HasRSP"
                         ]
                     }
                 ]
@@ -441,8 +441,8 @@
                     {
                         "name": "Secret Exit",
                         "access_rules": [
-                            "$CanCarry", "$HasPBalloon",
-                            "carryless_fi1", "$HasPBalloon",
+                            "$CanCarry, $HasPBalloon",
+                            "carryless_fi1, $HasPBalloon",
                             "$CanCarry, hardlogic_fi1_yoshiexit2, $HasYoshi",
                             "carryless_fi1, hardlogic_fi1_yoshiexit2, $HasYoshi"
                         ]
@@ -487,9 +487,7 @@
                     {
                         "name": "Secret Exit",
                         "access_rules": [
-                            "$CanCarry, $CanCarryOrYoshiTongue, $CanBreakTurnBlocks",
-                            "$HasYoshi, $CanCarryOrYoshiTongue, $CanBreakTurnBlocks",
-                            "hardlogic_fi3_itemlessbigpipe, $CanCarryOrYoshiTongue, $CanBreakTurnBlocks",
+                            "$CanCarryOrYoshiTongue, $CanBreakTurnBlocks",
                             "hardlogic_fi3_yoshiexit2, $CanYoshiCarry"
                         ]
                     }

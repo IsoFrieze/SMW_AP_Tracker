@@ -98,7 +98,7 @@
                         "access_rules": [
                             "$CanYoshiCarry",
                             "$CanClimb, $CanCarry, $CanBreakTurnBlocks",
-                            "$CanClimb, $HasYoshi" /* current implementation bug */
+                            "$CanClimb, $CanCarry, $HasYoshi"
                         ]
                     }
                 ]
@@ -360,8 +360,7 @@
                         "name": "Normal Exit",
                         "access_rules": [
                             "$EnemiesNotShuffled",
-                            "$EnemiesShuffled, $HasRSP",
-                            "hardlogic_bb1_norsp"
+                            "$EnemiesShuffled, $HasRSP"
                         ]
                     }
                 ]
@@ -1841,8 +1840,7 @@
                         "name": "Room 0x00F3",
                         "access_rules": [
                             "$EnemiesNotShuffled",
-                            "$EnemiesShuffled, $HasRSP",
-                            "hardlogic_bb1_norsp"
+                            "$EnemiesShuffled, $HasRSP"
                         ]
                     }
                 ]
@@ -3340,8 +3338,7 @@
                         "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
                             "$EnemiesNotShuffled",
-                            "$EnemiesShuffled, $HasRSP",
-                            "hardlogic_bb1_norsp"
+                            "$EnemiesShuffled, $HasRSP"
                         ]
                     },
                     {
@@ -3349,8 +3346,7 @@
                         "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
                             "$EnemiesNotShuffled",
-                            "$EnemiesShuffled, $HasRSP",
-                            "hardlogic_bb1_norsp"
+                            "$EnemiesShuffled, $HasRSP"
                         ]
                     }
                 ]
@@ -4958,8 +4954,7 @@
                         "name": "Bonus 1-Up",
                         "access_rules": [
                             "$EnemiesNotShuffled",
-                            "$EnemiesShuffled, $HasRSP",
-                            "hardlogic_bb1_norsp"
+                            "$EnemiesShuffled, $HasRSP"
                         ]
                     }
                 ]
@@ -5384,24 +5379,21 @@
                         "name": "Multi Coin Block #1",
                         "access_rules": [
                             "$EnemiesNotShuffled",
-                            "$EnemiesShuffled, $HasRSP",
-                            "hardlogic_bb1_norsp"
+                            "$EnemiesShuffled, $HasRSP"
                         ]
                     },
                     {
                         "name": "Multi Coin Block #2",
                         "access_rules": [
                             "$EnemiesNotShuffled",
-                            "$EnemiesShuffled, $HasRSP",
-                            "hardlogic_bb1_norsp"
+                            "$EnemiesShuffled, $HasRSP"
                         ]
                     },
                     {
                         "name": "Multi Coin Block #3",
                         "access_rules": [
                             "$EnemiesNotShuffled",
-                            "$EnemiesShuffled, $HasRSP",
-                            "hardlogic_bb1_norsp"
+                            "$EnemiesShuffled, $HasRSP"
                         ]
                     }
                 ]
@@ -6885,16 +6877,14 @@
                         "name": "Powerup Block #1",
                         "access_rules": [
                             "$EnemiesNotShuffled",
-                            "$EnemiesShuffled, $HasRSP",
-                            "hardlogic_bb1_norsp"
+                            "$EnemiesShuffled, $HasRSP"
                         ]
                     },
                     {
                         "name": "1-Up Mushroom Block #1",
                         "access_rules": [
                             "$EnemiesNotShuffled",
-                            "$EnemiesShuffled, $HasRSP",
-                            "hardlogic_bb1_norsp"
+                            "$EnemiesShuffled, $HasRSP"
                         ]
                     }
                 ]

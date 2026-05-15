@@ -178,7 +178,7 @@ end
 
 function CanYoshiCarry()
     return 
-        Tracker:FindObjectForCode("yoshitongue").Active and
+        Tracker:FindObjectForCode("progressive_yoshi").CurrentStage >= 2 and
         (CanGetGreenYoshi() or CanGetYellowYoshi() or CanGetBlueYoshi())
 end
 
@@ -199,7 +199,7 @@ function CanCapeSpinFly()
 end
 
 function HasYoshi()
-    return Tracker:FindObjectForCode("yoshi").Active and CanGetAnyYoshi()
+    return Tracker:FindObjectForCode("progressive_yoshi").CurrentStage >= 1 and CanGetAnyYoshi()
 end
 
 function CanBeatMediumLevel()

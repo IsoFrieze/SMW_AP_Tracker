@@ -98,7 +98,8 @@
                         "access_rules": [
                             "$CanYoshiCarry",
                             "$CanClimb, $CanCarry, $CanBreakTurnBlocks",
-                            "$CanClimb, $CanCarry, $HasYoshi"
+                            "$CanClimb, $CanCarry, $HasYoshi",
+                            "carryless_dp2, $CanClimb, $HasYoshi"
                         ]
                     }
                 ]
@@ -747,7 +748,7 @@
                         "access_rules": [
                             "$CanYoshiCarry, $CanClimb",
                             "carryless_vb4, $CanClimb",
-                            "hardlogic_vb4_yoshivineskip, $CanYoshiCarry",
+                            "hardlogic_vb4_yoshivineskip, $CanYoshiCarry, $CanClimb",
                             "hardlogic_vb4_yoshivineskip, carryless_vb4, $HasYoshi"
                         ]
                     }

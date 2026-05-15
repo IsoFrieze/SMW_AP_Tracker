@@ -211,7 +211,7 @@
                     {
                         "name": "Normal Exit",
                         "access_rules": [
-                            "$CanRun, $HasSuperStar",
+                            "$CanRun, $HasSuperStar|2",
                             "$CanRun, $HasMushroom",
                             "hardlogic_vd1_room2itemless"
                         ]
@@ -962,9 +962,8 @@
                 "sections": [
                     {
                         "name": "Normal Exit",
-                        /* bugged implementation */
                         "access_rules": [
-                            "",
+                            "$CanSwim",
                             "hardlogic_sz6_swimless"
                         ]
                     }
@@ -1143,9 +1142,7 @@
                 "sections": [
                     {
                         "name": "Midway Point",
-                        /* bugged implementation */
                         "access_rules": [
-                            "",
                             "$CanSwim",
                             "hardlogic_vs3_swimless"
                         ]
@@ -1713,9 +1710,7 @@
                     {
                         "name": "Room 0x01F0",
                         "access_rules": [
-                            /* bugged implementation */
-                            "$Not|hardlogic_vs1_wallrun, $CanClimb, $CanCarry, $HasBSP",
-                            "hardlogic_vs1_wallrun, $CanClimb",
+                            "$CanClimb, $CanCarry, $HasBSP",
                             "hardlogic_vs1_wallrun, $CanWallRun, $CanCarry, $HasBSP"
                         ]
                     },

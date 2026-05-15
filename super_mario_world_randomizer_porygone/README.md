@@ -1,7 +1,7 @@
-# PopTracker pack for Super Mario World Archipelago Randomizer
+# PopTracker pack for SMW: Spicy Mycena Waffles Archipelago Randomizer
 
 An PopTracker pack with map for\
-[the Super Mario World Archipelago Randomizer](https://github.com/PoryGone)
+[the SMW: Spicy Mycena Waffles Archipelago Randomizer](https://github.com/TheLX5/Archipelago/tree/waffles)
 
 ## Requirements
 [PopTracker](https://github.com/black-sliver/PopTracker)

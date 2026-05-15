@@ -127,6 +127,7 @@ end
 
 function CanGetGreenYoshi()
     return
+        Tracker:FindObjectForCode("inventory_yoshi_logic").Active or
         Tracker:FindObjectForCode("level_visit_3").Active or -- tsa
         Tracker:FindObjectForCode("level_visit_262").Active or -- yi2
         Tracker:FindObjectForCode("level_visit_259").Active or -- yi3
@@ -148,18 +149,21 @@ end
 
 function CanGetRedYoshi()
     return
+        Tracker:FindObjectForCode("inventory_yoshi_logic").Active or
         (Tracker:FindObjectForCode("level_visit_308").Active and CanBreakTurnBlocks()) or -- sw1
         Tracker:FindObjectForCode("level_visit_309").Active -- sw4
 end
 
 function CanGetYellowYoshi()
     return
+        Tracker:FindObjectForCode("inventory_yoshi_logic").Active or
         Tracker:FindObjectForCode("level_visit_306").Active or -- sw3
         (Tracker:FindObjectForCode("level_visit_310").Active and (CanCapeFly() or HasPSwitch())) -- sw5
 end
 
 function CanGetBlueYoshi()
     return
+        Tracker:FindObjectForCode("inventory_yoshi_logic").Active or
         Tracker:FindObjectForCode("level_visit_304").Active or -- sw2
         ((CanGetGreenYoshi() or CanGetRedYoshi() or CanGetYellowYoshi()) and (
             Tracker:FindObjectForCode("level_visit_15").Active or -- cba
@@ -191,7 +195,7 @@ function CanFly()
 end
 
 function HasYoshi()
-    return Tracker:FindObjectForCode("yoshi").Active
+    return Tracker:FindObjectForCode("yoshi").Active and CanGetAnyYoshi()
 end
 
 function CanBeatMediumLevel()

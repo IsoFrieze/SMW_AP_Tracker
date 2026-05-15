@@ -24,17 +24,17 @@
                 "img": "images/items/big_mario.png",
                 "disabled_img": "images/items/small_mario.png",
                 "disabled_img_mods": "none",
-                "codes": "powerup_1",
+                "codes": "mushroom",
                 "inherit_codes": true
             },
             {
                 "img": "images/items/fire_mario.png",
-                "codes": "powerup_2",
+                "codes": "fireflower",
                 "inherit_codes": true
             },
             {
                 "img": "images/items/cape_mario.png",
-                "codes": "powerup_3",
+                "codes": "feather",
                 "inherit_codes": true
             }
         ]
@@ -75,7 +75,7 @@
             },
             {
                 "img": "images/items/wallrun.png",
-                "codes": "run_2",
+                "codes": "wallrun",
                 "inherit_codes": true
             }
         ]
@@ -105,7 +105,7 @@
             },
             {
                 "img": "images/items/fast_swim.png",
-                "codes": "swim_2",
+                "codes": "fastswim",
                 "inherit_codes": true
             }
         ]
@@ -122,7 +122,7 @@
             },
             {
                 "img": "images/items/yoshi_tongue.png",
-                "codes": "yoshi_2",
+                "codes": "yoshitongue",
                 "inherit_codes": true
             }
         ]

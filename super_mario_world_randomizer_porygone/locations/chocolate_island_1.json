@@ -213,7 +213,7 @@
                 "sections": [
                     {
                         "name": "Green|Yellow Switch Palace Block #1",
-                        "ref": "Green Switch Blocks/CI1/Green|Yellow Switch Palace Block #1"
+                        "ref": "Item Blocks/CI1/Green|Yellow Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -298,7 +298,7 @@
                     },
                     {
                         "name": "Green|Yellow Switch Palace Block #1",
-                        "ref": "Green Switch Blocks/CI1/Green|Yellow Switch Palace Block #1"
+                        "ref": "Item Blocks/CI1/Green|Yellow Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [
@@ -358,7 +358,7 @@
                     },
                     {
                         "name": "Green|Yellow Switch Palace Block #1",
-                        "ref": "Green Switch Blocks/CI1/Green|Yellow Switch Palace Block #1"
+                        "ref": "Item Blocks/CI1/Green|Yellow Switch Palace Block #1"
                     }
                 ],
                 "map_locations": [

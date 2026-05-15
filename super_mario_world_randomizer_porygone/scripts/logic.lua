@@ -35,7 +35,195 @@ function CanGet5DragonCoins(levelname, num)
 end
 
 function Not(code)
-    local val = Tracker:ProviderCountForCode(code)
-    if val == 0 then return 1 end
-    return 0
+    local val = Tracker:FindObjectForCode(code)
+    if val.Active then return 0 end
+    return 1
+end
+
+
+function CanCarry()
+    return Tracker:FindObjectForCode("carry").Active
+end
+
+function CanRun()
+    return Tracker:FindObjectForCode("run").Active
+end
+
+function CanWallRun()
+    return Tracker:FindObjectForCode("wallrun").Active
+end
+
+function CanSwim()
+    return Tracker:FindObjectForCode("swim").Active
+end
+
+function CanClimb()
+    return Tracker:FindObjectForCode("climb").Active
+end
+
+function CanSpinJump()
+    return Tracker:FindObjectForCode("spin_jump").Active
+end
+
+function HasMushroom()
+    return Tracker:FindObjectForCode("mushroom").Active
+end
+
+function HasFireFlower()
+    return Tracker:FindObjectForCode("fireflower").Active
+end
+
+function HasFeather()
+    return Tracker:FindObjectForCode("feather").Active
+end
+
+function HasSuperStar(level)
+    return Tracker:FindObjectForCode("star").AcquiredCount >= tonumber(level)
+end
+
+function HasPBalloon()
+    return Tracker:FindObjectForCode("p_balloon").Active
+end
+
+function HasPSwitch()
+    return Tracker:FindObjectForCode("p_switch").Active
+end
+
+function HasYSP()
+    return Tracker:FindObjectForCode("ysp").Active
+end
+
+function HasGSP()
+    return Tracker:FindObjectForCode("gsp").Active
+end
+
+function HasRSP()
+    return Tracker:FindObjectForCode("rsp").Active
+end
+
+function HasBSP()
+    return Tracker:FindObjectForCode("bsp").Active
+end
+
+function HasMidway()
+    return Tracker:FindObjectForCode("midway").Active
+end
+
+function HasItemBox()
+    return Tracker:FindObjectForCode("itembox").Active
+end
+
+function HasExtraDefense()
+    return Tracker:FindObjectForCode("extra_defense").Active
+end
+
+function CanBreakTurnBlocks()
+    return HasMushroom() and CanSpinJump()
+end
+
+function CanCapeFly()
+    return HasFeather() and CanRun()
+end
+
+function CanGetGreenYoshi()
+    return
+        Tracker:FindObjectForCode("level_visit_3").Active or -- tsa
+        Tracker:FindObjectForCode("level_visit_262").Active or -- yi2
+        Tracker:FindObjectForCode("level_visit_259").Active or -- yi3
+        Tracker:FindObjectForCode("level_visit_21").Active or -- dp1
+        Tracker:FindObjectForCode("level_visit_6").Active or -- dp4
+        Tracker:FindObjectForCode("level_visit_266").Active or -- vd3
+        Tracker:FindObjectForCode("level_visit_1").Active or -- vs2
+        (Tracker:FindObjectForCode("level_visit_13").Active and CanCarry()) or -- bb2
+        (Tracker:FindObjectForCode("level_visit_16").Active and HasRSP()) or -- cm
+        Tracker:FindObjectForCode("level_visit_286").Active or -- foi1
+        Tracker:FindObjectForCode("level_visit_291").Active or -- foi3
+        Tracker:FindObjectForCode("level_visit_34").Active or -- ci1
+        Tracker:FindObjectForCode("level_visit_36").Active or -- ci2
+        (Tracker:FindObjectForCode("level_visit_271").Active and CanClimb()) or -- vob4
+        Tracker:FindObjectForCode("level_visit_296").Active or -- sz5
+        -- Tracker:FindObjectForCode("level_visit_294").Active or -- sz7
+        (Tracker:FindObjectForCode("level_visit_293").Active and HasPSwitch() and CanCarry()) -- sz8
+end
+
+function CanGetRedYoshi()
+    return
+        (Tracker:FindObjectForCode("level_visit_308").Active and CanBreakTurnBlocks()) or -- sw1
+        Tracker:FindObjectForCode("level_visit_309").Active -- sw4
+end
+
+function CanGetYellowYoshi()
+    return
+        Tracker:FindObjectForCode("level_visit_306").Active or -- sw3
+        (Tracker:FindObjectForCode("level_visit_310").Active and (CanCapeFly() or HasPSwitch())) -- sw5
+end
+
+function CanGetBlueYoshi()
+    return
+        Tracker:FindObjectForCode("level_visit_304").Active or -- sw2
+        ((CanGetGreenYoshi() or CanGetRedYoshi() or CanGetYellowYoshi()) and (
+            Tracker:FindObjectForCode("level_visit_15").Active or -- cba
+            Tracker:FindObjectForCode("level_visit_277").Active or -- vob2
+            Tracker:FindObjectForCode("level_visit_300").Active -- sz3
+        ))
+end
+
+function CanGetAnyYoshi()
+    return CanGetGreenYoshi() or CanGetRedYoshi() or CanGetYellowYoshi() or CanGetBlueYoshi()
+end
+
+function CanYoshiCarry()
+    return 
+        Tracker:FindObjectForCode("yoshitongue").Active and
+        (CanGetGreenYoshi() or CanGetYellowYoshi() or CanGetBlueYoshi())
+end
+
+function CanCarryOrYoshiTongue()
+    return CanCarry() or CanYoshiCarry()
+end
+
+function CanYoshiFly()
+    return CanYoshiCarry() and CanGetBlueYoshi()
+end
+
+function CanFly()
+    return CanCapeFly() or CanYoshiFly()
+end
+
+function HasYoshi()
+    return Tracker:FindObjectForCode("yoshi").Active
+end
+
+function CanBeatMediumLevel()
+    local can = false
+    if Tracker:FindObjectForCode("game_logic_difficulty").CurrentStage == 0 then
+        can = HasMushroom() and (HasItemBox() or HasMidway())
+    elseif Tracker:FindObjectForCode("game_logic_difficulty").CurrentStage == 1 then
+        can = HasMushroom()
+    else
+        can = true
+    end
+    if can then return AccessibilityLevel.Normal end
+    return AccessibilityLevel.SequenceBreak
+end
+
+function CanBeatHardLevel()
+    local can = false
+    if Tracker:FindObjectForCode("game_logic_difficulty").CurrentStage == 0 then
+        can = HasFireFlower() and (HasItemBox() or HasMidway() or HasExtraDefense())
+    elseif Tracker:FindObjectForCode("game_logic_difficulty").CurrentStage == 1 then
+        can = HasMushroom() and (HasItemBox() or HasMidway())
+    else
+        can = true
+    end
+    if can then return AccessibilityLevel.Normal end
+    return AccessibilityLevel.SequenceBreak
+end
+
+function EnemiesShuffled()
+    return Tracker:FindObjectForCode("enemy_shuffle").Active
+end
+
+function EnemiesNotShuffled()
+    return not EnemiesShuffled()
 end

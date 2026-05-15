@@ -197,6 +197,20 @@
         "codes": "cur_level_id"
     },
     {
+        "name": "Visited YH",
+        "type": "toggle",
+        "img": "images/items/block.png",
+        "disabled_img": "images/items/block.png",
+        "codes": "level_visit_260"
+    },
+    {
+        "name": "Visited TSA",
+        "type": "toggle",
+        "img": "images/items/block.png",
+        "disabled_img": "images/items/block.png",
+        "codes": "level_visit_3"
+    },
+    {
         "name": "Visited YI1",
         "type": "toggle",
         "img": "images/items/block.png",

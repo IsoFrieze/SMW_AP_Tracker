@@ -77,7 +77,6 @@ EXTRA_LOGIC_MAPPING = {
     ["Vanilla Secret 1 - Wall Running"] = "hardlogic_vs1_wallrun",
     ["Vanilla Secret 3 - Swimless"] = "hardlogic_vs3_swimless",
     ["Lemmy's Castle - Itemless 1-Up blocks"] = "hardlogic_vdc_itemless1upblocks",
-    ["Butter Bridge 1 - No Red Switch Palace"] = "hardlogic_bb1_norsp",
     ["Cheese Bridge Area - Secret Exit with Yoshi"] = "hardlogic_cba_yoshiexit2",
     ["Ludwig's Castle - Runless"] = "hardlogic_tbc_runless",
     ["Ludwig's Castle - Climbless"] = "hardlogic_tbc_climbless",

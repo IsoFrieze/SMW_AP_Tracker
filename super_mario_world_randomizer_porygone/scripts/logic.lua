@@ -194,6 +194,10 @@ function CanFly()
     return CanCapeFly() or CanYoshiFly()
 end
 
+function CanCapeSpinFly()
+    return CanCapeFly() and CanSpinJump()
+end
+
 function HasYoshi()
     return Tracker:FindObjectForCode("yoshi").Active and CanGetAnyYoshi()
 end

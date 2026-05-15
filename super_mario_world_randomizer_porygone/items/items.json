@@ -19,6 +19,7 @@
         "name": "Progressive Powerup",
         "type": "progressive",
         "codes": "progressive_powerup",
+        "initial_stage_idx": 0,
         "stages": [
             {
                 "img": "images/items/big_mario.png",
@@ -67,6 +68,7 @@
         "name": "Progressive Run",
         "type": "progressive",
         "codes": "progressive_run",
+        "initial_stage_idx": 0,
         "stages": [
             {
                 "img": "images/items/run.png",
@@ -90,6 +92,7 @@
         "name": "Progressive Super Star",
         "type": "consumable",
         "img": "images/items/star.png",
+        "initial_stage_idx": 0,
         "codes": "star",
         "overlay_font_size": 14
     },
@@ -97,6 +100,7 @@
         "name": "Progressive Swim",
         "type": "progressive",
         "codes": "progressive_swim",
+        "initial_stage_idx": 0,
         "stages": [
             {
                 "img": "images/items/swim.png",
@@ -114,6 +118,7 @@
         "name": "Progressive Yoshi",
         "type": "progressive",
         "codes": "progressive_yoshi",
+        "initial_stage_idx": 0,
         "stages": [
             {
                 "img": "images/items/yoshi.png",

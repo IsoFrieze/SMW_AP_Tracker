@@ -46,15 +46,15 @@ function CanCarry()
 end
 
 function CanRun()
-    return Tracker:FindObjectForCode("run").Active
+    return Tracker:FindObjectForCode("progressive_run").CurrentStage >= 1
 end
 
 function CanWallRun()
-    return Tracker:FindObjectForCode("wallrun").Active
+    return Tracker:FindObjectForCode("progressive_run").CurrentStage >= 2
 end
 
 function CanSwim()
-    return Tracker:FindObjectForCode("swim").Active
+    return Tracker:FindObjectForCode("progressive_swim").CurrentStage >= 1
 end
 
 function CanClimb()
@@ -66,15 +66,15 @@ function CanSpinJump()
 end
 
 function HasMushroom()
-    return Tracker:FindObjectForCode("mushroom").Active
+    return Tracker:FindObjectForCode("progressive_powerup").CurrentStage >= 1
 end
 
 function HasFireFlower()
-    return Tracker:FindObjectForCode("fireflower").Active
+    return Tracker:FindObjectForCode("progressive_powerup").CurrentStage >= 2
 end
 
 function HasFeather()
-    return Tracker:FindObjectForCode("feather").Active
+    return Tracker:FindObjectForCode("progressive_powerup").CurrentStage >= 3
 end
 
 function HasSuperStar(level)

@@ -952,7 +952,7 @@
         "type": "toggle",
         "img": "images/items/turnblock.png",
         "disabled_img": "images/items/turnblock.png",
-        "codes": "hardlogic_vb3_yoshivineskip"
+        "codes": "hardlogic_vb4_yoshivineskip"
     },
     {
         "name": "Valley Ghost House - True Carryless Secret Exit",

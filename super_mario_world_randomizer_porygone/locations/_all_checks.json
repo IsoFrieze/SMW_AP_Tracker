@@ -103,7 +103,7 @@
                             "$CanClimb, $CanCarry, $HasYoshi",
                             "hardlogic_dp2_yoshikey, $CanCarry, $HasYoshi",
                             "carryless_dp2, $CanClimb, $HasYoshi",
-                            "carryless_pd2, hardlogic_dp2_yoshikey, $HasYoshi"
+                            "carryless_dp2, hardlogic_dp2_yoshikey, $HasYoshi"
                         ]
                     }
                 ]
@@ -763,7 +763,7 @@
                             "$CanYoshiCarry, $CanWallRun",
                             "carryless_vb4, $CanClimb",
                             "hardlogic_vb4_yoshivineskip, carryless_vb4, $HasYoshi",
-                            "hardlogic_vb4_climblessmidway, $CanYoshiCarry, $HasMidway, inventory_yoshi_logic"
+                            "hardlogic_vb4_climblessmidway, $CanYoshiCarry, $HasMidway"
                         ]
                     }
                 ]

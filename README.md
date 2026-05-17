@@ -112,8 +112,14 @@ If you are connected to an Archipelago server, these currently do not sync as it
 #### Extra Logic
 This tab controls all of the extra logic settings. In order these are:
 
+- Donut Plains 1 - Yoshi Jump to Key
+  - Consider the ability to jump off of Yoshi to get to the secret exit
+- Donut Plains 2 - Yoshi Jump to Key
+  - Consider the ability to jump off of Yoshi to get to the secret exit
 - Vanilla Dome 1 - Itemless Sinking Platform
   - Don't require Run and one of Big Mario or Super Star to get passed the sinking platform room
+- Vanilla Dome 2 - Climbless Secret via Yoshi and Midway
+  - Consider the ability to bring Yoshi into the midway point of the level and use his tongue to get the secret exit
 - Vanilla Dome 4 - Sacrifice for Coin Block #8
   - Consider being able to jump off of Yoshi or Cape swipe the last coin block in the big row of blocks
 - Vanilla Secret 1 - Wall Running
@@ -130,6 +136,8 @@ This tab controls all of the extra logic settings. In order these are:
   - Consider the ability to wall run up the walls in the vertical room via Progressive Run
 - Forest of Illusion 1 - Secret Exit with Yoshi
   - Consider the ability to jump off of Yoshi to get to the secret exit
+- Forest of Illusion 1 - Secret Exit with Cape
+  - Consider the ability to use cape flight to get to the secret exit
 - Forest of Illusion 3 - Can pass big pipe itemless
   - Don't require Carry or Yoshi to be able to jump over the tall pipe
 - Forest of Illusion 3 - Secret Exit with Yoshi
@@ -138,10 +146,14 @@ This tab controls all of the extra logic settings. In order these are:
   - Consider the ability to fly over with a Cape or wall run over the tall wall in the first room via Progressive Run
 - Forest Secret Area - Itemless 1-Up block
   - Don't require Blue Switch to hit the 1-Up block
+- Chocolate Island 1 - Damage Boost Past Munchers
+  - Consider the ability to take an intentional hit to get past the row of Munchers
 - Valley of Bowser 3 - Itemless Powerup block
   - Don't require Carry to be able to hit the item block by the midway point
 - Valley of Bowser 4 - Yoshi Climb
   - Consider the ability to jump off of Yoshi to get past the vine block
+- Valley of Bowser 4 - Climbless Secret via Yoshi and Midway
+  - Consider the ability to bring Yoshi into the midway point of the level and use his tongue to get the secret exit
 - Valley Ghost House - True Carryless Secret Exit
   - Don't require Carry to get the secret exit when the keyhole has been replaced with a red orb
 - Star World 3 - Top area with a Star

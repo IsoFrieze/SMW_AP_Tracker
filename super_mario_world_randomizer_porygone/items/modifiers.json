@@ -843,11 +843,32 @@
     },
     
     {
+        "name": "Donut Plains 1 - Yoshi Jump to Key",
+        "type": "toggle",
+        "img": "images/items/turnblock.png",
+        "disabled_img": "images/items/turnblock.png",
+        "codes": "hardlogic_dp1_yoshikey"
+    },
+    {
+        "name": "Donut Plains 2 - Yoshi Jump to Key",
+        "type": "toggle",
+        "img": "images/items/turnblock.png",
+        "disabled_img": "images/items/turnblock.png",
+        "codes": "hardlogic_dp2_yoshikey"
+    },
+    {
         "name": "Vanilla Dome 1 - Itemless Sinking Platform",
         "type": "toggle",
         "img": "images/items/turnblock.png",
         "disabled_img": "images/items/turnblock.png",
         "codes": "hardlogic_vd1_room2itemless"
+    },
+    {
+        "name": "Vanilla Dome 2 - Climbless Secret via Yoshi and Midway",
+        "type": "toggle",
+        "img": "images/items/turnblock.png",
+        "disabled_img": "images/items/turnblock.png",
+        "codes": "hardlogic_vd2_climblessmidway"
     },
     {
         "name": "Vanilla Dome 4 - Sacrifice for Coin Block #8",
@@ -878,13 +899,6 @@
         "codes": "hardlogic_vdc_itemless1upblocks"
     },
     {
-        "name": "Butter Bridge 1 - No Red Switch Palace",
-        "type": "toggle",
-        "img": "images/items/turnblock.png",
-        "disabled_img": "images/items/turnblock.png",
-        "codes": "hardlogic_bb1_norsp"
-    },
-    {
         "name": "Cheese Bridge Area - Secret Exit with Yoshi",
         "type": "toggle",
         "img": "images/items/turnblock.png",
@@ -904,6 +918,13 @@
         "img": "images/items/turnblock.png",
         "disabled_img": "images/items/turnblock.png",
         "codes": "hardlogic_tbc_climbless"
+    },
+    {
+        "name": "Forest of Illusion 1 - Secret Exit with Cape",
+        "type": "toggle",
+        "img": "images/items/turnblock.png",
+        "disabled_img": "images/items/turnblock.png",
+        "codes": "hardlogic_fi1_capeexit2"
     },
     {
         "name": "Forest of Illusion 1 - Secret Exit with Yoshi",
@@ -941,6 +962,13 @@
         "codes": "hardlogic_fsa_itemless1upblock"
     },
     {
+        "name": "Chocolate Island 1 - Damage Boost Past Munchers",
+        "type": "toggle",
+        "img": "images/items/turnblock.png",
+        "disabled_img": "images/items/turnblock.png",
+        "codes": "hardlogic_ci1_muncherdboost"
+    },
+    {
         "name": "Valley of Bowser 3 - Itemless Powerup block",
         "type": "toggle",
         "img": "images/items/turnblock.png",
@@ -953,6 +981,13 @@
         "img": "images/items/turnblock.png",
         "disabled_img": "images/items/turnblock.png",
         "codes": "hardlogic_vb4_yoshivineskip"
+    },
+    {
+        "name": "Valley of Bowser 4 - Climbless Secret via Yoshi and Midway",
+        "type": "toggle",
+        "img": "images/items/turnblock.png",
+        "disabled_img": "images/items/turnblock.png",
+        "codes": "hardlogic_vb4_climblessmidway"
     },
     {
         "name": "Valley Ghost House - True Carryless Secret Exit",

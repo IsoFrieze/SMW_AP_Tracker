@@ -780,7 +780,7 @@
                         "name": "Secret Exit",
                         "access_rules": [
                             "$HasPSwitch, $CanCarry, $CanRun",
-                            "hardlogic_vbh_exit2carryless, $HasPSwitch, $CanRun"
+                            "hardlogic_vbh_exit2carryless, carryless_vb4, $HasPSwitch, $CanRun"
                         ]
                     }
                 ]

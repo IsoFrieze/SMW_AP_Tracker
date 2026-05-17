@@ -116,10 +116,14 @@ This tab controls all of the extra logic settings. In order these are:
   - Consider the ability to jump off of Yoshi to get to the secret exit
 - Donut Plains 2 - Yoshi Jump to Key
   - Consider the ability to jump off of Yoshi to get to the secret exit
+- onut Ghost House - Spin Jump off Boo
+  - Consider the ability to take a ride on the Boo by spin jumping to get up to the exit door
 - Vanilla Dome 1 - Itemless Sinking Platform
-  - Don't require Run and one of Big Mario or Super Star to get passed the sinking platform room
+  - Don't require Run and one of Big Mario or Super Star to get past the sinking platform room
 - Vanilla Dome 2 - Climbless Secret via Yoshi and Midway
   - Consider the ability to bring Yoshi into the midway point of the level and use his tongue to get the secret exit
+- Vanilla Dome 3 - Bonus Room Wall Running
+  - Consider the ability to wall run up to the bonus room pipe
 - Vanilla Dome 4 - Sacrifice for Coin Block #8
   - Consider being able to jump off of Yoshi or Cape swipe the last coin block in the big row of blocks
 - Vanilla Secret 1 - Wall Running
@@ -148,6 +152,8 @@ This tab controls all of the extra logic settings. In order these are:
   - Don't require Blue Switch to hit the 1-Up block
 - Chocolate Island 1 - Damage Boost Past Munchers
   - Consider the ability to take an intentional hit to get past the row of Munchers
+- Valley of Bowser 1 - Bonus Room Yoshi Jump
+  - Consider the ability to jump off of Yoshi to get to the bonus room
 - Valley of Bowser 3 - Itemless Powerup block
   - Don't require Carry to be able to hit the item block by the midway point
 - Valley of Bowser 4 - Yoshi Climb
@@ -160,6 +166,8 @@ This tab controls all of the extra logic settings. In order these are:
   - Consider the ability to start the level with a Super Star via the overworld inventory
 - Star World 4 - Carryless Secret Exit with Yoshi sacrifice
   - Consider the ability to jump off of Yoshi to get to the secret exit when the keyhole has been replaced with a red orb
+- Gnarly - Climbless with Flight
+  - Consider the ability to fly up the level with cape or Yoshi without climbing up the vines
 - Awesome - Itemless
   - Don't require Super Star or one of Carry or P-Switch to complete the level
 - Mondo - Swimless

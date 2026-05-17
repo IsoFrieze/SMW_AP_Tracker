@@ -857,6 +857,13 @@
         "codes": "hardlogic_dp2_yoshikey"
     },
     {
+        "name": "Donut Ghost House - Spin Jump off Boo",
+        "type": "toggle",
+        "img": "images/items/turnblock.png",
+        "disabled_img": "images/items/turnblock.png",
+        "codes": "hardlogic_dgh_boojump"
+    },
+    {
         "name": "Vanilla Dome 1 - Itemless Sinking Platform",
         "type": "toggle",
         "img": "images/items/turnblock.png",
@@ -869,6 +876,13 @@
         "img": "images/items/turnblock.png",
         "disabled_img": "images/items/turnblock.png",
         "codes": "hardlogic_vd2_climblessmidway"
+    },
+    {
+        "name": "Vanilla Dome 3 - Bonus Room Wall Running",
+        "type": "toggle",
+        "img": "images/items/turnblock.png",
+        "disabled_img": "images/items/turnblock.png",
+        "codes": "hardlogic_vd3_bonuswallrun"
     },
     {
         "name": "Vanilla Dome 4 - Sacrifice for Coin Block #8",
@@ -969,6 +983,13 @@
         "codes": "hardlogic_ci1_muncherdboost"
     },
     {
+        "name": "Valley of Bowser 1 - Bonus Room Yoshi Jump",
+        "type": "toggle",
+        "img": "images/items/turnblock.png",
+        "disabled_img": "images/items/turnblock.png",
+        "codes": "hardlogic_vb1_bonusyoshijump"
+    },
+    {
         "name": "Valley of Bowser 3 - Itemless Powerup block",
         "type": "toggle",
         "img": "images/items/turnblock.png",
@@ -1009,6 +1030,13 @@
         "img": "images/items/turnblock.png",
         "disabled_img": "images/items/turnblock.png",
         "codes": "hardlogic_sr4_yoshiexit2"
+    },
+    {
+        "name": "Gnarly - Climbless with Flight",
+        "type": "toggle",
+        "img": "images/items/turnblock.png",
+        "disabled_img": "images/items/turnblock.png",
+        "codes": "hardlogic_sz1_climbless"
     },
     {
         "name": "Awesome - Itemless",

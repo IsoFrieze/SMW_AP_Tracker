@@ -807,6 +807,13 @@
         "codes": "carryless_vb4"
     },
     {
+        "name": "Valley Ghost House Carryless Exit",
+        "type": "toggle",
+        "img": "images/checks/red_sphere.png",
+        "disabled_img": "images/checks/red_sphere.png",
+        "codes": "carryless_vbh"
+    },
+    {
         "name": "Star World 1 Carryless Exit",
         "type": "toggle",
         "img": "images/checks/red_sphere.png",

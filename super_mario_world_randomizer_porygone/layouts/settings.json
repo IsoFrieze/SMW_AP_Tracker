@@ -355,6 +355,7 @@
                     "item_size": "40",
                     "rows": [
                         [
+                            "hardlogic_yi4_dragoncoins"
                         ]
                     ]
                 }
@@ -439,7 +440,9 @@
                     "item_size": "40",
                     "rows": [
                         [
-                            "hardlogic_ci1_muncherdboost"
+                            "hardlogic_ci1_muncherdboost",
+                            "hardlogic_ci4_dragoncointiming",
+                            "hardlogic_sgs_dragoncoinsfall"
                         ]
                     ]
                 }

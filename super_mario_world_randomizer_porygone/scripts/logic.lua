@@ -117,6 +117,10 @@ function HasExtraDefense()
     return Tracker:FindObjectForCode("extra_defense").Active
 end
 
+function HasSpecialEffects()
+    return Tracker:FindObjectForCode("special").Active
+end
+
 function CanBreakTurnBlocks()
     return HasMushroom() and CanSpinJump()
 end

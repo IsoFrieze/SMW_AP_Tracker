@@ -112,11 +112,13 @@ If you are connected to an Archipelago server, these currently do not sync as it
 #### Extra Logic
 This tab controls all of the extra logic settings. In order these are:
 
+- Yoshi's Island 4 - Dragon Coin Sacrifice
+  - Don't require any items to get the dragon coin over the water (grab it last)
 - Donut Plains 1 - Yoshi Jump to Key
   - Consider the ability to jump off of Yoshi to get to the secret exit
 - Donut Plains 2 - Yoshi Jump to Key
   - Consider the ability to jump off of Yoshi to get to the secret exit
-- onut Ghost House - Spin Jump off Boo
+- Donut Ghost House - Spin Jump off Boo
   - Consider the ability to take a ride on the Boo by spin jumping to get up to the exit door
 - Vanilla Dome 1 - Itemless Sinking Platform
   - Don't require Run and one of Big Mario or Super Star to get past the sinking platform room
@@ -152,6 +154,10 @@ This tab controls all of the extra logic settings. In order these are:
   - Don't require Blue Switch to hit the 1-Up block
 - Chocolate Island 1 - Damage Boost Past Munchers
   - Consider the ability to take an intentional hit to get past the row of Munchers
+- Chocolate Island 4 - Perfect Dragon Coin Timing
+  - Consider the ability to time the jump down to the Dragon Coin in the bonus room perfectly with the P-Switch running out
+- Sunken Ghost Ship - Free Falling Dragon Coins
+  - Don't require Feather to get all the Dragon Coins in the falling room
 - Valley of Bowser 1 - Bonus Room Yoshi Jump
   - Consider the ability to jump off of Yoshi to get to the bonus room
 - Valley of Bowser 3 - Itemless Powerup block

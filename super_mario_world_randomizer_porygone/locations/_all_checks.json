@@ -227,6 +227,7 @@
                         "access_rules": [
                             "$CanClimb, $CanCarry, $HasYoshi",
                             "$CanClimb, $CanCarry, $HasRSP",
+                            "$CanYoshiCarry, $EnemiesNotShuffled",
                             "$CanClimb, carryless_vd1, $HasYoshi",
                             "$CanClimb, carryless_vd1, $HasRSP"
                         ]
@@ -282,6 +283,7 @@
                         "name": "Normal Exit",
                         "access_rules": [
                             "$CanClimb",
+                            "$CanYoshiCarry, $EnemiesNotShuffled, $HasSpecialEffects",
                             "$CanWallRun, hardlogic_vs1_wallrun"
                         ]
                     },
@@ -289,6 +291,7 @@
                         "name": "Secret Exit",
                         "access_rules": [
                             "$CanClimb, $CanCarry, $HasBSP",
+                            "$CanYoshiCarry, $EnemiesNotShuffled, $HasSpecialEffects",
                             "$CanWallRun, hardlogic_vs1_wallrun, $CanCarry, $HasBSP"
                         ]
                     }
@@ -450,6 +453,7 @@
                         "name": "Secret Exit",
                         "access_rules": [
                             "$CanCarry, $HasPBalloon",
+                            "$CanYoshiCarry, $EnemiesNotShuffled, $HasSpecialEffects",
                             "carryless_fi1, $HasPBalloon",
                             "$CanCarry, hardlogic_fi1_yoshiexit2, $HasYoshi",
                             "carryless_fi1, hardlogic_fi1_yoshiexit2, $HasYoshi",
@@ -1864,7 +1868,7 @@
                         "name": "Room 0x00F3",
                         "access_rules": [
                             "$EnemiesNotShuffled",
-                            "$EnemiesShuffled, $HasRSP"
+                            "$HasRSP"
                         ]
                     }
                 ]
@@ -2670,7 +2674,8 @@
                         "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
                             "$HasYoshi",
-                            "$CanClimb"
+                            "$CanClimb",
+                            "$CanCapeFly"
                         ]
                     },
                     {
@@ -2697,7 +2702,11 @@
                     {
                         "name": "Dragon Coin #2",
                         "visibility_rules": [ "individual_dragon_coins" ],
-                        "access_rules": [ "$HasPSwitch" ]
+                        "access_rules": [
+                            "$HasPSwitch",
+                            "$HasFeather",
+                            "$HasYoshi"
+                        ]
                     },
                     {
                         "name": "Dragon Coin #3",
@@ -2746,7 +2755,8 @@
                         "access_rules": [
                             "$HasYoshi",
                             "$CanSwim",
-                            "$HasPSwitch"
+                            "$HasPSwitch",
+                            "hardlogic_yi4_dragoncoins"
                         ]
                     },
                     {
@@ -2973,7 +2983,8 @@
                         "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
                             "$CanClimb",
-                            "$HasYoshi"
+                            "$HasYoshi",
+                            "$CanCapeFly"
                         ]
                     },
                     {
@@ -3011,9 +3022,9 @@
                         "name": "Dragon Coin #2",
                         "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
-                            "$CanCarry, $CanRun, $HasSuperStar|2",
-                            "$CanCarry, $CanRun, $HasMushroom",
-                            "$CanCarry, hardlogic_vd1_room2itemless"
+                            "$CanRun, $HasSuperStar|2",
+                            "$CanRun, $HasMushroom",
+                            "hardlogic_vd1_room2itemless"
                         ]
                     },
                     {
@@ -3029,18 +3040,18 @@
                         "name": "Dragon Coin #4",
                         "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
-                            "$CanCarry, $CanRun, $HasSuperStar|2",
-                            "$CanCarry, $CanRun, $HasMushroom",
-                            "$CanCarry, hardlogic_vd1_room2itemless"
+                            "$CanRun, $HasSuperStar|2",
+                            "$CanRun, $HasMushroom",
+                            "hardlogic_vd1_room2itemless"
                         ]
                     },
                     {
                         "name": "Dragon Coin #5",
                         "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
-                            "$CanCarry, $CanRun, $HasSuperStar|2",
-                            "$CanCarry, $CanRun, $HasMushroom",
-                            "$CanCarry, hardlogic_vd1_room2itemless"
+                            "$CanRun, $HasSuperStar|2",
+                            "$CanRun, $HasMushroom",
+                            "hardlogic_vd1_room2itemless"
                         ]
                     }
                 ]
@@ -3091,7 +3102,8 @@
                         "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
                             "$CanSwim, $CanCarry, $HasPSwitch, $CanClimb",
-                            "$CanSwim, $CanCarry, $HasPSwitch, $HasYoshi"
+                            "$CanSwim, $CanCarry, $HasPSwitch, $HasYoshi",
+                            "hardlogic_vd2_climblessmidway, $CanSwim, $CanYoshiCarry, $HasPSwitch, $HasMidway"
                         ]
                     }
                 ]
@@ -3133,7 +3145,10 @@
                     {
                         "name": "Dragon Coin #6",
                         "visibility_rules": [ "individual_dragon_coins" ],
-                        "access_rules": [ "$CanCapeFly" ]
+                        "access_rules": [
+                            "$CanCapeFly",
+                            "$CanYoshiFly, $EnemiesNotShuffled"
+                        ]
                     }
                 ]
             },
@@ -3192,7 +3207,8 @@
                         "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
                             "$CanClimb",
-                            "hardlogic_vs1_wallrun, $CanWallRun"
+                            "hardlogic_vs1_wallrun, $CanWallRun",
+                            "$CanYoshiCarry, $EnemiesNotShuffled, $HasSpecialEffects"
                         ]
                     },
                     {
@@ -3200,7 +3216,8 @@
                         "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
                             "$CanClimb",
-                            "hardlogic_vs1_wallrun, $CanWallRun"
+                            "hardlogic_vs1_wallrun, $CanWallRun",
+                            "$CanYoshiCarry, $EnemiesNotShuffled, $HasSpecialEffects"
                         ]
                     },
                     {
@@ -3208,7 +3225,8 @@
                         "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
                             "$CanClimb, $CanCarry",
-                            "hardlogic_vs1_wallrun, $CanWallRun, $CanCarry"
+                            "hardlogic_vs1_wallrun, $CanWallRun, $CanCarry",
+                            "$CanYoshiCarry, $EnemiesNotShuffled, $HasSpecialEffects"
                         ]
                     },
                     {
@@ -3216,7 +3234,8 @@
                         "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
                             "$CanClimb, $CanCarry",
-                            "hardlogic_vs1_wallrun, $CanWallRun"
+                            "hardlogic_vs1_wallrun, $CanWallRun",
+                            "$CanYoshiCarry, $EnemiesNotShuffled, $HasSpecialEffects"
                         ]
                     }
                 ]
@@ -3233,7 +3252,10 @@
                     {
                         "name": "Dragon Coin #1",
                         "visibility_rules": [ "individual_dragon_coins" ],
-                        "access_rules": [ "$CanCapeFly" ]
+                        "access_rules": [
+                            "$CanCapeFly",
+                            "$HasYoshi"
+                        ]
                     },
                     {
                         "name": "Dragon Coin #2",
@@ -3374,7 +3396,7 @@
                         "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
                             "$EnemiesNotShuffled",
-                            "$EnemiesShuffled, $HasRSP"
+                            "$HasRSP"
                         ]
                     },
                     {
@@ -3382,7 +3404,7 @@
                         "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
                             "$EnemiesNotShuffled",
-                            "$EnemiesShuffled, $HasRSP"
+                            "$HasRSP"
                         ]
                     }
                 ]
@@ -3407,7 +3429,8 @@
                         "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
                             "$HasMushroom",
-                            "$HasYoshi"
+                            "$HasYoshi",
+                            "$EnemiesNotShuffled"
                         ]
                     },
                     {
@@ -3512,7 +3535,8 @@
                         "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
                             "$HasYoshi",
-                            "$CanClimb"
+                            "$CanClimb",
+                            "$CanCapeFly"
                         ]
                     },
                     {
@@ -4007,7 +4031,11 @@
                     {
                         "name": "Dragon Coin #5",
                         "visibility_rules": [ "individual_dragon_coins" ],
-                        "access_rules": [ "$HasPSwitch, $HasFeather" ]
+                        "access_rules": [
+                            "$HasPSwitch, $HasFeather",
+                            "$HasPSwitch, $HasYoshi",
+                            "$HasPSwitch, hardlogic_ci4_dragoncointiming"
+                        ]
                     }
                 ]
             },
@@ -4033,7 +4061,10 @@
                     {
                         "name": "Dragon Coin #3",
                         "visibility_rules": [ "individual_dragon_coins" ],
-                        "access_rules": []
+                        "access_rules": [
+                            "$HasPSwitch",
+                            "$CanSwim"
+                        ]
                     },
                     {
                         "name": "Dragon Coin #4",
@@ -4043,10 +4074,7 @@
                     {
                         "name": "Dragon Coin #5",
                         "visibility_rules": [ "individual_dragon_coins" ],
-                        "access_rules": [
-                            "$HasPSwitch",
-                            "$CanSwim"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #6",
@@ -4073,27 +4101,42 @@
                     {
                         "name": "Dragon Coin #1",
                         "visibility_rules": [ "individual_dragon_coins" ],
-                        "access_rules": [ "$CanSwim" ]
+                        "access_rules": [
+                            "$CanSwim, $HasFeather",
+                            "$CanSwim, hardlogic_sgs_dragoncoinsfall"
+                        ]
                     },
                     {
                         "name": "Dragon Coin #2",
                         "visibility_rules": [ "individual_dragon_coins" ],
-                        "access_rules": [ "$CanSwim" ]
+                        "access_rules": [
+                            "$CanSwim, $HasFeather",
+                            "$CanSwim, hardlogic_sgs_dragoncoinsfall"
+                        ]
                     },
                     {
                         "name": "Dragon Coin #3",
                         "visibility_rules": [ "individual_dragon_coins" ],
-                        "access_rules": [ "$CanSwim" ]
+                        "access_rules": [
+                            "$CanSwim, $HasFeather",
+                            "$CanSwim, hardlogic_sgs_dragoncoinsfall"
+                        ]
                     },
                     {
                         "name": "Dragon Coin #4",
                         "visibility_rules": [ "individual_dragon_coins" ],
-                        "access_rules": [ "$CanSwim" ]
+                        "access_rules": [
+                            "$CanSwim, $HasFeather",
+                            "$CanSwim, hardlogic_sgs_dragoncoinsfall"
+                        ]
                     },
                     {
                         "name": "Dragon Coin #5",
                         "visibility_rules": [ "individual_dragon_coins" ],
-                        "access_rules": [ "$CanSwim" ]
+                        "access_rules": [
+                            "$CanSwim, $HasFeather",
+                            "$CanSwim, hardlogic_sgs_dragoncoinsfall"
+                        ]
                     }
                 ]
             },
@@ -4232,7 +4275,7 @@
                     {
                         "name": "Dragon Coin #2",
                         "visibility_rules": [ "individual_dragon_coins" ],
-                        "access_rules": [ ]
+                        "access_rules": []
                     },
                     {
                         "name": "Dragon Coin #3",
@@ -4752,7 +4795,10 @@
                 "sections": [
                     {
                         "name": "3-Up Moon",
-                        "access_rules": [ "$CanCapeFly" ]
+                        "access_rules": [
+                            "$CanCapeFly",
+                            "$CanYoshiFly, $EnemiesNotShuffled"
+                        ]
                     }
                 ]
             },
@@ -4762,7 +4808,10 @@
                 "sections": [
                     {
                         "name": "3-Up Moon",
-                        "access_rules": [ "$CanCapeFly" ]
+                        "access_rules": [
+                            "$CanCapeFly",
+                            "$CanYoshiFly, $EnemiesNotShuffled"
+                        ]
                     }
                 ]
             },
@@ -4809,7 +4858,10 @@
                 "sections": [
                     {
                         "name": "3-Up Moon",
-                        "access_rules": [ "$CanCapeFly" ]
+                        "access_rules": [
+                            "$CanCapeFly",
+                            "$HasYoshi"
+                        ]
                     }
                 ]
             },
@@ -4861,7 +4913,8 @@
                     {
                         "name": "Hidden 1-Up",
                         "access_rules": [
-                            "$CanCapeFly"
+                            "$CanCapeFly",
+                            "$CanYoshiFly, $EnemiesNotShuffled"
                         ]
                     }
                 ]
@@ -4915,7 +4968,8 @@
                         "name": "Hidden 1-Up",
                         "access_rules": [
                             "$CanSwim",
-                            "$CanWallRun"
+                            "$CanWallRun",
+                            "$HasYoshi"
                         ]
                     }
                 ]
@@ -5030,7 +5084,7 @@
                         "name": "Bonus 1-Up",
                         "access_rules": [
                             "$EnemiesNotShuffled",
-                            "$EnemiesShuffled, $HasRSP"
+                            "$HasRSP"
                         ]
                     }
                 ]
@@ -5391,14 +5445,16 @@
                         "name": "Coin Block #2",
                         "access_rules": [
                             "$CanClimb",
-                            "hardlogic_vs1_wallrun, $CanWallRun"
+                            "hardlogic_vs1_wallrun, $CanWallRun",
+                            "$CanYoshiCarry, $EnemiesNotShuffled, $HasSpecialEffects"
                         ]
                     },
                     {
                         "name": "Coin Block #3",
                         "access_rules": [
                             "$CanClimb",
-                            "hardlogic_vs1_wallrun, $CanWallRun"
+                            "hardlogic_vs1_wallrun, $CanWallRun",
+                            "$CanYoshiCarry, $EnemiesNotShuffled, $HasSpecialEffects"
                         ]
                     }
                 ]
@@ -5455,21 +5511,21 @@
                         "name": "Multi Coin Block #1",
                         "access_rules": [
                             "$EnemiesNotShuffled",
-                            "$EnemiesShuffled, $HasRSP"
+                            "$HasRSP"
                         ]
                     },
                     {
                         "name": "Multi Coin Block #2",
                         "access_rules": [
                             "$EnemiesNotShuffled",
-                            "$EnemiesShuffled, $HasRSP"
+                            "$HasRSP"
                         ]
                     },
                     {
                         "name": "Multi Coin Block #3",
                         "access_rules": [
                             "$EnemiesNotShuffled",
-                            "$EnemiesShuffled, $HasRSP"
+                            "$HasRSP"
                         ]
                     }
                 ]
@@ -6825,14 +6881,16 @@
                         "name": "Vine Block #2",
                         "access_rules": [
                             "$CanClimb",
-                            "hardlogic_vs1_wallrun, $CanWallRun"
+                            "hardlogic_vs1_wallrun, $CanWallRun",
+                            "$CanYoshiCarry, $EnemiesNotShuffled, $HasSpecialEffects"
                         ]
                     },
                     {
                         "name": "Powerup Block #2",
                         "access_rules": [
                             "$CanClimb",
-                            "hardlogic_vs1_wallrun, $CanWallRun"
+                            "hardlogic_vs1_wallrun, $CanWallRun",
+                            "$CanYoshiCarry, $EnemiesNotShuffled, $HasSpecialEffects"
                         ]
                     }
                 ]
@@ -6953,14 +7011,14 @@
                         "name": "Powerup Block #1",
                         "access_rules": [
                             "$EnemiesNotShuffled",
-                            "$EnemiesShuffled, $HasRSP"
+                            "$HasRSP"
                         ]
                     },
                     {
                         "name": "1-Up Mushroom Block #1",
                         "access_rules": [
                             "$EnemiesNotShuffled",
-                            "$EnemiesShuffled, $HasRSP"
+                            "$HasRSP"
                         ]
                     }
                 ]

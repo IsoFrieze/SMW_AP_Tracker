@@ -72,6 +72,7 @@ CARRYLESS_MAPPING = {
 }
 
 EXTRA_LOGIC_MAPPING = {
+    ["Yoshi's Island 4 - Dragon Coin Sacrifice"] = "hardlogic_yi4_dragoncoins",
     ["Donut Plains 1 - Yoshi Jump to Key"] = "hardlogic_dp1_yoshikey",
     ["Donut Plains 2 - Yoshi Jump to Key"] = "hardlogic_dp2_yoshikey",
     ["Donut Ghost House - Spin Jump off Boo"] = "hardlogic_dgh_boojump",
@@ -92,7 +93,9 @@ EXTRA_LOGIC_MAPPING = {
     ["Forest Ghost House - Skip second room"] = "hardlogic_fgh_room2skip",
     ["Forest Secret Area - Itemless 1-Up block"] = "hardlogic_fsa_itemless1upblock",
     ["Chocolate Island 1 - Damage Boost Past Munchers"] = "hardlogic_ci1_muncherdboost",
+    ["Chocolate Island 4 - Perfect Dragon Coin Timing"] = "hardlogic_ci4_dragoncointiming",
     ["Valley of Bowser 1 - Bonus Room Yoshi Jump"] = "hardlogic_vb1_bonusyoshijump",
+    ["Sunken Ghost Ship - Free Falling Dragon Coins"] = "hardlogic_sgs_dragoncoinsfall",
     ["Valley of Bowser 3 - Itemless Powerup block"] = "hardlogic_vb3_itemlessitemblock",
     ["Valley of Bowser 4 - Yoshi Climb"] = "hardlogic_vb4_yoshivineskip",
     ["Valley of Bowser 4 - Climbless Secret via Yoshi and Midway"] = "hardlogic_vb4_climblessmidway",

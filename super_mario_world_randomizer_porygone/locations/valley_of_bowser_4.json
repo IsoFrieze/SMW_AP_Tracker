@@ -235,6 +235,7 @@
                 "map_locations": [
                     {
                         "map": "vob4_main",
+                        "shape": "diamond",
                         "x": 1424,
                         "y": 328
                     }
@@ -283,6 +284,7 @@
                 "map_locations": [
                     {
                         "map": "vob4_sub",
+                        "shape": "diamond",
                         "x": 80,
                         "y": 312
                     }

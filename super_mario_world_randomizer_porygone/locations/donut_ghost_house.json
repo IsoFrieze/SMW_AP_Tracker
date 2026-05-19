@@ -308,16 +308,19 @@
                 "map_locations": [
                     {
                         "map": "dpgh_main",
+                        "shape": "diamond",
                         "x": 1240,
                         "y": 368
                     },
                     {
                         "map": "dpgh_sub_2",
+                        "shape": "diamond",
                         "x": 456,
                         "y": 272
                     },
                     {
                         "map": "dpgh_sub_3",
+                        "shape": "diamond",
                         "x": 216,
                         "y": 368
                     }
@@ -350,6 +353,7 @@
                 "map_locations": [
                     {
                         "map": "dpgh_sub_1",
+                        "shape": "diamond",
                         "x": 456,
                         "y": 272
                     }
@@ -370,6 +374,7 @@
                 "map_locations": [
                     {
                         "map": "dpgh_sub_2",
+                        "shape": "diamond",
                         "x": 88,
                         "y": 304
                     }
@@ -390,6 +395,7 @@
                 "map_locations": [
                     {
                         "map": "dpgh_sub_1",
+                        "shape": "diamond",
                         "x": 104,
                         "y": 112
                     }
@@ -410,6 +416,7 @@
                 "map_locations": [
                     {
                         "map": "dpgh_main",
+                        "shape": "diamond",
                         "x": 1736,
                         "y": 368
                     }

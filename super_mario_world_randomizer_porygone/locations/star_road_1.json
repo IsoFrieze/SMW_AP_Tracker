@@ -219,6 +219,7 @@
                 "map_locations": [
                     {
                         "map": "sr1_main_vert",
+                        "shape": "diamond",
                         "x": 2008,
                         "y": 192
                     }

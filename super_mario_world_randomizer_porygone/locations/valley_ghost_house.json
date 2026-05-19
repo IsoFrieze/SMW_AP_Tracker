@@ -407,11 +407,13 @@
                 "map_locations": [
                     {
                         "map": "vobgh_main",
+                        "shape": "diamond",
                         "x": 1000,
                         "y": 320
                     },
                     {
                         "map": "vobgh_sub_2",
+                        "shape": "diamond",
                         "x": 792,
                         "y": 368
                     }
@@ -440,11 +442,13 @@
                 "map_locations": [
                     {
                         "map": "vobgh_sub_1",
+                        "shape": "diamond",
                         "x": 904,
                         "y": 320
                     },
                     {
                         "map": "vobgh_sub_1",
+                        "shape": "diamond",
                         "x": 232,
                         "y": 800
                     }
@@ -477,11 +481,13 @@
                 "map_locations": [
                     {
                         "map": "vobgh_sub_1",
+                        "shape": "diamond",
                         "x": 40,
                         "y": 320
                     },
                     {
                         "map": "vobgh_sub_1",
+                        "shape": "diamond",
                         "x": 440,
                         "y": 800
                     }
@@ -518,6 +524,7 @@
                 "map_locations": [
                     {
                         "map": "vobgh_sub_1",
+                        "shape": "diamond",
                         "x": 968,
                         "y": 800
                     }
@@ -538,11 +545,13 @@
                 "map_locations": [
                     {
                         "map": "vobgh_sub_1",
+                        "shape": "diamond",
                         "x": 600,
                         "y": 800
                     },
                     {
                         "map": "vobgh_sub_1",
+                        "shape": "diamond",
                         "x": 744,
                         "y": 800
                     }

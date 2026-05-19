@@ -23,7 +23,7 @@ Each level map (accessible via all the other tabs) shows all the checks that are
 
 There is an additional box at the top left corner of each map. This is a summary of all checks within this room. For example, if there are three checks in the room (a dragon coin and two blocks), this box will include all three checks together. This is useful so you can see at a glance if there is anything you can get in this room. If the dragon coin is out of logic, but the two blocks are in logic, this box will be half red and half green. Room checks will also be found in this box.
 
-There are also boxes visible on every pipe and door. These boxes include summaries of all checks you can access by entering this level transition. This is useful so you can see at a glace if you need to go in that pipe or door.
+There are also boxes visible on every pipe and door that are diamond-shaped. These boxes include summaries of all checks you can access by entering this level transition. This is useful so you can see at a glace if you need to go in that pipe or door.
 
 ### Items View
 At the bottom of the tracker is a list of all of your current abilities. In order from left to right, top to bottom they are:

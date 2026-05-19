@@ -255,6 +255,7 @@
                 "map_locations": [
                     {
                         "map": "vob3_main",
+                        "shape": "diamond",
                         "x": 1728,
                         "y": 344
                     }
@@ -311,11 +312,13 @@
                 "map_locations": [
                     {
                         "map": "vob3_zbonus",
+                        "shape": "diamond",
                         "x": 200,
                         "y": 64
                     },
                     {
                         "map": "vob3_zbonus",
+                        "shape": "diamond",
                         "x": 24,
                         "y": 384
                     }

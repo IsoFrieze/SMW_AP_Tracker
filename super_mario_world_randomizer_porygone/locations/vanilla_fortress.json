@@ -167,11 +167,13 @@
                 "map_locations": [
                     {
                         "map": "vdf_main",
+                        "shape": "diamond",
                         "x": 904,
                         "y": 368
                     },
                     {
                         "map": "vdf_main",
+                        "shape": "diamond",
                         "x": 2000,
                         "y": 296
                     }

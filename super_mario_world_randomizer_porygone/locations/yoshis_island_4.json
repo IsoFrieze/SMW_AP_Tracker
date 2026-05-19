@@ -315,6 +315,7 @@
                 "map_locations": [
                     {
                         "map": "yi4_main",
+                        "shape": "diamond",
                         "x": 816,
                         "y": 376
                     }
@@ -335,6 +336,7 @@
                 "map_locations": [
                     {
                         "map": "yi4_main",
+                        "shape": "diamond",
                         "x": 1208,
                         "y": 784
                     }
@@ -391,6 +393,7 @@
                 "map_locations": [
                     {
                         "map": "yi4_sub_1",
+                        "shape": "diamond",
                         "x": 976,
                         "y": 344
                     }

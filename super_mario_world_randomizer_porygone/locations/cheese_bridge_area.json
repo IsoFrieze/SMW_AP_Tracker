@@ -512,6 +512,7 @@
                 "map_locations": [
                     {
                         "map": "tb3_main",
+                        "shape": "diamond",
                         "x": 536,
                         "y": 728
                     }
@@ -528,6 +529,7 @@
                 "map_locations": [
                     {
                         "map": "tb3_main",
+                        "shape": "diamond",
                         "x": 992,
                         "y": 824
                     }
@@ -600,6 +602,7 @@
                 "map_locations": [
                     {
                         "map": "tb3_sub_2",
+                        "shape": "diamond",
                         "x": 976,
                         "y": 296
                     }

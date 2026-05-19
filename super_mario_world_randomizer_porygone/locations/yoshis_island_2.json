@@ -559,6 +559,7 @@
                 "map_locations": [
                     {
                         "map": "yi2_main",
+                        "shape": "diamond",
                         "x": 1840,
                         "y": 792
                     }
@@ -647,6 +648,7 @@
                 "map_locations": [
                     {
                         "map": "yi2_sub_1",
+                        "shape": "diamond",
                         "x": 456,
                         "y": 368
                     }

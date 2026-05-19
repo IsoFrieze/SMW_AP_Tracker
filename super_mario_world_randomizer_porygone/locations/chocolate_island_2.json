@@ -808,6 +808,7 @@
                 "map_locations": [
                     {
                         "map": "ci2_main",
+                        "shape": "diamond",
                         "x": 984,
                         "y": 336
                     }
@@ -916,6 +917,7 @@
                 "map_locations": [
                     {
                         "map": "ci2_main",
+                        "shape": "diamond",
                         "x": 984,
                         "y": 368
                     }
@@ -1000,6 +1002,7 @@
                 "map_locations": [
                     {
                         "map": "ci2_main",
+                        "shape": "diamond",
                         "x": 984,
                         "y": 400
                     }
@@ -1036,16 +1039,19 @@
                 "map_locations": [
                     {
                         "map": "ci2_sub_1",
+                        "shape": "diamond",
                         "x": 1752,
                         "y": 336
                     },
                     {
                         "map": "ci2_sub_1",
+                        "shape": "diamond",
                         "x": 1752,
                         "y": 768
                     },
                     {
                         "map": "ci2_sub_1",
+                        "shape": "diamond",
                         "x": 1752,
                         "y": 1200
                     }
@@ -1086,16 +1092,19 @@
                 "map_locations": [
                     {
                         "map": "ci2_sub_1",
+                        "shape": "diamond",
                         "x": 1752,
                         "y": 368
                     },
                     {
                         "map": "ci2_sub_1",
+                        "shape": "diamond",
                         "x": 1752,
                         "y": 800
                     },
                     {
                         "map": "ci2_sub_1",
+                        "shape": "diamond",
                         "x": 1752,
                         "y": 1232
                     }
@@ -1148,16 +1157,19 @@
                 "map_locations": [
                     {
                         "map": "ci2_sub_1",
+                        "shape": "diamond",
                         "x": 1752,
                         "y": 400
                     },
                     {
                         "map": "ci2_sub_1",
+                        "shape": "diamond",
                         "x": 1752,
                         "y": 832
                     },
                     {
                         "map": "ci2_sub_1",
+                        "shape": "diamond",
                         "x": 1752,
                         "y": 1264
                     }
@@ -1178,11 +1190,13 @@
                 "map_locations": [
                     {
                         "map": "ci2_sub_2",
+                        "shape": "diamond",
                         "x": 984,
                         "y": 336
                     },
                     {
                         "map": "ci2_sub_2",
+                        "shape": "diamond",
                         "x": 984,
                         "y": 784
                     }
@@ -1215,11 +1229,13 @@
                 "map_locations": [
                     {
                         "map": "ci2_sub_2",
+                        "shape": "diamond",
                         "x": 984,
                         "y": 368
                     },
                     {
                         "map": "ci2_sub_2",
+                        "shape": "diamond",
                         "x": 984,
                         "y": 816
                     }

@@ -351,6 +351,7 @@
                 "map_locations": [
                     {
                         "map": "vdgh_main",
+                        "shape": "diamond",
                         "x": 1224,
                         "y": 800
                     }
@@ -371,6 +372,7 @@
                 "map_locations": [
                     {
                         "map": "vdgh_sub_1",
+                        "shape": "diamond",
                         "x": 1992,
                         "y": 368
                     }
@@ -427,6 +429,7 @@
                 "map_locations": [
                     {
                         "map": "vdgh_sub_1",
+                        "shape": "diamond",
                         "x": 1752,
                         "y": 368
                     }

@@ -519,6 +519,7 @@
                 "map_locations": [
                     {
                         "map": "vd2_main",
+                        "shape": "diamond",
                         "x": 1488,
                         "y": 776
                     }
@@ -623,6 +624,7 @@
                 "map_locations": [
                     {
                         "map": "vd2_sub_1",
+                        "shape": "diamond",
                         "x": 976,
                         "y": 312
                     }

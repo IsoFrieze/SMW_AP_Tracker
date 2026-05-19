@@ -327,6 +327,7 @@
                 "map_locations": [
                     {
                         "map": "yi1_main",
+                        "shape": "diamond",
                         "x": 1936,
                         "y": 360
                     }
@@ -391,6 +392,7 @@
                 "map_locations": [
                     {
                         "map": "yi1_sub_1",
+                        "shape": "diamond",
                         "x": 456,
                         "y": 368
                     }

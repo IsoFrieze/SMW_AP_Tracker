@@ -163,6 +163,7 @@
                 "map_locations": [
                     {
                         "map": "cigh_main",
+                        "shape": "diamond",
                         "x": 1416,
                         "y": 800
                     }
@@ -183,6 +184,7 @@
                 "map_locations": [
                     {
                         "map": "cigh_sub_1",
+                        "shape": "diamond",
                         "x": 616,
                         "y": 240
                     }

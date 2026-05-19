@@ -307,11 +307,13 @@
                 "map_locations": [
                     {
                         "map": "vobc_main",
+                        "shape": "diamond",
                         "x": 1784,
                         "y": 96
                     },
                     {
                         "map": "vobc_main",
+                        "shape": "diamond",
                         "x": 1992,
                         "y": 368
                     }

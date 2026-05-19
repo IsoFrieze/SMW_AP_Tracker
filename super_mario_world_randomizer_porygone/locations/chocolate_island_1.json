@@ -428,11 +428,13 @@
                 "map_locations": [
                     {
                         "map": "ci1_main",
+                        "shape": "diamond",
                         "x": 1712,
                         "y": 296
                     },
                     {
                         "map": "ci1_main",
+                        "shape": "diamond",
                         "x": 16,
                         "y": 1208
                     }
@@ -465,16 +467,19 @@
                 "map_locations": [
                     {
                         "map": "ci1_main_alt",
+                        "shape": "diamond",
                         "x": 1712,
                         "y": 296
                     },
                     {
                         "map": "ci1_main_alt",
+                        "shape": "diamond",
                         "x": 16,
                         "y": 1208
                     },
                     {
                         "map": "ci1_sub",
+                        "shape": "diamond",
                         "x": 976,
                         "y": 296
                     }
@@ -495,11 +500,13 @@
                 "map_locations": [
                     {
                         "map": "ci1_main",
+                        "shape": "diamond",
                         "x": 1920,
                         "y": 776
                     },
                     {
                         "map": "ci1_main_alt",
+                        "shape": "diamond",
                         "x": 1920,
                         "y": 776
                     }

@@ -135,16 +135,19 @@
                 "map_locations": [
                     {
                         "map": "tbc_main",
+                        "shape": "diamond",
                         "x": 1256,
                         "y": 320
                     },
                     {
                         "map": "tbc_zbonus",
+                        "shape": "diamond",
                         "x": 200,
                         "y": 64
                     },
                     {
                         "map": "tbc_zbonus",
+                        "shape": "diamond",
                         "x": 24,
                         "y": 384
                     }
@@ -169,6 +172,7 @@
                 "map_locations": [
                     {
                         "map": "tbc_sub_1",
+                        "shape": "diamond",
                         "x": 72,
                         "y": 368
                     }
@@ -185,6 +189,7 @@
                 "map_locations": [
                     {
                         "map": "tbc_main",
+                        "shape": "diamond",
                         "x": 1488,
                         "y": 104
                     }

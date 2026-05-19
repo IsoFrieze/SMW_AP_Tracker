@@ -360,6 +360,7 @@
                 "map_locations": [
                     {
                         "map": "sw3_main",
+                        "shape": "diamond",
                         "x": 1616,
                         "y": 88
                     }
@@ -408,6 +409,7 @@
                 "map_locations": [
                     {
                         "map": "sw3_sub_1",
+                        "shape": "diamond",
                         "x": 224,
                         "y": 328
                     }
@@ -448,6 +450,7 @@
                 "map_locations": [
                     {
                         "map": "sw3_main",
+                        "shape": "diamond",
                         "x": 600,
                         "y": 728
                     }

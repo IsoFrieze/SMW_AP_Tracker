@@ -427,6 +427,7 @@
                 "map_locations": [
                     {
                         "map": "ci3_main",
+                        "shape": "diamond",
                         "x": 1936,
                         "y": 232
                     }
@@ -511,6 +512,7 @@
                 "map_locations": [
                     {
                         "map": "ci3_sub",
+                        "shape": "diamond",
                         "x": 480,
                         "y": 344
                     }

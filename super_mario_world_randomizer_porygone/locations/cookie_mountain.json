@@ -935,6 +935,7 @@
                 "map_locations": [
                     {
                         "map": "tb4_main",
+                        "shape": "diamond",
                         "x": 960,
                         "y": 776
                     }
@@ -1127,6 +1128,7 @@
                 "map_locations": [
                     {
                         "map": "tb4_sub_1",
+                        "shape": "diamond",
                         "x": 64,
                         "y": 296
                     }

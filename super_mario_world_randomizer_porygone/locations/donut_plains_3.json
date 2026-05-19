@@ -335,6 +335,7 @@
                 "map_locations": [
                     {
                         "map": "dp3_main",
+                        "shape": "diamond",
                         "x": 1648,
                         "y": 696
                     }
@@ -407,11 +408,13 @@
                 "map_locations": [
                     {
                         "map": "dp3_zbonus",
+                        "shape": "diamond",
                         "x": 200,
                         "y": 64
                     },
                     {
                         "map": "dp3_zbonus",
+                        "shape": "diamond",
                         "x": 24,
                         "y": 384
                     }

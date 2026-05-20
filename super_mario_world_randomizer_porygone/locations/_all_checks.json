@@ -920,7 +920,7 @@
                             "$CanClimb, $HasPSwitch",
                             "$CanClimb, $CanCapeFly",
                             "hardlogic_sz1_climbless, $CanCapeFly",
-                            "hardlogic_sz1_climbless, $CanYoshiCarry, $EnemiesNotShuffled, $HasPSwitch",
+                            "hardlogic_sz1_climbless, $CanYoshiCarry, $EnemiesNotShuffled, $HasPSwitch"
                         ]
                     }
                 ]
@@ -1951,7 +1951,7 @@
                         "name": "Room 0x00DB",
                         "access_rules": [
                             "$CanRun",
-                            "hardlogic_tbc_runless",
+                            "hardlogic_tbc_runless"
                         ]
                     },
                     {
@@ -2500,7 +2500,7 @@
                         "access_rules": [
                             "$CanClimb",
                             "hardlogic_sz1_climbless, $CanCapeFly",
-                            "hardlogic_sz1_climbless, $CanYoshiCarry, $EnemiesNotShuffled",
+                            "hardlogic_sz1_climbless, $CanYoshiCarry, $EnemiesNotShuffled"
                         ]
                     }
                 ]
@@ -7567,7 +7567,7 @@
                         "access_rules": [
                             "$CanClimb, $HasYSP",
                             "$CanClimb, $HasFeather",
-                            "hardlogic_vb4_yoshivineskip, $HasYoshi, $HasYSP"
+                            "hardlogic_vb4_yoshivineskip, $HasYoshi, $HasYSP",
                             "hardlogic_vb4_yoshivineskip, $HasYoshi, $HasFeather"
                         ]
                     }

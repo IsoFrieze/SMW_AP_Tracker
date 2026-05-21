@@ -78,9 +78,9 @@
                         "access_rules": [
                             "$CanCarry, $HasGSP",
                             "$CanCarry, $CanCapeFly",
-                            "$CanYoshiCarry",
+                            "$CanYoshiFly",
                             "carryless_dp1, $HasGSP",
-                            "carryless_dp1, $CanCapeFly"
+                            "carryless_dp1, $CanFly"
                         ]
                     }
                 ]
@@ -97,9 +97,9 @@
                         "name": "Secret Exit",
                         "access_rules": [
                             "$CanYoshiCarry",
-                            "$CanClimb, $CanCarry, $CanBreakTurnBlocks",
-                            "$CanClimb, $CanCarry, $HasYoshi",
-                            "carryless_dp2, $CanClimb, $HasYoshi"
+                            "$CanCarry, $HasYoshi",
+                            "$CanCarry, $CanClimb, $CanBreakTurnBlocks",
+                            "carryless_dp2, $HasYoshi"
                         ]
                     }
                 ]
@@ -1919,7 +1919,10 @@
                     },
                     {
                         "name": "Room 0x00DB",
-                        "access_rules": []
+                        "access_rules": [
+                            "$CanRun",
+                            "hardlogic_tbc_runless"
+                        ]
                     },
                     {
                         "name": "Room 0x00DA",

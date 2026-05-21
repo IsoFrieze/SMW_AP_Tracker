@@ -101,9 +101,7 @@
                             "$CanYoshiCarry",
                             "$CanClimb, $CanCarry, $CanBreakTurnBlocks",
                             "$CanClimb, $CanCarry, $HasYoshi",
-                            "hardlogic_dp2_yoshikey, $CanCarry, $HasYoshi",
-                            "carryless_dp2, $CanClimb, $HasYoshi",
-                            "carryless_dp2, hardlogic_dp2_yoshikey, $HasYoshi"
+                            "carryless_dp2, $CanClimb, $HasYoshi"
                         ]
                     }
                 ]
@@ -1231,6 +1229,7 @@
                         "access_rules": [
                             "$CanCarry",
                             "$HasYoshi",
+                            "$CanCapeFly",
                             "hardlogic_fi3_itemlessbigpipe"
                         ]
                     }
@@ -1347,6 +1346,7 @@
                         "name": "Midway Point",
                         "access_rules": [
                             "$CanClimb",
+                            "$CanWallRun",
                             "hardlogic_vb4_yoshivineskip, $HasYoshi"
                         ]
                     }
@@ -1949,10 +1949,7 @@
                     },
                     {
                         "name": "Room 0x00DB",
-                        "access_rules": [
-                            "$CanRun",
-                            "hardlogic_tbc_runless"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Room 0x00DA",
@@ -2002,6 +1999,7 @@
                         "access_rules": [
                             "$CanCarry",
                             "$HasYoshi",
+                            "$CanCapeFly",
                             "hardlogic_fi3_itemlessbigpipe"
                         ]
                     },
@@ -3663,6 +3661,7 @@
                         "access_rules": [
                             "$CanCarry",
                             "$HasYoshi",
+                            "$CanCapeFly",
                             "hardlogic_fi3_itemlessbigpipe"
                         ]
                     },
@@ -3672,6 +3671,7 @@
                         "access_rules": [
                             "$CanCarry",
                             "$HasYoshi",
+                            "$CanCapeFly",
                             "hardlogic_fi3_itemlessbigpipe"
                         ]
                     },
@@ -3681,6 +3681,7 @@
                         "access_rules": [
                             "$CanCarry",
                             "$HasYoshi",
+                            "$CanCapeFly",
                             "hardlogic_fi3_itemlessbigpipe"
                         ]
                     },
@@ -3690,6 +3691,7 @@
                         "access_rules": [
                             "$CanCarry",
                             "$HasYoshi",
+                            "$CanCapeFly",
                             "hardlogic_fi3_itemlessbigpipe"
                         ]
                     }
@@ -4992,6 +4994,7 @@
                         "access_rules": [
                             "$CanCarry",
                             "$HasYoshi",
+                            "$CanCapeFly",
                             "hardlogic_fi3_itemlessbigpipe"
                         ]
                     }
@@ -5685,6 +5688,7 @@
                         "access_rules": [
                             "$CanCarry",
                             "$HasYoshi",
+                            "$CanCapeFly",
                             "hardlogic_fi3_itemlessbigpipe"
                         ]
                     },
@@ -5693,6 +5697,7 @@
                         "access_rules": [
                             "$CanCarry",
                             "$HasYoshi",
+                            "$CanCapeFly",
                             "hardlogic_fi3_itemlessbigpipe"
                         ]
                     },
@@ -5701,6 +5706,7 @@
                         "access_rules": [
                             "$CanCarry",
                             "$HasYoshi",
+                            "$CanCapeFly",
                             "hardlogic_fi3_itemlessbigpipe"
                         ]
                     },
@@ -5709,6 +5715,7 @@
                         "access_rules": [
                             "$CanCarry",
                             "$HasYoshi",
+                            "$CanCapeFly",
                             "hardlogic_fi3_itemlessbigpipe"
                         ]
                     },
@@ -5717,6 +5724,7 @@
                         "access_rules": [
                             "$CanCarry",
                             "$HasYoshi",
+                            "$CanCapeFly",
                             "hardlogic_fi3_itemlessbigpipe"
                         ]
                     },
@@ -5725,6 +5733,7 @@
                         "access_rules": [
                             "$CanCarry",
                             "$HasYoshi",
+                            "$CanCapeFly",
                             "hardlogic_fi3_itemlessbigpipe"
                         ]
                     },
@@ -5733,6 +5742,7 @@
                         "access_rules": [
                             "$CanCarry",
                             "$HasYoshi",
+                            "$CanCapeFly",
                             "hardlogic_fi3_itemlessbigpipe"
                         ]
                     },
@@ -5741,6 +5751,7 @@
                         "access_rules": [
                             "$CanCarry",
                             "$HasYoshi",
+                            "$CanCapeFly",
                             "hardlogic_fi3_itemlessbigpipe"
                         ]
                     },
@@ -5749,6 +5760,7 @@
                         "access_rules": [
                             "$CanCarry",
                             "$HasYoshi",
+                            "$CanCapeFly",
                             "hardlogic_fi3_itemlessbigpipe"
                         ]
                     },
@@ -5757,6 +5769,7 @@
                         "access_rules": [
                             "$CanCarry",
                             "$HasYoshi",
+                            "$CanCapeFly",
                             "hardlogic_fi3_itemlessbigpipe"
                         ]
                     },
@@ -5765,6 +5778,7 @@
                         "access_rules": [
                             "$CanCarry",
                             "$HasYoshi",
+                            "$CanCapeFly",
                             "hardlogic_fi3_itemlessbigpipe"
                         ]
                     },
@@ -5773,6 +5787,7 @@
                         "access_rules": [
                             "$CanCarry",
                             "$HasYoshi",
+                            "$CanCapeFly",
                             "hardlogic_fi3_itemlessbigpipe"
                         ]
                     },
@@ -5781,6 +5796,7 @@
                         "access_rules": [
                             "$CanCarry",
                             "$HasYoshi",
+                            "$CanCapeFly",
                             "hardlogic_fi3_itemlessbigpipe"
                         ]
                     },
@@ -5789,6 +5805,7 @@
                         "access_rules": [
                             "$CanCarry",
                             "$HasYoshi",
+                            "$CanCapeFly",
                             "hardlogic_fi3_itemlessbigpipe"
                         ]
                     },
@@ -5797,6 +5814,7 @@
                         "access_rules": [
                             "$CanCarry",
                             "$HasYoshi",
+                            "$CanCapeFly",
                             "hardlogic_fi3_itemlessbigpipe"
                         ]
                     },
@@ -5805,6 +5823,7 @@
                         "access_rules": [
                             "$CanCarry",
                             "$HasYoshi",
+                            "$CanCapeFly",
                             "hardlogic_fi3_itemlessbigpipe"
                         ]
                     },
@@ -5813,6 +5832,7 @@
                         "access_rules": [
                             "$CanCarry",
                             "$HasYoshi",
+                            "$CanCapeFly",
                             "hardlogic_fi3_itemlessbigpipe"
                         ]
                     },
@@ -5821,6 +5841,7 @@
                         "access_rules": [
                             "$CanCarry",
                             "$HasYoshi",
+                            "$CanCapeFly",
                             "hardlogic_fi3_itemlessbigpipe"
                         ]
                     },
@@ -5829,6 +5850,7 @@
                         "access_rules": [
                             "$CanCarry",
                             "$HasYoshi",
+                            "$CanCapeFly",
                             "hardlogic_fi3_itemlessbigpipe"
                         ]
                     },
@@ -5837,6 +5859,7 @@
                         "access_rules": [
                             "$CanCarry",
                             "$HasYoshi",
+                            "$CanCapeFly",
                             "hardlogic_fi3_itemlessbigpipe"
                         ]
                     },
@@ -5845,6 +5868,7 @@
                         "access_rules": [
                             "$CanCarry",
                             "$HasYoshi",
+                            "$CanCapeFly",
                             "hardlogic_fi3_itemlessbigpipe"
                         ]
                     },
@@ -5853,6 +5877,7 @@
                         "access_rules": [
                             "$CanCarry",
                             "$HasYoshi",
+                            "$CanCapeFly",
                             "hardlogic_fi3_itemlessbigpipe"
                         ]
                     },
@@ -5861,6 +5886,7 @@
                         "access_rules": [
                             "$CanCarry",
                             "$HasYoshi",
+                            "$CanCapeFly",
                             "hardlogic_fi3_itemlessbigpipe"
                         ]
                     },
@@ -5869,6 +5895,7 @@
                         "access_rules": [
                             "$CanCarry",
                             "$HasYoshi",
+                            "$CanCapeFly",
                             "hardlogic_fi3_itemlessbigpipe"
                         ]
                     }
@@ -7552,6 +7579,7 @@
                         "name": "Yoshi Block #1",
                         "access_rules": [
                             "$CanClimb",
+                            "$CanWallRun",
                             "hardlogic_vb4_yoshivineskip, $HasYoshi"
                         ]
                     },
@@ -7559,6 +7587,7 @@
                         "name": "1-Up Mushroom Block #1",
                         "access_rules": [
                             "$CanClimb, $CanBreakTurnBlocks",
+                            "$CanWallRun, $CanBreakTurnBlocks",
                             "hardlogic_vb4_yoshivineskip, $HasYoshi, $CanBreakTurnBlocks"
                         ]
                     },
@@ -7567,6 +7596,8 @@
                         "access_rules": [
                             "$CanClimb, $HasYSP",
                             "$CanClimb, $HasFeather",
+                            "$CanWallRun, $HasYSP",
+                            "$CanWallRun, $HasFeather",
                             "hardlogic_vb4_yoshivineskip, $HasYoshi, $HasYSP",
                             "hardlogic_vb4_yoshivineskip, $HasYoshi, $HasFeather"
                         ]

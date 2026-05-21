@@ -116,8 +116,6 @@ This tab controls all of the extra logic settings. In order these are:
   - Don't require any items to get the dragon coin over the water (grab it last)
 - Donut Plains 1 - Yoshi Jump to Key
   - Consider the ability to jump off of Yoshi to get to the secret exit
-- Donut Plains 2 - Yoshi Jump to Key
-  - Consider the ability to jump off of Yoshi to get to the secret exit
 - Donut Ghost House - Spin Jump off Boo
   - Consider the ability to take a ride on the Boo by spin jumping to get up to the exit door
 - Vanilla Dome 1 - Itemless Sinking Platform

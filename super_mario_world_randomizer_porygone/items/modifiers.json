@@ -857,13 +857,6 @@
         "codes": "hardlogic_dp1_yoshikey"
     },
     {
-        "name": "Donut Plains 2 - Yoshi Jump to Key",
-        "type": "toggle",
-        "img": "images/items/turnblock.png",
-        "disabled_img": "images/items/turnblock.png",
-        "codes": "hardlogic_dp2_yoshikey"
-    },
-    {
         "name": "Donut Ghost House - Spin Jump off Boo",
         "type": "toggle",
         "img": "images/items/turnblock.png",

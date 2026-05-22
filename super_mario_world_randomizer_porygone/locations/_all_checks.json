@@ -769,8 +769,8 @@
                     {
                         "name": "Secret Exit",
                         "access_rules": [
-                            "$HasClimb, $CanYoshiCarry",
-                            "carryless_vb4, $HasClimb",
+                            "$CanClimb, $CanYoshiCarry",
+                            "carryless_vb4, $CanClimb",
                             "hardlogic_vb4_yoshivineskip, carryless_vb4, $HasYoshi",
                             "hardlogic_vb4_climblessmidway, $HasMidway, $CanYoshiCarry"
                         ]
@@ -1745,7 +1745,7 @@
                         "name": "Room 0x01F0",
                         "access_rules": [
                             "$CanClimb, $CanCarry, $HasBSP",
-                            "$AnyYoshiFlyUnshuffledRedShell",
+                            "$CanAnyYoshiFlyUnshuffledRedShell",
                             "hardlogic_vs1_wallrun, $CanWallRun, $CanCarry, $HasBSP"
                         ]
                     },
@@ -1753,7 +1753,7 @@
                         "name": "Room 0x01F1",
                         "access_rules": [
                             "$CanClimb",
-                            "$AnyYoshiFlyUnshuffledRedShell",
+                            "$CanAnyYoshiFlyUnshuffledRedShell",
                             "hardlogic_vs1_wallrun, $CanWallRun"
                         ]
                     }
@@ -7209,7 +7209,7 @@
                         "name": "Key Block #1",
                         "access_rules": [
                             "$HasPBalloon",
-                            "$CanAnyYoshiFlyUnshuffeledRedShell",
+                            "$CanAnyYoshiFlyUnshuffledRedShell",
                             "hardlogic_fi1_yoshiexit2, $HasYoshi",
                             "hardlogic_fi1_capeexit2, $CanCapeFly"
                         ]
@@ -7427,21 +7427,21 @@
                     {
                         "name": "1-Up Mushroom Block #1",
                         "access_rules": [
-                            "$CanFly",
+                            "$CanCapeFly",
                             "$CanAnyYoshiFlyBlueShell"
                         ]
                     },
                     {
                         "name": "1-Up Mushroom Block #2",
                         "access_rules": [
-                            "$CanFly",
+                            "$CanCapeFly",
                             "$CanAnyYoshiFlyBlueShell"
                         ]
                     },
                     {
                         "name": "1-Up Mushroom Block #3",
                         "access_rules": [
-                            "$CanFly",
+                            "$CanCapeFly",
                             "$CanAnyYoshiFlyBlueShell"
                         ]
                     }

@@ -190,34 +190,19 @@ function CanCarryOrYoshiTongue()
     return CanCarry() or CanYoshiCarry()
 end
 
--- Used when a green or yellow (and no blue or disco or red) shell is in the level that can be shuffled away
-function CanBlueYoshiFlyUnshuffled()
-    return EnemiesNotShuffled() and CanBlueYoshiFly()
+-- Used when a blue or disco shell is guaranteed in the level
+function CanAnyYoshiFlyBlueShell()
+    return CanYoshiCarry()
 end
 
--- Used when a red (and no blue) shell is in the level that can be shuffled away
-function CanAnyYoshiFlyUnshuffledRedShell()
-    return EnemiesNotShuffled() and CanYoshiCarry() and (HasSpecialEffects() or CanGetBlueYoshi())
-end
-
--- Used when a blue or disco shell is in the level that can be shuffled away
-function CanAnyYoshiFlyUnshuffledBlueShell()
-    return EnemiesNotShuffled() and CanYoshiCarry()
-end
-
--- Used when a green or yellow (and no blue or disco or red) shell is guaranteed in the level even during enemy shuffle
-function CanBlueYoshiFly()
-    return CanYoshiCarry() and CanGetBlueYoshi()
-end
-
--- Used when a red (and no blue) shell is guaranteed in the level even during enemy shuffle
+-- Used when a red (and no blue or disco) shell is guaranteed in the level
 function CanAnyYoshiFlyRedShell()
     return CanYoshiCarry() and (HasSpecialEffects() or CanGetBlueYoshi())
 end
 
--- Used when a blue or disco shell is guaranteed in the level even during enemy shuffle
-function CanAnyYoshiFlyBlueShell()
-    return CanYoshiCarry()
+-- Used when a green or yellow (and no blue or disco or red) shell is guaranteed in the level
+function CanBlueYoshiFly()
+    return CanYoshiCarry() and CanGetBlueYoshi()
 end
 
 function CanCapeSpinFly()

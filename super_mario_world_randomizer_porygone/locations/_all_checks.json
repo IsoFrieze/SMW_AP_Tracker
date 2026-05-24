@@ -9693,32 +9693,28 @@
                         "name": "P-Switch Coin Block #10",
                         "access_rules": [
                             "$CanClimb, $HasFeather",
-                            "hardlogic_sz1_climbless, $CanCapeFly",
-                            "hardlogic_sz1_climbless, $EnemiesNotShuffled, $CanAnyYoshiFlyBlueShell"
+                            "hardlogic_sz1_climbless, $CanCapeFly"
                         ]
                     },
                     {
                         "name": "P-Switch Coin Block #11",
                         "access_rules": [
                             "$CanClimb, $HasFeather",
-                            "hardlogic_sz1_climbless, $CanCapeFly",
-                            "hardlogic_sz1_climbless, $EnemiesNotShuffled, $CanAnyYoshiFlyBlueShell"
+                            "hardlogic_sz1_climbless, $CanCapeFly"
                         ]
                     },
                     {
                         "name": "P-Switch Coin Block #12",
                         "access_rules": [
                             "$CanClimb, $HasFeather",
-                            "hardlogic_sz1_climbless, $CanCapeFly",
-                            "hardlogic_sz1_climbless, $EnemiesNotShuffled, $CanAnyYoshiFlyBlueShell"
+                            "hardlogic_sz1_climbless, $CanCapeFly"
                         ]
                     },
                     {
                         "name": "P-Switch Coin Block #13",
                         "access_rules": [
                             "$CanClimb, $HasFeather",
-                            "hardlogic_sz1_climbless, $CanCapeFly",
-                            "hardlogic_sz1_climbless, $EnemiesNotShuffled, $CanAnyYoshiFlyBlueShell"
+                            "hardlogic_sz1_climbless, $CanCapeFly"
                         ]
                     }
                 ]

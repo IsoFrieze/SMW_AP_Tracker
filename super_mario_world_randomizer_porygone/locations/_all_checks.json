@@ -71,10 +71,12 @@
                 "sections": [
                     {
                         "name": "Normal Exit",
+                        "visibility_rules": [ "$Not|swapped_dp1" ],
                         "access_rules": []
                     },
                     {
                         "name": "Secret Exit",
+                        "visibility_rules": [ "$Not|swapped_dp1" ],
                         "access_rules": [
                             "$CanCarry, $HasGSP",
                             "$CanCarry, $CanCapeFly",
@@ -82,6 +84,16 @@
                             "carryless_dp1, $HasGSP",
                             "carryless_dp1, $CanFly"
                         ]
+                    },
+                    {
+                        "name": "Swapped Normal Exit",
+                        "visibility_rules": [ "swapped_dp1" ],
+                        "access_rules": [ "@Exits/DP1/Secret Exit" ]
+                    },
+                    {
+                        "name": "Swapped Secret Exit",
+                        "visibility_rules": [ "swapped_dp1" ],
+                        "access_rules": [ "@Exits/DP1/Normal Exit" ]
                     }
                 ]
             },
@@ -91,16 +103,28 @@
                 "sections": [
                     {
                         "name": "Normal Exit",
+                        "visibility_rules": [ "$Not|swapped_dp2" ],
                         "access_rules": []
                     },
                     {
                         "name": "Secret Exit",
+                        "visibility_rules": [ "$Not|swapped_dp2" ],
                         "access_rules": [
                             "$CanYoshiCarry",
                             "$CanCarry, $HasYoshi",
                             "$CanCarry, $CanClimb, $CanBreakTurnBlocks",
                             "carryless_dp2, $HasYoshi"
                         ]
+                    },
+                    {
+                        "name": "Swapped Normal Exit",
+                        "visibility_rules": [ "swapped_dp2" ],
+                        "access_rules": [ "@Exits/DP2/Secret Exit" ]
+                    },
+                    {
+                        "name": "Swapped Secret Exit",
+                        "visibility_rules": [ "swapped_dp2" ],
+                        "access_rules": [ "@Exits/DP2/Normal Exit" ]
                     }
                 ]
             },
@@ -130,14 +154,26 @@
                 "sections": [
                     {
                         "name": "Normal Exit",
+                        "visibility_rules": [ "$Not|swapped_ds1" ],
                         "access_rules": [ "$CanSwim" ]
                     },
                     {
                         "name": "Secret Exit",
+                        "visibility_rules": [ "$Not|swapped_ds1" ],
                         "access_rules": [
                             "$CanSwim, $CanCarryOrYoshiTongue, $HasPSwitch",
                             "$CanSwim, carryless_ds1"
                         ]
+                    },
+                    {
+                        "name": "Swapped Normal Exit",
+                        "visibility_rules": [ "swapped_ds1" ],
+                        "access_rules": [ "@Exits/DS1/Secret Exit" ]
+                    },
+                    {
+                        "name": "Swapped Secret Exit",
+                        "visibility_rules": [ "swapped_ds1" ],
+                        "access_rules": [ "@Exits/DS1/Normal Exit" ]
                     }
                 ]
             },
@@ -157,14 +193,26 @@
                 "sections": [
                     {
                         "name": "Normal Exit",
+                        "visibility_rules": [ "$Not|swapped_dgh" ],
                         "access_rules": [ "$CanCapeFly" ]
                     },
                     {
                         "name": "Secret Exit",
+                        "visibility_rules": [ "$Not|swapped_dgh" ],
                         "access_rules": [
                             "$CanClimb",
                             "$CanCapeFly"
                         ]
+                    },
+                    {
+                        "name": "Swapped Normal Exit",
+                        "visibility_rules": [ "swapped_dgh" ],
+                        "access_rules": [ "@Exits/DGH/Secret Exit" ]
+                    },
+                    {
+                        "name": "Swapped Secret Exit",
+                        "visibility_rules": [ "swapped_dgh" ],
+                        "access_rules": [ "@Exits/DGH/Normal Exit" ]
                     }
                 ]
             },
@@ -174,14 +222,26 @@
                 "sections": [
                     {
                         "name": "Normal Exit",
+                        "visibility_rules": [ "$Not|swapped_dsh" ],
                         "access_rules": [ "$HasPSwitch" ]
                     },
                     {
                         "name": "Secret Exit",
+                        "visibility_rules": [ "$Not|swapped_dsh" ],
                         "access_rules": [
                             "$HasPSwitch, $CanCarry, $CanClimb",
                             "$HasPSwitch, $CanCarry, $CanCapeFly"
                         ]
+                    },
+                    {
+                        "name": "Swapped Normal Exit",
+                        "visibility_rules": [ "swapped_dsh" ],
+                        "access_rules": [ "@Exits/DSH/Secret Exit" ]
+                    },
+                    {
+                        "name": "Swapped Secret Exit",
+                        "visibility_rules": [ "swapped_dsh" ],
+                        "access_rules": [ "@Exits/DSH/Normal Exit" ]
                     }
                 ]
             },
@@ -211,6 +271,7 @@
                 "sections": [
                     {
                         "name": "Normal Exit",
+                        "visibility_rules": [ "$Not|swapped_vd1" ],
                         "access_rules": [
                             "$CanRun, $HasSuperStar|2",
                             "$CanRun, $HasMushroom",
@@ -219,12 +280,23 @@
                     },
                     {
                         "name": "Secret Exit",
+                        "visibility_rules": [ "$Not|swapped_vd1" ],
                         "access_rules": [
                             "$CanClimb, $CanCarry, $HasYoshi",
                             "$CanClimb, $CanCarry, $HasRSP",
                             "$CanClimb, carryless_vd1, $HasYoshi",
                             "$CanClimb, carryless_vd1, $HasRSP"
                         ]
+                    },
+                    {
+                        "name": "Swapped Normal Exit",
+                        "visibility_rules": [ "swapped_vd1" ],
+                        "access_rules": [ "@Exits/VD1/Secret Exit" ]
+                    },
+                    {
+                        "name": "Swapped Secret Exit",
+                        "visibility_rules": [ "swapped_vd1" ],
+                        "access_rules": [ "@Exits/VD1/Normal Exit" ]
                     }
                 ]
             },
@@ -234,6 +306,7 @@
                 "sections": [
                     {
                         "name": "Normal Exit",
+                        "visibility_rules": [ "$Not|swapped_vd2" ],
                         "access_rules": [
                             "$CanSwim, $CanClimb",
                             "$CanSwim, $HasYoshi"
@@ -241,10 +314,21 @@
                     },
                     {
                         "name": "Secret Exit",
+                        "visibility_rules": [ "$Not|swapped_vd2" ],
                         "access_rules": [
                             "$CanSwim, $CanCarry, $HasPSwitch, $CanClimb",
                             "$CanSwim, $CanCarry, $HasPSwitch, $HasYoshi"
                         ]
+                    },
+                    {
+                        "name": "Swapped Normal Exit",
+                        "visibility_rules": [ "swapped_vd2" ],
+                        "access_rules": [ "@Exits/VD2/Secret Exit" ]
+                    },
+                    {
+                        "name": "Swapped Secret Exit",
+                        "visibility_rules": [ "swapped_vd2" ],
+                        "access_rules": [ "@Exits/VD2/Normal Exit" ]
                     }
                 ]
             },
@@ -274,6 +358,7 @@
                 "sections": [
                     {
                         "name": "Normal Exit",
+                        "visibility_rules": [ "$Not|swapped_vs1" ],
                         "access_rules": [
                             "$CanClimb",
                             "$CanWallRun, hardlogic_vs1_wallrun"
@@ -281,10 +366,21 @@
                     },
                     {
                         "name": "Secret Exit",
+                        "visibility_rules": [ "$Not|swapped_vs1" ],
                         "access_rules": [
                             "$CanClimb, $CanCarry, $HasBSP",
                             "$CanWallRun, hardlogic_vs1_wallrun, $CanCarry, $HasBSP"
                         ]
+                    },
+                    {
+                        "name": "Swapped Normal Exit",
+                        "visibility_rules": [ "swapped_vs1" ],
+                        "access_rules": [ "@Exits/VS1/Secret Exit" ]
+                    },
+                    {
+                        "name": "Swapped Secret Exit",
+                        "visibility_rules": [ "swapped_vs1" ],
+                        "access_rules": [ "@Exits/VS1/Normal Exit" ]
                     }
                 ]
             },
@@ -383,6 +479,7 @@
                 "sections": [
                     {
                         "name": "Normal Exit",
+                        "visibility_rules": [ "$Not|swapped_cba" ],
                         "access_rules": [
                             "$CanClimb",
                             "$HasYoshi"
@@ -390,10 +487,21 @@
                     },
                     {
                         "name": "Secret Exit",
+                        "visibility_rules": [ "$Not|swapped_cba" ],
                         "access_rules": [
                             "$CanCapeFly",
                             "hardlogic_cba_yoshiexit2, $HasYoshi"
                         ]
+                    },
+                    {
+                        "name": "Swapped Normal Exit",
+                        "visibility_rules": [ "swapped_cba" ],
+                        "access_rules": [ "@Exits/CBA/Secret Exit" ]
+                    },
+                    {
+                        "name": "Swapped Secret Exit",
+                        "visibility_rules": [ "swapped_cba" ],
+                        "access_rules": [ "@Exits/CBA/Normal Exit" ]
                     }
                 ]
             },
@@ -437,16 +545,28 @@
                 "sections": [
                     {
                         "name": "Normal Exit",
+                        "visibility_rules": [ "$Not|swapped_fi1" ],
                         "access_rules": []
                     },
                     {
                         "name": "Secret Exit",
+                        "visibility_rules": [ "$Not|swapped_fi1" ],
                         "access_rules": [
                             "$CanCarry, $HasPBalloon",
                             "carryless_fi1, $HasPBalloon",
                             "$CanCarry, hardlogic_fi1_yoshiexit2, $HasYoshi",
                             "carryless_fi1, hardlogic_fi1_yoshiexit2, $HasYoshi"
                         ]
+                    },
+                    {
+                        "name": "Swapped Normal Exit",
+                        "visibility_rules": [ "swapped_fi1" ],
+                        "access_rules": [ "@Exits/FI1/Secret Exit" ]
+                    },
+                    {
+                        "name": "Swapped Secret Exit",
+                        "visibility_rules": [ "swapped_fi1" ],
+                        "access_rules": [ "@Exits/FI1/Normal Exit" ]
                     }
                 ]
             },
@@ -457,6 +577,7 @@
                 "sections": [
                     {
                         "name": "Normal Exit",
+                        "visibility_rules": [ "$Not|swapped_fi2" ],
                         "access_rules": [
                             "$EnemiesNotShuffled, $CanSwim",
                             "$EnemiesShuffled, $HasSuperStar|3"
@@ -464,12 +585,23 @@
                     },
                     {
                         "name": "Secret Exit",
+                        "visibility_rules": [ "$Not|swapped_fi2" ],
                         "access_rules": [
                             "$EnemiesNotShuffled, $CanSwim, $CanCarryOrYoshiTongue",
                             "$EnemiesShuffled, $CanSwim, $CanCarryOrYoshiTongue, $HasSuperStar|3",
                             "$EnemiesNotShuffled, $CanSwim, carryless_fi2",
                             "$EnemiesShuffled, $CanSwim, carryless_fi2, $HasSuperStar|3"
                         ]
+                    },
+                    {
+                        "name": "Swapped Normal Exit",
+                        "visibility_rules": [ "swapped_fi2" ],
+                        "access_rules": [ "@Exits/FI2/Secret Exit" ]
+                    },
+                    {
+                        "name": "Swapped Secret Exit",
+                        "visibility_rules": [ "swapped_fi2" ],
+                        "access_rules": [ "@Exits/FI2/Normal Exit" ]
                     }
                 ]
             },
@@ -479,6 +611,7 @@
                 "sections": [
                     {
                         "name": "Normal Exit",
+                        "visibility_rules": [ "$Not|swapped_fi3" ],
                         "access_rules": [
                             "$CanCarry",
                             "$HasYoshi",
@@ -487,10 +620,21 @@
                     },
                     {
                         "name": "Secret Exit",
+                        "visibility_rules": [ "$Not|swapped_fi3" ],
                         "access_rules": [
                             "$CanCarryOrYoshiTongue, $CanBreakTurnBlocks",
                             "hardlogic_fi3_yoshiexit2, $CanYoshiCarry"
                         ]
+                    },
+                    {
+                        "name": "Swapped Normal Exit",
+                        "visibility_rules": [ "swapped_fi3" ],
+                        "access_rules": [ "@Exits/FI3/Secret Exit" ]
+                    },
+                    {
+                        "name": "Swapped Secret Exit",
+                        "visibility_rules": [ "swapped_fi3" ],
+                        "access_rules": [ "@Exits/FI3/Normal Exit" ]
                     }
                 ]
             },
@@ -500,14 +644,26 @@
                 "sections": [
                     {
                         "name": "Normal Exit",
+                        "visibility_rules": [ "$Not|swapped_fi4" ],
                         "access_rules": []
                     },
                     {
                         "name": "Secret Exit",
+                        "visibility_rules": [ "$Not|swapped_fi4" ],
                         "access_rules": [
                             "$CanCarry",
                             "carryless_fi4"
                         ]
+                    },
+                    {
+                        "name": "Swapped Normal Exit",
+                        "visibility_rules": [ "swapped_fi4" ],
+                        "access_rules": [ "@Exits/FI4/Secret Exit" ]
+                    },
+                    {
+                        "name": "Swapped Secret Exit",
+                        "visibility_rules": [ "swapped_fi4" ],
+                        "access_rules": [ "@Exits/FI4/Normal Exit" ]
                     }
                 ]
             },
@@ -517,6 +673,7 @@
                 "sections": [
                     {
                         "name": "Normal Exit",
+                        "visibility_rules": [ "$Not|swapped_fgh" ],
                         "access_rules": [
                             "$HasPSwitch",
                             "hardlogic_fgh_room2skip, $CanWallRun",
@@ -525,11 +682,22 @@
                     },
                     {
                         "name": "Secret Exit",
+                        "visibility_rules": [ "$Not|swapped_fgh" ],
                         "access_rules": [
                             "$HasPSwitch",
                             "hardlogic_fgh_room2skip, $CanWallRun",
                             "hardlogic_fgh_room2skip, $CanCapeFly"
                         ]
+                    },
+                    {
+                        "name": "Swapped Normal Exit",
+                        "visibility_rules": [ "swapped_fgh" ],
+                        "access_rules": [ "@Exits/FGH/Secret Exit" ]
+                    },
+                    {
+                        "name": "Swapped Secret Exit",
+                        "visibility_rules": [ "swapped_fgh" ],
+                        "access_rules": [ "@Exits/FGH/Normal Exit" ]
                     }
                 ]
             },
@@ -593,14 +761,26 @@
                 "sections": [
                     {
                         "name": "Normal Exit",
+                        "visibility_rules": [ "$Not|swapped_ci2" ],
                         "access_rules": []
                     },
                     {
                         "name": "Secret Exit",
+                        "visibility_rules": [ "$Not|swapped_ci2" ],
                         "access_rules": [
                             "$CanCarryOrYoshiTongue",
                             "carryless_ci2"
                         ]
+                    },
+                    {
+                        "name": "Swapped Normal Exit",
+                        "visibility_rules": [ "swapped_ci2" ],
+                        "access_rules": [ "@Exits/CI2/Secret Exit" ]
+                    },
+                    {
+                        "name": "Swapped Secret Exit",
+                        "visibility_rules": [ "swapped_ci2" ],
+                        "access_rules": [ "@Exits/CI2/Normal Exit" ]
                     }
                 ]
             },
@@ -610,6 +790,7 @@
                 "sections": [
                     {
                         "name": "Normal Exit",
+                        "visibility_rules": [ "$Not|swapped_ci3" ],
                         "access_rules": [
                             "$CanClimb",
                             "$HasYoshi"
@@ -617,7 +798,18 @@
                     },
                     {
                         "name": "Secret Exit",
+                        "visibility_rules": [ "$Not|swapped_ci3" ],
                         "access_rules": [ "$CanFly" ]
+                    },
+                    {
+                        "name": "Swapped Normal Exit",
+                        "visibility_rules": [ "swapped_ci3" ],
+                        "access_rules": [ "@Exits/CI3/Secret Exit" ]
+                    },
+                    {
+                        "name": "Swapped Secret Exit",
+                        "visibility_rules": [ "swapped_ci3" ],
+                        "access_rules": [ "@Exits/CI3/Normal Exit" ]
                     }
                 ]
             },
@@ -710,14 +902,26 @@
                 "sections": [
                     {
                         "name": "Normal Exit",
+                        "visibility_rules": [ "$Not|swapped_vb2" ],
                         "access_rules": []
                     },
                     {
                         "name": "Secret Exit",
+                        "visibility_rules": [ "$Not|swapped_vb2" ],
                         "access_rules": [
                             "$CanCarry",
                             "carryless_vb2"
                         ]
+                    },
+                    {
+                        "name": "Swapped Normal Exit",
+                        "visibility_rules": [ "swapped_vb2" ],
+                        "access_rules": [ "@Exits/VB2/Secret Exit" ]
+                    },
+                    {
+                        "name": "Swapped Secret Exit",
+                        "visibility_rules": [ "swapped_vb2" ],
+                        "access_rules": [ "@Exits/VB2/Normal Exit" ]
                     }
                 ]
             },
@@ -738,6 +942,7 @@
                 "sections": [
                     {
                         "name": "Normal Exit",
+                        "visibility_rules": [ "$Not|swapped_vb4" ],
                         "access_rules": [
                             "$CanClimb",
                             "hardlogic_vb4_yoshivineskip, $HasYoshi"
@@ -745,12 +950,23 @@
                     },
                     {
                         "name": "Secret Exit",
+                        "visibility_rules": [ "$Not|swapped_vb4" ],
                         "access_rules": [
                             "$CanYoshiCarry, $CanClimb",
                             "carryless_vb4, $CanClimb",
                             "hardlogic_vb4_yoshivineskip, $CanYoshiCarry, $CanClimb",
                             "hardlogic_vb4_yoshivineskip, carryless_vb4, $HasYoshi"
                         ]
+                    },
+                    {
+                        "name": "Swapped Normal Exit",
+                        "visibility_rules": [ "swapped_vb4" ],
+                        "access_rules": [ "@Exits/VB4/Secret Exit" ]
+                    },
+                    {
+                        "name": "Swapped Secret Exit",
+                        "visibility_rules": [ "swapped_vb4" ],
+                        "access_rules": [ "@Exits/VB4/Normal Exit" ]
                     }
                 ]
             },
@@ -760,14 +976,26 @@
                 "sections": [
                     {
                         "name": "Normal Exit",
+                        "visibility_rules": [ "$Not|swapped_vbh" ],
                         "access_rules": [ "$HasPSwitch" ]
                     },
                     {
                         "name": "Secret Exit",
+                        "visibility_rules": [ "$Not|swapped_vbh" ],
                         "access_rules": [
                             "$HasPSwitch, $CanCarry, $CanRun",
                             "hardlogic_vbh_exit2carryless, carryless_vbh, $HasPSwitch, $CanRun"
                         ]
+                    },
+                    {
+                        "name": "Swapped Normal Exit",
+                        "visibility_rules": [ "swapped_vbh" ],
+                        "access_rules": [ "@Exits/VBH/Secret Exit" ]
+                    },
+                    {
+                        "name": "Swapped Secret Exit",
+                        "visibility_rules": [ "swapped_vbh" ],
+                        "access_rules": [ "@Exits/VBH/Normal Exit" ]
                     }
                 ]
             },
@@ -799,14 +1027,26 @@
                 "sections": [
                     {
                         "name": "Normal Exit",
+                        "visibility_rules": [ "$Not|swapped_sr1" ],
                         "access_rules": [ "$CanBreakTurnBlocks" ]
                     },
                     {
                         "name": "Secret Exit",
+                        "visibility_rules": [ "$Not|swapped_sr1" ],
                         "access_rules": [
                             "$CanBreakTurnBlocks, $CanCarryOrYoshiTongue",
                             "$CanBreakTurnBlocks, carryless_sr1"
                         ]
+                    },
+                    {
+                        "name": "Swapped Normal Exit",
+                        "visibility_rules": [ "swapped_sr1" ],
+                        "access_rules": [ "@Exits/SR1/Secret Exit" ]
+                    },
+                    {
+                        "name": "Swapped Secret Exit",
+                        "visibility_rules": [ "swapped_sr1" ],
+                        "access_rules": [ "@Exits/SR1/Normal Exit" ]
                     }
                 ]
             },
@@ -816,14 +1056,26 @@
                 "sections": [
                     {
                         "name": "Normal Exit",
+                        "visibility_rules": [ "$Not|swapped_sr2" ],
                         "access_rules": [ "$CanSwim" ]
                     },
                     {
                         "name": "Secret Exit",
+                        "visibility_rules": [ "$Not|swapped_sr2" ],
                         "access_rules": [
                             "$CanSwim, $CanCarryOrYoshiTongue",
                             "$CanSwim, carryless_sr2"
                         ]
+                    },
+                    {
+                        "name": "Swapped Normal Exit",
+                        "visibility_rules": [ "swapped_sr2" ],
+                        "access_rules": [ "@Exits/SR2/Secret Exit" ]
+                    },
+                    {
+                        "name": "Swapped Secret Exit",
+                        "visibility_rules": [ "swapped_sr2" ],
+                        "access_rules": [ "@Exits/SR2/Normal Exit" ]
                     }
                 ]
             },
@@ -833,16 +1085,28 @@
                 "sections": [
                     {
                         "name": "Normal Exit",
+                        "visibility_rules": [ "$Not|swapped_sr3" ],
                         "access_rules": []
                     },
                     {
                         "name": "Secret Exit",
+                        "visibility_rules": [ "$Not|swapped_sr3" ],
                         "access_rules": [
                             "$CanCarry",
                             "$HasFireFlower, $CanYoshiCarry",
                             "$HasFireFlower, carryless_sr3",
                             "carryless_sr3, hardlogic_sr3_starmancloud, $HasSuperStar|1"
                         ]
+                    },
+                    {
+                        "name": "Swapped Normal Exit",
+                        "visibility_rules": [ "swapped_sr3" ],
+                        "access_rules": [ "@Exits/SR3/Secret Exit" ]
+                    },
+                    {
+                        "name": "Swapped Secret Exit",
+                        "visibility_rules": [ "swapped_sr3" ],
+                        "access_rules": [ "@Exits/SR3/Normal Exit" ]
                     }
                 ]
             },
@@ -852,10 +1116,12 @@
                 "sections": [
                     {
                         "name": "Normal Exit",
+                        "visibility_rules": [ "$Not|swapped_sr4" ],
                         "access_rules": []
                     },
                     {
                         "name": "Secret Exit",
+                        "visibility_rules": [ "$Not|swapped_sr4" ],
                         "access_rules": [
                             "$CanYoshiFly",
                             "$CanCarry, $HasFeather",
@@ -864,6 +1130,16 @@
                             "carryless_sr4, $HasGSP, $HasRSP",
                             "carryless_sr4, hardlogic_sr4_yoshiexit2, $HasYoshi"
                         ]
+                    },
+                    {
+                        "name": "Swapped Normal Exit",
+                        "visibility_rules": [ "swapped_sr4" ],
+                        "access_rules": [ "@Exits/SR4/Secret Exit" ]
+                    },
+                    {
+                        "name": "Swapped Secret Exit",
+                        "visibility_rules": [ "swapped_sr4" ],
+                        "access_rules": [ "@Exits/SR4/Normal Exit" ]
                     }
                 ]
             },
@@ -873,6 +1149,7 @@
                 "sections": [
                     {
                         "name": "Normal Exit",
+                        "visibility_rules": [ "$Not|swapped_sr5" ],
                         "access_rules": [
                             "$HasPSwitch",
                             "$CanFly"
@@ -880,6 +1157,7 @@
                     },
                     {
                         "name": "Secret Exit",
+                        "visibility_rules": [ "$Not|swapped_sr5" ],
                         "access_rules": [
                             "$CanYoshiFly",
                             "$CanCarry, $CanClimb, $HasPSwitch, $HasYSP, $HasGSP, $HasRSP, $HasBSP",
@@ -887,6 +1165,16 @@
                             "carryless_sr5, $CanClimb, $HasPSwitch, $HasYSP, $HasGSP, $HasRSP, $HasBSP",
                             "$CanFly, carryless_sr5, $CanSpinJump"
                         ]
+                    },
+                    {
+                        "name": "Swapped Normal Exit",
+                        "visibility_rules": [ "swapped_sr5" ],
+                        "access_rules": [ "@Exits/SR5/Secret Exit" ]
+                    },
+                    {
+                        "name": "Swapped Secret Exit",
+                        "visibility_rules": [ "swapped_sr5" ],
+                        "access_rules": [ "@Exits/SR5/Normal Exit" ]
                     }
                 ]
             },

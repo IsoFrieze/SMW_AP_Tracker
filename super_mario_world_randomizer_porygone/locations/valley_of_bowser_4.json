@@ -14,6 +14,10 @@
                     {
                         "name": "Normal Exit",
                         "ref": "Exits/VB4/Normal Exit"
+                    },
+                    {
+                        "name": "Swapped Secret Exit",
+                        "ref": "Exits/VB4/Swapped Secret Exit"
                     }
                 ],
                 "map_locations": [
@@ -30,6 +34,10 @@
                     {
                         "name": "Secret Exit",
                         "ref": "Exits/VB4/Secret Exit"
+                    },
+                    {
+                        "name": "Swapped Normal Exit",
+                        "ref": "Exits/VB4/Swapped Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -168,8 +176,16 @@
                         "ref": "Exits/VB4/Normal Exit"
                     },
                     {
+                        "name": "Swapped Secret Exit",
+                        "ref": "Exits/VB4/Swapped Secret Exit"
+                    },
+                    {
                         "name": "Secret Exit",
                         "ref": "Exits/VB4/Secret Exit"
+                    },
+                    {
+                        "name": "Swapped Normal Exit",
+                        "ref": "Exits/VB4/Swapped Normal Exit"
                     },
                     {
                         "name": "Yellow Switch Palace Block #1",
@@ -256,8 +272,16 @@
                         "ref": "Exits/VB4/Normal Exit"
                     },
                     {
+                        "name": "Swapped Secret Exit",
+                        "ref": "Exits/VB4/Swapped Secret Exit"
+                    },
+                    {
                         "name": "Secret Exit",
                         "ref": "Exits/VB4/Secret Exit"
+                    },
+                    {
+                        "name": "Swapped Normal Exit",
+                        "ref": "Exits/VB4/Swapped Normal Exit"
                     },
                     {
                         "name": "Yellow Switch Palace Block #1",

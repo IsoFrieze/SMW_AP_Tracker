@@ -14,6 +14,10 @@
                     {
                         "name": "Normal Exit",
                         "ref": "Exits/FI3/Normal Exit"
+                    },
+                    {
+                        "name": "Swapped Secret Exit",
+                        "ref": "Exits/FI3/Swapped Secret Exit"
                     }
                 ],
                 "map_locations": [
@@ -30,6 +34,10 @@
                     {
                         "name": "Secret Exit",
                         "ref": "Exits/FI3/Secret Exit"
+                    },
+                    {
+                        "name": "Swapped Normal Exit",
+                        "ref": "Exits/FI3/Swapped Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -620,6 +628,10 @@
                         "ref": "Exits/FI3/Normal Exit"
                     },
                     {
+                        "name": "Swapped Secret Exit",
+                        "ref": "Exits/FI3/Swapped Secret Exit"
+                    },
+                    {
                         "name": "Dragon Coin #1",
                         "ref": "Dragon Coins/FI3/Dragon Coin #1"
                     },
@@ -774,6 +786,10 @@
                     {
                         "name": "Secret Exit",
                         "ref": "Exits/FI3/Secret Exit"
+                    },
+                    {
+                        "name": "Swapped Normal Exit",
+                        "ref": "Exits/FI3/Swapped Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -810,6 +826,10 @@
                     {
                         "name": "Secret Exit",
                         "ref": "Exits/FI3/Secret Exit"
+                    },
+                    {
+                        "name": "Swapped Normal Exit",
+                        "ref": "Exits/FI3/Swapped Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -850,6 +870,10 @@
                     {
                         "name": "Normal Exit",
                         "ref": "Exits/FI3/Normal Exit"
+                    },
+                    {
+                        "name": "Swapped Secret Exit",
+                        "ref": "Exits/FI3/Swapped Secret Exit"
                     },
                     {
                         "name": "Dragon Coin #1",

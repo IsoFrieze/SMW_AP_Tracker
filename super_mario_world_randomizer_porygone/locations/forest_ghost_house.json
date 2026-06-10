@@ -14,6 +14,10 @@
                     {
                         "name": "Normal Exit",
                         "ref": "Exits/FGH/Normal Exit"
+                    },
+                    {
+                        "name": "Swapped Secret Exit",
+                        "ref": "Exits/FGH/Swapped Secret Exit"
                     }
                 ],
                 "map_locations": [
@@ -30,6 +34,10 @@
                     {
                         "name": "Secret Exit",
                         "ref": "Exits/FGH/Secret Exit"
+                    },
+                    {
+                        "name": "Swapped Normal Exit",
+                        "ref": "Exits/FGH/Swapped Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -326,6 +334,10 @@
                     {
                         "name": "Normal Exit",
                         "ref": "Exits/FGH/Normal Exit"
+                    },
+                    {
+                        "name": "Swapped Secret Exit",
+                        "ref": "Exits/FGH/Swapped Secret Exit"
                     }
                 ],
                 "map_locations": [
@@ -346,6 +358,10 @@
                     {
                         "name": "Secret Exit",
                         "ref": "Exits/FGH/Secret Exit"
+                    },
+                    {
+                        "name": "Swapped Normal Exit",
+                        "ref": "Exits/FGH/Swapped Normal Exit"
                     },
                     {
                         "name": "3-Up Moon",
@@ -372,8 +388,16 @@
                         "ref": "Exits/FGH/Normal Exit"
                     },
                     {
+                        "name": "Swapped Secret Exit",
+                        "ref": "Exits/FGH/Swapped Secret Exit"
+                    },
+                    {
                         "name": "Secret Exit",
                         "ref": "Exits/FGH/Secret Exit"
+                    },
+                    {
+                        "name": "Swapped Normal Exit",
+                        "ref": "Exits/FGH/Swapped Normal Exit"
                     },
                     {
                         "name": "Dragon Coin #2",
@@ -464,8 +488,16 @@
                         "ref": "Exits/FGH/Normal Exit"
                     },
                     {
+                        "name": "Swapped Secret Exit",
+                        "ref": "Exits/FGH/Swapped Secret Exit"
+                    },
+                    {
                         "name": "Secret Exit",
                         "ref": "Exits/FGH/Secret Exit"
+                    },
+                    {
+                        "name": "Swapped Normal Exit",
+                        "ref": "Exits/FGH/Swapped Normal Exit"
                     },
                     {
                         "name": "Dragon Coin #5",
@@ -498,6 +530,10 @@
                     {
                         "name": "Normal Exit",
                         "ref": "Exits/FGH/Normal Exit"
+                    },
+                    {
+                        "name": "Swapped Secret Exit",
+                        "ref": "Exits/FGH/Swapped Secret Exit"
                     }
                 ],
                 "map_locations": [
@@ -518,6 +554,10 @@
                     {
                         "name": "Secret Exit",
                         "ref": "Exits/FGH/Secret Exit"
+                    },
+                    {
+                        "name": "Swapped Normal Exit",
+                        "ref": "Exits/FGH/Swapped Normal Exit"
                     },
                     {
                         "name": "3-Up Moon",

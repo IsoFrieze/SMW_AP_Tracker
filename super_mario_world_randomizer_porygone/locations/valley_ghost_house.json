@@ -14,6 +14,10 @@
                     {
                         "name": "Normal Exit",
                         "ref": "Exits/VBH/Normal Exit"
+                    },
+                    {
+                        "name": "Swapped Secret Exit",
+                        "ref": "Exits/VBH/Swapped Secret Exit"
                     }
                 ],
                 "map_locations": [
@@ -30,6 +34,10 @@
                     {
                         "name": "Secret Exit",
                         "ref": "Exits/VBH/Secret Exit"
+                    },
+                    {
+                        "name": "Swapped Normal Exit",
+                        "ref": "Exits/VBH/Swapped Normal Exit"
                     }
                 ],
                 "map_locations": [
@@ -304,6 +312,10 @@
                         "ref": "Exits/VBH/Secret Exit"
                     },
                     {
+                        "name": "Swapped Normal Exit",
+                        "ref": "Exits/VBH/Swapped Normal Exit"
+                    },
+                    {
                         "name": "Dragon Coin #5",
                         "ref": "Dragon Coins/VBH/Dragon Coin #5"
                     },
@@ -338,6 +350,10 @@
                     {
                         "name": "Normal Exit",
                         "ref": "Exits/VBH/Normal Exit"
+                    },
+                    {
+                        "name": "Swapped Secret Exit",
+                        "ref": "Exits/VBH/Swapped Secret Exit"
                     }
                 ],
                 "map_locations": [
@@ -368,8 +384,16 @@
                         "ref": "Exits/VBH/Normal Exit"
                     },
                     {
+                        "name": "Swapped Secret Exit",
+                        "ref": "Exits/VBH/Swapped Secret Exit"
+                    },
+                    {
                         "name": "Secret Exit",
                         "ref": "Exits/VBH/Secret Exit"
+                    },
+                    {
+                        "name": "Swapped Normal Exit",
+                        "ref": "Exits/VBH/Swapped Normal Exit"
                     },
                     {
                         "name": "Dragon Coin #2",
@@ -462,6 +486,10 @@
                         "ref": "Exits/VBH/Secret Exit"
                     },
                     {
+                        "name": "Swapped Normal Exit",
+                        "ref": "Exits/VBH/Swapped Normal Exit"
+                    },
+                    {
                         "name": "Dragon Coin #6",
                         "ref": "Dragon Coins/VBH/Dragon Coin #6"
                     },
@@ -499,6 +527,10 @@
                         "ref": "Exits/VBH/Secret Exit"
                     },
                     {
+                        "name": "Swapped Normal Exit",
+                        "ref": "Exits/VBH/Swapped Normal Exit"
+                    },
+                    {
                         "name": "Dragon Coin #5",
                         "ref": "Dragon Coins/VBH/Dragon Coin #5"
                     },
@@ -533,6 +565,10 @@
                     {
                         "name": "Normal Exit",
                         "ref": "Exits/VBH/Normal Exit"
+                    },
+                    {
+                        "name": "Swapped Secret Exit",
+                        "ref": "Exits/VBH/Swapped Secret Exit"
                     }
                 ],
                 "map_locations": [

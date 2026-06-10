@@ -769,8 +769,16 @@
                         "ref": "Exits/DP1/Normal Exit"
                     },
                     {
+                        "name": "Swapped Secret Exit",
+                        "ref": "Exits/DP1/Swapped Secret Exit"
+                    },
+                    {
                         "name": "Secret Exit",
                         "ref": "Exits/DP1/Secret Exit"
+                    },
+                    {
+                        "name": "Swapped Normal Exit",
+                        "ref": "Exits/DP1/Swapped Normal Exit"
                     },
                     {
                         "name": "Main room",
@@ -926,8 +934,16 @@
                         "ref": "Exits/DP2/Normal Exit"
                     },
                     {
+                        "name": "Swapped Secret Exit",
+                        "ref": "Exits/DP2/Swapped Secret Exit"
+                    },
+                    {
                         "name": "Secret Exit",
                         "ref": "Exits/DP2/Secret Exit"
+                    },
+                    {
+                        "name": "Swapped Normal Exit",
+                        "ref": "Exits/DP2/Swapped Normal Exit"
                     },
                     {
                         "name": "Main room",
@@ -1181,8 +1197,16 @@
                         "ref": "Exits/DS1/Normal Exit"
                     },
                     {
+                        "name": "Swapped Secret Exit",
+                        "ref": "Exits/DS1/Swapped Secret Exit"
+                    },
+                    {
                         "name": "Secret Exit",
                         "ref": "Exits/DS1/Secret Exit"
+                    },
+                    {
+                        "name": "Swapped Normal Exit",
+                        "ref": "Exits/DS1/Swapped Normal Exit"
                     },
                     {
                         "name": "Main room",
@@ -1351,8 +1375,16 @@
                         "ref": "Exits/DGH/Normal Exit"
                     },
                     {
+                        "name": "Swapped Secret Exit",
+                        "ref": "Exits/DGH/Swapped Secret Exit"
+                    },
+                    {
                         "name": "Secret Exit",
                         "ref": "Exits/DGH/Secret Exit"
+                    },
+                    {
+                        "name": "Swapped Normal Exit",
+                        "ref": "Exits/DGH/Swapped Normal Exit"
                     },
                     {
                         "name": "Ghost ceiling room",
@@ -1420,8 +1452,16 @@
                         "ref": "Exits/DSH/Normal Exit"
                     },
                     {
+                        "name": "Swapped Secret Exit",
+                        "ref": "Exits/DSH/Swapped Secret Exit"
+                    },
+                    {
                         "name": "Secret Exit",
                         "ref": "Exits/DSH/Secret Exit"
+                    },
+                    {
+                        "name": "Swapped Normal Exit",
+                        "ref": "Exits/DSH/Swapped Normal Exit"
                     },
                     {
                         "name": "Big boo room",
@@ -1583,8 +1623,16 @@
                         "ref": "Exits/VD1/Normal Exit"
                     },
                     {
+                        "name": "Swapped Secret Exit",
+                        "ref": "Exits/VD1/Swapped Secret Exit"
+                    },
+                    {
                         "name": "Secret Exit",
                         "ref": "Exits/VD1/Secret Exit"
+                    },
+                    {
+                        "name": "Swapped Normal Exit",
+                        "ref": "Exits/VD1/Swapped Normal Exit"
                     },
                     {
                         "name": "Main room",
@@ -1680,8 +1728,16 @@
                         "ref": "Exits/VD2/Normal Exit"
                     },
                     {
+                        "name": "Swapped Secret Exit",
+                        "ref": "Exits/VD2/Swapped Secret Exit"
+                    },
+                    {
                         "name": "Secret Exit",
                         "ref": "Exits/VD2/Secret Exit"
+                    },
+                    {
+                        "name": "Swapped Normal Exit",
+                        "ref": "Exits/VD2/Swapped Normal Exit"
                     },
                     {
                         "name": "Main room",
@@ -2027,8 +2083,16 @@
                         "ref": "Exits/VS1/Normal Exit"
                     },
                     {
+                        "name": "Swapped Secret Exit",
+                        "ref": "Exits/VS1/Swapped Secret Exit"
+                    },
+                    {
                         "name": "Secret Exit",
                         "ref": "Exits/VS1/Secret Exit"
+                    },
+                    {
+                        "name": "Swapped Normal Exit",
+                        "ref": "Exits/VS1/Swapped Normal Exit"
                     },
                     {
                         "name": "Main room",
@@ -2612,8 +2676,16 @@
                         "ref": "Exits/CBA/Normal Exit"
                     },
                     {
+                        "name": "Swapped Secret Exit",
+                        "ref": "Exits/CBA/Swapped Secret Exit"
+                    },
+                    {
                         "name": "Secret Exit",
                         "ref": "Exits/CBA/Secret Exit"
+                    },
+                    {
+                        "name": "Swapped Normal Exit",
+                        "ref": "Exits/CBA/Swapped Normal Exit"
                     },
                     {
                         "name": "Main room",
@@ -3000,8 +3072,16 @@
                         "ref": "Exits/FI1/Normal Exit"
                     },
                     {
+                        "name": "Swapped Secret Exit",
+                        "ref": "Exits/FI1/Swapped Secret Exit"
+                    },
+                    {
                         "name": "Secret Exit",
                         "ref": "Exits/FI1/Secret Exit"
+                    },
+                    {
+                        "name": "Swapped Normal Exit",
+                        "ref": "Exits/FI1/Swapped Normal Exit"
                     },
                     {
                         "name": "Main room",
@@ -3049,8 +3129,16 @@
                         "ref": "Exits/FI2/Normal Exit"
                     },
                     {
+                        "name": "Swapped Secret Exit",
+                        "ref": "Exits/FI2/Swapped Secret Exit"
+                    },
+                    {
                         "name": "Secret Exit",
                         "ref": "Exits/FI2/Secret Exit"
+                    },
+                    {
+                        "name": "Swapped Normal Exit",
+                        "ref": "Exits/FI2/Swapped Normal Exit"
                     },
                     {
                         "name": "Main room",
@@ -3126,8 +3214,16 @@
                         "ref": "Exits/FI3/Normal Exit"
                     },
                     {
+                        "name": "Swapped Secret Exit",
+                        "ref": "Exits/FI3/Swapped Secret Exit"
+                    },
+                    {
                         "name": "Secret Exit",
                         "ref": "Exits/FI3/Secret Exit"
+                    },
+                    {
+                        "name": "Swapped Normal Exit",
+                        "ref": "Exits/FI3/Swapped Normal Exit"
                     },
                     {
                         "name": "Main room",
@@ -3299,8 +3395,16 @@
                         "ref": "Exits/FI4/Normal Exit"
                     },
                     {
+                        "name": "Swapped Secret Exit",
+                        "ref": "Exits/FI4/Swapped Secret Exit"
+                    },
+                    {
                         "name": "Secret Exit",
                         "ref": "Exits/FI4/Secret Exit"
+                    },
+                    {
+                        "name": "Swapped Normal Exit",
+                        "ref": "Exits/FI4/Swapped Normal Exit"
                     },
                     {
                         "name": "Main room",
@@ -3412,8 +3516,16 @@
                         "ref": "Exits/FGH/Normal Exit"
                     },
                     {
+                        "name": "Swapped Secret Exit",
+                        "ref": "Exits/FGH/Swapped Secret Exit"
+                    },
+                    {
                         "name": "Secret Exit",
                         "ref": "Exits/FGH/Secret Exit"
+                    },
+                    {
+                        "name": "Swapped Normal Exit",
+                        "ref": "Exits/FGH/Swapped Normal Exit"
                     },
                     {
                         "name": "Main room",
@@ -3778,8 +3890,16 @@
                         "ref": "Exits/CI2/Normal Exit"
                     },
                     {
+                        "name": "Swapped Secret Exit",
+                        "ref": "Exits/CI2/Swapped Secret Exit"
+                    },
+                    {
                         "name": "Secret Exit",
                         "ref": "Exits/CI2/Secret Exit"
+                    },
+                    {
+                        "name": "Swapped Normal Exit",
+                        "ref": "Exits/CI2/Swapped Normal Exit"
                     },
                     {
                         "name": "Main room",
@@ -3915,8 +4035,16 @@
                         "ref": "Exits/CI3/Normal Exit"
                     },
                     {
+                        "name": "Swapped Secret Exit",
+                        "ref": "Exits/CI3/Swapped Secret Exit"
+                    },
+                    {
                         "name": "Secret Exit",
                         "ref": "Exits/CI3/Secret Exit"
+                    },
+                    {
+                        "name": "Swapped Normal Exit",
+                        "ref": "Exits/CI3/Swapped Normal Exit"
                     },
                     {
                         "name": "Main room",
@@ -4492,8 +4620,16 @@
                         "ref": "Exits/VB2/Normal Exit"
                     },
                     {
+                        "name": "Swapped Secret Exit",
+                        "ref": "Exits/VB2/Swapped Secret Exit"
+                    },
+                    {
                         "name": "Secret Exit",
                         "ref": "Exits/VB2/Secret Exit"
+                    },
+                    {
+                        "name": "Swapped Normal Exit",
+                        "ref": "Exits/VB2/Swapped Normal Exit"
                     },
                     {
                         "name": "Main room",
@@ -4642,8 +4778,16 @@
                         "ref": "Exits/VB4/Normal Exit"
                     },
                     {
+                        "name": "Swapped Secret Exit",
+                        "ref": "Exits/VB4/Swapped Secret Exit"
+                    },
+                    {
                         "name": "Secret Exit",
                         "ref": "Exits/VB4/Secret Exit"
+                    },
+                    {
+                        "name": "Swapped Normal Exit",
+                        "ref": "Exits/VB4/Swapped Normal Exit"
                     },
                     {
                         "name": "Main room",
@@ -4699,8 +4843,16 @@
                         "ref": "Exits/VBH/Normal Exit"
                     },
                     {
+                        "name": "Swapped Secret Exit",
+                        "ref": "Exits/VBH/Swapped Secret Exit"
+                    },
+                    {
                         "name": "Secret Exit",
                         "ref": "Exits/VBH/Secret Exit"
+                    },
+                    {
+                        "name": "Swapped Normal Exit",
+                        "ref": "Exits/VBH/Swapped Normal Exit"
                     },
                     {
                         "name": "Main room",
@@ -4878,8 +5030,16 @@
                         "ref": "Exits/SR1/Normal Exit"
                     },
                     {
+                        "name": "Swapped Secret Exit",
+                        "ref": "Exits/SR1/Swapped Secret Exit"
+                    },
+                    {
                         "name": "Secret Exit",
                         "ref": "Exits/SR1/Secret Exit"
+                    },
+                    {
+                        "name": "Swapped Normal Exit",
+                        "ref": "Exits/SR1/Swapped Normal Exit"
                     },
                     {
                         "name": "Main room",
@@ -4931,8 +5091,16 @@
                         "ref": "Exits/SR2/Normal Exit"
                     },
                     {
+                        "name": "Swapped Secret Exit",
+                        "ref": "Exits/SR2/Swapped Secret Exit"
+                    },
+                    {
                         "name": "Secret Exit",
                         "ref": "Exits/SR2/Secret Exit"
+                    },
+                    {
+                        "name": "Swapped Normal Exit",
+                        "ref": "Exits/SR2/Swapped Normal Exit"
                     },
                     {
                         "name": "Main room",
@@ -4964,8 +5132,16 @@
                         "ref": "Exits/SR3/Normal Exit"
                     },
                     {
+                        "name": "Swapped Secret Exit",
+                        "ref": "Exits/SR3/Swapped Secret Exit"
+                    },
+                    {
                         "name": "Secret Exit",
                         "ref": "Exits/SR3/Secret Exit"
+                    },
+                    {
+                        "name": "Swapped Normal Exit",
+                        "ref": "Exits/SR3/Swapped Normal Exit"
                     },
                     {
                         "name": "Main room",
@@ -4993,8 +5169,16 @@
                         "ref": "Exits/SR4/Normal Exit"
                     },
                     {
+                        "name": "Swapped Secret Exit",
+                        "ref": "Exits/SR4/Swapped Secret Exit"
+                    },
+                    {
                         "name": "Secret Exit",
                         "ref": "Exits/SR4/Secret Exit"
+                    },
+                    {
+                        "name": "Swapped Normal Exit",
+                        "ref": "Exits/SR4/Swapped Normal Exit"
                     },
                     {
                         "name": "Main room",
@@ -5054,8 +5238,16 @@
                         "ref": "Exits/SR5/Normal Exit"
                     },
                     {
+                        "name": "Swapped Secret Exit",
+                        "ref": "Exits/SR5/Swapped Secret Exit"
+                    },
+                    {
                         "name": "Secret Exit",
                         "ref": "Exits/SR5/Secret Exit"
+                    },
+                    {
+                        "name": "Swapped Normal Exit",
+                        "ref": "Exits/SR5/Swapped Normal Exit"
                     },
                     {
                         "name": "Main room",

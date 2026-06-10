@@ -723,6 +723,175 @@
     },
     
     {
+        "name": "Donut Plains 1 Swapped Exit",
+        "type": "toggle",
+        "img": "images/checks/goal_sphere.png",
+        "disabled_img": "images/checks/goal_sphere.png",
+        "codes": "swapped_dp1"
+    },
+    {
+        "name": "Donut Plains 2 Swapped Exit",
+        "type": "toggle",
+        "img": "images/checks/goal_sphere.png",
+        "disabled_img": "images/checks/goal_sphere.png",
+        "codes": "swapped_dp2"
+    },
+    {
+        "name": "Donut Secret 1 Swapped Exit",
+        "type": "toggle",
+        "img": "images/checks/goal_sphere.png",
+        "disabled_img": "images/checks/goal_sphere.png",
+        "codes": "swapped_ds1"
+    },
+    {
+        "name": "Donut Ghost House Swapped Exit",
+        "type": "toggle",
+        "img": "images/checks/goal_sphere.png",
+        "disabled_img": "images/checks/goal_sphere.png",
+        "codes": "swapped_dgh"
+    },
+    {
+        "name": "Donut Secret House Swapped Exit",
+        "type": "toggle",
+        "img": "images/checks/goal_sphere.png",
+        "disabled_img": "images/checks/goal_sphere.png",
+        "codes": "swapped_dsh"
+    },
+    {
+        "name": "Vanilla Dome 1 Swapped Exit",
+        "type": "toggle",
+        "img": "images/checks/goal_sphere.png",
+        "disabled_img": "images/checks/goal_sphere.png",
+        "codes": "swapped_vd1"
+    },
+    {
+        "name": "Vanilla Dome 2 Swapped Exit",
+        "type": "toggle",
+        "img": "images/checks/goal_sphere.png",
+        "disabled_img": "images/checks/goal_sphere.png",
+        "codes": "swapped_vd2"
+    },
+    {
+        "name": "Vanilla Secret 1 Swapped Exit",
+        "type": "toggle",
+        "img": "images/checks/goal_sphere.png",
+        "disabled_img": "images/checks/goal_sphere.png",
+        "codes": "swapped_vs1"
+    },
+    {
+        "name": "Cheese Bridge Area Swapped Exit",
+        "type": "toggle",
+        "img": "images/checks/goal_sphere.png",
+        "disabled_img": "images/checks/goal_sphere.png",
+        "codes": "swapped_cba"
+    },
+    {
+        "name": "Forest of Illusion 1 Swapped Exit",
+        "type": "toggle",
+        "img": "images/checks/goal_sphere.png",
+        "disabled_img": "images/checks/goal_sphere.png",
+        "codes": "swapped_fi1"
+    },
+    {
+        "name": "Forest of Illusion 2 Swapped Exit",
+        "type": "toggle",
+        "img": "images/checks/goal_sphere.png",
+        "disabled_img": "images/checks/goal_sphere.png",
+        "codes": "swapped_fi2"
+    },
+    {
+        "name": "Forest of Illusion 3 Swapped Exit",
+        "type": "toggle",
+        "img": "images/checks/goal_sphere.png",
+        "disabled_img": "images/checks/goal_sphere.png",
+        "codes": "swapped_fi3"
+    },
+    {
+        "name": "Forest of Illusion 4 Swapped Exit",
+        "type": "toggle",
+        "img": "images/checks/goal_sphere.png",
+        "disabled_img": "images/checks/goal_sphere.png",
+        "codes": "swapped_fi4"
+    },
+    {
+        "name": "Forest Ghost House Swapped Exit",
+        "type": "toggle",
+        "img": "images/checks/goal_sphere.png",
+        "disabled_img": "images/checks/goal_sphere.png",
+        "codes": "swapped_fgh"
+    },
+    {
+        "name": "Chocolate Island 2 Swapped Exit",
+        "type": "toggle",
+        "img": "images/checks/goal_sphere.png",
+        "disabled_img": "images/checks/goal_sphere.png",
+        "codes": "swapped_ci2"
+    },
+    {
+        "name": "Chocolate Island 3 Swapped Exit",
+        "type": "toggle",
+        "img": "images/checks/goal_sphere.png",
+        "disabled_img": "images/checks/goal_sphere.png",
+        "codes": "swapped_ci3"
+    },
+    {
+        "name": "Valley of Bowser 2 Swapped Exit",
+        "type": "toggle",
+        "img": "images/checks/goal_sphere.png",
+        "disabled_img": "images/checks/goal_sphere.png",
+        "codes": "swapped_vb2"
+    },
+    {
+        "name": "Valley of Bowser 4 Swapped Exit",
+        "type": "toggle",
+        "img": "images/checks/goal_sphere.png",
+        "disabled_img": "images/checks/goal_sphere.png",
+        "codes": "swapped_vb4"
+    },
+    {
+        "name": "Valley Ghost House Swapped Exit",
+        "type": "toggle",
+        "img": "images/checks/goal_sphere.png",
+        "disabled_img": "images/checks/goal_sphere.png",
+        "codes": "swapped_vbh"
+    },
+    {
+        "name": "Star World 1 Swapped Exit",
+        "type": "toggle",
+        "img": "images/checks/goal_sphere.png",
+        "disabled_img": "images/checks/goal_sphere.png",
+        "codes": "swapped_sr1"
+    },
+    {
+        "name": "Star World 2 Swapped Exit",
+        "type": "toggle",
+        "img": "images/checks/goal_sphere.png",
+        "disabled_img": "images/checks/goal_sphere.png",
+        "codes": "swapped_sr2"
+    },
+    {
+        "name": "Star World 3 Swapped Exit",
+        "type": "toggle",
+        "img": "images/checks/goal_sphere.png",
+        "disabled_img": "images/checks/goal_sphere.png",
+        "codes": "swapped_sr3"
+    },
+    {
+        "name": "Star World 4 Swapped Exit",
+        "type": "toggle",
+        "img": "images/checks/goal_sphere.png",
+        "disabled_img": "images/checks/goal_sphere.png",
+        "codes": "swapped_sr4"
+    },
+    {
+        "name": "Star World 5 Swapped Exit",
+        "type": "toggle",
+        "img": "images/checks/goal_sphere.png",
+        "disabled_img": "images/checks/goal_sphere.png",
+        "codes": "swapped_sr5"
+    },
+    
+    {
         "name": "Donut Plains 1 Carryless Exit",
         "type": "toggle",
         "img": "images/checks/red_sphere.png",

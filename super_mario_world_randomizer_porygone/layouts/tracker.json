@@ -17,6 +17,13 @@
                 }
             },
             {
+                "title": "Swapped Exits",
+                "content": {
+                    "type": "layout",
+                    "key": "swapped_exits"
+                }
+            },
+            {
                 "title": "Extra Logic",
                 "content": {
                     "type": "layout",

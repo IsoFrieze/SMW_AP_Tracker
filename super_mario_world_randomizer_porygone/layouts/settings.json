@@ -120,6 +120,56 @@
             }
         ]
     },
+    "swapped_exits": {
+        "type": "container",
+        "content": [
+            {
+                "type": "itemgrid",
+                "h_alignment": "left",
+                "item_margin": "2,2",
+                "item_size": "40",
+                "rows": [
+                    [
+                        "swapped_dp1",
+                        "swapped_dp2",
+                        "swapped_ds1",
+                        "swapped_dgh",
+                        "swapped_dsh"
+                    ],
+                    [
+                        "swapped_vd1",
+                        "swapped_vd2",
+                        "swapped_vs1",
+                        "",
+                        "swapped_cba"
+                    ],
+                    [
+                        "swapped_fi1",
+                        "swapped_fi2",
+                        "swapped_fi3",
+                        "swapped_fi4",
+                        "swapped_fgh",
+                    ],
+                    [
+                        "swapped_ci2",
+                        "swapped_ci3"
+                    ],
+                    [
+                        "swapped_vb2",
+                        "swapped_vb4",
+                        "swapped_vbh"
+                    ],
+                    [
+                        "swapped_sr1",
+                        "swapped_sr2",
+                        "swapped_sr3",
+                        "swapped_sr4",
+                        "swapped_sr5"
+                    ]
+                ]
+            }
+        ]
+    },
     "visited_levels": {
         "type": "array",
         "orientation": "vertical",

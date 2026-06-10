@@ -109,6 +109,13 @@ This tab tracks each level that contains a red orb instead of a keyhole, allowin
 
 If you are connected to an Archipelago server, these currently do not sync as it would introduce spoilers.
 
+#### Swapped Exits
+This tab tracks each level that has its exits swapped. That is, clearing the normal exit will unlock the secret exit path and visa-versa.
+
+Levels with their exits swapped are denoted by a large level dot on the overworld. Ghost Houses will appear gray instead of brown.
+
+If you are connected to an Archipelago server, these will only sync when you enter the level in question for the first time.
+
 #### Extra Logic
 This tab controls all of the extra logic settings. In order these are:
 

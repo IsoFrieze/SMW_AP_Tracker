@@ -281,6 +281,23 @@ function updateEvents(key, value)
                             end
                         end
                     end
+                    
+                    -- reveal swapped exit only when that level is entered
+                    if SLOT_DATA['swapped_exits'] then
+                        local translevel = level_id
+                        if translevel > 36 then translevel = translevel - 256 + 36 end
+                        for _, cexit in pairs(SLOT_DATA['swapped_exits']) do
+                            if cexit == translevel then
+                                local map = SWAPPED_MAPPING[cexit]
+                                if map then
+                                    local obj = Tracker:FindObjectForCode(map)
+                                    if obj then
+                                        obj.Active = true
+                                    end
+                                end
+                            end
+                        end
+                    end
                 end
             end
         end

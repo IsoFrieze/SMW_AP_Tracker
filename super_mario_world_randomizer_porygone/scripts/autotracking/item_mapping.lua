@@ -71,6 +71,33 @@ CARRYLESS_MAPPING = {
     [90] = "carryless_sr5"
 }
 
+SWAPPED_MAPPING = {
+    [21] = "swapped_dp1",
+    [9] = "swapped_dp2",
+    [10] = "swapped_ds1",
+    [4] = "swapped_dgh",
+    [13] = "swapped_dsh",
+    [62] = "swapped_vd1",
+    [60] = "swapped_vd2",
+    [45] = "swapped_vs1",
+    [15] = "swapped_cba",
+    [66] = "swapped_fi1",
+    [68] = "swapped_fi2",
+    [71] = "swapped_fi3",
+    [67] = "swapped_fi4",
+    [65] = "swapped_fgh",
+    [36] = "swapped_ci2",
+    [35] = "swapped_ci3",
+    [57] = "swapped_vb2",
+    [62] = "swapped_vb4",
+    [56] = "swapped_vbh",
+    [88] = "swapped_sr1",
+    [84] = "swapped_sr2",
+    [86] = "swapped_sr3",
+    [89] = "swapped_sr4",
+    [90] = "swapped_sr5"
+}
+
 EXTRA_LOGIC_MAPPING = {
     ["Vanilla Dome 1 - Itemless Sinking Platform"] = "hardlogic_vd1_room2itemless",
     ["Vanilla Dome 4 - Sacrifice for Coin Block #8"] = "hardlogic_vd4_coinblock8",

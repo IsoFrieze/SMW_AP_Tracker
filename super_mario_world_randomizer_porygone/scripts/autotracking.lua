@@ -258,7 +258,6 @@ function updateEvents(key, value)
                     print("Setting level_visit_" .. level_id)
                     
                     -- reveal required eggs only when Yoshi's House is visited
-                    -- doesn't actually work because a 'level_visit' tag for yoshi's house isn't even recorded
                     if level_id == 260 then
                         local eggs = Tracker:FindObjectForCode("yoshi_eggs_required")
                         eggs.AcquiredCount = SLOT_DATA['required_egg_count']

@@ -152,7 +152,7 @@
                 "name": "Chocolate Island 3 - Prize from bonus block",
                 "sections": [
                     {
-                        "name": "1-Up from Bonus Block",
+                        "name": "Collect 30 coins",
                         "ref": "Bonus 1-Ups/CI3/Bonus 1-Up"
                     }
                 ],
@@ -356,7 +356,7 @@
                         "ref": "Dragon Coins/CI3/Dragon Coins"
                     },
                     {
-                        "name": "1-Up from Bonus Block",
+                        "name": "Prize from Bonus Block",
                         "ref": "Bonus 1-Ups/CI3/Bonus 1-Up"
                     },
                     {
@@ -496,7 +496,7 @@
                         "ref": "Dragon Coins/CI3/Dragon Coins"
                     },
                     {
-                        "name": "1-Up from Bonus Block",
+                        "name": "Prize from Bonus Block",
                         "ref": "Bonus 1-Ups/CI3/Bonus 1-Up"
                     },
                     {

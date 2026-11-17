@@ -1465,23 +1465,23 @@
                     },
                     {
                         "name": "Big boo room",
-                        "ref": "Rooms/DSH/Room 0x0007"
+                        "ref": "Rooms/DSH/Room 0x0013"
                     },
                     {
                         "name": "Puzzle room",
-                        "ref": "Rooms/DSH/Room 0x00E8"
+                        "ref": "Rooms/DSH/Room 0x00ED"
                     },
                     {
                         "name": "Goal room",
-                        "ref": "Rooms/DSH/Room 0x00E7"
+                        "ref": "Rooms/DSH/Room 0x00F0"
                     },
                     {
                         "name": "Directional coin room",
-                        "ref": "Rooms/DSH/Room 0x00E5"
+                        "ref": "Rooms/DSH/Room 0x00F1"
                     },
                     {
                         "name": "Boss room",
-                        "ref": "Rooms/DSH/Room 0x00E6"
+                        "ref": "Rooms/DSH/Room 0x00E4"
                     },
                     {
                         "name": "Powerup Block #1",

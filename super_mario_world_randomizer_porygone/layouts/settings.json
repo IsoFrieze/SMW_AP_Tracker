@@ -406,6 +406,7 @@
                     "item_size": "40",
                     "rows": [
                         [
+                            "hardlogic_yi4_dcsacrifice"
                         ]
                     ]
                 }
@@ -419,6 +420,8 @@
                     "item_size": "40",
                     "rows": [
                         [
+                            "hardlogic_dp1_yoshijump",
+                            "hardlogic_dgh_boojump"
                         ]
                     ]
                 }
@@ -433,6 +436,8 @@
                     "rows": [
                         [
                             "hardlogic_vd1_room2itemless",
+                            "hardlogic_vd2_climblesssecret",
+                            "hardlogic_vd3_wallrun",
                             "hardlogic_vd4_coinblock8",
                             "hardlogic_vs1_wallrun",
                             "hardlogic_vs3_swimless",
@@ -467,6 +472,7 @@
                     "rows": [
                         [
                             "hardlogic_fi1_yoshiexit2",
+                            "hardlogic_fi1_capeexit2",
                             "hardlogic_fi3_itemlessbigpipe",
                             "hardlogic_fi3_yoshiexit2",
                             "hardlogic_fgh_room2skip",
@@ -484,6 +490,9 @@
                     "item_size": "40",
                     "rows": [
                         [
+                            "hardlogic_ci1_dboostmunchers",
+                            "hardlogic_ci4_perfecttiming",
+                            "hardlogic_sgs_dcfreefalling"
                         ]
                     ]
                 }
@@ -497,8 +506,10 @@
                     "item_size": "40",
                     "rows": [
                         [
+                            "hardlogic_vb1_yoshijump",
                             "hardlogic_vb3_itemlessitemblock",
                             "hardlogic_vb4_yoshivineskip",
+                            "hardlogic_vb4_climblesssecret",
                             "hardlogic_vbh_exit2carryless"
                         ]
                     ]
@@ -528,6 +539,7 @@
                     "item_size": "40",
                     "rows": [
                         [
+                            "hardlogic_sz1_climbless",
                             "hardlogic_sz4_itemless",
                             "hardlogic_sz6_swimless",
                             "hardlogic_sz7_wallrun"

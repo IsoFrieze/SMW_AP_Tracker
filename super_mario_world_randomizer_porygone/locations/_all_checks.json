@@ -80,9 +80,12 @@
                         "access_rules": [
                             "$CanCarry, $HasGSP",
                             "$CanCarry, $CanCapeFly",
-                            "$CanYoshiFly",
+                            "$CanBlueYoshiFly",
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
                             "carryless_dp1, $HasGSP",
-                            "carryless_dp1, $CanFly"
+                            "carryless_dp1, $CanCapeFly",
+                            "hardlogic_dp1_yoshijump, $CanCarry, $HasYoshi",
+                            "hardlogic_dp1_yoshijump, carryless_dp1, $HasYoshi"
                         ]
                     },
                     {
@@ -110,7 +113,7 @@
                         "name": "Secret Exit",
                         "visibility_rules": [ "$Not|swapped_dp2" ],
                         "access_rules": [
-                            "$CanYoshiCarry",
+                            "$CanAnyYoshiFlyBlueShell",
                             "$CanCarry, $HasYoshi",
                             "$CanCarry, $CanClimb, $CanBreakTurnBlocks",
                             "carryless_dp2, $HasYoshi"
@@ -201,7 +204,8 @@
                         "visibility_rules": [ "$Not|swapped_dgh" ],
                         "access_rules": [
                             "$CanClimb",
-                            "$CanCapeFly"
+                            "$CanCapeFly",
+                            "hardlogic_dgh_boojump, $EnemiesNotShuffled, $CanSpinJump"
                         ]
                     },
                     {
@@ -285,7 +289,8 @@
                             "$CanClimb, $CanCarry, $HasYoshi",
                             "$CanClimb, $CanCarry, $HasRSP",
                             "$CanClimb, carryless_vd1, $HasYoshi",
-                            "$CanClimb, carryless_vd1, $HasRSP"
+                            "$CanClimb, carryless_vd1, $HasRSP",
+                            "$EnemiesNotShuffled, $CanAnyYoshiFlyBlueShell"
                         ]
                     },
                     {
@@ -317,7 +322,8 @@
                         "visibility_rules": [ "$Not|swapped_vd2" ],
                         "access_rules": [
                             "$CanSwim, $CanCarry, $HasPSwitch, $CanClimb",
-                            "$CanSwim, $CanCarry, $HasPSwitch, $HasYoshi"
+                            "$CanSwim, $CanCarry, $HasPSwitch, $HasYoshi",
+                            "hardlogic_vd2_climblesssecret, $CanSwim, $CanYoshiCarry, $HasPSwitch, $HasMidway"
                         ]
                     },
                     {
@@ -361,6 +367,7 @@
                         "visibility_rules": [ "$Not|swapped_vs1" ],
                         "access_rules": [
                             "$CanClimb",
+                            "$EnemiesNotShuffled, $CanAnyYoshiFlyRedShell",
                             "$CanWallRun, hardlogic_vs1_wallrun"
                         ]
                     },
@@ -369,6 +376,7 @@
                         "visibility_rules": [ "$Not|swapped_vs1" ],
                         "access_rules": [
                             "$CanClimb, $CanCarry, $HasBSP",
+                            "$EnemiesNotShuffled, $CanAnyYoshiFlyRedShell",
                             "$CanWallRun, hardlogic_vs1_wallrun, $CanCarry, $HasBSP"
                         ]
                     },
@@ -482,7 +490,8 @@
                         "visibility_rules": [ "$Not|swapped_cba" ],
                         "access_rules": [
                             "$CanClimb",
-                            "$HasYoshi"
+                            "$HasYoshi",
+                            "$CanCapeFly"
                         ]
                     },
                     {
@@ -553,9 +562,12 @@
                         "visibility_rules": [ "$Not|swapped_fi1" ],
                         "access_rules": [
                             "$CanCarry, $HasPBalloon",
+                            "$EnemiesNotShuffled, $CanAnyYoshiFlyRedShell",
                             "carryless_fi1, $HasPBalloon",
                             "$CanCarry, hardlogic_fi1_yoshiexit2, $HasYoshi",
-                            "carryless_fi1, hardlogic_fi1_yoshiexit2, $HasYoshi"
+                            "carryless_fi1, hardlogic_fi1_yoshiexit2, $HasYoshi",
+                            "hardlogic_fi1_capeexit2, $CanCarry, $CanCapeFly",
+                            "hardlogic_fi1_capeexit2, carryless_fi1, $CanCapeFly"
                         ]
                     },
                     {
@@ -615,6 +627,7 @@
                         "access_rules": [
                             "$CanCarry",
                             "$HasYoshi",
+                            "$CanCapeFly",
                             "hardlogic_fi3_itemlessbigpipe"
                         ]
                     },
@@ -623,6 +636,8 @@
                         "visibility_rules": [ "$Not|swapped_fi3" ],
                         "access_rules": [
                             "$CanCarryOrYoshiTongue, $CanBreakTurnBlocks",
+                            "carryless_fi3, $HasYoshi, $CanBreakTurnBlocks",
+                            "carryless_fi3, hardlogic_fi3_itemlessbigpipe, $CanBreakTurnBlocks",
                             "hardlogic_fi3_yoshiexit2, $CanYoshiCarry"
                         ]
                     },
@@ -749,8 +764,11 @@
                     {
                         "name": "Normal Exit",
                         "access_rules": [
+                            "$CanCarry",
                             "$HasPSwitch",
-                            "$HasYoshi"
+                            "$HasYoshi",
+                            "$HasFeather",
+                            "hardlogic_ci1_dboostmunchers, $HasMushroom"
                         ]
                     }
                 ]
@@ -793,13 +811,17 @@
                         "visibility_rules": [ "$Not|swapped_ci3" ],
                         "access_rules": [
                             "$CanClimb",
-                            "$HasYoshi"
+                            "$HasYoshi",
+                            "$CanCapeFly"
                         ]
                     },
                     {
                         "name": "Secret Exit",
                         "visibility_rules": [ "$Not|swapped_ci3" ],
-                        "access_rules": [ "$CanFly" ]
+                        "access_rules": [
+                            "$CanCapeFly",
+                            "$CanAnyYoshiFlyBlueShell"
+                        ]
                     },
                     {
                         "name": "Swapped Normal Exit",
@@ -954,8 +976,8 @@
                         "access_rules": [
                             "$CanYoshiCarry, $CanClimb",
                             "carryless_vb4, $CanClimb",
-                            "hardlogic_vb4_yoshivineskip, $CanYoshiCarry, $CanClimb",
-                            "hardlogic_vb4_yoshivineskip, carryless_vb4, $HasYoshi"
+                            "hardlogic_vb4_yoshivineskip, carryless_vb4, $HasYoshi",
+                            "hardlogic_vb4_climblesssecret, $HasMidway, $CanYoshiCarry"
                         ]
                     },
                     {
@@ -1006,7 +1028,7 @@
                 "sections": [
                     {
                         "name": "Normal Exit",
-                        "access_rules": [ "powerup_1" ]
+                        "access_rules": []
                     }
                 ]
             },
@@ -1123,7 +1145,7 @@
                         "name": "Secret Exit",
                         "visibility_rules": [ "$Not|swapped_sr4" ],
                         "access_rules": [
-                            "$CanYoshiFly",
+                            "$CanAnyYoshiFlyBlueShell",
                             "$CanCarry, $HasFeather",
                             "$CanCarry, $HasGSP, $HasRSP",
                             "carryless_sr4, $HasFeather",
@@ -1152,18 +1174,20 @@
                         "visibility_rules": [ "$Not|swapped_sr5" ],
                         "access_rules": [
                             "$HasPSwitch",
-                            "$CanFly"
+                            "$CanCapeFly"
                         ]
                     },
                     {
                         "name": "Secret Exit",
                         "visibility_rules": [ "$Not|swapped_sr5" ],
                         "access_rules": [
-                            "$CanYoshiFly",
+                            "$CanBlueYoshiFly",
+                            "$HasPSwitch, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell",
+                            "$CanCapeFly, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell",
                             "$CanCarry, $CanClimb, $HasPSwitch, $HasYSP, $HasGSP, $HasRSP, $HasBSP",
-                            "$CanFly, $CanCarry",
+                            "$CanCapeFly, $CanCarry",
                             "carryless_sr5, $CanClimb, $HasPSwitch, $HasYSP, $HasGSP, $HasRSP, $HasBSP",
-                            "$CanFly, carryless_sr5, $CanSpinJump"
+                            "carryless_sr5, $CanCapeSpinFly"
                         ]
                     },
                     {
@@ -1186,7 +1210,9 @@
                         "name": "Normal Exit",
                         "access_rules": [
                             "$CanClimb, $HasPSwitch",
-                            "$CanClimb, $CanCapeFly"
+                            "$CanClimb, $CanCapeFly",
+                            "hardlogic_sz1_climbless, $CanCapeFly",
+                            "hardlogic_sz1_climbless, $HasPSwitch, $EnemiesNotShuffled, $CanAnyYoshiFlyBlueShell"
                         ]
                     }
                 ]
@@ -1265,6 +1291,7 @@
                         "name": "Normal Exit",
                         "access_rules": [
                             "$CanCarryOrYoshiTongue",
+                            "$CanCapeFly",
                             "hardlogic_sz7_wallrun, $CanWallRun, $HasSuperStar|2"
                         ]
                     }
@@ -1496,6 +1523,7 @@
                         "access_rules": [
                             "$CanCarry",
                             "$HasYoshi",
+                            "$CanCapeFly",
                             "hardlogic_fi3_itemlessbigpipe"
                         ]
                     }
@@ -1846,7 +1874,11 @@
                     },
                     {
                         "name": "Room 0x00EB",
-                        "access_rules": [ "$CanClimb" ]
+                        "access_rules": [
+                            "$CanClimb",
+                            "$CanCapeFly",
+                            "hardlogic_dgh_boojump, $EnemiesNotShuffled, $CanSpinJump"
+                        ]
                     },
                     {
                         "name": "Room 0x00C4",
@@ -1968,7 +2000,10 @@
                     },
                     {
                         "name": "Room 0x01F7",
-                        "access_rules": [ "$CanCapeFly" ]
+                        "access_rules": [
+                            "$CanCapeFly",
+                            "hardlogic_vd3_wallrun, $CanWallRun"
+                        ]
                     }
                 ]
             },
@@ -1998,6 +2033,7 @@
                         "name": "Room 0x01F0",
                         "access_rules": [
                             "$CanClimb, $CanCarry, $HasBSP",
+                            "$EnemiesNotShuffled, $CanAnyYoshiFlyRedShell",
                             "hardlogic_vs1_wallrun, $CanWallRun, $CanCarry, $HasBSP"
                         ]
                     },
@@ -2005,6 +2041,7 @@
                         "name": "Room 0x01F1",
                         "access_rules": [
                             "$CanClimb",
+                            "$EnemiesNotShuffled, $CanAnyYoshiFlyRedShell",
                             "$CanWallRun, hardlogic_vs1_wallrun"
                         ]
                     }
@@ -2259,6 +2296,7 @@
                         "access_rules": [
                             "$CanCarry",
                             "$HasYoshi",
+                            "$CanCapeFly",
                             "hardlogic_fi3_itemlessbigpipe"
                         ]
                     },
@@ -2385,7 +2423,10 @@
                         "name": "Room 0x00BE",
                         "access_rules": [
                             "$HasPSwitch",
-                            "$HasYoshi"
+                            "$HasYoshi",
+                            "$CanCarry",
+                            "$HasFeather",
+                            "hardlogic_ci1_dboostmunchers, $HasMushroom"
                         ]
                     }
                 ]
@@ -2573,7 +2614,10 @@
                     },
                     {
                         "name": "Room 0x01E4",
-                        "access_rules": [ "$CanClimb" ]
+                        "access_rules": [
+                            "$CanClimb",
+                            "hardlogic_vb1_yoshijump, $HasYoshi"
+                        ]
                     }
                 ]
             },
@@ -2748,7 +2792,11 @@
                     },
                     {
                         "name": "Room 0x11C4",
-                        "access_rules": [ "$CanClimb" ]
+                        "access_rules": [
+                            "$CanClimb",
+                            "hardlogic_sz1_climbless, $CanCapeFly",
+                            "hardlogic_sz1_climbless, $EnemiesNotShuffled, $CanAnyYoshiFlyBlueShell"
+                        ]
                     }
                 ]
             },
@@ -2924,7 +2972,8 @@
                         "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
                             "$HasYoshi",
-                            "$CanClimb"
+                            "$CanClimb",
+                            "$CanCapeFly"
                         ]
                     },
                     {
@@ -2951,7 +3000,11 @@
                     {
                         "name": "Dragon Coin #2",
                         "visibility_rules": [ "individual_dragon_coins" ],
-                        "access_rules": [ "$HasPSwitch" ]
+                        "access_rules": [
+                            "$HasPSwitch",
+                            "$HasYoshi",
+                            "$HasFeather"
+                        ]
                     },
                     {
                         "name": "Dragon Coin #3",
@@ -3000,7 +3053,8 @@
                         "access_rules": [
                             "$HasYoshi",
                             "$CanSwim",
-                            "$HasPSwitch"
+                            "$HasPSwitch",
+                            "hardlogic_yi4_dcsacrifice"
                         ]
                     },
                     {
@@ -3105,6 +3159,7 @@
                         "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
                             "$CanBreakTurnBlocks, $CanClimb",
+                            "$HasFeather, $CanClimb",
                             "$HasYoshi",
                             "$CanCapeFly"
                         ]
@@ -3227,7 +3282,8 @@
                         "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
                             "$CanClimb",
-                            "$HasYoshi"
+                            "$HasYoshi",
+                            "$CanCapeFly"
                         ]
                     },
                     {
@@ -3345,7 +3401,8 @@
                         "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
                             "$CanSwim, $CanCarry, $HasPSwitch, $CanClimb",
-                            "$CanSwim, $CanCarry, $HasPSwitch, $HasYoshi"
+                            "$CanSwim, $CanCarry, $HasPSwitch, $HasYoshi",
+                            "hardlogic_vd2_climblesssecret, $CanSwim, $HasPSwitch, $CanYoshiCarry, $HasMidway"
                         ]
                     }
                 ]
@@ -3446,6 +3503,7 @@
                         "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
                             "$CanClimb",
+                            "$EnemiesNotShuffled, $CanAnyYoshiFlyRedShell",
                             "hardlogic_vs1_wallrun, $CanWallRun"
                         ]
                     },
@@ -3454,6 +3512,7 @@
                         "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
                             "$CanClimb",
+                            "$EnemiesNotShuffled, $CanAnyYoshiFlyRedShell",
                             "hardlogic_vs1_wallrun, $CanWallRun"
                         ]
                     },
@@ -3462,6 +3521,7 @@
                         "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
                             "$CanClimb, $CanCarry",
+                            "$EnemiesNotShuffled, $CanAnyYoshiFlyRedShell",
                             "hardlogic_vs1_wallrun, $CanWallRun, $CanCarry"
                         ]
                     },
@@ -3470,6 +3530,7 @@
                         "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
                             "$CanClimb, $CanCarry",
+                            "$EnemiesNotShuffled, $CanAnyYoshiFlyRedShell",
                             "hardlogic_vs1_wallrun, $CanWallRun"
                         ]
                     }
@@ -3487,7 +3548,10 @@
                     {
                         "name": "Dragon Coin #1",
                         "visibility_rules": [ "individual_dragon_coins" ],
-                        "access_rules": [ "$CanCapeFly" ]
+                        "access_rules": [
+                            "$CanCapeFly",
+                            "$HasYoshi"
+                        ]
                     },
                     {
                         "name": "Dragon Coin #2",
@@ -3585,7 +3649,10 @@
                     {
                         "name": "Dragon Coin #3",
                         "visibility_rules": [ "individual_dragon_coins" ],
-                        "access_rules": [ "$CanClimb" ]
+                        "access_rules": [
+                            "$CanClimb",
+                            "$CanCapeFly"
+                        ]
                     },
                     {
                         "name": "Dragon Coin #4",
@@ -3654,7 +3721,10 @@
                     {
                         "name": "Dragon Coin #1",
                         "visibility_rules": [ "individual_dragon_coins" ],
-                        "access_rules": [ "$CanFly" ]
+                        "access_rules": [
+                            "$CanCapeFly",
+                            "$EnemiesNotShuffled, $CanAnyYoshiFlyBlueShell"
+                        ]
                     },
                     {
                         "name": "Dragon Coin #2",
@@ -3766,7 +3836,8 @@
                         "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
                             "$HasYoshi",
-                            "$CanClimb"
+                            "$CanClimb",
+                            "$CanCapeFly"
                         ]
                     },
                     {
@@ -3889,6 +3960,7 @@
                         "access_rules": [
                             "$CanCarry",
                             "$HasYoshi",
+                            "$CanCapeFly",
                             "hardlogic_fi3_itemlessbigpipe"
                         ]
                     },
@@ -3898,6 +3970,7 @@
                         "access_rules": [
                             "$CanCarry",
                             "$HasYoshi",
+                            "$CanCapeFly",
                             "hardlogic_fi3_itemlessbigpipe"
                         ]
                     },
@@ -3907,6 +3980,7 @@
                         "access_rules": [
                             "$CanCarry",
                             "$HasYoshi",
+                            "$CanCapeFly",
                             "hardlogic_fi3_itemlessbigpipe"
                         ]
                     },
@@ -3916,6 +3990,7 @@
                         "access_rules": [
                             "$CanCarry",
                             "$HasYoshi",
+                            "$CanCapeFly",
                             "hardlogic_fi3_itemlessbigpipe"
                         ]
                     }
@@ -4093,7 +4168,10 @@
                         "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
                             "$HasPSwitch",
-                            "$HasYoshi"
+                            "$HasYoshi",
+                            "$CanCarry",
+                            "$HasFeather",
+                            "hardlogic_ci1_dboostmunchers, $HasMushroom"
                         ]
                     },
                     {
@@ -4101,7 +4179,10 @@
                         "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
                             "$HasPSwitch",
-                            "$HasYoshi"
+                            "$HasYoshi",
+                            "$CanCarry",
+                            "$HasFeather",
+                            "hardlogic_ci1_dboostmunchers, $HasMushroom"
                         ]
                     },
                     {
@@ -4109,7 +4190,10 @@
                         "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
                             "$HasPSwitch",
-                            "$HasYoshi"
+                            "$HasYoshi",
+                            "$CanCarry",
+                            "$HasFeather",
+                            "hardlogic_ci1_dboostmunchers, $HasMushroom"
                         ]
                     },
                     {
@@ -4117,7 +4201,10 @@
                         "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
                             "$HasPSwitch",
-                            "$HasYoshi"
+                            "$HasYoshi",
+                            "$CanCarry",
+                            "$HasFeather",
+                            "hardlogic_ci1_dboostmunchers, $HasMushroom"
                         ]
                     }
                 ]
@@ -4257,7 +4344,11 @@
                     {
                         "name": "Dragon Coin #5",
                         "visibility_rules": [ "individual_dragon_coins" ],
-                        "access_rules": [ "$HasPSwitch, $HasFeather" ]
+                        "access_rules": [
+                            "$HasPSwitch, $HasFeather",
+                            "$HasPSwitch, $HasYoshi",
+                            "$HasPSwitch, hardlogic_ci4_perfecttiming"
+                        ]
                     }
                 ]
             },
@@ -4323,27 +4414,42 @@
                     {
                         "name": "Dragon Coin #1",
                         "visibility_rules": [ "individual_dragon_coins" ],
-                        "access_rules": [ "$CanSwim" ]
+                        "access_rules": [
+                            "$CanSwim, $HasFeather",
+                            "$CanSwim, hardlogic_sgs_dcfreefalling"
+                        ]
                     },
                     {
                         "name": "Dragon Coin #2",
                         "visibility_rules": [ "individual_dragon_coins" ],
-                        "access_rules": [ "$CanSwim" ]
+                        "access_rules": [
+                            "$CanSwim, $HasFeather",
+                            "$CanSwim, hardlogic_sgs_dcfreefalling"
+                        ]
                     },
                     {
                         "name": "Dragon Coin #3",
                         "visibility_rules": [ "individual_dragon_coins" ],
-                        "access_rules": [ "$CanSwim" ]
+                        "access_rules": [
+                            "$CanSwim, $HasFeather",
+                            "$CanSwim, hardlogic_sgs_dcfreefalling"
+                        ]
                     },
                     {
                         "name": "Dragon Coin #4",
                         "visibility_rules": [ "individual_dragon_coins" ],
-                        "access_rules": [ "$CanSwim" ]
+                        "access_rules": [
+                            "$CanSwim, $HasFeather",
+                            "$CanSwim, hardlogic_sgs_dcfreefalling"
+                        ]
                     },
                     {
                         "name": "Dragon Coin #5",
                         "visibility_rules": [ "individual_dragon_coins" ],
-                        "access_rules": [ "$CanSwim" ]
+                        "access_rules": [
+                            "$CanSwim, $HasFeather",
+                            "$CanSwim, hardlogic_sgs_dcfreefalling"
+                        ]
                     }
                 ]
             },
@@ -4591,42 +4697,74 @@
                     {
                         "name": "Dragon Coin #1",
                         "visibility_rules": [ "individual_dragon_coins" ],
-                        "access_rules": [ "$CanClimb" ]
+                        "access_rules": [
+                            "$CanClimb",
+                            "hardlogic_sz1_climbless, $CanCapeFly",
+                            "hardlogic_sz1_climbless, $EnemiesNotShuffled, $CanAnyYoshiFlyBlueShell"
+                        ]
                     },
                     {
                         "name": "Dragon Coin #2",
                         "visibility_rules": [ "individual_dragon_coins" ],
-                        "access_rules": [ "$CanClimb" ]
+                        "access_rules": [
+                            "$CanClimb",
+                            "hardlogic_sz1_climbless, $CanCapeFly",
+                            "hardlogic_sz1_climbless, $EnemiesNotShuffled, $CanAnyYoshiFlyBlueShell"
+                        ]
                     },
                     {
                         "name": "Dragon Coin #3",
                         "visibility_rules": [ "individual_dragon_coins" ],
-                        "access_rules": [ "$CanClimb" ]
+                        "access_rules": [
+                            "$CanClimb",
+                            "hardlogic_sz1_climbless, $CanCapeFly",
+                            "hardlogic_sz1_climbless, $EnemiesNotShuffled, $CanAnyYoshiFlyBlueShell"
+                        ]
                     },
                     {
                         "name": "Dragon Coin #4",
                         "visibility_rules": [ "individual_dragon_coins" ],
-                        "access_rules": [ "$CanClimb" ]
+                        "access_rules": [
+                            "$CanClimb",
+                            "hardlogic_sz1_climbless, $CanCapeFly",
+                            "hardlogic_sz1_climbless, $EnemiesNotShuffled, $CanAnyYoshiFlyBlueShell"
+                        ]
                     },
                     {
                         "name": "Dragon Coin #5",
                         "visibility_rules": [ "individual_dragon_coins" ],
-                        "access_rules": [ "$CanClimb" ]
+                        "access_rules": [
+                            "$CanClimb",
+                            "hardlogic_sz1_climbless, $CanCapeFly",
+                            "hardlogic_sz1_climbless, $EnemiesNotShuffled, $CanAnyYoshiFlyBlueShell"
+                        ]
                     },
                     {
                         "name": "Dragon Coin #6",
                         "visibility_rules": [ "individual_dragon_coins" ],
-                        "access_rules": [ "$CanClimb, $HasPSwitch" ]
+                        "access_rules": [
+                            "$CanClimb, $HasPSwitch",
+                            "hardlogic_sz1_climbless, $CanCapeFly, $HasPSwitch",
+                            "hardlogic_sz1_climbless, $EnemiesNotShuffled, $CanAnyYoshiFlyBlueShell, $HasPSwitch"
+                        ]
                     },
                     {
                         "name": "Dragon Coin #7",
                         "visibility_rules": [ "individual_dragon_coins" ],
-                        "access_rules": [ "$CanClimb, $HasPSwitch" ]
+                        "access_rules": [
+                            "$CanClimb, $HasPSwitch",
+                            "hardlogic_sz1_climbless, $CanCapeFly, $HasPSwitch",
+                            "hardlogic_sz1_climbless, $EnemiesNotShuffled, $CanAnyYoshiFlyBlueShell, $HasPSwitch"
+                        ]
                     },
                     {
                         "name": "Dragon Coin #8",
                         "visibility_rules": [ "individual_dragon_coins" ],
-                        "access_rules": [ "$CanClimb, $HasPSwitch" ]
+                        "access_rules": [
+                            "$CanClimb, $HasPSwitch",
+                            "hardlogic_sz1_climbless, $CanCapeFly, $HasPSwitch",
+                            "hardlogic_sz1_climbless, $EnemiesNotShuffled, $CanAnyYoshiFlyBlueShell, $HasPSwitch"
+                        ]
                     }
                 ]
             },
@@ -4886,6 +5024,7 @@
                         "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
                             "$CanCarryOrYoshiTongue",
+                            "$CanCapeFly",
                             "hardlogic_sz7_wallrun, $CanWallRun, $HasSuperStar|2"
                         ]
                     },
@@ -4894,6 +5033,7 @@
                         "visibility_rules": [ "individual_dragon_coins" ],
                         "access_rules": [
                             "$CanCarryOrYoshiTongue",
+                            "$CanCapeFly",
                             "hardlogic_sz7_wallrun, $CanWallRun, $HasSuperStar|2"
                         ]
                     }
@@ -4970,7 +5110,10 @@
                 "sections": [
                     {
                         "name": "3-Up Moon",
-                        "access_rules": [ "$CanCapeFly" ]
+                        "access_rules": [
+                            "$CanCapeFly",
+                            "$EnemiesNotShuffled, $CanAnyYoshiFlyRedShell"
+                        ]
                     }
                 ]
             },
@@ -4980,7 +5123,10 @@
                 "sections": [
                     {
                         "name": "3-Up Moon",
-                        "access_rules": [ "$CanCapeFly" ]
+                        "access_rules": [
+                            "$CanCapeFly",
+                            "$EnemiesNotShuffled, $CanAnyYoshiFlyBlueShell"
+                        ]
                     }
                 ]
             },
@@ -5027,7 +5173,10 @@
                 "sections": [
                     {
                         "name": "3-Up Moon",
-                        "access_rules": [ "$CanCapeFly" ]
+                        "access_rules": [
+                            "$CanCapeFly",
+                            "$HasYoshi"
+                        ]
                     }
                 ]
             },
@@ -5133,7 +5282,9 @@
                         "name": "Hidden 1-Up",
                         "access_rules": [
                             "$CanSwim",
-                            "$CanWallRun"
+                            "$CanWallRun",
+                            "$HasYoshi",
+                            "$CanCapeFly"
                         ]
                     }
                 ]
@@ -5147,6 +5298,7 @@
                         "access_rules": [
                             "$CanCarry",
                             "$HasYoshi",
+                            "$CanCapeFly",
                             "hardlogic_fi3_itemlessbigpipe"
                         ]
                     }
@@ -5200,7 +5352,11 @@
                 "sections": [
                     {
                         "name": "Hidden 1-Up",
-                        "access_rules": [ "$CanClimb" ]
+                        "access_rules": [
+                            "$CanClimb",
+                            "hardlogic_sz1_climbless, $CanCapeFly",
+                            "hardlogic_sz1_climbless, $EnemiesNotShuffled, $CanAnyYoshiFlyBlueShell"
+                        ]
                     }
                 ]
             }
@@ -5583,6 +5739,7 @@
                         "name": "Coin Block #8",
                         "access_rules": [
                             "$CanCarry",
+                            "$EnemiesNotShuffled, $CanAnyYoshiFlyRedShell",
                             "hardlogic_vd4_coinblock8, $HasFeather",
                             "hardlogic_vd4_coinblock8, $HasYoshi"
                         ]
@@ -5605,6 +5762,7 @@
                         "name": "Coin Block #2",
                         "access_rules": [
                             "$CanClimb",
+                            "$EnemiesNotShuffled, $CanAnyYoshiFlyRedShell",
                             "hardlogic_vs1_wallrun, $CanWallRun"
                         ]
                     },
@@ -5612,6 +5770,7 @@
                         "name": "Coin Block #3",
                         "access_rules": [
                             "$CanClimb",
+                            "$EnemiesNotShuffled, $CanAnyYoshiFlyRedShell",
                             "hardlogic_vs1_wallrun, $CanWallRun"
                         ]
                     }
@@ -5831,6 +5990,7 @@
                         "access_rules": [
                             "$CanCarry",
                             "$HasYoshi",
+                            "$CanCapeFly",
                             "hardlogic_fi3_itemlessbigpipe"
                         ]
                     },
@@ -5839,6 +5999,7 @@
                         "access_rules": [
                             "$CanCarry",
                             "$HasYoshi",
+                            "$CanCapeFly",
                             "hardlogic_fi3_itemlessbigpipe"
                         ]
                     },
@@ -5847,6 +6008,7 @@
                         "access_rules": [
                             "$CanCarry",
                             "$HasYoshi",
+                            "$CanCapeFly",
                             "hardlogic_fi3_itemlessbigpipe"
                         ]
                     },
@@ -5855,6 +6017,7 @@
                         "access_rules": [
                             "$CanCarry",
                             "$HasYoshi",
+                            "$CanCapeFly",
                             "hardlogic_fi3_itemlessbigpipe"
                         ]
                     },
@@ -5863,6 +6026,7 @@
                         "access_rules": [
                             "$CanCarry",
                             "$HasYoshi",
+                            "$CanCapeFly",
                             "hardlogic_fi3_itemlessbigpipe"
                         ]
                     },
@@ -5871,6 +6035,7 @@
                         "access_rules": [
                             "$CanCarry",
                             "$HasYoshi",
+                            "$CanCapeFly",
                             "hardlogic_fi3_itemlessbigpipe"
                         ]
                     },
@@ -5879,6 +6044,7 @@
                         "access_rules": [
                             "$CanCarry",
                             "$HasYoshi",
+                            "$CanCapeFly",
                             "hardlogic_fi3_itemlessbigpipe"
                         ]
                     },
@@ -5887,6 +6053,7 @@
                         "access_rules": [
                             "$CanCarry",
                             "$HasYoshi",
+                            "$CanCapeFly",
                             "hardlogic_fi3_itemlessbigpipe"
                         ]
                     },
@@ -5895,6 +6062,7 @@
                         "access_rules": [
                             "$CanCarry",
                             "$HasYoshi",
+                            "$CanCapeFly",
                             "hardlogic_fi3_itemlessbigpipe"
                         ]
                     },
@@ -5903,6 +6071,7 @@
                         "access_rules": [
                             "$CanCarry",
                             "$HasYoshi",
+                            "$CanCapeFly",
                             "hardlogic_fi3_itemlessbigpipe"
                         ]
                     },
@@ -5911,6 +6080,7 @@
                         "access_rules": [
                             "$CanCarry",
                             "$HasYoshi",
+                            "$CanCapeFly",
                             "hardlogic_fi3_itemlessbigpipe"
                         ]
                     },
@@ -5919,6 +6089,7 @@
                         "access_rules": [
                             "$CanCarry",
                             "$HasYoshi",
+                            "$CanCapeFly",
                             "hardlogic_fi3_itemlessbigpipe"
                         ]
                     },
@@ -5927,6 +6098,7 @@
                         "access_rules": [
                             "$CanCarry",
                             "$HasYoshi",
+                            "$CanCapeFly",
                             "hardlogic_fi3_itemlessbigpipe"
                         ]
                     },
@@ -5935,6 +6107,7 @@
                         "access_rules": [
                             "$CanCarry",
                             "$HasYoshi",
+                            "$CanCapeFly",
                             "hardlogic_fi3_itemlessbigpipe"
                         ]
                     },
@@ -5943,6 +6116,7 @@
                         "access_rules": [
                             "$CanCarry",
                             "$HasYoshi",
+                            "$CanCapeFly",
                             "hardlogic_fi3_itemlessbigpipe"
                         ]
                     },
@@ -5951,6 +6125,7 @@
                         "access_rules": [
                             "$CanCarry",
                             "$HasYoshi",
+                            "$CanCapeFly",
                             "hardlogic_fi3_itemlessbigpipe"
                         ]
                     },
@@ -5959,6 +6134,7 @@
                         "access_rules": [
                             "$CanCarry",
                             "$HasYoshi",
+                            "$CanCapeFly",
                             "hardlogic_fi3_itemlessbigpipe"
                         ]
                     },
@@ -5967,6 +6143,7 @@
                         "access_rules": [
                             "$CanCarry",
                             "$HasYoshi",
+                            "$CanCapeFly",
                             "hardlogic_fi3_itemlessbigpipe"
                         ]
                     },
@@ -5975,6 +6152,7 @@
                         "access_rules": [
                             "$CanCarry",
                             "$HasYoshi",
+                            "$CanCapeFly",
                             "hardlogic_fi3_itemlessbigpipe"
                         ]
                     },
@@ -5983,6 +6161,7 @@
                         "access_rules": [
                             "$CanCarry",
                             "$HasYoshi",
+                            "$CanCapeFly",
                             "hardlogic_fi3_itemlessbigpipe"
                         ]
                     },
@@ -5991,6 +6170,7 @@
                         "access_rules": [
                             "$CanCarry",
                             "$HasYoshi",
+                            "$CanCapeFly",
                             "hardlogic_fi3_itemlessbigpipe"
                         ]
                     },
@@ -5999,6 +6179,7 @@
                         "access_rules": [
                             "$CanCarry",
                             "$HasYoshi",
+                            "$CanCapeFly",
                             "hardlogic_fi3_itemlessbigpipe"
                         ]
                     },
@@ -6007,6 +6188,7 @@
                         "access_rules": [
                             "$CanCarry",
                             "$HasYoshi",
+                            "$CanCapeFly",
                             "hardlogic_fi3_itemlessbigpipe"
                         ]
                     },
@@ -6015,6 +6197,7 @@
                         "access_rules": [
                             "$CanCarry",
                             "$HasYoshi",
+                            "$CanCapeFly",
                             "hardlogic_fi3_itemlessbigpipe"
                         ]
                     }
@@ -6413,6 +6596,7 @@
                         "name": "Coin Block #1",
                         "access_rules": [
                             "$CanCarryOrYoshiTongue",
+                            "$CanCapeFly",
                             "hardlogic_sz7_wallrun, $CanWallRun, $HasSuperStar|2"
                         ]
                     },
@@ -6420,6 +6604,7 @@
                         "name": "Coin Block #2",
                         "access_rules": [
                             "$CanCarryOrYoshiTongue",
+                            "$CanCapeFly",
                             "hardlogic_sz7_wallrun, $CanWallRun, $HasSuperStar|2"
                         ]
                     }
@@ -6741,7 +6926,10 @@
                 "sections": [
                     {
                         "name": "Vine Block #1",
-                        "access_rules": [ "$CanBreakTurnBlocks" ]
+                        "access_rules": [
+                            "$CanBreakTurnBlocks",
+                            "$HasFeather"
+                        ]
                     },
                     {
                         "name": "Powerup Block #1",
@@ -6813,7 +7001,8 @@
                         "name": "Star Block #1",
                         "access_rules": [
                             "$CanClimb",
-                            "$HasYoshi"
+                            "$HasYoshi",
+                            "$CanCapeFly"
                         ]
                     },
                     {
@@ -7039,6 +7228,7 @@
                         "name": "Vine Block #2",
                         "access_rules": [
                             "$CanClimb",
+                            "$EnemiesNotShuffled, $CanAnyYoshiFlyRedShell",
                             "hardlogic_vs1_wallrun, $CanWallRun"
                         ]
                     },
@@ -7046,6 +7236,7 @@
                         "name": "Powerup Block #2",
                         "access_rules": [
                             "$CanClimb",
+                            "$EnemiesNotShuffled, $CanAnyYoshiFlyRedShell",
                             "hardlogic_vs1_wallrun, $CanWallRun"
                         ]
                     }
@@ -7186,11 +7377,19 @@
                 "sections": [
                     {
                         "name": "Powerup Block #1",
-                        "access_rules": [ "$CanCarry" ]
+                        "access_rules": [
+                            "$CanCarry",
+                            "$HasYoshi",
+                            "$CanCapeFly"
+                        ]
                     },
                     {
                         "name": "Yoshi Block #1",
-                        "access_rules": [ "$CanCarry" ]
+                        "access_rules": [
+                            "$CanCarry",
+                            "$HasFeather",
+                            "$EnemiesNotShuffled, $CanAnyYoshiFlyBlueShell"
+                        ]
                     }
                 ]
             },
@@ -7226,7 +7425,11 @@
                     },
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "access_rules": [ "$CanClimb" ]
+                        "access_rules": [
+                            "$CanClimb",
+                            "$CanCapeFly",
+                            "$EnemiesNotShuffled, $CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Vine Block #1",
@@ -7234,7 +7437,10 @@
                     },
                     {
                         "name": "Yoshi Block #1",
-                        "access_rules": [ "$HasRSP" ]
+                        "access_rules": [
+                            "$HasRSP",
+                            "$EnemiesNotShuffled, $CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Powerup Block #2",
@@ -7286,7 +7492,9 @@
                         "name": "Key Block #1",
                         "access_rules": [
                             "$HasPBalloon",
-                            "hardlogic_fi1_yoshiexit2, $HasYoshi"
+                            "$EnemiesNotShuffled, $CanAnyYoshiFlyRedShell",
+                            "hardlogic_fi1_yoshiexit2, $HasYoshi",
+                            "hardlogic_fi1_capeexit2, $CanCapeFly"
                         ]
                     },
                     {
@@ -7427,14 +7635,20 @@
                         "name": "Yoshi Block #1",
                         "access_rules": [
                             "$HasPSwitch",
-                            "$HasYoshi"
+                            "$HasYoshi",
+                            "$CanCarry",
+                            "$HasFeather",
+                            "hardlogic_ci1_dboostmunchers, $HasMushroom"
                         ]
                     },
                     {
                         "name": "1-Up Mushroom Block #1",
                         "access_rules": [
                             "$HasPSwitch",
-                            "$HasYoshi"
+                            "$HasYoshi",
+                            "$CanCarry",
+                            "$HasFeather",
+                            "hardlogic_ci1_dboostmunchers, $HasMushroom"
                         ]
                     },
                     {
@@ -7443,8 +7657,14 @@
                         "access_rules": [
                             "$HasPSwitch, $HasGSP, $HasBSP",
                             "$HasYoshi, $HasGSP, $HasBSP",
+                            "$CanCarry, $HasGSP, $HasBSP",
+                            "$HasFeather, $HasGSP, $HasBSP",
+                            "hardlogic_ci1_dboostmunchers, $HasMushroom, $HasGSP, $HasBSP",
                             "$HasPSwitch, $HasYSP, $HasBSP",
-                            "$HasYoshi, $HasYSP, $HasBSP"
+                            "$HasYoshi, $HasYSP, $HasBSP",
+                            "$CanCarry, $HasYSP, $HasBSP",
+                            "$HasFeather, $HasYSP, $HasBSP",
+                            "hardlogic_ci1_dboostmunchers, $HasMushroom, $HasYSP, $HasBSP"
                         ]
                     }
                 ]
@@ -7489,15 +7709,24 @@
                     },
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "access_rules": [ "$CanFly" ]
+                        "access_rules": [
+                            "$CanCapeFly",
+                            "$CanAnyYoshiFlyBlueShell"
+                        ]
                     },
                     {
                         "name": "1-Up Mushroom Block #2",
-                        "access_rules": [ "$CanFly" ]
+                        "access_rules": [
+                            "$CanCapeFly",
+                            "$CanAnyYoshiFlyBlueShell"
+                        ]
                     },
                     {
                         "name": "1-Up Mushroom Block #3",
-                        "access_rules": [ "$CanFly" ]
+                        "access_rules": [
+                            "$CanCapeFly",
+                            "$CanAnyYoshiFlyBlueShell"
+                        ]
                     }
                 ]
             },
@@ -7525,13 +7754,13 @@
                     },
                     {
                         "name": "Powerup Block #1",
-                        "access_rules": [ "$HasPSwitch" ]
+                        "access_rules": []
                     },
                     {
                         "name": "1-Up Mushroom Block #1",
                         "access_rules": [
                             "$HasPSwitch, $CanCarry",
-                            "$HasPSwitch, $HasFeather"
+                            "$HasFeather"
                         ]
                     }
                 ]
@@ -7667,14 +7896,18 @@
                         "name": "1-Up Mushroom Block #1",
                         "access_rules": [
                             "$CanClimb, $CanBreakTurnBlocks",
-                            "hardlogic_vb4_yoshivineskip, $HasYoshi, $CanBreakTurnBlocks"
+                            "$CanClimb, $HasYoshi",
+                            "hardlogic_vb4_yoshivineskip, $HasYoshi, $CanBreakTurnBlocks",
+                            "hardlogic_vb4_yoshivineskip, hardlogic_vb4_climblesssecret, $HasYoshi, $HasMidway"
                         ]
                     },
                     {
                         "name": "Powerup Block #2",
                         "access_rules": [
                             "$CanClimb, $HasYSP",
-                            "hardlogic_vb4_yoshivineskip, $HasYoshi, $HasYSP"
+                            "$CanClimb, $HasFeather",
+                            "hardlogic_vb4_yoshivineskip, $HasYoshi, $HasYSP",
+                            "hardlogic_vb4_yoshivineskip, $HasYoshi, $HasFeather"
                         ]
                     }
                 ]
@@ -7728,7 +7961,7 @@
                     {
                         "name": "Key Block #1",
                         "access_rules": [
-                            "$CanYoshiFly",
+                            "$CanAnyYoshiFlyBlueShell",
                             "$HasFeather",
                             "$CanCarry, $HasGSP, $HasRSP"
                         ]
@@ -7745,11 +7978,19 @@
                     },
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "access_rules": [ "$HasPSwitch" ]
+                        "access_rules": [
+                            "$HasPSwitch",
+                            "$CanCapeFly",
+                            "$CanBlueYoshiFly"
+                        ]
                     },
                     {
                         "name": "Vine Block #1",
-                        "access_rules": [ "$CanFly" ]
+                        "access_rules": [
+                            "$HasPSwitch",
+                            "$CanCapeFly",
+                            "$CanBlueYoshiFly"
+                        ]
                     }
                 ]
             },
@@ -7775,23 +8016,43 @@
                     },
                     {
                         "name": "1-Up Mushroom Block #1",
-                        "access_rules": [ "$CanClimb" ]
+                        "access_rules": [
+                            "$CanClimb",
+                            "hardlogic_sz1_climbless, $CanCapeFly",
+                            "hardlogic_sz1_climbless, $EnemiesNotShuffled, $CanAnyYoshiFlyBlueShell"
+                        ]
                     },
                     {
                         "name": "Vine Block #5",
-                        "access_rules": [ "$CanClimb" ]
+                        "access_rules": [
+                            "$CanClimb",
+                            "hardlogic_sz1_climbless, $CanCapeFly",
+                            "hardlogic_sz1_climbless, $EnemiesNotShuffled, $CanAnyYoshiFlyBlueShell"
+                        ]
                     },
                     {
                         "name": "Blue P-Switch Block #1",
-                        "access_rules": [ "$CanClimb" ]
+                        "access_rules": [
+                            "$CanClimb",
+                            "hardlogic_sz1_climbless, $CanCapeFly",
+                            "hardlogic_sz1_climbless, $EnemiesNotShuffled, $CanAnyYoshiFlyBlueShell"
+                        ]
                     },
                     {
                         "name": "Vine Block #6",
-                        "access_rules": [ "$CanClimb" ]
+                        "access_rules": [
+                            "$CanClimb",
+                            "hardlogic_sz1_climbless, $CanCapeFly",
+                            "hardlogic_sz1_climbless, $EnemiesNotShuffled, $CanAnyYoshiFlyBlueShell"
+                        ]
                     },
                     {
                         "name": "Powerup Block #1",
-                        "access_rules": [ "$CanClimb" ]
+                        "access_rules": [
+                            "$CanClimb",
+                            "hardlogic_sz1_climbless, $CanCapeFly",
+                            "hardlogic_sz1_climbless, $EnemiesNotShuffled, $CanAnyYoshiFlyBlueShell"
+                        ]
                     }
                 ]
             },
@@ -7846,7 +8107,9 @@
                         "name": "Star Block #1",
                         "access_rules": [
                             "$CanCarry",
-                            "$HasPSwitch"
+                            "$HasPSwitch",
+                            "$CanBlueYoshiFly",
+                            "$EnemiesNotShuffled, $CanAnyYoshiFlyBlueShell"
                         ]
                     }
                 ]
@@ -7907,6 +8170,7 @@
                         "name": "Yoshi Block #1",
                         "access_rules": [
                             "$CanCarryOrYoshiTongue",
+                            "$CanCapeFly",
                             "hardlogic_sz7_wallrun, $CanWallRun, $HasSuperStar|2"
                         ]
                     },
@@ -7914,6 +8178,7 @@
                         "name": "Powerup Block #2",
                         "access_rules": [
                             "$CanCarryOrYoshiTongue",
+                            "$CanCapeFly",
                             "hardlogic_sz7_wallrun, $CanWallRun, $HasSuperStar|2"
                         ]
                     }
@@ -7928,7 +8193,8 @@
                         "name": "Yoshi Block #1",
                         "access_rules": [
                             "$CanCarry",
-                            "$HasYoshi"
+                            "$HasYoshi",
+                            "$CanCapeFly"
                         ]
                     },
                     {
@@ -7993,47 +8259,81 @@
                 "sections": [
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell",
+                            "$CanCarry"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #2",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #3",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #4",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #5",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #6",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #7",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #8",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #9",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #10",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #11",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #12",
@@ -8047,194 +8347,310 @@
                         "name": "Yellow Switch Palace Block #14",
                         "access_rules": [
                             "$CanCarry",
-                            "$HasYoshi"
+                            "$HasYoshi",
+                            "$CanCapeFly"
                         ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #15",
                         "access_rules": [
                             "$CanCarry",
-                            "$HasYoshi"
+                            "$HasYoshi",
+                            "$CanCapeFly"
                         ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #16",
                         "access_rules": [
                             "$CanCarry",
-                            "$HasYoshi"
+                            "$HasYoshi",
+                            "$CanCapeFly"
                         ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #17",
                         "access_rules": [
                             "$CanCarry",
-                            "$HasYoshi"
+                            "$HasYoshi",
+                            "$CanCapeFly"
                         ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #18",
                         "access_rules": [
                             "$CanCarry",
-                            "$HasYoshi"
+                            "$HasYoshi",
+                            "$CanCapeFly"
                         ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #19",
                         "access_rules": [
                             "$CanCarry",
-                            "$HasYoshi"
+                            "$HasYoshi",
+                            "$CanCapeFly"
                         ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #20",
                         "access_rules": [
                             "$CanCarry",
-                            "$HasYoshi"
+                            "$HasYoshi",
+                            "$CanCapeFly"
                         ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #21",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell",
+                            "$CanCarry"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #22",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #23",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #24",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #25",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #26",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #27",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #28",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #29",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #30",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #31",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #32",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #33",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #34",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #35",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #36",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #37",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #38",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #39",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #40",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #41",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #42",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #43",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #44",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #45",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #46",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #47",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #48",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #49",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #50",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #51",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #52",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #53",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #54",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #55",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #56",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #57",
@@ -8246,47 +8662,80 @@
                     },
                     {
                         "name": "Yellow Switch Palace Block #59",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #60",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #61",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #62",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #63",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #64",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #65",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #66",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #67",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #68",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #69",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #70",
@@ -8294,67 +8743,116 @@
                     },
                     {
                         "name": "Yellow Switch Palace Block #71",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #72",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #73",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #74",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #75",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #76",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #77",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #78",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #79",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #80",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #81",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #82",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #83",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #84",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell",
+                            "$CanCarry"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #85",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #86",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$EnemiesShuffled, $CanAnyYoshiFlyBlueShell",
+                            "$CanAnyYoshiFlyRedShell"
+                        ]
                     }
                 ]
             },
@@ -8466,7 +8964,7 @@
                 "sections": [
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "access_rules": [ "$HasBSP" ]
+                        "access_rules": []
                     }
                 ]
             },
@@ -8570,83 +9068,166 @@
                 "sections": [
                     {
                         "name": "Yellow Switch Palace Block #1",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$CanBlueYoshiFly",
+                            "$CanCapeFly",
+                            "$HasPSwitch, $CanClimb",
+                            "$HasPSwitch, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #2",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$CanBlueYoshiFly",
+                            "$HasPSwitch, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell",
+                            "$CapeCapeFly, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #3",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$CanBlueYoshiFly",
+                            "$HasPSwitch, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell",
+                            "$CapeCapeFly, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #4",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$CanBlueYoshiFly",
+                            "$HasPSwitch, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell",
+                            "$CapeCapeFly, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #5",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$CanBlueYoshiFly",
+                            "$HasPSwitch, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell",
+                            "$CapeCapeFly, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #6",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$CanBlueYoshiFly",
+                            "$HasPSwitch, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell",
+                            "$CapeCapeFly, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #7",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$CanBlueYoshiFly",
+                            "$HasPSwitch, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell",
+                            "$CapeCapeFly, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #8",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$CanBlueYoshiFly",
+                            "$HasPSwitch, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell",
+                            "$CapeCapeFly, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #9",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$CanBlueYoshiFly",
+                            "$HasPSwitch, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell",
+                            "$CapeCapeFly, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #10",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$CanBlueYoshiFly",
+                            "$HasPSwitch, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell",
+                            "$CapeCapeFly, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #11",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$CanBlueYoshiFly",
+                            "$HasPSwitch, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell",
+                            "$CapeCapeFly, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #12",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$CanBlueYoshiFly",
+                            "$HasPSwitch, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell",
+                            "$CapeCapeFly, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #13",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$CanBlueYoshiFly",
+                            "$HasPSwitch, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell",
+                            "$CapeCapeFly, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #14",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$CanBlueYoshiFly",
+                            "$HasPSwitch, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell",
+                            "$CapeCapeFly, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #15",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$CanBlueYoshiFly",
+                            "$HasPSwitch, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell",
+                            "$CapeCapeFly, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #16",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$CanBlueYoshiFly",
+                            "$HasPSwitch, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell",
+                            "$CapeCapeFly, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #17",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$CanBlueYoshiFly",
+                            "$HasPSwitch, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell",
+                            "$CapeCapeFly, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #18",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$CanBlueYoshiFly",
+                            "$HasPSwitch, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell",
+                            "$CapeCapeFly, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #19",
-                        "access_rules": [ "$CanYoshiFly, $HasGSP" ]
+                        "access_rules": [
+                            "$CanBlueYoshiFly",
+                            "$CanCapeFly",
+                            "$HasPSwitch, $CanClimb, $HasFeather",
+                            "$HasPSwitch, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Yellow Switch Palace Block #20",
-                        "access_rules": [ "$CanYoshiFly, $HasGSP" ]
+                        "access_rules": [
+                            "$CanBlueYoshiFly",
+                            "$CanCapeFly",
+                            "$HasPSwitch, $CanClimb, $HasFeather",
+                            "$HasPSwitch, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell"
+                        ]
                     }
                 ]
             }
@@ -8689,43 +9270,73 @@
                     },
                     {
                         "name": "Green Switch Palace Block #7",
-                        "access_rules": [ "$HasFeather" ]
+                        "access_rules": [
+                            "$HasFeather",
+                            "$CanCarry"
+                        ]
                     },
                     {
                         "name": "Green Switch Palace Block #8",
-                        "access_rules": [ "$HasFeather" ]
+                        "access_rules": [
+                            "$HasFeather",
+                            "$CanCarry"
+                        ]
                     },
                     {
                         "name": "Green Switch Palace Block #9",
-                        "access_rules": [ "$HasFeather" ]
+                        "access_rules": [
+                            "$HasFeather",
+                            "$CanCarry"
+                        ]
                     },
                     {
                         "name": "Green Switch Palace Block #10",
-                        "access_rules": [ "$HasFeather" ]
+                        "access_rules": [
+                            "$HasFeather",
+                            "$CanCarry"
+                        ]
                     },
                     {
                         "name": "Green Switch Palace Block #11",
-                        "access_rules": [ "$HasFeather" ]
+                        "access_rules": [
+                            "$HasFeather",
+                            "$CanCarry"
+                        ]
                     },
                     {
                         "name": "Green Switch Palace Block #12",
-                        "access_rules": [ "$HasFeather" ]
+                        "access_rules": [
+                            "$HasFeather",
+                            "$CanCarry"
+                        ]
                     },
                     {
                         "name": "Green Switch Palace Block #13",
-                        "access_rules": [ "$HasFeather" ]
+                        "access_rules": [
+                            "$HasFeather",
+                            "$CanCarry"
+                        ]
                     },
                     {
                         "name": "Green Switch Palace Block #14",
-                        "access_rules": [ "$HasFeather" ]
+                        "access_rules": [
+                            "$HasFeather",
+                            "$CanCarry"
+                        ]
                     },
                     {
                         "name": "Green Switch Palace Block #15",
-                        "access_rules": [ "$HasFeather" ]
+                        "access_rules": [
+                            "$HasFeather",
+                            "$CanCarry"
+                        ]
                     },
                     {
                         "name": "Green Switch Palace Block #16",
-                        "access_rules": [ "$HasFeather" ]
+                        "access_rules": [
+                            "$HasFeather",
+                            "$CanCarry"
+                        ]
                     }
                 ]
             },
@@ -8915,50 +9526,50 @@
                     {
                         "name": "Green Switch Palace Block #1",
                         "access_rules": [
-                            "$CanYoshiFly",
-                            "$CanCapeSpinFly"
+                            "$CanAnyYoshiFlyBlueShell",
+                            "$CanCapeSpinFly, $HasRSP"
                         ]
                     },
                     {
                         "name": "Green Switch Palace Block #2",
                         "access_rules": [
-                            "$CanYoshiFly",
-                            "$CanCapeSpinFly"
+                            "$CanAnyYoshiFlyBlueShell",
+                            "$CanCapeSpinFly, $HasRSP"
                         ]
                     },
                     {
                         "name": "Green Switch Palace Block #3",
                         "access_rules": [
-                            "$CanYoshiFly",
-                            "$CanCapeSpinFly"
+                            "$CanAnyYoshiFlyBlueShell",
+                            "$CanCapeSpinFly, $HasRSP"
                         ]
                     },
                     {
                         "name": "Green Switch Palace Block #4",
                         "access_rules": [
-                            "$CanYoshiFly",
-                            "$CanCapeSpinFly"
+                            "$CanAnyYoshiFlyBlueShell",
+                            "$CanCapeSpinFly, $HasRSP"
                         ]
                     },
                     {
                         "name": "Green Switch Palace Block #5",
                         "access_rules": [
-                            "$CanYoshiFly",
-                            "$CanCapeSpinFly"
+                            "$CanAnyYoshiFlyBlueShell",
+                            "$CanCapeSpinFly, $HasRSP"
                         ]
                     },
                     {
                         "name": "Green Switch Palace Block #6",
                         "access_rules": [
-                            "$CanYoshiFly",
-                            "$CanCapeSpinFly"
+                            "$CanAnyYoshiFlyBlueShell",
+                            "$CanCapeSpinFly, $HasRSP"
                         ]
                     },
                     {
                         "name": "Green Switch Palace Block #7",
                         "access_rules": [
-                            "$CanYoshiFly",
-                            "$CanCapeSpinFly"
+                            "$CanAnyYoshiFlyBlueShell",
+                            "$HasRSP"
                         ]
                     }
                 ]
@@ -8969,83 +9580,163 @@
                 "sections": [
                     {
                         "name": "Green Switch Palace Block #1",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$CanBlueYoshiFly",
+                            "$HasPSwitch, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell",
+                            "$CapeCapeFly, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Green Switch Palace Block #2",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$CanBlueYoshiFly",
+                            "$HasPSwitch, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell",
+                            "$CapeCapeFly, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Green Switch Palace Block #3",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$CanBlueYoshiFly",
+                            "$HasPSwitch, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell",
+                            "$CapeCapeFly, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Green Switch Palace Block #4",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$CanBlueYoshiFly",
+                            "$HasPSwitch, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell",
+                            "$CapeCapeFly, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Green Switch Palace Block #5",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$CanBlueYoshiFly",
+                            "$HasPSwitch, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell",
+                            "$CapeCapeFly, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Green Switch Palace Block #6",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$CanBlueYoshiFly",
+                            "$HasPSwitch, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell",
+                            "$CapeCapeFly, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Green Switch Palace Block #7",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$CanBlueYoshiFly",
+                            "$HasPSwitch, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell",
+                            "$CapeCapeFly, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Green Switch Palace Block #8",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$CanBlueYoshiFly",
+                            "$HasPSwitch, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell",
+                            "$CapeCapeFly, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Green Switch Palace Block #9",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$CanBlueYoshiFly",
+                            "$HasPSwitch, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell",
+                            "$CapeCapeFly, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Green Switch Palace Block #10",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$CanBlueYoshiFly",
+                            "$HasPSwitch, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell",
+                            "$CapeCapeFly, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Green Switch Palace Block #11",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$CanBlueYoshiFly",
+                            "$HasPSwitch, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell",
+                            "$CapeCapeFly, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Green Switch Palace Block #12",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$CanBlueYoshiFly",
+                            "$HasPSwitch, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell",
+                            "$CapeCapeFly, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Green Switch Palace Block #13",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$CanBlueYoshiFly",
+                            "$HasPSwitch, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell",
+                            "$CapeCapeFly, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Green Switch Palace Block #14",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$CanBlueYoshiFly",
+                            "$HasPSwitch, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell",
+                            "$CapeCapeFly, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Green Switch Palace Block #15",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$CanBlueYoshiFly",
+                            "$HasPSwitch, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell",
+                            "$CapeCapeFly, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Green Switch Palace Block #16",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$CanBlueYoshiFly",
+                            "$HasPSwitch, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell",
+                            "$CapeCapeFly, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Green Switch Palace Block #17",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$CanBlueYoshiFly",
+                            "$HasPSwitch, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell",
+                            "$CapeCapeFly, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Green Switch Palace Block #18",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$CanBlueYoshiFly",
+                            "$HasPSwitch, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell",
+                            "$CapeCapeFly, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Green Switch Palace Block #19",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$CanBlueYoshiFly",
+                            "$HasPSwitch, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell",
+                            "$CapeCapeFly, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell"
+                        ]
                     },
                     {
                         "name": "Green Switch Palace Block #20",
-                        "access_rules": [ "$CanYoshiFly" ]
+                        "access_rules": [
+                            "$CanBlueYoshiFly",
+                            "$HasPSwitch, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell",
+                            "$CapeCapeFly, $EnemiesNotShuffled, $CanAnyYoshiFlyRedShell"
+                        ]
                     }
                 ]
             }
@@ -9208,55 +9899,103 @@
                 "sections": [
                     {
                         "name": "P-Switch Coin Block #1",
-                        "access_rules": [ "$CanClimb, $HasFeather" ]
+                        "access_rules": [
+                            "$CanClimb, $HasFeather",
+                            "hardlogic_sz1_climbless, $CanCapeFly",
+                            "hardlogic_sz1_climbless, $EnemiesNotShuffled, $CanAnyYoshiFlyBlueShell"
+                        ]
                     },
                     {
                         "name": "P-Switch Coin Block #2",
-                        "access_rules": [ "$CanClimb, $HasFeather" ]
+                        "access_rules": [
+                            "$CanClimb, $HasFeather",
+                            "hardlogic_sz1_climbless, $CanCapeFly",
+                            "hardlogic_sz1_climbless, $EnemiesNotShuffled, $CanAnyYoshiFlyBlueShell"
+                        ]
                     },
                     {
                         "name": "P-Switch Coin Block #3",
-                        "access_rules": [ "$CanClimb, $HasFeather" ]
+                        "access_rules": [
+                            "$CanClimb, $HasFeather",
+                            "hardlogic_sz1_climbless, $CanCapeFly",
+                            "hardlogic_sz1_climbless, $EnemiesNotShuffled, $CanAnyYoshiFlyBlueShell"
+                        ]
                     },
                     {
                         "name": "P-Switch Coin Block #4",
-                        "access_rules": [ "$CanClimb, $HasFeather" ]
+                        "access_rules": [
+                            "$CanClimb, $HasFeather",
+                            "hardlogic_sz1_climbless, $CanCapeFly",
+                            "hardlogic_sz1_climbless, $EnemiesNotShuffled, $CanAnyYoshiFlyBlueShell"
+                        ]
                     },
                     {
                         "name": "P-Switch Coin Block #5",
-                        "access_rules": [ "$CanClimb, $HasFeather" ]
+                        "access_rules": [
+                            "$CanClimb, $HasFeather",
+                            "hardlogic_sz1_climbless, $CanCapeFly",
+                            "hardlogic_sz1_climbless, $EnemiesNotShuffled, $CanAnyYoshiFlyBlueShell"
+                        ]
                     },
                     {
                         "name": "P-Switch Coin Block #6",
-                        "access_rules": [ "$CanClimb, $HasFeather" ]
+                        "access_rules": [
+                            "$CanClimb, $HasFeather",
+                            "hardlogic_sz1_climbless, $CanCapeFly",
+                            "hardlogic_sz1_climbless, $EnemiesNotShuffled, $CanAnyYoshiFlyBlueShell"
+                        ]
                     },
                     {
                         "name": "P-Switch Coin Block #7",
-                        "access_rules": [ "$CanClimb, $HasFeather" ]
+                        "access_rules": [
+                            "$CanClimb, $HasFeather",
+                            "hardlogic_sz1_climbless, $CanCapeFly",
+                            "hardlogic_sz1_climbless, $EnemiesNotShuffled, $CanAnyYoshiFlyBlueShell"
+                        ]
                     },
                     {
                         "name": "P-Switch Coin Block #8",
-                        "access_rules": [ "$CanClimb, $HasFeather" ]
+                        "access_rules": [
+                            "$CanClimb, $HasFeather",
+                            "hardlogic_sz1_climbless, $CanCapeFly",
+                            "hardlogic_sz1_climbless, $EnemiesNotShuffled, $CanAnyYoshiFlyBlueShell"
+                        ]
                     },
                     {
                         "name": "P-Switch Coin Block #9",
-                        "access_rules": [ "$CanClimb, $HasFeather" ]
+                        "access_rules": [
+                            "$CanClimb, $HasFeather",
+                            "hardlogic_sz1_climbless, $CanCapeFly",
+                            "hardlogic_sz1_climbless, $EnemiesNotShuffled, $CanAnyYoshiFlyBlueShell"
+                        ]
                     },
                     {
                         "name": "P-Switch Coin Block #10",
-                        "access_rules": [ "$CanClimb, $HasFeather" ]
+                        "access_rules": [
+                            "$CanClimb, $HasFeather",
+                            "hardlogic_sz1_climbless, $CanCapeFly"
+                        ]
                     },
                     {
                         "name": "P-Switch Coin Block #11",
-                        "access_rules": [ "$CanClimb, $HasFeather" ]
+                        "access_rules": [
+                            "$CanClimb, $HasFeather",
+                            "hardlogic_sz1_climbless, $CanCapeFly"
+                        ]
                     },
                     {
                         "name": "P-Switch Coin Block #12",
-                        "access_rules": [ "$CanClimb, $HasFeather" ]
+                        "access_rules": [
+                            "$CanClimb, $HasFeather",
+                            "hardlogic_sz1_climbless, $CanCapeFly"
+                        ]
                     },
                     {
                         "name": "P-Switch Coin Block #13",
-                        "access_rules": [ "$CanClimb, $HasFeather" ]
+                        "access_rules": [
+                            "$CanClimb, $HasFeather",
+                            "hardlogic_sz1_climbless, $CanCapeFly"
+                        ]
                     }
                 ]
             }
@@ -9286,42 +10025,48 @@
                         "name": "Flying Question Block #1",
                         "access_rules": [
                             "$CanCarry",
-                            "$HasYoshi"
+                            "$HasYoshi",
+                            "$CanCapeFly"
                         ]
                     },
                     {
                         "name": "Flying Question Block #2",
                         "access_rules": [
                             "$CanCarry",
-                            "$HasYoshi"
+                            "$HasYoshi",
+                            "$CanCapeFly"
                         ]
                     },
                     {
                         "name": "Flying Question Block #3",
                         "access_rules": [
                             "$CanCarry",
-                            "$HasYoshi"
+                            "$HasYoshi",
+                            "$CanCapeFly"
                         ]
                     },
                     {
                         "name": "Flying Question Block #4",
                         "access_rules": [
                             "$CanCarry",
-                            "$HasYoshi"
+                            "$HasYoshi",
+                            "$CanCapeFly"
                         ]
                     },
                     {
                         "name": "Flying Question Block #5",
                         "access_rules": [
                             "$CanCarry",
-                            "$HasYoshi"
+                            "$HasYoshi",
+                            "$CanCapeFly"
                         ]
                     },
                     {
                         "name": "Flying Question Block #6",
                         "access_rules": [
                             "$CanCarry",
-                            "$HasYoshi"
+                            "$HasYoshi",
+                            "$CanCapeFly"
                         ]
                     }
                 ]
@@ -9396,7 +10141,10 @@
                         "name": "Flying Question Block #2",
                         "access_rules": [
                             "$HasPSwitch",
-                            "$HasYoshi"
+                            "$HasYoshi",
+                            "$CanCarry",
+                            "$HasFeather",
+                            "hardlogic_ci1_dboostmunchers, $HasMushroom"
                         ]
                     }
                 ]

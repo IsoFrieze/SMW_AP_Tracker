@@ -1019,11 +1019,46 @@
     },
     
     {
+        "name": "Yoshi's Island 4 - Dragon Coin Sacrifice",
+        "type": "toggle",
+        "img": "images/items/turnblock.png",
+        "disabled_img": "images/items/turnblock.png",
+        "codes": "hardlogic_yi4_dcsacrifice"
+    },
+    {
+        "name": "Donut Plains 1 - Yoshi Jump to Key",
+        "type": "toggle",
+        "img": "images/items/turnblock.png",
+        "disabled_img": "images/items/turnblock.png",
+        "codes": "hardlogic_dp1_yoshijump"
+    },
+    {
+        "name": "Donut Ghost House - Spin Jump off Boo",
+        "type": "toggle",
+        "img": "images/items/turnblock.png",
+        "disabled_img": "images/items/turnblock.png",
+        "codes": "hardlogic_dgh_boojump"
+    },
+    {
         "name": "Vanilla Dome 1 - Itemless Sinking Platform",
         "type": "toggle",
         "img": "images/items/turnblock.png",
         "disabled_img": "images/items/turnblock.png",
         "codes": "hardlogic_vd1_room2itemless"
+    },
+    {
+        "name": "Vanilla Dome 2 - Climbless Secret via Yoshi and Midway",
+        "type": "toggle",
+        "img": "images/items/turnblock.png",
+        "disabled_img": "images/items/turnblock.png",
+        "codes": "hardlogic_vd2_climblesssecret"
+    },
+    {
+        "name": "Vanilla Dome 3 - Bonus Room Wall Running",
+        "type": "toggle",
+        "img": "images/items/turnblock.png",
+        "disabled_img": "images/items/turnblock.png",
+        "codes": "hardlogic_vd3_wallrun"
     },
     {
         "name": "Vanilla Dome 4 - Sacrifice for Coin Block #8",
@@ -1089,6 +1124,13 @@
         "codes": "hardlogic_fi1_yoshiexit2"
     },
     {
+        "name": "Forest of Illusion 1 - Secret Exit with Cape",
+        "type": "toggle",
+        "img": "images/items/turnblock.png",
+        "disabled_img": "images/items/turnblock.png",
+        "codes": "hardlogic_fi1_capeexit2"
+    },
+    {
         "name": "Forest of Illusion 3 - Can pass big pipe itemless",
         "type": "toggle",
         "img": "images/items/turnblock.png",
@@ -1117,6 +1159,34 @@
         "codes": "hardlogic_fsa_itemless1upblock"
     },
     {
+        "name": "Chocolate Island 1 - Damage Boost Past Munchers",
+        "type": "toggle",
+        "img": "images/items/turnblock.png",
+        "disabled_img": "images/items/turnblock.png",
+        "codes": "hardlogic_ci1_dboostmunchers"
+    },
+    {
+        "name": "Chocolate Island 4 - Perfect Dragon Coin Timing",
+        "type": "toggle",
+        "img": "images/items/turnblock.png",
+        "disabled_img": "images/items/turnblock.png",
+        "codes": "hardlogic_ci4_perfecttiming"
+    },
+    {
+        "name": "Sunken Ghost Ship - Free Falling Dragon Coins",
+        "type": "toggle",
+        "img": "images/items/turnblock.png",
+        "disabled_img": "images/items/turnblock.png",
+        "codes": "hardlogic_sgs_dcfreefalling"
+    },
+    {
+        "name": "Valley of Bowser 1 - Bonus Room Yoshi Jump",
+        "type": "toggle",
+        "img": "images/items/turnblock.png",
+        "disabled_img": "images/items/turnblock.png",
+        "codes": "hardlogic_vb1_yoshijump"
+    },
+    {
         "name": "Valley of Bowser 3 - Itemless Powerup block",
         "type": "toggle",
         "img": "images/items/turnblock.png",
@@ -1129,6 +1199,13 @@
         "img": "images/items/turnblock.png",
         "disabled_img": "images/items/turnblock.png",
         "codes": "hardlogic_vb4_yoshivineskip"
+    },
+    {
+        "name": "Valley of Bowser 4 - Climbless Secret via Yoshi and Midway",
+        "type": "toggle",
+        "img": "images/items/turnblock.png",
+        "disabled_img": "images/items/turnblock.png",
+        "codes": "hardlogic_vb4_climblesssecret"
     },
     {
         "name": "Valley Ghost House - True Carryless Secret Exit",
@@ -1150,6 +1227,13 @@
         "img": "images/items/turnblock.png",
         "disabled_img": "images/items/turnblock.png",
         "codes": "hardlogic_sr4_yoshiexit2"
+    },
+    {
+        "name": "Gnarly - Climbless with Flight",
+        "type": "toggle",
+        "img": "images/items/turnblock.png",
+        "disabled_img": "images/items/turnblock.png",
+        "codes": "hardlogic_sz1_climbless"
     },
     {
         "name": "Awesome - Itemless",

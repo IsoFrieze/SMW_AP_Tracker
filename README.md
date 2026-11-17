@@ -119,8 +119,18 @@ If you are connected to an Archipelago server, these will only sync when you ent
 #### Extra Logic
 This tab controls all of the extra logic settings. In order these are:
 
+- Yoshi's Island 4 - Dragon Coin Sacrifice
+  - Consider grabbing the Dragon Coin over the water last so that the check can be collected without Swim
+- Donut Plains 1 - Yoshi Jump to Key
+  - Consider the ability to jump off of Yoshi to get up to the key and keyhole
+- Donut Ghost House - Spin Jump off Boo
+  - Consider the ability to Spin Jump off of one of the Boos get get up to the exit door
 - Vanilla Dome 1 - Itemless Sinking Platform
   - Don't require Run and one of Big Mario or Super Star to get passed the sinking platform room
+- Vanilla Dome 2 - Climbless Secret via Yoshi and Midway
+  - Consider the option of entering the level with Yoshi from the Midway point to access the secret exit
+- Vanilla Dome 3 - Bonus Room Wall Running
+  - Consider the ability to wall run up the wall to the bonus room
 - Vanilla Dome 4 - Sacrifice for Coin Block #8
   - Consider being able to jump off of Yoshi or Cape swipe the last coin block in the big row of blocks
 - Vanilla Secret 1 - Wall Running
@@ -137,30 +147,44 @@ This tab controls all of the extra logic settings. In order these are:
   - Consider the ability to wall run up the walls in the vertical room via Progressive Run
 - Forest of Illusion 1 - Secret Exit with Yoshi
   - Consider the ability to jump off of Yoshi to get to the secret exit
+- Forest of Illusion 1 - Secret Exit with Cape
+  - Consider the ability to fly to the secret exit with Cape
 - Forest of Illusion 3 - Can pass big pipe itemless
-  - Don't require Carry or Yoshi to be able to jump over the tall pipe
+  - Don't require Carry, Yoshi, or Cape to be able to jump over the tall pipe
 - Forest of Illusion 3 - Secret Exit with Yoshi
   - Consider the ability to use Yoshi's tongue to grab the key and hit the turn blocks to access the secret exit
 - Forest Ghost House - Skip second room
   - Consider the ability to fly over with a Cape or wall run over the tall wall in the first room via Progressive Run
 - Forest Secret Area - Itemless 1-Up block
   - Don't require Blue Switch to hit the 1-Up block
+- Chocolate Island 1 - Damage Boost Past Munchers
+  - Consider the ability to damage boost with Big Mario to pass the muncher pit
+- Chocolate Island 4 - Perfect Dragon Coin Timing
+  - Don't require Cape or Yoshi in order to grab the Dragon Coin in the bonus room
+- Sunken Ghost Ship - Free Falling Dragon Coins
+  - Don't require Cape to collect the 5 Dragon Coins in the falling room
+- Valley of Bowser 1 - Bonus Room Yoshi Jump
+  - Consider the ability to jump off of Yoshi to get the bonus room
 - Valley of Bowser 3 - Itemless Powerup block
   - Don't require Carry to be able to hit the item block by the midway point
 - Valley of Bowser 4 - Yoshi Climb
   - Consider the ability to jump off of Yoshi to get past the vine block
+- Valley of Bowser 4 - Climbless Secret via Yoshi and Midway
+  - Consider the option of entering the level with Yoshi from the Midway point to access the secret exit
 - Valley Ghost House - True Carryless Secret Exit
   - Don't require Carry to get the secret exit when the keyhole has been replaced with a red orb
 - Star World 3 - Top area with a Star
   - Consider the ability to start the level with a Super Star via the overworld inventory
 - Star World 4 - Carryless Secret Exit with Yoshi sacrifice
   - Consider the ability to jump off of Yoshi to get to the secret exit when the keyhole has been replaced with a red orb
+- Gnarly - Climbless with Flight
+  - Consider the ability to fly with cape to traverse the first half of the level
 - Awesome - Itemless
   - Don't require Super Star or one of Carry or P-Switch to complete the level
 - Mondo - Swimless
   - Don't require Swim to complete the level
 - Outrageous - Wall Run pipe
-  - Don't require Carry or Yoshi's Tongue to pass the tall pipe
+  - Don't require Carry, Yoshi's Tongue, or Cape to pass the tall pipe
 
 ## Special Thanks
 The Archipelago Community

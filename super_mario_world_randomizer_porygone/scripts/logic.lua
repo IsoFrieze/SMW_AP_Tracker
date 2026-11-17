@@ -117,6 +117,10 @@ function HasExtraDefense()
     return Tracker:FindObjectForCode("extra_defense").Active
 end
 
+function HasSpecialEffects()
+    return Tracker:FindObjectForCode("special").Active
+end
+
 function CanBreakTurnBlocks()
     return HasMushroom() and CanSpinJump()
 end
@@ -190,12 +194,16 @@ function CanCarryOrYoshiTongue()
     return CanCarry() or CanYoshiCarry()
 end
 
-function CanYoshiFly()
+function CanBlueYoshiFly()
     return CanYoshiCarry() and CanGetBlueYoshi()
 end
 
-function CanFly()
-    return CanCapeFly() or CanYoshiFly()
+function CanAnyYoshiFlyRedShell()
+    return CanYoshiCarry() and (HasSpecialEffects() or CanGetBlueYoshi())
+end
+
+function CanAnyYoshiFlyBlueShell()
+    return CanYoshiCarry()
 end
 
 function CanCapeSpinFly()

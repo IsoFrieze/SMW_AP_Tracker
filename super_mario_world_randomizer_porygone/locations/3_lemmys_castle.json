@@ -215,7 +215,7 @@
                 "map_locations": [
                     {
                         "map": "vdc_main",
-                        "shape": "diamond",
+                        "shape": "triangle",
                         "x": 88,
                         "y": 736
                     }
@@ -240,13 +240,13 @@
                 "map_locations": [
                     {
                         "map": "vdc_main",
-                        "shape": "diamond",
+                        "shape": "triangle",
                         "x": 968,
                         "y": 672
                     },
                     {
                         "map": "vdc_sub_1",
-                        "shape": "diamond",
+                        "shape": "triangle",
                         "x": 456,
                         "y": 368
                     }

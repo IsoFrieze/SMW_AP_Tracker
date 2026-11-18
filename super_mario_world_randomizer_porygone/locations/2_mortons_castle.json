@@ -371,7 +371,7 @@
                 "map_locations": [
                     {
                         "map": "dpc_main",
-                        "shape": "diamond",
+                        "shape": "triangle",
                         "x": 712,
                         "y": 96
                     }
@@ -432,19 +432,21 @@
                 "map_locations": [
                     {
                         "map": "dpc_sub_1",
-                        "shape": "diamond",
+                        "shape": "triangle",
                         "x": 72,
                         "y": 80
                     },
                     {
                         "map": "dpc_zbonus",
-                        "shape": "diamond",
+                        "shape": "triangle",
+                        "orientation": "east",
                         "x": 200,
                         "y": 64
                     },
                     {
                         "map": "dpc_zbonus",
-                        "shape": "diamond",
+                        "shape": "triangle",
+                        "orientation": "west",
                         "x": 24,
                         "y": 384
                     }
@@ -461,7 +463,8 @@
                 "map_locations": [
                     {
                         "map": "dpc_main",
-                        "shape": "diamond",
+                        "shape": "triangle",
+                        "orientation": "east",
                         "x": 360,
                         "y": 80
                     }

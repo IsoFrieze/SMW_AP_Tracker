@@ -815,7 +815,8 @@
                 "map_locations": [
                     {
                         "map": "foi3_main",
-                        "shape": "diamond",
+                        "shape": "triangle",
+                        "orientation": "south",
                         "x": 480,
                         "y": 1144
                     }
@@ -832,7 +833,8 @@
                 "map_locations": [
                     {
                         "map": "foi3_main",
-                        "shape": "diamond",
+                        "shape": "triangle",
+                        "orientation": "south",
                         "x": 912,
                         "y": 360
                     }
@@ -993,19 +995,22 @@
                 "map_locations": [
                     {
                         "map": "foi3_sub",
-                        "shape": "diamond",
+                        "shape": "triangle",
+                        "orientation": "east",
                         "x": 216,
                         "y": 320
                     },
                     {
                         "map": "foi3_zbonus",
-                        "shape": "diamond",
+                        "shape": "triangle",
+                        "orientation": "east",
                         "x": 200,
                         "y": 64
                     },
                     {
                         "map": "foi3_zbonus",
-                        "shape": "diamond",
+                        "shape": "triangle",
+                        "orientation": "west",
                         "x": 24,
                         "y": 384
                     }

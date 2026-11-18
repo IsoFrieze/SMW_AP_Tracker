@@ -287,7 +287,8 @@
                 "map_locations": [
                     {
                         "map": "ciship_main",
-                        "shape": "diamond",
+                        "shape": "triangle",
+                        "orientation": "south",
                         "x": 704,
                         "y": 200
                     }
@@ -336,7 +337,8 @@
                 "map_locations": [
                     {
                         "map": "ciship_sub_1",
-                        "shape": "diamond",
+                        "shape": "triangle",
+                        "orientation": "south",
                         "x": 2000,
                         "y": 392
                     }

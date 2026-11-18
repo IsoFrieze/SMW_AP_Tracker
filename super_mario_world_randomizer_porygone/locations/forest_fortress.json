@@ -344,7 +344,7 @@
                 "map_locations": [
                     {
                         "map": "foif_main",
-                        "shape": "diamond",
+                        "shape": "triangle",
                         "x": 1480,
                         "y": 368
                     }

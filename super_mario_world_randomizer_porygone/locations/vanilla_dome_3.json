@@ -619,7 +619,8 @@
                 "map_locations": [
                     {
                         "map": "vd3_main",
-                        "shape": "diamond",
+                        "shape": "triangle",
+                        "orientation": "east",
                         "x": 216,
                         "y": 496
                     }
@@ -648,7 +649,8 @@
                 "map_locations": [
                     {
                         "map": "vd3_main",
-                        "shape": "diamond",
+                        "shape": "triangle",
+                        "orientation": "south",
                         "x": 976,
                         "y": 792
                     }
@@ -721,19 +723,22 @@
                 "map_locations": [
                     {
                         "map": "vd3_zbonus",
-                        "shape": "diamond",
+                        "shape": "triangle",
+                        "orientation": "east",
                         "x": 200,
                         "y": 64
                     },
                     {
                         "map": "vd3_zbonus",
-                        "shape": "diamond",
+                        "shape": "triangle",
+                        "orientation": "west",
                         "x": 24,
                         "y": 384
                     },
                     {
                         "map": "vd3_sub_1",
-                        "shape": "diamond",
+                        "shape": "triangle",
+                        "orientation": "north",
                         "x": 944,
                         "y": 312
                     }

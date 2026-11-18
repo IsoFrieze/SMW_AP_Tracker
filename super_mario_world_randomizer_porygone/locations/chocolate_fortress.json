@@ -211,7 +211,7 @@
                 "map_locations": [
                     {
                         "map": "cif_main",
-                        "shape": "diamond",
+                        "shape": "triangle",
                         "x": 2248,
                         "y": 368
                     }

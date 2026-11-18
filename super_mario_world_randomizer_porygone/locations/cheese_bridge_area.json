@@ -512,7 +512,8 @@
                 "map_locations": [
                     {
                         "map": "tb3_main",
-                        "shape": "diamond",
+                        "shape": "triangle",
+                        "orientation": "north",
                         "x": 536,
                         "y": 728
                     }
@@ -529,7 +530,8 @@
                 "map_locations": [
                     {
                         "map": "tb3_main",
-                        "shape": "diamond",
+                        "shape": "triangle",
+                        "orientation": "south",
                         "x": 992,
                         "y": 824
                     }
@@ -602,7 +604,8 @@
                 "map_locations": [
                     {
                         "map": "tb3_sub_2",
-                        "shape": "diamond",
+                        "shape": "triangle",
+                        "orientation": "north",
                         "x": 976,
                         "y": 296
                     }

@@ -2047,7 +2047,8 @@
                 "map_locations": [
                     {
                         "map": "yi3_main",
-                        "shape": "diamond",
+                        "shape": "triangle",
+                        "orientation": "south",
                         "x": 1760,
                         "y": 344
                     }
@@ -2456,7 +2457,8 @@
                 "map_locations": [
                     {
                         "map": "yi3_sub_1",
-                        "shape": "diamond",
+                        "shape": "triangle",
+                        "orientation": "east",
                         "x": 472,
                         "y": 368
                     }

@@ -219,7 +219,7 @@
                 "map_locations": [
                     {
                         "map": "yic_main",
-                        "shape": "diamond",
+                        "shape": "triangle",
                         "x": 1976,
                         "y": 368
                     }

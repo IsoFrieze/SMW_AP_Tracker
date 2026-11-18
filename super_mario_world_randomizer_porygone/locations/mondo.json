@@ -987,7 +987,8 @@
                 "map_locations": [
                     {
                         "map": "sw6_main",
-                        "shape": "diamond",
+                        "shape": "triangle",
+                        "orientation": "south",
                         "x": 1936,
                         "y": 344
                     }
@@ -1176,7 +1177,8 @@
                 "map_locations": [
                     {
                         "map": "sw6_sub_1",
-                        "shape": "diamond",
+                        "shape": "triangle",
+                        "orientation": "south",
                         "x": 1248,
                         "y": 344
                     }
@@ -1197,7 +1199,8 @@
                 "map_locations": [
                     {
                         "map": "sw6_main",
-                        "shape": "diamond",
+                        "shape": "triangle",
+                        "orientation": "east",
                         "x": 1736,
                         "y": 672
                     }

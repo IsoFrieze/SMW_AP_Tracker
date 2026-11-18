@@ -183,7 +183,7 @@
                 "map_locations": [
                     {
                         "map": "cic_main",
-                        "shape": "diamond",
+                        "shape": "triangle",
                         "x": 1224,
                         "y": 800
                     }

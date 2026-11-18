@@ -319,7 +319,8 @@
                 "map_locations": [
                     {
                         "map": "tb1_main",
-                        "shape": "diamond",
+                        "shape": "triangle",
+                        "orientation": "south",
                         "x": 1184,
                         "y": 760
                     }

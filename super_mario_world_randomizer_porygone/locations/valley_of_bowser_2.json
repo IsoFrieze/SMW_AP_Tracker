@@ -477,7 +477,8 @@
                 "map_locations": [
                     {
                         "map": "vob2_main",
-                        "shape": "diamond",
+                        "shape": "triangle",
+                        "orientation": "east",
                         "x": 2008,
                         "y": 288
                     }
@@ -502,7 +503,8 @@
                 "map_locations": [
                     {
                         "map": "vob2_sub_1",
-                        "shape": "diamond",
+                        "shape": "triangle",
+                        "orientation": "east",
                         "x": 984,
                         "y": 704
                     }
@@ -539,7 +541,8 @@
                 "map_locations": [
                     {
                         "map": "vob2_sub_1",
-                        "shape": "diamond",
+                        "shape": "triangle",
+                        "orientation": "north",
                         "x": 216,
                         "y": 296
                     }

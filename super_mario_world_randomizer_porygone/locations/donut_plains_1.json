@@ -701,11 +701,6 @@
                         "map": "dp1_sub_1",
                         "x": 16,
                         "y": 16
-                    },
-                    {
-                        "map": "dp1_main",
-                        "x": 848,
-                        "y": 776
                     }
                 ]
             },
@@ -722,11 +717,6 @@
                         "map": "dp1_zbonus",
                         "x": 16,
                         "y": 16
-                    },
-                    {
-                        "map": "dp1_main",
-                        "x": 1920,
-                        "y": 328
                     }
                 ]
             },
@@ -741,7 +731,8 @@
                 "map_locations": [
                     {
                         "map": "dp1_main",
-                        "shape": "diamond",
+                        "shape": "triangle",
+                        "orientation": "south",
                         "x": 848,
                         "y": 776
                     }
@@ -758,7 +749,8 @@
                 "map_locations": [
                     {
                         "map": "dp1_main",
-                        "shape": "diamond",
+                        "shape": "triangle",
+                        "orientation": "north",
                         "x": 1920,
                         "y": 328
                     }
@@ -907,19 +899,22 @@
                 "map_locations": [
                     {
                         "map": "dp1_zbonus",
-                        "shape": "diamond",
+                        "shape": "triangle",
+                        "orientation": "east",
                         "x": 200,
                         "y": 64
                     },
                     {
                         "map": "dp1_zbonus",
-                        "shape": "diamond",
+                        "shape": "triangle",
+                        "orientation": "west",
                         "x": 24,
                         "y": 384
                     },
                     {
                         "map": "dp1_sub_1",
-                        "shape": "diamond",
+                        "shape": "triangle",
+                        "orientation": "south",
                         "x": 1504,
                         "y": 776
                     }

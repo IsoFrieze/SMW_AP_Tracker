@@ -75,7 +75,8 @@
                 "map_locations": [
                     {
                         "map": "foiz_main",
-                        "shape": "diamond",
+                        "shape": "triangle",
+                        "orientation": "east",
                         "x": 728,
                         "y": 368
                     }

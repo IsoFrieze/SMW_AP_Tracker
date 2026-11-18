@@ -451,7 +451,8 @@
                 "map_locations": [
                     {
                         "map": "dp2_main",
-                        "shape": "diamond",
+                        "shape": "triangle",
+                        "orientation": "north",
                         "x": 1488,
                         "y": 120
                     }
@@ -472,13 +473,15 @@
                 "map_locations": [
                     {
                         "map": "dp2_main",
-                        "shape": "diamond",
+                        "shape": "triangle",
+                        "orientation": "east",
                         "x": 1208,
                         "y": 704
                     },
                     {
                         "map": "dp2_sub_1",
-                        "shape": "diamond",
+                        "shape": "triangle",
+                        "orientation": "east",
                         "x": 984,
                         "y": 336
                     }

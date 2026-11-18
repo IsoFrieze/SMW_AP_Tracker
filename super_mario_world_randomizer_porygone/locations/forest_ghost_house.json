@@ -415,7 +415,7 @@
                 "map_locations": [
                     {
                         "map": "foigh_main",
-                        "shape": "diamond",
+                        "shape": "triangle",
                         "x": 1160,
                         "y": 800
                     }
@@ -448,7 +448,7 @@
                 "map_locations": [
                     {
                         "map": "foigh_sub_1",
-                        "shape": "diamond",
+                        "shape": "triangle",
                         "x": 1768,
                         "y": 368
                     }
@@ -485,7 +485,7 @@
                 "map_locations": [
                     {
                         "map": "foigh_sub_1",
-                        "shape": "diamond",
+                        "shape": "triangle",
                         "x": 2008,
                         "y": 368
                     }
@@ -506,7 +506,7 @@
                 "map_locations": [
                     {
                         "map": "foigh_main",
-                        "shape": "diamond",
+                        "shape": "triangle",
                         "x": 904,
                         "y": 272
                     }
@@ -531,7 +531,7 @@
                 "map_locations": [
                     {
                         "map": "foigh_main",
-                        "shape": "diamond",
+                        "shape": "triangle",
                         "x": 296,
                         "y": 272
                     }

@@ -559,7 +559,8 @@
                 "map_locations": [
                     {
                         "map": "yi2_main",
-                        "shape": "diamond",
+                        "shape": "triangle",
+                        "orientation": "south",
                         "x": 1840,
                         "y": 792
                     }
@@ -648,7 +649,8 @@
                 "map_locations": [
                     {
                         "map": "yi2_sub_1",
-                        "shape": "diamond",
+                        "shape": "triangle",
+                        "orientation": "east",
                         "x": 456,
                         "y": 368
                     }

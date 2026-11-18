@@ -115,7 +115,8 @@
                 "map_locations": [
                     {
                         "map": "sr2_main",
-                        "shape": "diamond",
+                        "shape": "triangle",
+                        "orientation": "east",
                         "x": 696,
                         "y": 736
                     }
